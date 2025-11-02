@@ -18,11 +18,11 @@ const { title, overflow, link, md} = Astro.props;
 
 <article class="previewCard card sl-flex rounded-md p-5 text-[14px]">
 	<div class="title sl-flex text-2xl">
-		<a href={link??'/'} class="no-underline"><span set:html={title} /></a>
+		<span set:html={title} />
 		<PreviewCardMenu link={link??'/'}></PreviewCardMenu>
 	</div>
     { overflow && overflow === "scroll" ?
-        <ScrollArea className="body pagePreview p-0.5 max-h-50 w-auto">
+        <ScrollArea className="pagePreview p-0.5 max-h-50 w-auto">
        		 <Markdown of={md} />
 	 		<slot />
         </ScrollArea>
@@ -34,16 +34,16 @@ const { title, overflow, link, md} = Astro.props;
 
 <style>
 	@layer starlight.components {
-		.card {
-			border: 1px solid var(--sl-color-gray-5);
-			background-color: var(--sl-color-black);
+		.previewCard {
+			border: 2px solid var(--sl-color-gray-5);
+			background-color: var(--sl-color-gray-700);
 			flex-direction: column;
 			padding: clamp(1rem, calc(0.125rem + 2vw), 2.5rem);
 			gap: clamp(0.5rem, calc(0.125rem + 1vw), 1rem);
 		}
-		.title {
+		.previewCard .title {
 			font-weight: 600;
-			color: var(--sl-color-white);
+			color: ;
 			line-height: var(--sl-line-height-headings);
 			gap: 1rem;
 			align-items: center;
@@ -65,7 +65,7 @@ const { title, overflow, link, md} = Astro.props;
 			padding: 0.1em;
             width: 100%;
 			text-decoration: none;
-			
+
 		}
 	}
 </style>

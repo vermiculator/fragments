@@ -95,7 +95,9 @@ export default defineConfig({
                   ignoreStarlightLinks: true,
                   linkInclusionRules: ["!https://read.readwise.io/read/*", "**/*"],
               },
-              backlinksConfig: {},
+              backlinksConfig: {
+                visibilityRules: ["**/earth/*"],
+              },
               graphConfig: {
                   "depth": 2,
                   "depthDirection": "both",

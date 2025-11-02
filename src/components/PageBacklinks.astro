@@ -1,0 +1,51 @@
+---
+import path from 'node:path';
+import type { PageGraphConfig } from '../../node_modules/starlight-site-graph/schema';
+
+import config from 'virtual:starlight-site-graph/config'
+import astroConfig from 'virtual:starlight-site-graph/astro-config';
+
+import { ensureTrailingSlash, trimSlashes } from '../../node_modules/starlight-site-graph/sitemap/util';
+import { debracketKeepTitleOrAlias, slugify, debracketKeepFirst } from '@/scripts/util';
+import { LinkCard } from '@astrojs/starlight/components';
+
+interface Props {
+	slug?: string;
+	class?: string;
+	showBacklinks?: boolean;
+	entry?: Record<string, any>;
+	trailingSlashes?: boolean;
+}
+
+let backlinksData: Partial<PageGraphConfig> = {};
+let { slug, showBacklinks, class: className } = Astro.props;
+let { entry } = Astro.locals.starlightRoute;
+
+// If frontmatter is explicitly passed as 'entry' (happens in a Starlight context)
+if (entry.id) {
+	backlinksData = (entry.data?.backlinks ?? {}) as Partial<PageGraphConfig>;
+}
+
+// Infer slug from URL if not explicitly provided
+const slugWithBase = ensureTrailingSlash(trimSlashes((slug ? path.join(astroConfig.base, slug) : Astro.url.pathname).replaceAll("\\", "/")), true);
+
+const sitemap = config.sitemapConfig!.sitemap as Record<string, any>;
+
+let backlinks: string[] = [];
+if (sitemap) {
+	const sitemapMap = sitemap as Record<string, any>;
+	const sitemap_entry = sitemapMap[slugWithBase];
+	if (sitemap_entry?.backlinks)
+		backlinks = sitemap_entry.backlinks.sort((a: string | number, b: string | number) => sitemapMap[a]!.title.localeCompare(sitemapMap[b]!.title));
+}
+
+---
+
+{showBacklinks && backlinks.length > 0 &&
+	<div class:list={className ?? ""}>
+		<slot name="title"/>
+        {backlinks.map((link) => (
+            <LinkCard title={ debracketKeepTitleOrAlias(sitemap[link]!.title) } href={"/earth/" + (slugify(debracketKeepFirst(link)) ?? "")} />
+        ))}
+	</div>
+}

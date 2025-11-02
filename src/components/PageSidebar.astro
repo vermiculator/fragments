@@ -1,20 +1,19 @@
 ---
 import Default from "@astrojs/starlight/components/PageSidebar.astro";
-//import { PageGraph } from "starlight-site-graph/components";
-
-import { PageBacklinks } from "starlight-site-graph/components";
+import { PageGraph } from "starlight-site-graph/components";
 import ChildLinks from "../components/ChildLinks.astro";
-
-//<PageGraph class="right-sidebar-panel graph-panel"></PageGraph>
+import PageBacklinks from "./PageBacklinks.astro";
 
 ---
+
+<PageGraph class="right-sidebar-panel graph-panel"></PageGraph>
 
 <ChildLinks class="right-sidebar-panel children-panel">
   <h2 slot="title"></h2>
 </ChildLinks>
 
 <PageBacklinks class="right-sidebar-panel backlinks-panel">
-  <h2 slot="title">Backlinks</h2>
+    <h2 slot="title">{Astro.locals.t('starlight-site-graph.backlinks')}</h2>
 </PageBacklinks>
 
 <Default>
