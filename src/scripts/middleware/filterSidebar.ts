@@ -1,7 +1,5 @@
-import type { DataEntryMap, ReferenceDataEntry } from 'astro:content';
 import { defineMiddleware } from 'astro:middleware';
 import { getLinks } from '../getLinks';
-import type { SidebarEntry } from 'node_modules/@astrojs/starlight/utils/routing/types';
 import { debracketKeepFirst, slugify } from '../util';
 
 export const onRequest = defineMiddleware(async (context, next) => {
