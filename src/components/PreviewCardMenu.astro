@@ -20,21 +20,20 @@ import {
 
 
 import {
-  ArrowRightIcon,
+  ArrowUpRightIcon,
   ArrowLeftIcon
 } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { ButtonGroup } from "@/components/ui/button-group"
 ---
-
-
       <ButtonGroup className="hidden sm:flex">
-        <Button variant="outline" size="icon" aria-label="See More">
-          <ArrowRightIcon />
-          <a href={link}>See More</a>
+        <a href={link}>
+        <Button variant="ghost" size="icon" aria-label="See More" className="rounded-xs">
+          <ArrowUpRightIcon />
         </Button>
-    <!-- <Command className="rounded-lg border shadow-md md:min-w-[450px]">
+        </a>
+    <!--  <Command className="rounded-lg border shadow-md md:min-w-[450px]">
       <CommandInput placeholder="Type to search..." />
       <CommandList>
         <CommandEmpty>hmmm...</CommandEmpty>
@@ -64,5 +63,5 @@ import { ButtonGroup } from "@/components/ui/button-group"
           </CommandItem>
         </CommandGroup>
       </CommandList>
-    </Command> -->
+    </Command>  -->
     </ButtonGroup>

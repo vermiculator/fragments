@@ -6,4 +6,11 @@
     .large-graph .graph-container {
     --slsg-graph-width: 100%;
 }
+
+.pagePreview div {
+  font-size: var(--sl-text-xs);
+  margin: 0;
+}
+
+
 }

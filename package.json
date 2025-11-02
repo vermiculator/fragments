@@ -1,5 +1,5 @@
 {
-  "name": "gherk",
+  "name": "vermiculator",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
@@ -13,8 +13,11 @@
   "dependencies": {
     "@astrojs/react": "^4.4.1",
     "@astrojs/starlight": "^0.34.4",
-  "@astrojs/starlight-tailwind": "^4.0.1",
+    "@astrojs/starlight-tailwind": "^4.0.1",
     "@astrojs/vercel": "^8.2.9",
+    "@astropub/md": "^1.0.0",
+    "@fontsource-variable/grenze-gotisch": "^5.2.8",
+    "@fontsource-variable/noto-serif": "^5.2.9",
     "@inrupt/solid-client-authn": "^0.0.6",
     "@mux/mux-node": "^12.8.0",
     "@mux/mux-player-astro": "^3.6.1",

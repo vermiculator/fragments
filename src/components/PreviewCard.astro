@@ -1,33 +1,35 @@
 ---
 import { ScrollArea } from './ui/scroll-area';
-import { LinkCard } from '@astrojs/starlight/components';
 import type { StarlightIcon } from 'node_modules/@astrojs/starlight/components/Icons';
 import PreviewCardMenu from './PreviewCardMenu.astro';
-
+import { Markdown } from '@astropub/md'
+import { Button } from './ui/button';
 
 interface Props {
 	icon?: StarlightIcon;
 	title: string;
     overflow?: string;
 	link?: string;
+	md: string;
 }
 
-const { title, overflow, link} = Astro.props;
+const { title, overflow, link, md} = Astro.props;
 ---
 
-<article class="card sl-flex rounded-md p-5 text-[14px]">
-	<p class="title sl-flex text-2xl">
+<article class="previewCard card sl-flex rounded-md p-5 text-[14px]">
+	<div class="title sl-flex text-2xl">
 		<a href={link??'/'} class="no-underline"><span set:html={title} /></a>
 		<PreviewCardMenu link={link??'/'}></PreviewCardMenu>
-	</p>
+	</div>
     { overflow && overflow === "scroll" ?
         <ScrollArea className="body pagePreview p-0.5 max-h-50 w-auto">
-        <slot />
+       		 <Markdown of={md} />
+	 		<slot />
         </ScrollArea>
 	:
 		<div class="body"><slot /></div>
 	}
-	{ link && <LinkCard title="see more" href={link??'/'}></LinkCard>}
+	{ link && (<a href={link??'/'}><Button variant="default" size="icon" aria-label="See More" className="bottomDots">...</Button></a>)}
 </article>
 
 <style>
@@ -56,6 +58,14 @@ const { title, overflow, link} = Astro.props;
 		.card .body {
 			margin: 0;
 			font-size: clamp(var(--sl-text-sm), calc(0.5rem + 1vw), var(--sl-text-body));
+		}
+
+		.previewCard .bottomDots {
+			margin: 0;
+			padding: 0.1em;
+            width: 100%;
+			text-decoration: none;
+			
 		}
 	}
 </style>

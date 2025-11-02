@@ -23,7 +23,6 @@ export default defineConfig({
   },
   vite: {
     plugins: [
-        
         inject({
             p5: 'p5',
         }),
@@ -34,7 +33,7 @@ export default defineConfig({
   },
   integrations: [
       starlight({
-      title: 'gherk',
+      title: 'index',
        routeMiddleware: ['./src/scripts/middleware/routeData.ts', './src/scripts/middleware/filterSidebar.ts'],
       //routeMiddleware: './src/scripts/middleware/routeData.ts',
       customCss: [

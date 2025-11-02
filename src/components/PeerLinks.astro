@@ -42,8 +42,8 @@ if(links){
           peerCards?.map((card) => {
             return (
               card ? (
-              <PreviewCard title={(card.alias && card.alias !== '') ? card.alias : card.peer.data.title} overflow="scroll" link={Astro.site + 'earth/' + card.peer.id}>
-                  {card.peer.body}
+              <PreviewCard title={(card.alias && card.alias !== '') ? card.alias : card.peer.data.title}
+               overflow="scroll" link={Astro.site + 'earth/' + card.peer.id} md={card.peer.body} >
               </PreviewCard>
               ) : null
             )

@@ -183,6 +183,11 @@
     esbuild "^0.25.0"
     tinyglobby "^0.2.15"
 
+"@astropub/md@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@astropub/md/-/md-1.0.0.tgz#3a0d2313935a9617ef7b83685b394139ae5eb9f0"
+  integrity sha512-++urcyulQogbLAF0VC2rEp6qLUfnRX9iaDREAkN1su9fF8V84DVaMHbQXn7qqQ27wYT5AVVeoK+4+vggYYVbQg==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.27.1":
   version "7.27.1"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.27.1.tgz#200f715e66d52a23b221a9435534a91cc13ad5be"
@@ -2058,6 +2063,16 @@
   version "0.2.10"
   resolved "https://registry.yarnpkg.com/@floating-ui/utils/-/utils-0.2.10.tgz#a2a1e3812d14525f725d011a73eceb41fef5bc1c"
   integrity sha512-aGTxbpbg8/b5JfU1HXSrbH3wXZuLPJcNEcZQFMxLs3oSzgtVu6nFPkbbGGUvBcUjKV2YyB9Wxxabo+HEH9tcRQ==
+
+"@fontsource-variable/grenze-gotisch@^5.2.8":
+  version "5.2.8"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/grenze-gotisch/-/grenze-gotisch-5.2.8.tgz#1abb080da0eb4f4b63bdff8584d516a83de2f1c5"
+  integrity sha512-oaPiHrk37gpxiQLG82W94pD9WwfRaU+sjfysvGTcUSgHJB73hTYMfQqQ1+0DOs6XGxAGRsrs/5OrYjddk3l/8A==
+
+"@fontsource-variable/noto-serif@^5.2.9":
+  version "5.2.9"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/noto-serif/-/noto-serif-5.2.9.tgz#5947f3c09ebe9cf74b98baa21f8a6f041afa5d99"
+  integrity sha512-9McZzWeOjD/Gsko+w6A2lpGlHXZw5J2JmxaSMgopiIHoMYI1m6DAyFrzG9QQ0WjdWxj5jZfKM0EGSBVZHC6+nw==
 
 "@fortawesome/fontawesome-free@^6.0.0":
   version "6.7.2"

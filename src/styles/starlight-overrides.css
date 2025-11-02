@@ -1,4 +1,13 @@
+@import '@fontsource-variable/grenze-gotisch';
+@import '@fontsource-variable/noto-serif';
 @import '@astrojs/starlight-tailwind';
+
+@layer base {
+  button:not([disabled]),
+  [role="button"]:not([disabled]) {
+    cursor: pointer;
+  }
+}
 
 @theme {
     /* Generated accent color palettes. */
@@ -17,3 +26,34 @@
     --color-gray-900: #1d1713;
 
 }
+
+
+    :root {
+        /* heading font sizes */
+        --sl-text-h1: var(--sl-text-4xl);
+        --sl-text-h2: var(--sl-text-3xl);
+        --sl-text-h3: var(--sl-text-2xl);
+        --sl-text-h4: var(--sl-text-xl);
+
+        /* fonts */
+
+        .site-title {
+            font-family: 'Grenze Gotisch Variable', system-ui;
+            font-weight: 900;
+        }
+
+        h1 {
+            font-family: 'Grenze Gotisch Variable', system-ui;
+            font-weight: 600;
+        }
+
+       .sidebar-content a, .sidebar-content .group-label {
+            font-family: 'Noto Serif Variable', serif;
+        }
+
+        starlight-theme-select {
+            font-family: 'Grenze Gotisch Variable', system-ui;
+            font-weight: 600;
+        }
+
+    }
