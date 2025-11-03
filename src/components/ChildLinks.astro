@@ -9,10 +9,13 @@ const { entry } = Astro.locals.starlightRoute;
 let children : ReferenceDataEntry<keyof DataEntryMap>[] = await getLinks("children", "docs", entry.id);
 ---
 
-	<div class="text-sm" >
-        {children && children.length > 0 &&
-         (children.map((child: { id: string; }) => (
-            <LinkCard title={ debracketKeepTitleOrAlias(child?.id) } href={"/earth/" + (slugify(debracketKeepFirst(child?.id)) ?? "")} />
-        )))}
+<div class="text-sm" >
+        {children && children.length > 0
+        ? (children.map((
+                        child: { id: string; }) =>
+                        ( <LinkCard title={ debracketKeepTitleOrAlias(child?.id) } href={"/earth/" + (slugify(debracketKeepFirst(child?.id)) ?? "")} />
+        )))
+        : ''
+        }
 
 </div>

@@ -4,8 +4,6 @@ import Layout from "../../components/Layout.astro";
 
 import type { CollectionEntry } from 'astro:content';
 import { getCollection, render} from "astro:content";
-import ParentLinks from "@/components/ParentLinks.astro";
-
 interface Props {
 	page: CollectionEntry<'earth'>;
 }
@@ -16,7 +14,7 @@ export async function getStaticPaths() {
   return pages.map( (page) => {
     return {
         params: { id: page.id },
-        props: { page: {...page, data: {parent: page.data.parent, peer: page.data.peer, ...page.data}}}
+        props: { page: page}
   }
 }
 )
@@ -27,14 +25,11 @@ const { Content } = await render(page);
 
 export const prerender = true;
 
-// TODO check if preserves anchors??
 ---
 
 <Layout pageTitle={page.data.title} pageStyle='docs' peerLinks={page.data.peer} starlightSettings={{next: false, prev: false}}>
 
    <Frontmatter data={page.data} />
-    <ParentLinks data={page.data} ></ParentLinks>
-
     <Content />
 
 </Layout>

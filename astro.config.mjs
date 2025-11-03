@@ -40,6 +40,8 @@ export default defineConfig({
         './src/styles/starlight-overrides.css'
       ],
       social: [
+          { icon: 'open-book', label: 'Library', href: 'library/start-here' },
+          { icon: 'puzzle', label: 'Mulch', href: '/mulch' },
           { icon: 'github', label: 'GitHub', href: 'https://github.com/vermiculator' },
           { icon: 'seti:html', label: 'Website', href: 'https://rowanlucas.github.io' },
       ],
@@ -49,21 +51,18 @@ export default defineConfig({
       },
       sidebar: [
           {
-              label: 'earth',
+              label: 'go up',
               collapsed: false,
-              autogenerate: { directory: '/md/earth', collapsed: true }
+              autogenerate: {
+                directory: '/md/earth',
+                collapsed: true,
+                // @ts-ignore - attrs is accepted by starlight but not its typing
+                //attrs: { class: 'sl-link-card' }
+            },
           },
           {
               label: 'library',
               link: '/library',
-          },
-          {
-              label: 'vignettes',
-              link: '/vignettes'
-          },
-          {
-              label: 'mulch',
-              link: '/mulch'
           },
       ],
       plugins: [
