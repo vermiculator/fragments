@@ -26,26 +26,66 @@ if (entry.id) {
 	backlinksData = (entry.data?.backlinks ?? {}) as Partial<PageGraphConfig>;
 }
 
-// Infer slug from URL if not explicitly provided
-const slugWithBase = ensureTrailingSlash(trimSlashes((slug ? path.join(astroConfig.base, slug) : Astro.url.pathname).replaceAll("\\", "/")), true);
-
+// Infer sitemap key from current URL or provided slug and match sitemap's md/**/** format
+const rawPath = trimSlashes((slug ? path.join(astroConfig.base, slug) : Astro.url.pathname).replaceAll("\\", "/"));
 const sitemap = config.sitemapConfig!.sitemap as Record<string, any>;
 
-let backlinks: string[] = [];
+let sitemapKey: string | undefined;
 if (sitemap) {
-	const sitemapMap = sitemap as Record<string, any>;
-	const sitemap_entry = sitemapMap[slugWithBase];
-	if (sitemap_entry?.backlinks)
-		backlinks = sitemap_entry.backlinks.sort((a: string | number, b: string | number) => sitemapMap[a]!.title.localeCompare(sitemapMap[b]!.title));
+	const candidates: string[] = [];
+	if (rawPath.startsWith('md/')) {
+		candidates.push(ensureTrailingSlash(rawPath, false), ensureTrailingSlash(rawPath, true));
+	} else {
+		const mdPath = `md/${rawPath}`;
+		candidates.push(ensureTrailingSlash(mdPath, false), ensureTrailingSlash(mdPath, true));
+	}
+	sitemapKey = candidates.find((k) => !!sitemap[k]);
 }
+
+let backlinks: string[] = [];
+let rawBacklinks: string[] = [];
+let missingBacklinks: string[] = [];
+if (sitemapKey && sitemap[sitemapKey]) {
+	const sitemapEntry = sitemap[sitemapKey];
+	if (sitemapEntry?.backlinks) {
+		rawBacklinks = sitemapEntry.backlinks as string[];
+		const resolved = rawBacklinks.filter((l) => !!sitemap[l]);
+		missingBacklinks = rawBacklinks.filter((l) => !sitemap[l]);
+		backlinks = resolved.sort((a, b) => (sitemap[a]!.title as string).localeCompare(sitemap[b]!.title as string));
+	}
+}
+
 
 ---
 
-{showBacklinks && backlinks.length > 0 &&
+{backlinks.length > 0 && (
 	<div class:list={className ?? ""}>
-		<slot name="title"/>
-        {backlinks.map((link) => (
-            <LinkCard title={ debracketKeepTitleOrAlias(sitemap[link]!.title) } href={"/earth/" + (slugify(debracketKeepFirst(link)) ?? "")} />
-        ))}
+		<slot name="title" />
+		{backlinks.map((link) => {
+			const href = link.startsWith('http')
+				? link
+				: ensureTrailingSlash('/' + trimSlashes(link.startsWith('md/') ? link.slice(3) : link), true);
+			const title = debracketKeepTitleOrAlias(sitemap[link]!.title);
+			return <LinkCard title={title} href={href} />;
+		})}
+		{missingBacklinks.length > 0 && (
+			<p style="margin-top: .5rem; color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">
+				{missingBacklinks.length} backlink{missingBacklinks.length === 1 ? '' : 's'} couldn’t be resolved yet.
+			</p>
+		)}
 	</div>
-}
+)}
+
+{backlinks.length === 0 && rawBacklinks.length === 0 && (
+	<div class:list={className ?? ""}>
+		<slot name="title" />
+		<p style="color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">no links here!</p>
+	</div>
+)}
+
+{backlinks.length === 0 && rawBacklinks.length > 0 && (
+	<div class:list={className ?? ""}>
+		<slot name="title" />
+		<p style="color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">unresolved links, oops</p>
+	</div>
+)}

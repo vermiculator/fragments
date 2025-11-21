@@ -1,0 +1,29 @@
+---
+
+import type { CollectionEntry } from 'astro:content';
+import { getCollection, render} from "astro:content";
+
+interface Props {
+	page: CollectionEntry<'thesis'>;
+}
+
+export async function getStaticPaths() {
+  const pages = await getCollection('thesis');
+  return pages.map(page => ({
+    params: { id: page.id },
+    props: { page },
+  }));
+}
+const { page } = Astro.props;
+const { Content } = await render(page);
+export const prerender = true;
+
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { ScrollArea } from "../../components/ui/scroll-area";
+---
+
+  <StarlightPage frontmatter={{ title: page.data.title, tableOfContents: true, template: 'doc' }}>
+    <ScrollArea className="body p-1 max-h-1/2">
+        <Content />
+    </ScrollArea>
+  </StarlightPage>

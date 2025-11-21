@@ -11354,6 +11354,11 @@ starlight-site-graph@^0.3.3:
     gray-matter "^4.0.3"
     micromatch "^4.0.8"
 
+starlight-toc-overview-customizer@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/starlight-toc-overview-customizer/-/starlight-toc-overview-customizer-0.1.1.tgz#265c3994c0ce5df1088b3e85d5221100a6ce821a"
+  integrity sha512-2iF+taEKa2ohUtLqUEY2OszT8KYkHmIEvYvLuJFMBtd+8JazT60G5x1CWVDuSkl4e0UnyTg5ZxILGCc6AFtV3g==
+
 statuses@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"

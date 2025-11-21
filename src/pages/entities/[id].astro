@@ -9,11 +9,11 @@ import { LinkCard } from "@astrojs/starlight/components";
 
 
 interface Props {
-	page: CollectionEntry<'library'>;
+	page: CollectionEntry<'entities'>;
 }
 
 export async function getStaticPaths() {
-  const pages = await getCollection('library');
+  const pages = await getCollection('entities');
   return pages.map(page => ({
     params: { id: page.id },
     props: { page },
@@ -24,7 +24,7 @@ const { Content } = await render(page);
 export const prerender = true;
 ---
 
-<Layout pageTitle={ page.data.title } pageStyle='library' starlightSettings={{prev: false, next: false}}>
+<Layout pageTitle={ page.data.title } pageStyle='entities' starlightSettings={{prev: false, next: false}}>
    {page.data.caveats ? (
     <div class="sl-container">
           {page.data.caveats.map((X: any) => (

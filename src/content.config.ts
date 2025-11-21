@@ -4,7 +4,7 @@ import { docsSchema } from '@astrojs/starlight/schema';
 //import { inruptSolidPodLoader } from '../src/loaders/solid';
 import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
 
-const anyDoc = z.union([reference('structural'), reference('docs'), reference('about'), reference('thesis'), reference('metaThesis'), reference('thesisParts'), reference('earth'), reference('library')]);
+const anyDoc = z.union([reference('structural'), reference('docs'), reference('about'), reference('thesis'), reference('metaThesis'), reference('thesisParts'), reference('earth'), reference('library'), reference('entities')]);
 
 const generalSchema = docsSchema({
 		    	extend: z.object({
@@ -24,12 +24,23 @@ export const collections = {
             loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/earth" }),
 		  schema: generalSchema
 	}),
+	entities: defineCollection({
+            loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/entities" }),
+			schema: docsSchema({
+			extend: z.object({
+			  author: z.array(z.string()).optional(),
+			  caveats: z.array(z.string()).optional(),
+			  topics: z.array(anyDoc).optional(),
+			}).merge(pageSiteGraphSchema),
+		}),
+	}),
 	library: defineCollection({
             loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/library" }),
 		    schema: docsSchema({
 			extend: z.object({
 			  status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
 			  author: z.array(z.string()).optional(),
+			  caveats: z.array(z.string()).optional(),
 			  topics: z.array(anyDoc).optional(),
 			}).merge(pageSiteGraphSchema),
 		  }),

@@ -4,11 +4,14 @@ import SidebarPersister from '@astrojs/starlight/components/SidebarPersister.ast
 import SidebarSublist from '@astrojs/starlight/components/SidebarSublist.astro';
 import LeftSideFooter from './LeftSideFooter.astro';
 import type { StarlightRouteData } from '@astrojs/starlight/route-data';
+import LeftTop from './LeftTop.astro';
 
 const { sidebar } : StarlightRouteData = Astro.locals.starlightRoute;
 
 ---
 <div class="max-w-md">
+
+<LeftTop />
 
 <SidebarPersister>
 	<SidebarSublist sublist={sidebar} />
@@ -16,10 +19,8 @@ const { sidebar } : StarlightRouteData = Astro.locals.starlightRoute;
 
 <LeftSideFooter />
 
-
 <div class="md:sl-hidden">
 	<MobileMenuFooter />
 </div>
-
 
 </div>

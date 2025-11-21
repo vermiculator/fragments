@@ -7,7 +7,7 @@ import starlightScrollToTop from 'starlight-scroll-to-top';
 import vercel from '@astrojs/vercel';
 import { loadEnv } from "vite";
 import react from '@astrojs/react';
-
+import starlightTocOverviewCustomizer from 'starlight-toc-overview-customizer';
 import inject from '@rollup/plugin-inject';
 
 const env = loadEnv(process.env.NODE_ENV ?? '', process.cwd(), '');
@@ -19,7 +19,10 @@ export default defineConfig({
   adapter: vercel(),
   redirects: {
       "/md/[...slug]": "/[...slug]",
-      "/earth/earth/[...slug]": "/earth/[...slug]"
+      "/plain/[...slug]": "/[...slug]",
+      "/earth/earth/[...slug]": "/earth/[...slug]",
+      "/library/library/[...slug]": "/library/[...slug]",
+      // do this better
   },
   vite: {
     plugins: [
@@ -34,13 +37,16 @@ export default defineConfig({
   integrations: [
       starlight({
       title: 'index',
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 6,
+      },
        routeMiddleware: ['./src/scripts/middleware/routeData.ts', './src/scripts/middleware/filterSidebar.ts'],
-      //routeMiddleware: './src/scripts/middleware/routeData.ts',
       customCss: [
         './src/styles/starlight-overrides.css'
       ],
       social: [
-          { icon: 'open-book', label: 'Library', href: 'library/start-here' },
+          { icon: 'open-book', label: 'Library', href: '/library/start-here' },
           { icon: 'puzzle', label: 'Mulch', href: '/mulch' },
           { icon: 'github', label: 'GitHub', href: 'https://github.com/vermiculator' },
           { icon: 'seti:html', label: 'Website', href: 'https://rowanlucas.github.io' },
@@ -51,7 +57,7 @@ export default defineConfig({
       },
       sidebar: [
           {
-              label: 'go up',
+              label: 'earth',
               collapsed: false,
               autogenerate: {
                 directory: '/md/earth',
@@ -61,11 +67,26 @@ export default defineConfig({
             },
           },
           {
+              label: 'entities',
+              collapsed: false,
+              autogenerate: {
+                directory: '/md/entities',
+                collapsed: true,
+              }
+          },
+          {
               label: 'library',
-              link: '/library',
+              collapsed: false,
+              autogenerate: {
+                directory: '/md/library',
+                collapsed: true,
+              }
           },
       ],
       plugins: [
+        starlightTocOverviewCustomizer({
+        overviewTitle: "on this page",
+        }),
           starlightScrollToTop({
           // Button position
           position: 'right',
@@ -95,7 +116,7 @@ export default defineConfig({
                   linkInclusionRules: ["!https://read.readwise.io/read/*", "**/*"],
               },
               backlinksConfig: {
-                visibilityRules: ["**/earth/*"],
+                visibilityRules: ["**/*"],
               },
               graphConfig: {
                   "depth": 2,

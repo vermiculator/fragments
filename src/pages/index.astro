@@ -7,12 +7,12 @@ const allItems = await getCollection('earth');
 
 ---
 
-<Layout pageTitle='earth' pageStyle='leftside' starlightSettings={{next: false, prev: false}}>
+<Layout pageTitle='in the wind and the wires' tabTitle='index' pageStyle='full' starlightSettings={{next: false, prev: false}}>
 
 <CardGrid>
-    {  allItems.map((item:any) =>
-      <LinkCard title={item.data.title ?? 'title'} href={'/earth/' + item.id} />
-      )
-    }
+      <LinkCard title={'earth'} href={'/earth/start-here'} />
+      <LinkCard title={'library'} href={'/library/start-here'} />
+      <LinkCard title={'mulch'} href={'/mulch'} />
+      <LinkCard title={'vignettes'} href={'/vignettes'} />
  </CardGrid>
 </Layout>

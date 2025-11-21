@@ -1,5 +1,5 @@
 {
-  "name": "vermiculator",
+  "name": "fragments",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
@@ -48,6 +48,7 @@
     "starlight-obsidian": "^0.9.1",
     "starlight-scroll-to-top": "^0.1.1",
     "starlight-site-graph": "^0.3.3",
+    "starlight-toc-overview-customizer": "^0.1.1",
     "tailwind-merge": "^3.3.1",
     "tailwindcss": "^4.0.0",
     "tailwindcss-animate": "^1.0.7"

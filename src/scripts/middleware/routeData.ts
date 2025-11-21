@@ -4,20 +4,13 @@ export const onRequest = defineRouteMiddleware((context, next) => {
 
 	// Get the base path of the current URL
 	// e.g. `/earth/some-page/` returns `/earth/`
-	const currentBase = context.url.pathname.split('/').slice(0, 2).join('/') + '/';
-	const { pagination } = context.locals.starlightRoute;
+    const currentBase = context.url.pathname.split('/').slice(0, 2).join('/') + '/';
+    const { starlightRoute } = context.locals;
+    const { pagination } = starlightRoute;
 
        // don't show fully on non-pagey pages
     if(currentBase !== '/earth/' && currentBase !== '/library/' && currentBase !== '/entities/'){
-
-        context.locals.starlightRoute.sidebar = [
-            // standard sidebar
-            { label: 'earth', type: 'link', href: '/earth', isCurrent: false, badge: undefined, attrs: {} },
-            { label: 'library', type: 'link', href: '/library', isCurrent: false, badge: undefined, attrs: {} },
-            { label: 'vignettes', type: 'link', href: '/vignettes', isCurrent: (currentBase === '/vignettes/'), badge: undefined, attrs: {} },
-            { label: 'mulch', type: 'link', href: '/mulch', isCurrent: (currentBase === '/mulch/'), badge: undefined, attrs: {} },
-
-        ];
+        context.locals.starlightRoute.hasSidebar = false;
     } else {
 
         // Remove pagination links
@@ -29,6 +22,7 @@ export const onRequest = defineRouteMiddleware((context, next) => {
         }
 
 }
+
 
 return next();
 

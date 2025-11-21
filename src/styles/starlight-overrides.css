@@ -52,37 +52,21 @@
             margin: 0;
         }
 
+        h2, h3, h4, h5, h6, a {
+            font-family: 'Noto Serif Variable', serif;
+
+        }
+
        .sl-link-card .title, .sl-link-card a {
             font-family: 'Noto Serif Variable', serif;
         }
 
-       .sidebar-content a, .sidebar-content .group-label, .right-sidebar .title {
+        /* left sidebar */
+       .sidebar-content a, .sidebar-content .group-label {
             font-family: 'Noto Serif Variable', serif;
-        }
-
-        starlight-theme-select {
-            font-family: 'Grenze Gotisch Variable', system-ui;
-            font-weight: 600;
-        }
-
-
-        .sidebar-content summary .caret {
-            transform: rotate(-90deg);
-        }
-
-        .sidebar-content summary:hover {
-
-            .caret {
-                transform: rotate(-115deg);
-                background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
-                color: var(--sl-color-text-accent);
-            }
-
-            .group-label {
-                background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
-                color: var(--sl-color-text-accent);
-            }
-
+            font-weight: 400;
+			color: var(--sl-color-text-accent);
+			font-size: var(--sl-text-m);
         }
 
         .sidebar-content ul li ul li a {
@@ -107,6 +91,18 @@
             }
         }
 
+        /* right sidebar */
+        .right-sidebar .title, .children-panel h2 {
+            font-family: 'Noto Serif Variable', serif;
+            font-weight: 400;
+			color: var(--sl-color-text-accent);
+			font-size: var(--sl-text-m);
+            position: relative;
+			padding: 0.5rem;
+			text-decoration: none;
+			margin: 0.5rem;
+        }
+
         .right-sidebar .sl-link-card {
             width: fit-content;
             padding: 0.5rem;
@@ -115,6 +111,12 @@
 
         .right-sidebar .sl-link-card .title {
             font-size: var(--sl-text-sm);
+        }
+
+
+        starlight-theme-select {
+            font-family: 'Grenze Gotisch Variable', system-ui;
+            font-weight: 600;
         }
 
 }
