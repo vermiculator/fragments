@@ -8,6 +8,7 @@ import astroConfig from 'virtual:starlight-site-graph/astro-config';
 import { ensureTrailingSlash, trimSlashes } from '../../node_modules/starlight-site-graph/sitemap/util';
 import { debracketKeepTitleOrAlias, slugify, debracketKeepFirst } from '@/scripts/util';
 import { LinkCard } from '@astrojs/starlight/components';
+import { PageGraph } from 'starlight-site-graph/components';
 
 interface Props {
 	slug?: string;
@@ -17,8 +18,12 @@ interface Props {
 	trailingSlashes?: boolean;
 }
 
+let excludedLinks = ['earth/start-here', 'library/start-here'];
+// Normalization helper: strip md/ prefix and surrounding slashes
+const normalizeKey = (l: string) => trimSlashes(l.startsWith('md/') ? l.slice(3) : l);
+const excludeSet = new Set(excludedLinks.map(normalizeKey));
 let backlinksData: Partial<PageGraphConfig> = {};
-let { slug, showBacklinks, class: className } = Astro.props;
+let { slug, class: className } = Astro.props;
 let { entry } = Astro.locals.starlightRoute;
 
 // If frontmatter is explicitly passed as 'entry' (happens in a Starlight context)
@@ -45,41 +50,53 @@ if (sitemap) {
 let backlinks: string[] = [];
 let rawBacklinks: string[] = [];
 let missingBacklinks: string[] = [];
+let tooManyBacklinks = false;
 if (sitemapKey && sitemap[sitemapKey]) {
 	const sitemapEntry = sitemap[sitemapKey];
 	if (sitemapEntry?.backlinks) {
 		rawBacklinks = sitemapEntry.backlinks as string[];
-		const resolved = rawBacklinks.filter((l) => !!sitemap[l]);
-		missingBacklinks = rawBacklinks.filter((l) => !sitemap[l]);
+		rawBacklinks = rawBacklinks.filter(l => !excludeSet.has(normalizeKey(l)));
+		const resolved = rawBacklinks.filter(l => !!sitemap[l]);
+		missingBacklinks = rawBacklinks.filter(l => !sitemap[l]);
 		backlinks = resolved.sort((a, b) => (sitemap[a]!.title as string).localeCompare(sitemap[b]!.title as string));
+		tooManyBacklinks = backlinks.length > 5;
 	}
 }
 
 
 ---
 
-{backlinks.length > 0 && (
+{backlinks.length > 0 && !tooManyBacklinks && (
 	<div class:list={className ?? ""}>
 		<slot name="title" />
-		{backlinks.map((link) => {
-			const href = link.startsWith('http')
-				? link
-				: ensureTrailingSlash('/' + trimSlashes(link.startsWith('md/') ? link.slice(3) : link), true);
-			const title = debracketKeepTitleOrAlias(sitemap[link]!.title);
-			return <LinkCard title={title} href={href} />;
-		})}
+		<ul class="backlinks-list">
+			{backlinks.map((link) => {
+				const href = link.startsWith('http')
+					? link
+					: ensureTrailingSlash('/' + trimSlashes(link.startsWith('md/') ? link.slice(3) : link), true);
+				const title = debracketKeepTitleOrAlias(sitemap[link]!.title);
+				return <li><a href={href}><span>{title}</span></a></li>;
+			})}
+		</ul>
 		{missingBacklinks.length > 0 && (
 			<p style="margin-top: .5rem; color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">
-				{missingBacklinks.length} backlink{missingBacklinks.length === 1 ? '' : 's'} couldn’t be resolved yet.
+				{missingBacklinks.length} backlink{missingBacklinks.length === 1 ? '' : 's'} not resolved yet.
 			</p>
 		)}
+	</div>
+)}
+
+{tooManyBacklinks && (
+	<div class:list={className ?? ""} style="padding:0;">
+		<PageGraph class="right-sidebar-panel slsg-graph-panel" showGraph={true}>
+		</PageGraph>
 	</div>
 )}
 
 {backlinks.length === 0 && rawBacklinks.length === 0 && (
 	<div class:list={className ?? ""}>
 		<slot name="title" />
-		<p style="color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">no links here!</p>
+		<p style="color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">nothing :(</p>
 	</div>
 )}
 
@@ -89,3 +106,37 @@ if (sitemapKey && sitemap[sitemapKey]) {
 		<p style="color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">unresolved links, oops</p>
 	</div>
 )}
+
+<style>
+	:root {
+		.slsg-graph-panel {
+			padding: 0 1.5rem 0 0 !important;
+		}
+		.slsg-graph-panel graph-component {
+			display: block;
+			width: 100%;
+		}
+		.slsg-graph-panel .graph-container {
+			height: 240px;
+			min-height: 200px;
+			width: 100%;
+		}
+
+		.backlinks-panel {
+			padding: 0;
+		}
+		.backlinks-list {
+			padding: 0;
+			list-style: none;
+		}
+		.backlinks-list a {
+			--pad-inline: 0.5rem;
+			display: block;
+			border-radius: 0.25rem;
+			padding-block: 0.25rem;
+			padding-inline: var(--pad-inline);
+			line-height: 1.25;
+			text-decoration: none;
+		}
+	}
+</style>

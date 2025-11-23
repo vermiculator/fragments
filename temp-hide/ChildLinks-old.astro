@@ -1,0 +1,36 @@
+---
+import { LinkCard } from '@astrojs/starlight/components';
+import { getLinks } from '../scripts/getLinks';
+import { debracketKeepFirst, debracketKeepTitleOrAlias, slugify } from '@/scripts/util';
+import type { ReferenceDataEntry } from 'astro:content';
+import type { DataEntryMap } from 'astro:content';
+
+const { entry } = Astro.locals.starlightRoute;
+let children : ReferenceDataEntry<keyof DataEntryMap>[] = await getLinks("children", "docs", entry.id);
+---
+
+<div class="children-panel">
+ <div class="lg:sl-hidden"></div>
+ <div class="right-sidebar-panel sl-hidden lg:sl-block">
+        <div class="sl-container">
+         <div class="text-sm">
+                <h2>child links</h2>
+                {children && children.length > 0
+                        ? children.map((child: { id: string }) => {
+                                        const parts = child.id.split('/');
+                                        const kind = parts[0]; // earth | library | entities | ...
+                                        const rest = parts.slice(1).join('/');
+                                        const slug = slugify(debracketKeepFirst(rest || child.id)) ?? '';
+                                        return (
+                                                <LinkCard
+                                                        title={debracketKeepTitleOrAlias(child.id)}
+                                                        href={`/${kind}/${slug}`}
+                                                />
+                                        );
+                                })
+                        : ''
+                }
+         </div>
+        </div>
+ </div>
+</div>

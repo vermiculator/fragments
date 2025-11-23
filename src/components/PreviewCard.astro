@@ -1,9 +1,9 @@
 ---
 import { ScrollArea } from './ui/scroll-area';
 import type { StarlightIcon } from 'node_modules/@astrojs/starlight/components/Icons';
-import PreviewCardMenu from './PreviewCardMenu.astro';
 import { Markdown } from '@astropub/md'
 import { Button } from './ui/button';
+import { Icon } from '@astrojs/starlight/components';
 
 interface Props {
 	icon?: StarlightIcon;
@@ -16,56 +16,81 @@ interface Props {
 const { title, overflow, link, md} = Astro.props;
 ---
 
-<article class="previewCard card sl-flex rounded-md p-5 text-[14px]">
-	<div class="title sl-flex text-2xl">
-		<span set:html={title} />
-		<PreviewCardMenu link={link??'/'}></PreviewCardMenu>
-	</div>
-    { overflow && overflow === "scroll" ?
-        <ScrollArea className="pagePreview p-0.5 max-h-50 w-auto">
-       		 <Markdown of={md} />
-	 		<slot />
-        </ScrollArea>
-	:
-		<div class="body"><slot /></div>
-	}
-	{ link && (<a href={link??'/'}><Button variant="default" size="icon" aria-label="See More" className="bottomDots">...</Button></a>)}
-</article>
+{ (overflow && overflow === "scroll" && md && md !== '') ?
+		<article class="previewCard card sl-flex rounded-md text-[14px]">
+			<div class="title sl-flex text-2xl">
+				<a href={link??'/'}>
+				 <Icon name="up-arrow" size="2em" class="icon rtl:flip arrows" />
+					<span set:html={title} />
+				 <Icon name="up-arrow" size="2em" class="icon rtl:flip arrows" />
+				</a>
+			</div>
+			<ScrollArea className="pagePreview p-0.5 max-h-50 w-auto">
+				<Markdown of={md} />
+				<slot />
+			</ScrollArea>
+			<a href={link??'/'}><Button variant="default" size="icon" aria-label="See More" className="bottomDots">...</Button></a>
+		</article>
+		:
+		<article class="previewCard card sl-flex rounded-md text-[14px]">
+			<div class="title sl-flex text-2xl">
+				<a href={link??'/'}>
+				 <Icon name="up-arrow" size="2em" class="icon rtl:flip arrows" />
+					<span set:html={title} />
+				 <Icon name="up-arrow" size="2em" class="icon rtl:flip arrows" />
+				</a>
+			</div>
+		</article>
+}
+
 
 <style>
-	@layer starlight.components {
+	:root {
 		.previewCard {
-			border: 2px solid var(--sl-color-gray-5);
+			border: 2px double var(--sl-color-gray-5);
 			background-color: var(--sl-color-gray-700);
 			flex-direction: column;
-			padding: clamp(1rem, calc(0.125rem + 2vw), 2.5rem);
-			gap: clamp(0.5rem, calc(0.125rem + 1vw), 1rem);
+			max-width: 20vw;
+			overflow: hidden;
+			max-height: 28vh;
 		}
+
 		.previewCard .title {
-			font-weight: 600;
-			color: ;
-			line-height: var(--sl-line-height-headings);
-			gap: 1rem;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			gap: 0.4rem;
+		}
+
+		.previewCard .title a {
+			display: flex;
+			align-items: center;
+			gap: 0.5rem;
+			text-decoration: none;
+		}
+
+		.previewCard .title a span {
+			line-height: 1.1;
+			display: inline-flex;
 			align-items: center;
 		}
-		.card .icon {
+
+		.previewCard .icon {
 			border: 1px solid var(--sl-card-border);
 			background-color: var(--sl-card-bg);
-			padding: 0.2em;
 			border-radius: 0.25rem;
 			flex-shrink: 0;
 		}
-		.card .body {
-			margin: 0;
+		.previewCard .pagePreview {
 			font-size: clamp(var(--sl-text-sm), calc(0.5rem + 1vw), var(--sl-text-body));
+			padding: 0;
 		}
 
 		.previewCard .bottomDots {
-			margin: 0;
+			margin: 0.5rem;
 			padding: 0.1em;
-            width: 100%;
 			text-decoration: none;
-
+			width: 96%;
 		}
 	}
 </style>

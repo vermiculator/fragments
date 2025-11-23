@@ -24,7 +24,7 @@ const { Content } = await render(page);
 export const prerender = true;
 ---
 
-<Layout pageTitle={ page.data.title } pageStyle='library' starlightSettings={{prev: false, next: false}}>
+<Layout pageTitle={ page.data.title } pageStyle='library' starlightSettings={{prev: false, next: false, graph: {visible: false}}}>
    {page.data.caveats ? (
     <div class="sl-container">
           {page.data.caveats.map((X: any) => (

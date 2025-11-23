@@ -28,7 +28,7 @@ export const prerender = true;
 console.log(page.data.caveats);
 ---
 
-<Layout pageTitle={page.data.title} pageStyle='earth' peerLinks={page.data.peer} starlightSettings={{next: false, prev: false}}>
+<Layout pageTitle={page.data.title} pageStyle='earth' peerLinks={page.data.peer} starlightSettings={{next: false, prev: false, graph: {visible: false}}}>
 
    <Frontmatter data={page.data} />
    {page.data.caveats?? page.data.caveats}

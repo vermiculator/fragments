@@ -1,30 +1,16 @@
 ---
 import "../styles/global.css";
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import MiddleFooter from './MiddleFooter.astro';
 import { ScrollArea } from "./ui/scroll-area";
-const { pageTitle, tabTitle, pageStyle, starlightSettings, peerLinks } = Astro.props;
+const { pageTitle, tabTitle, pageStyle, starlightSettings } = Astro.props;
 starlightSettings.title = pageTitle;
 starlightSettings.tableOfContents = (pageStyle == 'docs' || pageStyle == 'doc' || pageStyle == 'earth' || pageStyle == 'library' || pageStyle == 'only-right');
 starlightSettings.template = (pageStyle == 'full' ? 'splash' : 'doc');
+const hideLeftSidebar =  (pageStyle == 'full' || pageStyle == 'thesis' || pageStyle == 'only-right');
 ---
-<>
-    {(pageStyle == 'earth') ?
 
-        <StarlightPage frontmatter={starlightSettings}>
-                <ScrollArea className="body p-1 max-h-1/2">
-                    <slot />
-                </ScrollArea>
-                <MiddleFooter peerLinks={peerLinks}></MiddleFooter>
-        </StarlightPage>
-
-   :
-
-        <StarlightPage frontmatter={{ sidebar: { hidden: true }, ...starlightSettings }}>
-                <ScrollArea className="body p-1 max-h-1/2">
-                    <slot />
-                </ScrollArea>
-
-        </StarlightPage>
-}
-</>
+    <StarlightPage frontmatter={{ sidebar: { hidden: hideLeftSidebar }, ...starlightSettings }}>
+     <ScrollArea className="body p-1 max-h-1/2">
+      <slot />
+    </ScrollArea>
+ </StarlightPage>

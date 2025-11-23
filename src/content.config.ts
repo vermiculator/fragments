@@ -30,7 +30,7 @@ export const collections = {
 			extend: z.object({
 			  author: z.array(z.string()).optional(),
 			  caveats: z.array(z.string()).optional(),
-			  topics: z.array(anyDoc).optional(),
+			  peer: z.array(anyDoc).optional(),
 			}).merge(pageSiteGraphSchema),
 		}),
 	}),
@@ -41,7 +41,7 @@ export const collections = {
 			  status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
 			  author: z.array(z.string()).optional(),
 			  caveats: z.array(z.string()).optional(),
-			  topics: z.array(anyDoc).optional(),
+			  peer: z.array(anyDoc).optional(),
 			}).merge(pageSiteGraphSchema),
 		  }),
 	}),

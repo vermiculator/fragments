@@ -7,7 +7,6 @@ import starlightScrollToTop from 'starlight-scroll-to-top';
 import vercel from '@astrojs/vercel';
 import { loadEnv } from "vite";
 import react from '@astrojs/react';
-import starlightTocOverviewCustomizer from 'starlight-toc-overview-customizer';
 import inject from '@rollup/plugin-inject';
 
 const env = loadEnv(process.env.NODE_ENV ?? '', process.cwd(), '');
@@ -41,7 +40,7 @@ export default defineConfig({
         minHeadingLevel: 2,
         maxHeadingLevel: 6,
       },
-       routeMiddleware: ['./src/scripts/middleware/routeData.ts', './src/scripts/middleware/filterSidebar.ts'],
+       routeMiddleware: ['./src/scripts/middleware/routeData.ts'],
       customCss: [
         './src/styles/starlight-overrides.css'
       ],
@@ -54,48 +53,23 @@ export default defineConfig({
      components: {
       Sidebar: './src/components/Sidebar.astro',
       PageSidebar: './src/components/PageSidebar.astro',
+      PageFrame: './src/components/PageFrame.astro',
+      TableOfContents: './src/components/TableOfContents.astro',
       },
       sidebar: [
-          {
-              label: 'earth',
-              collapsed: false,
-              autogenerate: {
-                directory: '/md/earth',
-                collapsed: true,
-                // @ts-ignore - attrs is accepted by starlight but not its typing
-                //attrs: { class: 'sl-link-card' }
-            },
-          },
-          {
-              label: 'entities',
-              collapsed: false,
-              autogenerate: {
-                directory: '/md/entities',
-                collapsed: true,
-              }
-          },
-          {
-              label: 'library',
-              collapsed: false,
-              autogenerate: {
-                directory: '/md/library',
-                collapsed: true,
-              }
-          },
+          { label: 'thesis >', link: '/thesis/Masters-thesis' },
+          { label: 'earth >', link: '/earth' },
+          { label: 'library >', link: '/library' },
+          { label: 'entities >', link: '/entities' }
       ],
       plugins: [
-        starlightTocOverviewCustomizer({
-        overviewTitle: "on this page",
-        }),
           starlightScrollToTop({
           // Button position
-          position: 'right',
+          position: 'left',
           showTooltip: false,
-          // Use smooth scrolling
           smoothScroll: true,
           // Visibility threshold (show after scrolling 20% down)
           threshold: 20,
-          // Customize the SVG icon
           svgPath: 'M25 42 12 29 42 29Z',
           svgStrokeWidth: 1,
           borderRadius: '50',

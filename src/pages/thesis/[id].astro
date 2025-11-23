@@ -22,7 +22,7 @@ import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 import { ScrollArea } from "../../components/ui/scroll-area";
 ---
 
-  <StarlightPage frontmatter={{ title: page.data.title, tableOfContents: true, template: 'doc' }}>
+  <StarlightPage frontmatter={{ title: page.data.title, next: true, prev: true, tableOfContents: true, template: 'doc', graph: {visible: false} }}>
     <ScrollArea className="body p-1 max-h-1/2">
         <Content />
     </ScrollArea>

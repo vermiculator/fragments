@@ -1,0 +1,29 @@
+---
+
+import { debracketKeepFirst, debracketKeepTitleOrAlias, slugify } from '@/scripts/util';
+import LinkCard from './LinkCard.astro';
+
+const { links, currentKind, side } = Astro.props;
+---
+
+  {links && links.length > 0
+                        ? links.map((link: { id: string }) => {
+                      // should be collection/slug
+                      // clean out [[Title]]/slug and [[Title]]/collection/slug
+                      const rawSegments = link.id.split('/').filter(s => s !== '');
+                      const cleaned = rawSegments.filter(seg => !/^\s*\[\[.*\]\]\s*$/.test(seg));
+                      const kind = cleaned[0] || rawSegments[0];
+                      const slugSource = cleaned.length > 1 ? cleaned[cleaned.length - 1] : cleaned[0] || link.id;
+                      const slug = slugify(debracketKeepFirst(slugSource)) || '';
+                      const title = debracketKeepTitleOrAlias(link.id);
+                      // guard: if kind still contains brackets, fall back to current collection
+                      const safeKind = /^\s*\[\[.*\]\]\s*$/.test(kind) ? (currentKind || 'docs') : kind;
+                      return (
+                        <LinkCard
+                          arrow={side}
+                          title={title}
+                          href={`/${safeKind}/${slug}/`}
+                        />
+                      );
+                    })
+                  : ''}

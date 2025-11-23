@@ -1,20 +1,18 @@
 ---
-import { CardGrid, LinkCard } from '@astrojs/starlight/components';
-import { debracketKeepAlias, debracketKeepFirst, debracketKeepTitleOrAlias, slugify } from '@/scripts/util';
-const { data } = Astro.props;
-const links = data.parent;
+import { getLinks } from '../scripts/getLinks';
+import type { ReferenceDataEntry } from 'astro:content';
+import type { DataEntryMap } from 'astro:content';
+import BottomLinks from './BottomLinks.astro';
+
+const { entry } = Astro.locals.starlightRoute;
+let parents : ReferenceDataEntry<keyof DataEntryMap>[] = await getLinks("parents", "docs", entry.id);
 ---
 
-<div class="sl-flex parentSection">
-      { links ? <CardGrid>
-        {
-         links.map((link: { id: string; collection: string}) => {
-            let { id } = link;
-            return <LinkCard title={debracketKeepTitleOrAlias(String(id))} href={Astro.site + 'earth/' + slugify(debracketKeepFirst(String(id)))} />
-          }
-        )
-        }
-        </CardGrid>
-      : ''
-    }
-</div>
+ <div class="lg:sl-hidden"></div>
+ <div class="sl-hidden lg:sl-block">
+        <div class="sl-container" aria-label="parent links">
+         <div class="text-sm">
+               <BottomLinks side="left" links={ parents } currentKind={ entry.collection == 'docs' || entry.collection == 'plain' || entry.collection == 'md' ? 'earth' : entry.collection}/>
+         </div>
+        </div>
+ </div>

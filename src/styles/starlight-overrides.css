@@ -61,38 +61,36 @@
             font-family: 'Noto Serif Variable', serif;
         }
 
-        /* left sidebar */
-       .sidebar-content a, .sidebar-content .group-label {
-            font-family: 'Noto Serif Variable', serif;
-            font-weight: 400;
-			color: var(--sl-color-text-accent);
-			font-size: var(--sl-text-m);
+        .sl-container h2 {
+            color: var(--color-accent-200) !important;
         }
 
-        .sidebar-content ul li ul li a {
-			display: grid;
-			grid-template-columns: 1fr auto;
-			border: 2px solid var(--sl-color-gray-6);
-			border-radius: 0.5rem;
+        /* left sidebar */
+       .sidebar-content a, .sidebar-content .group-label {
+            font-family: 'Grenze Gotisch Variable', system-ui;
+			color: var(--color-gray-400);
+			font-size: var(--sl-text-xl);
+			border: 2px dashed var(--color-gray-400);
+			border-radius: 0.2rem;
             position: relative;
-			padding: 1rem;
-			box-shadow: var(--sl-shadow-sm);
 			text-decoration: none;
-			line-height: var(--sl-line-height-headings);
-			flex-direction: column;
 			margin: 0.5rem;
-			color: var(--sl-color-text-accent);
 			font-weight: 600;
-			font-size: var(--sl-text-m);
+            min-width: fit-content;
+            width: 35%;
+            transition: width .8s;
+            text-align: left;
+       }
 
-            :hover {
-			    background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
-			    border-color: var(--sl-color-gray-2);
-            }
+        .sidebar-content a:hover, .sidebar-content .group-label:hover {
+			color: var(--color-gray-600);
+			border: 2px dashed var(--color-gray-600);
+            width:98%;
+            text-align: right;
         }
 
         /* right sidebar */
-        .right-sidebar .title, .children-panel h2 {
+        .right-sidebar .title, .children-panel h2, .previewCard .title {
             font-family: 'Noto Serif Variable', serif;
             font-weight: 400;
 			color: var(--sl-color-text-accent);
@@ -119,4 +117,67 @@
             font-weight: 600;
         }
 
+        .arrows {
+            padding: 0 !important;
+            margin: 0;
+            color: var(--color-accent-200);
+        }
+
+        .arrows span {
+            text-decoration: none;
+        }
+
+        starlight-toc nav a {
+            font-size: var(--sl-text-sm);
+            color: var(--color-gray-400);
+        }
+        starlight-toc nav a:hover,
+        starlight-toc nav a:focus,
+        starlight-toc nav a:focus-visible,
+        starlight-toc nav a:active {
+            color: var(--color-gray-500);
+        }
+
+        /* Force nested TOC lists to be visible */
+        starlight-toc nav ul ul {
+            display: block !important;
+            visibility: visible !important;
+            opacity: 1 !important;
+            height: auto !important;
+        }
+
+        mobile-starlight-toc .dropdown a {
+            font-size: var(--sl-text-sm);
+            color: var(--color-gray-400);
+        }
+        mobile-starlight-toc .dropdown a:hover,
+        mobile-starlight-toc .dropdown a:focus,
+        mobile-starlight-toc .dropdown a:focus-visible,
+        mobile-starlight-toc .dropdown a:active {
+            color: var(--color-gray-500);
+        }
+
+        /* Backlinks styling matching TOC */
+        .backlinks-panel .backlinks-list a {
+            font-size: var(--sl-text-sm);
+            color: var(--color-gray-400);
+        }
+        .backlinks-panel .backlinks-list a:hover,
+        .backlinks-panel .backlinks-list a:focus,
+        .backlinks-panel .backlinks-list a:focus-visible,
+        .backlinks-panel .backlinks-list a:active {
+            color: var(--color-gray-500);
+        }
+
+}
+
+:where(.sidebar-content a)[aria-current="page"]{
+    background-color: var(--color-gray-600);
+	border: 2px dashed var(--color-gray-600);
+}
+
+:where(.sidebar-content a:hover)[aria-current="page"]{
+    background-color: var(--color-gray-400);
+	border: 2px dashed var(--color-gray-400);
+    text-align: right;
 }

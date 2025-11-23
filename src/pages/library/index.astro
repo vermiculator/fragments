@@ -18,7 +18,7 @@ const allItems = await getCollection('library');
 
 ---
 
-<Layout pageTitle='library' pageStyle='leftside' includes_p5 starlightSettings={{next: false, prev: false}}>
+<Layout pageTitle='library' pageStyle='leftside' includes_p5 starlightSettings={{next: false, prev: false, graph: {visible: false}}}>
 
 <CardGrid>
     {  allItems.map((item:any) =>

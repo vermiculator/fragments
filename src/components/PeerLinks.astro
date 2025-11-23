@@ -1,49 +1,48 @@
 ---
 import { CardGrid } from '@astrojs/starlight/components';
 import { debracketKeepAlias, debracketKeepFirst, slugify } from '@/scripts/util';
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry, DataEntryMap, ReferenceDataEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import PreviewCard from './PreviewCard.astro'
+import { getLinks } from '@/scripts/getLinks';
 
-const { links } = Astro.props;
-let rawLink : string = '';
-let alias : string = '';
-let allEarth : CollectionEntry<'earth'>[] = [];
-let peers : CollectionEntry<'earth'>[] = [];
-let peerCards : {peer: CollectionEntry<'earth'>, alias: string | undefined}[] = [];
 
-if(links){
-  allEarth = await getCollection('earth');
-  if(allEarth){
-    peers = allEarth.filter((peer: {id: string}) => {
-      let matchingLinks = links.filter((link: {id: string}) => {
-        rawLink = debracketKeepFirst(String(link.id));
-        rawLink = slugify(rawLink);
-        return (rawLink && rawLink === String(peer.id));
-      });
-      if (matchingLinks && matchingLinks.length > 0 && matchingLinks[0]){
-        alias = debracketKeepAlias( String(matchingLinks[0].id));
-        return true;
-      } else return false;
-    });
-    if(peers) {
-      peerCards = peers.map((peer: CollectionEntry<'earth'>) => {
-        return {peer: peer, alias: alias};
-      });
-    }
+const { entry } = Astro.locals.starlightRoute;
+
+let peers : ReferenceDataEntry<keyof DataEntryMap>[] = await getLinks("peers", "docs", entry.id);
+
+const peerAliasMap = new Map<string, string>();
+peers.forEach((peer) => {
+  const rawLink = debracketKeepFirst(String(peer.id));
+  const alias = debracketKeepAlias(String(peer.id));
+  peerAliasMap.set(rawLink, alias);
+});
+
+let allEntries = await getCollection("docs");
+let peerCards : {peer: CollectionEntry<'docs'>, alias: string}[] = [];
+
+for (const peer of peers) {
+  const peerTitle = (debracketKeepFirst(String(peer.id)));
+  const alias = debracketKeepAlias(String(peer.id));
+  const slug = slugify(peerTitle);
+  const matchingEntry = allEntries.find((entry) => entry.id.includes(slug));
+  if (matchingEntry) {
+    peerCards.push({ peer: matchingEntry, alias: alias });
   }
 }
 
 ---
-
-<div class="sl-flex peerSection">
+<div class="lg:sl-hidden"></div>
+<div class="sl-hidden lg:sl-block">
+  <div class="sl-container" aria-label="peer links">
+    <div class="text-sm">
       { peerCards ? <CardGrid>
         {
           peerCards?.map((card) => {
             return (
               card ? (
               <PreviewCard title={(card.alias && card.alias !== '') ? card.alias : card.peer.data.title}
-               overflow="scroll" link={Astro.site + 'earth/' + card.peer.id} md={card.peer.body} >
+               overflow="scroll" link={'/' + card.peer.id} md={card.peer.body??''} >
               </PreviewCard>
               ) : null
             )
@@ -52,11 +51,4 @@ if(links){
         </CardGrid>
       : ''
     }
-    </div>
-
-    <style>
-      .peerSection .card {
-          font-size:var(--sl-text-xs);
-        }
-
-      </style>
+</div></div></div>
