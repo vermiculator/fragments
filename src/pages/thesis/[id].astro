@@ -2,6 +2,8 @@
 
 import type { CollectionEntry } from 'astro:content';
 import { getCollection, render} from "astro:content";
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { ScrollArea } from "../../components/ui/scroll-area";
 
 interface Props {
 	page: CollectionEntry<'thesis'>;
@@ -9,17 +11,17 @@ interface Props {
 
 export async function getStaticPaths() {
   const pages = await getCollection('thesis');
+  console.log('Available thesis pages:', pages.map(p => p.id));
   return pages.map(page => ({
     params: { id: page.id },
     props: { page },
   }));
 }
+
 const { page } = Astro.props;
 const { Content } = await render(page);
 export const prerender = true;
 
-import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import { ScrollArea } from "../../components/ui/scroll-area";
 ---
 
   <StarlightPage frontmatter={{ title: page.data.title, next: true, prev: true, tableOfContents: true, template: 'doc', graph: {visible: false} }}>
@@ -27,3 +29,16 @@ import { ScrollArea } from "../../components/ui/scroll-area";
         <Content />
     </ScrollArea>
   </StarlightPage>
+
+<style>
+    :root{
+        div.content-panel:nth-child(1){
+            display: none;
+        }
+
+        .level-h1 {
+            color: var(--color-accent-600);
+        }
+    }
+
+</style>

@@ -7,12 +7,35 @@ const allItems = await getCollection('earth');
 
 ---
 
-<Layout pageTitle='in the wind and the wires' tabTitle='index' pageStyle='full' starlightSettings={{next: false, prev: false, graph: {visible: false}}}>
+<Layout pageTitle='in the wind and the wires' tabTitle='index' pageStyle='full' starlightSettings={{
+      next: false,
+      prev: false,
+      graph: {visible: false},
+      template: 'splash',
+      hero: {
+            title: 'in the wind and the wires',
+            actions: [
+            { text: 'till the earth',
+                  link: '/earth/start-here/',
+                  icon:'right-arrow'
+            },{ text: 'library',
+                  link:'/library/start-here/',
+                  icon: 'right-arrow',
+                  variant: 'minimal'
+            },{ text: 'show me the way',
+                  link: '/about',
+                  icon: 'right-arrow',
+                  variant: 'minimal'
+            }
+            ]
+      }
+}}>
 
-<CardGrid>
-      <LinkCard title={'earth'} href={'/earth/start-here'} />
-      <LinkCard title={'library'} href={'/library/start-here'} />
-      <LinkCard title={'mulch'} href={'/mulch'} />
-      <LinkCard title={'vignettes'} href={'/vignettes'} />
- </CardGrid>
+
+       this site indexes an amorphous collection of notes / thoughts / concepts / resources
+       (along with my Masters thesis)
+
+      <div class="sl-container" style="margin-top: 2rem">
+            <LinkCard title="about the author: a neuro-queer cyber-creative human-creature" href="/about" />
+      </div>
 </Layout>

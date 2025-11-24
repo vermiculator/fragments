@@ -18,7 +18,7 @@ export default defineConfig({
   adapter: vercel(),
   redirects: {
       "/md/[...slug]": "/[...slug]",
-      "/plain/[...slug]": "/[...slug]",
+      "/plain/thesis/[...slug]": "/thesis/[...slug]",
       "/earth/earth/[...slug]": "/earth/[...slug]",
       "/library/library/[...slug]": "/library/[...slug]",
       // do this better
@@ -54,10 +54,9 @@ export default defineConfig({
       Sidebar: './src/components/Sidebar.astro',
       PageSidebar: './src/components/PageSidebar.astro',
       PageFrame: './src/components/PageFrame.astro',
-      TableOfContents: './src/components/TableOfContents.astro',
       },
       sidebar: [
-          { label: 'thesis >', link: '/thesis/Masters-thesis' },
+          { label: 'thesis >', link: '/thesis/masters-thesis' },
           { label: 'earth >', link: '/earth' },
           { label: 'library >', link: '/library' },
           { label: 'entities >', link: '/entities' }

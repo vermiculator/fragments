@@ -12,6 +12,11 @@
   margin: 0;
 }
 
+.label-tag {
+  padding: 0;
+  border: unset;
+  
+}
 
 
 }

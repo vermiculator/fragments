@@ -5,6 +5,7 @@ import Layout from "../../components/Layout.astro";
 import type { CollectionEntry } from 'astro:content';
 import { getCollection, render} from "astro:content";
 import { LinkCard } from "@astrojs/starlight/components";
+import { Tag } from "lucide-react";
 
 
 
@@ -25,10 +26,11 @@ export const prerender = true;
 ---
 
 <Layout pageTitle={ page.data.title } pageStyle='entities' starlightSettings={{prev: false, next: false, graph: {visible: false}}}>
+   {page.data.author??''}
    {page.data.caveats ? (
     <div class="sl-container">
           {page.data.caveats.map((X: any) => (
-        <LinkCard class="label-tag" title={debracketKeepFirst(X)}/>
+        <Tag>{debracketKeepFirst(X)}</Tag>
           ))}
     </div>
   ) : null}

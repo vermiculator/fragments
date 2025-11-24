@@ -1,5 +1,5 @@
 import { defineMiddleware } from 'astro:middleware';
-import { getLinks } from '../src/scripts/getLinks';
+import { getLinks } from './getLinks';
 import { debracketKeepFirst, slugify } from '../src/scripts/util';
 import type { DataEntryMap } from 'astro:content';
 

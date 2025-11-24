@@ -1,8 +1,13 @@
 ---
 import MobileTableOfContents from '@astrojs/starlight/components/MobileTableOfContents.astro';
 import TableOfContents from '@astrojs/starlight/components/TableOfContents.astro';
-import PageBacklinks from "./PageBacklinks.astro";
 
+
+import PageBacklinks from "./PageBacklinks.astro";
+import { getEntry, type DataEntryMap } from 'astro:content';
+const collections: (keyof DataEntryMap)[] = ["docs", "library", "earth", "entities"];
+const slug = String(Astro.params.id ?? '').replace(/\/$/, '');
+const headings = true;
 ---
 
 <>
@@ -16,12 +21,11 @@ import PageBacklinks from "./PageBacklinks.astro";
           </PageBacklinks>
         </div>
 			</div>
-		</>
+</>
 
-{Astro.locals.starlightRoute.toc && (
+{headings && (
 	<>
 		<div class="lg:sl-hidden">
-			<h2 class="toc-title">on this page:</h2>
 			<MobileTableOfContents />
 		</div>
 		<div class="right-sidebar-panel sl-hidden lg:sl-block">

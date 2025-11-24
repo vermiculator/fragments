@@ -62,7 +62,25 @@
         }
 
         .sl-container h2 {
-            color: var(--color-accent-200) !important;
+            color: var(--color-accent-200);
+        }
+
+        .main-pane div.content-panel:nth-child(2) {
+            padding-top: 0;
+        }
+
+        .properties {
+            border: 1px solid var(--color-gray-600);
+            margin: 0;
+            padding: 0.4rem;
+        }
+
+        .property{
+            margin:0;
+        }
+
+        .caveats .sl-badge {
+            margin-right: 0.3rem;
         }
 
         /* left sidebar */
@@ -90,13 +108,11 @@
         }
 
         /* right sidebar */
-        .right-sidebar .title, .children-panel h2, .previewCard .title {
+        .right-sidebar .title, .previewCard .title, div.right-sidebar-panel h2 {
             font-family: 'Noto Serif Variable', serif;
             font-weight: 400;
-			color: var(--sl-color-text-accent);
+			color: var(--color-accent-600);
 			font-size: var(--sl-text-m);
-            position: relative;
-			padding: 0.5rem;
 			text-decoration: none;
 			margin: 0.5rem;
         }

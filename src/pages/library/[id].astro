@@ -1,12 +1,9 @@
 ---
 import { debracketKeepFirst } from "@/scripts/util";
 import Layout from "../../components/Layout.astro";
-
 import type { CollectionEntry } from 'astro:content';
 import { getCollection, render} from "astro:content";
-import { LinkCard } from "@astrojs/starlight/components";
-
-
+import { Badge } from '@astrojs/starlight/components';
 
 interface Props {
 	page: CollectionEntry<'library'>;
@@ -25,12 +22,32 @@ export const prerender = true;
 ---
 
 <Layout pageTitle={ page.data.title } pageStyle='library' starlightSettings={{prev: false, next: false, graph: {visible: false}}}>
+  <div class="sl-container properties">
+    { page.data.author ?
+      <div id="author" class="property">
+        by {page.data.author}
+      </div>
+        : ''
+    }
+    { page.data.url ?
+      <div id="source-url" class="property">
+        source: <a target="_blank" rel="noopener noreferrer" href={page.data.url}>{page.data.url}</a>
+      </div>
+        : ''
+    }
+    { page.data.published_date ?
+      <div id="published-date" class="property">
+        published: {page.data.published_date.toLocaleDateString()}
+      </div>
+        : ''
+    }
    {page.data.caveats ? (
-    <div class="sl-container">
+    <div class="sl-container caveats">
           {page.data.caveats.map((X: any) => (
-        <LinkCard class="label-tag" title={debracketKeepFirst(X)}/>
+            <Badge text={debracketKeepFirst(X)} variant="caution"></Badge>
           ))}
     </div>
   ) : null}
+    </div>
 <Content />
 </Layout>

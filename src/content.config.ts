@@ -21,11 +21,11 @@ const generalSchema = docsSchema({
 
 export const collections = {
 	earth: defineCollection({
-            loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/earth" }),
+			loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/earth" }),
 		  schema: generalSchema
 	}),
 	entities: defineCollection({
-            loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/entities" }),
+			loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/entities" }),
 			schema: docsSchema({
 			extend: z.object({
 			  author: z.array(z.string()).optional(),
@@ -35,10 +35,12 @@ export const collections = {
 		}),
 	}),
 	library: defineCollection({
-            loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/library" }),
-		    schema: docsSchema({
+			loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/library" }),
+			schema: docsSchema({
 			extend: z.object({
 			  status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
+			  url: z.string().optional(),
+			  published_date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
 			  author: z.array(z.string()).optional(),
 			  caveats: z.array(z.string()).optional(),
 			  peer: z.array(anyDoc).optional(),
@@ -46,27 +48,27 @@ export const collections = {
 		  }),
 	}),
 	about: defineCollection({
-        loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/about/" }),
+		loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/about/" }),
 		 schema: generalSchema
 	}),
 	thesis: defineCollection({
-        loader: glob({ pattern: ['*.md'], base: "./src/content/docs/md/plain/thesis" }),
+		loader: glob({ pattern: ['*.md'], base: "./src/content/docs/md/plain/thesis" }),
 		  schema: generalSchema
 	}),
 	metaThesis: defineCollection({
-        loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/meta-thesis" }),
+		loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/meta-thesis" }),
 		  schema: generalSchema
 	}),
 	thesisParts: defineCollection({
-            loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/thesis/parts" }),
+			loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/thesis/parts" }),
 		  schema: generalSchema
 	}),
 	structural: defineCollection({
-        loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/structural" }),
+		loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/structural" }),
 		  schema: generalSchema
 	}),
 	docs: defineCollection({
-        loader: glob({ pattern: ['**/*.mdx', '**/*.md'], base: "./src/content/docs/md" }),
+		loader: glob({ pattern: ['**/*.mdx', '**/*.md'], base: "./src/content/docs/md" }),
 		  schema: generalSchema
 	}),
 
@@ -92,7 +94,7 @@ export const collections = {
 			alt: z.string().optional(),
 			title: z.string().optional(),
 			caption: z.string().optional(),
-			date: z.date().optional(), // YYYY-MM-DD
+			date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
 		}),
 	}),
 	mulch: defineCollection({
@@ -104,7 +106,7 @@ export const collections = {
 			alt: z.string().optional(),
 			title: z.string().optional(),
 			caption: z.string().optional(),
-			date: z.date().optional(), // YYYY-MM-DD
+			date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
 		}),
 	}),
 	works: defineCollection({
@@ -116,7 +118,7 @@ export const collections = {
 			alt: z.string().optional(),
 			title: z.string().optional(),
 			caption: z.string().optional(),
-			date: z.date().optional(), // YYYY-MM-DD
+			date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
 		}),
 	}),
 	////////////////// TYPES ///////////////////////

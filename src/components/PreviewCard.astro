@@ -40,15 +40,28 @@ const { title, overflow, link, md} = Astro.props;
 				 <Icon name="up-arrow" size="2em" class="icon rtl:flip arrows" />
 				</a>
 			</div>
+			<div class="sl-container">
+				<p class="small-faded">no preview</p>
+			 </div>
 		</article>
 }
 
 
 <style>
+	:root[data-theme="dark"] {
+		.previewCard {
+			background-color: var(--color-gray-900);
+		}
+	}
+	:root[data-theme="light"] {
+		.previewCard {
+			background-color: var(--color-gray-200);
+		}
+	}
 	:root {
 		.previewCard {
 			border: 2px double var(--sl-color-gray-5);
-			background-color: var(--sl-color-gray-700);
+			background-color: var(--color-gray-900);
 			flex-direction: column;
 			max-width: 20vw;
 			overflow: hidden;
@@ -84,6 +97,8 @@ const { title, overflow, link, md} = Astro.props;
 		.previewCard .pagePreview {
 			font-size: clamp(var(--sl-text-sm), calc(0.5rem + 1vw), var(--sl-text-body));
 			padding: 0;
+			overflow-y: scroll;
+			overflow-x: wrap;
 		}
 
 		.previewCard .bottomDots {
@@ -92,5 +107,11 @@ const { title, overflow, link, md} = Astro.props;
 			text-decoration: none;
 			width: 96%;
 		}
+
+		.small-faded {
+			font-size: x-small;
+			color: var(--color-gray-600)
+		}
+
 	}
 </style>
