@@ -1,0 +1,62 @@
+---
+import Frontmatter from "@/components/Frontmatter.astro";
+import Layout from "../../components/Layout.astro";
+
+import type { CollectionEntry } from 'astro:content';
+import { getCollection, render} from "astro:content";
+interface Props {
+	page: CollectionEntry<'earth'>;
+}
+
+export async function getStaticPaths() {
+
+  const pages = await getCollection('metaThesis');
+  return pages.map( (page) => {
+    return {
+        params: { id: page.id },
+        props: { page: page}
+  }
+}
+)
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+
+export const prerender = true;
+
+---
+
+<Layout pageTitle={page.data.title} pageStyle='earth' peerLinks={page.data.peer} starlightSettings={{next: false, prev: false, graph: {visible: false}}}>
+
+   <Frontmatter data={page.data} />
+   {page.data.caveats?? page.data.caveats}
+    <Content />
+
+</Layout>
+
+<style>
+
+
+:root {
+        .sidebar-content summary .caret {
+            transform: rotate(-90deg);
+        }
+
+        .sidebar-content summary:hover {
+
+            .caret {
+                transform: rotate(-115deg);
+                background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
+                color: var(--sl-color-text-accent);
+            }
+
+            .group-label {
+                background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
+                color: var(--sl-color-text-accent);
+            }
+
+        }
+      }
+
+</style>

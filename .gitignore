@@ -45,7 +45,14 @@ publish.css
 !/src/content/vault/.obsidian/app.json
 !/src/content/vault/.gitkeep
 !/src/content/vault/plain/
-!/src/content/vault/plain/**
+!/src/content/vault/plain/about/
+!/src/content/vault/plain/about/**
+!/src/content/vault/plain/thesis/
+!/src/content/vault/plain/thesis/**
+!/src/content/vault/plain/meta-thesis/
+!/src/content/vault/plain/meta-thesis/**
+!/src/content/vault/plain/structural/
+!/src/content/vault/plain/structural/**
 !/src/content/vault/library/
 !/src/content/vault/library/start-here.md
 !/src/content/vault/library/.gitkeep
