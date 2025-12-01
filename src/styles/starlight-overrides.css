@@ -1,6 +1,6 @@
-/* Explicit variable font entry points for production bundling */
-@import '@fontsource-variable/grenze-gotisch/variable.css';
-@import '@fontsource-variable/noto-serif/variable.css';
+/* Import fonts using index for better compatibility */
+@import '@fontsource-variable/grenze-gotisch';
+@import '@fontsource-variable/noto-serif';
 @import '@astrojs/starlight-tailwind';
 
 @layer base {
