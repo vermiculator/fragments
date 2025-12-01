@@ -8,7 +8,7 @@
     "build": "set NODE_ENV=production && node src/scripts/copyAssets.js && astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "vercel env pull .env.local && vercel build --prod && vercel deploy --prebuilt --prod --yes"
+    "deploy": "vercel env pull .env.local && node src/scripts/copyAssets.js && node src/scripts/cleanVercelOutput.js && vercel build --prod && vercel deploy --prod --yes"
   },
   "dependencies": {
     "@astrojs/react": "^4.4.1",
