@@ -20,16 +20,8 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [obsidianImages],
   },
-  redirects: {
-      "/md/[...slug]": "/[...slug]",
-      "/plain/thesis/[...slug]": "/thesis/[...slug]",
-      "/plain/meta-thesis/[...slug]": "/meta-thesis/[...slug]",
-      "/plain/structural/[...slug]": "/structural/[...slug]",
-      "/plain/about/[...slug]": "/about/[...slug]",
-      "/earth/earth/[...slug]": "/earth/[...slug]",
-      "/library/library/[...slug]": "/library/[...slug]",
-      // do this better
-  },
+  // Removed dynamic redirects relying on literal [...slug] expansion; handled via middleware now.
+  redirects: {},
   vite: {
     plugins: [
         inject({
@@ -43,6 +35,23 @@ export default defineConfig({
   integrations: [
       starlight({
       title: 'index',
+      i18n: {
+        defaultLocale: 'en',
+        locales: {
+          en: {
+            label: 'English',
+            lang: 'en',
+            translations: {
+              'skipLink.label': 'Skip to content',
+              'search.label': 'Search',
+              'search.placeholder': 'Search',
+              'search.cancelLabel': 'Cancel',
+              'search.ctrlKey': 'Ctrl',
+              'search.devWarning': '',
+            }
+          }
+        }
+      },
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 6,
