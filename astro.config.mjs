@@ -35,21 +35,11 @@ export default defineConfig({
   integrations: [
       starlight({
       title: 'index',
-      i18n: {
-        defaultLocale: 'en',
-        locales: {
-          en: {
-            label: 'English',
-            lang: 'en',
-            translations: {
-              'skipLink.label': 'Skip to content',
-              'search.label': 'Search',
-              'search.placeholder': 'Search',
-              'search.cancelLabel': 'Cancel',
-              'search.ctrlKey': 'Ctrl',
-              'search.devWarning': '',
-            }
-          }
+      defaultLocale: 'root',
+      locales: {
+        root: {
+          label: 'English',
+          lang: 'en',
         }
       },
       tableOfContents: {
