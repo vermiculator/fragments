@@ -1,0 +1,4 @@
+---
+aliases:
+  - disclaimer/tenuous theory
+---

@@ -1,0 +1,22 @@
+---
+contextKind: purpose
+contextDetails: understanding which methods, framings and perspectives have been useful for me, either through the thesis process or in constructing and arguing the thesis
+garden: seed
+parent:
+  - "[[meta-thesis]]"
+peer:
+  - "[[methodology overview]]"
+  - "[[methods overview]]"
+  - "[[choosing disciplinary framings]]"
+title: choosing methodology
+---
+- you are proposing the method, your insights can become methodologies 
+- combining methodologies and frameworks
+- develop design principles from theory work and data
+- with these methods the research will only address those who already have a public curation practise as it is analysing the affordances of the platforms to allow this - it excludes those who could benefit from this but haven't found/can't access/can't work the tools. 
+- how do i select case studies? the ones i selected so far are due to them having the right selection of things for what i'm thinking about
+- this is more like deductive reasoning
+- more [[participatory methods]] fit well with my goals but I didn't have enough time to do it properly, how it should be done
+- I'm perhaps interested in forming dialogues online as this is both easier for me and by extension likely easier for the kinds of people I'd have participating - but also raises access issues and sampling issues 
+- need to be reflective and transparent on choices of methods, but what if i don't know why i chose it or i chose it out of fear/inaccessibility? is it too revealing of my own anxieties to discuss this or is it essential to the work?
+- my own bodily experience is crucial - i can't handle the texture of paper, so why should I be working with paper? 
