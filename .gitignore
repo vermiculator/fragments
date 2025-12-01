@@ -40,14 +40,18 @@ publish.css
 /src/content/vault/**
 
 # Allow minimal subset for build
-!/src/content/vault/plain
+!/src/content/vault/
+!/src/content/vault/.obsidian/
+!/src/content/vault/.obsidian/app.json
+!/src/content/vault/.gitkeep
+!/src/content/vault/plain/
+!/src/content/vault/plain/**
+!/src/content/vault/library/
 !/src/content/vault/library/start-here.md
 !/src/content/vault/library/.gitkeep
+!/src/content/vault/earth/
 !/src/content/vault/earth/start-here.md
 !/src/content/vault/earth/.gitkeep
-!/src/content/vault/.gitkeep
-!/src/content/vault/.obsidian
-!/src/content/vault/.obsidian/app.json
 
 /src/content/docs/md
 /src/content/mulch
