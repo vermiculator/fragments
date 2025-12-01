@@ -40,13 +40,13 @@ export default defineConfig({
         root: {
           label: 'English',
           lang: 'en',
-        }
+        },
       },
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 6,
       },
-       routeMiddleware: ['./src/scripts/middleware/routeData.ts'],
+      routeMiddleware: ['./src/scripts/middleware/routeData.ts'],
       customCss: [
         './src/styles/starlight-overrides.css'
       ],

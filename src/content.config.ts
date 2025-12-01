@@ -1,6 +1,7 @@
 import { defineCollection, reference, z} from 'astro:content';
 import { glob } from 'astro/loaders';
-import { docsSchema } from '@astrojs/starlight/schema';
+import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
+import { i18nLoader } from '@astrojs/starlight/loaders';
 //import { inruptSolidPodLoader } from '../src/loaders/solid';
 import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
 
@@ -154,5 +155,11 @@ export const collections = {
 	}),
 
 	////////////////////////////////////////////
+
+	// Starlight i18n collection for UI translations
+	i18n: defineCollection({
+		loader: i18nLoader(),
+		schema: i18nSchema(),
+	}),
 
 };
