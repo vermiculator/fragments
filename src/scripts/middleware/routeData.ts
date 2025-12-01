@@ -3,6 +3,7 @@ import { defineRouteMiddleware } from '@astrojs/starlight/route-data';
 // redirects moved from astro config so they aren't static
 const RDIR_MAP: Array<[string, string]> = [
     ['/md/', '/'],
+    ['/md/plain/', '/'],
     ['/plain/thesis/', '/thesis/'],
     ['/plain/meta-thesis/', '/meta-thesis/'],
     ['/plain/structural/', '/structural/'],
@@ -46,7 +47,7 @@ export const onRequest = defineRouteMiddleware((context, next) => {
     const { pagination } = starlightRoute;
 
     // don't show fully on non-pagey pages
-    if (currentBase !== '/earth/' && currentBase !== '/library/' && currentBase !== '/entities/') {
+    if (currentBase !== '/earth/' && currentBase !== '/library/' && currentBase !== '/entities/'&& currentBase !== '/meta-thesis/' ) {
         context.locals.starlightRoute.hasSidebar = false;
     } else {
         // Remove pagination links
