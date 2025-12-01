@@ -69,7 +69,10 @@ export const collections = {
 		  schema: generalSchema
 	}),
 	docs: defineCollection({
-		loader: glob({ pattern: ['**/*.mdx', '**/*.md'], base: "./src/content/docs/md" }),
+		loader: glob({ 
+			pattern: ['**/*.mdx', '**/*.md', '!earth/**', '!library/**', '!entities/**', '!plain/**'], 
+			base: "./src/content/docs/md"
+		}),
 		  schema: generalSchema
 	}),
 
