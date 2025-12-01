@@ -19,4 +19,3 @@ function copyDir(src, dest) {
 const srcDir = join(__dirname, '..', 'src', 'assets', 'md');
 const destDir = join(__dirname, '..', 'public', 'assets', 'md');
 copyDir(srcDir, destDir);
-console.log(`Copied assets from ${srcDir} to ${destDir}`);
