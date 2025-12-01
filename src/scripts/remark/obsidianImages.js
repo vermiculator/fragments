@@ -20,7 +20,7 @@ function slugifyFilename(input) {
 function normalizeAssetUrl(url) {
   if (!url) return url;
   // Strip any ../../.. leading segments before assets/md
-  const cleaned = url.replace(/^(?:\.\./)+/, '');
+  const cleaned = url.replace(/^(?:\.\.\/*)+/, '');
   const m = cleaned.match(/assets\/md\/(.*)$/);
   if (m) return `/assets/md/${m[1]}`;
   // If someone referenced just a filename under assets
