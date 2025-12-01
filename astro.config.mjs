@@ -6,6 +6,7 @@ import starlightSiteGraph from 'starlight-site-graph';
 import starlightScrollToTop from 'starlight-scroll-to-top';
 import vercel from '@astrojs/vercel';
 import { loadEnv } from "vite";
+import obsidianImages from './src/scripts/remark/obsidianImages.js';
 import react from '@astrojs/react';
 import inject from '@rollup/plugin-inject';
 
@@ -16,6 +17,9 @@ export default defineConfig({
   site: env.PUBLIC_SITE_DOMAIN,
   output: 'server',
   adapter: vercel(),
+  markdown: {
+    remarkPlugins: [obsidianImages],
+  },
   redirects: {
       "/md/[...slug]": "/[...slug]",
       "/plain/thesis/[...slug]": "/thesis/[...slug]",
