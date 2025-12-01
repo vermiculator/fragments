@@ -1,0 +1,11 @@
+---
+import Layout from '../../components/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+const aboutEntries = await getCollection('about');
+const main = aboutEntries.find(e => e.id === 'about') ?? aboutEntries[0];
+const { Content } = await render(main);
+---
+<Layout pageTitle={main.data.title ?? 'about'} pageStyle='full' starlightSettings={{next:false, prev:false}}>
+  <Content />
+</Layout>

@@ -70,7 +70,7 @@ export const collections = {
 	}),
 	docs: defineCollection({
 		loader: glob({ 
-			pattern: ['**/*.mdx', '**/*.md', '!earth/**', '!library/**', '!entities/**', '!plain/thesis/**', '!plain/meta-thesis/**'], 
+			pattern: ['**/*.mdx', '**/*.md', '!earth/**', '!library/**', '!entities/**', '!plain/thesis/**', '!plain/meta-thesis/**', '!plain/about/**'], 
 			base: "./src/content/docs/md"
 		}),
 		  schema: generalSchema

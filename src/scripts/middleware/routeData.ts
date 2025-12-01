@@ -7,6 +7,7 @@ const RDIR_MAP: Array<[string, string]> = [
     ['/plain/meta-thesis/', '/meta-thesis/'],
     ['/plain/structural/', '/structural/'],
     ['/plain/about/', '/about/'],
+    ['/about/about/', '/about/'],
     ['/earth/earth/', '/earth/'],
     ['/library/library/', '/library/'],
     ['/entities/entities/', '/entities/'],
