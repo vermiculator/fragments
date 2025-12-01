@@ -28,7 +28,7 @@ profile
 
 ## obsidian
 /Rubbish
-/.obsidian
+/.obsidian/**
 publish.css
 
 ## filen
@@ -42,8 +42,11 @@ publish.css
 # Allow minimal subset for build
 !/src/content/vault/plain
 !/src/content/vault/library/start-here.md
+!/src/content/vault/library/.gitkeep
 !/src/content/vault/earth/start-here.md
+!/src/content/vault/earth/.gitkeep
 !/src/content/vault/.gitkeep
+!/.obsidian/app.json
 
 /src/content/docs/md
 /src/content/mulch
