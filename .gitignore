@@ -38,10 +38,12 @@ publish.css
 ## content
 # Ignore all vault by default
 /src/content/vault/**
+
 # Allow minimal subset for build
-!/src/content/vault/plain/**
+!/src/content/vault/plain
 !/src/content/vault/library/start-here.md
 !/src/content/vault/earth/start-here.md
+!/src/content/vault/.gitkeep
 
 /src/content/docs/md
 /src/content/mulch
