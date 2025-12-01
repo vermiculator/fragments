@@ -59,7 +59,10 @@ publish.css
 /src/content/vignettes
 /src/content/works
 /src/content/assets
-/src/assets
+
+/src/assets/**
+!/src/assets/md/
+
 /src/data/bookmarks
 
 ## for now
