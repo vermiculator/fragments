@@ -1,16 +1,15 @@
 ---
 export const prerender = false
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
-import Footer from '../../components/Footer.astro';
 import { type CollectionEntry, getCollection } from 'astro:content';
 import { render } from 'astro:content';
 
 interface Props {
-	entry: CollectionEntry<'portfolio'>;
+	entry: CollectionEntry<'works'>;
 }
 
 export async function getStaticPaths() {
-	const piece = await getCollection('portfolio');
+	const piece = await getCollection('works');
 	return piece.map((entry: { id: any; }) => ({
 		params: { slug: entry.id },
 		props: { entry },
@@ -21,16 +20,15 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 ---
 
-<StarlightPage frontmatter={{ title: entry.data.title }}>
- 
+<StarlightPage frontmatter={{title: ''}}>
+
 	<div class="stack gap-20">
 		<div class="stack gap-15">
-            
+
 		<Content />
-            
+
 		</div>
-        
+
 	</div>
 
-  <Footer/>
 </StarlightPage>

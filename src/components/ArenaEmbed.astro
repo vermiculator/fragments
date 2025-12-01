@@ -1,0 +1,14 @@
+---
+import { getBlock } from '../scripts/getBlock';
+
+interface Props {
+  id: string;
+}
+
+const { id } = Astro.props;
+const block = await getBlock(id);
+---
+
+<div class="arena-embed">
+  <div set:html={block.id} />
+</div>

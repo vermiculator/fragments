@@ -48,7 +48,7 @@ export const collections = {
 		  }),
 	}),
 	about: defineCollection({
-		loader: glob({ pattern: ['**/*.md'], base: "./src/content/docs/md/plain/about/" }),
+		loader: glob({ pattern: ['*.md'], base: "./src/content/docs/md/plain/about/" }),
 		 schema: generalSchema
 	}),
 	thesis: defineCollection({

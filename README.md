@@ -8,3 +8,5 @@
 
 
 //"site-helper-cli": "./node_modules/site-helper-cli",
+
+yarn run deploy

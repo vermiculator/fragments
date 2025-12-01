@@ -1,0 +1,24 @@
+node_modules
+.git
+.vscode
+.astro
+.obsidian
+.yarn
+.vercel
+.DS_Store
+desktop.ini
+*.log
+.env
+.env.*
+
+# source vault
+src/content/vault/**
+
+# generated output
+dist/**
+public/md/**
+
+# misc
+temp-hide/**
+profile/**
+public/assets/**

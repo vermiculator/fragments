@@ -1,4 +1,9 @@
 ---
+// tooManyBacklinks
+//		<PageGraph class="right-sidebar-panel slsg-graph-panel" showGraph={true}>
+//		</PageGraph>
+
+
 import path from 'node:path';
 import type { PageGraphConfig } from '../../node_modules/starlight-site-graph/schema';
 
@@ -8,7 +13,8 @@ import astroConfig from 'virtual:starlight-site-graph/astro-config';
 import { ensureTrailingSlash, trimSlashes } from '../../node_modules/starlight-site-graph/sitemap/util';
 import { debracketKeepTitleOrAlias, slugify, debracketKeepFirst } from '@/scripts/util';
 import { LinkCard } from '@astrojs/starlight/components';
-import { PageGraph } from 'starlight-site-graph/components';
+//import { PageGraph } from 'starlight-site-graph/components';
+import { ScrollArea } from './ui/scroll-area';
 
 interface Props {
 	slug?: string;
@@ -88,8 +94,25 @@ if (sitemapKey && sitemap[sitemapKey]) {
 
 {tooManyBacklinks && (
 	<div class:list={className ?? ""} style="padding:0;">
-		<PageGraph class="right-sidebar-panel slsg-graph-panel" showGraph={true}>
-		</PageGraph>
+		<ScrollArea>
+			<div class:list={className ?? ""}>
+		<slot name="title" />
+		<ul class="backlinks-list">
+			{backlinks.map((link) => {
+				const href = link.startsWith('http')
+					? link
+					: ensureTrailingSlash('/' + trimSlashes(link.startsWith('md/') ? link.slice(3) : link), true);
+				const title = debracketKeepTitleOrAlias(sitemap[link]!.title);
+				return <li><a href={href}><span>{title}</span></a></li>;
+			})}
+		</ul>
+		{missingBacklinks.length > 0 && (
+			<p style="margin-top: .5rem; color: var(--sl-color-gray-3); font-size: var(--sl-text-xs);">
+				{missingBacklinks.length} backlink{missingBacklinks.length === 1 ? '' : 's'} not resolved yet.
+			</p>
+		)}
+	</div>
+		</ScrollArea>
 	</div>
 )}
 

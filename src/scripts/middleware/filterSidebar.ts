@@ -1,6 +1,6 @@
 import { defineMiddleware } from 'astro:middleware';
-import { getLinks } from './getLinks';
-import { debracketKeepFirst, slugify } from '../src/scripts/util';
+import { getLinks } from '../getLinks';
+import { debracketKeepFirst, slugify } from '../util';
 import type { DataEntryMap } from 'astro:content';
 
 export const onRequest = defineMiddleware(async (context, next) => {

@@ -19,6 +19,9 @@ export default defineConfig({
   redirects: {
       "/md/[...slug]": "/[...slug]",
       "/plain/thesis/[...slug]": "/thesis/[...slug]",
+      "/plain/meta-thesis/[...slug]": "/meta-thesis/[...slug]",
+      "/plain/structural/[...slug]": "/structural/[...slug]",
+      "/plain/about/[...slug]": "/about/[...slug]",
       "/earth/earth/[...slug]": "/earth/[...slug]",
       "/library/library/[...slug]": "/library/[...slug]",
       // do this better
@@ -137,7 +140,7 @@ export default defineConfig({
             SOLID_PASSWORD: envField.string({ context: "server", access: "secret", default: "password" }),
             SOLID_VAULT_BASE_PATH: envField.string({ context: "client", access: "public", default: "/vault" }),
             LOCAL_VAULT_BASE_PATH: envField.string({ context: "client", access: "public", default: "/src/content/vault/" }),
-            PUBLIC_SITE_DOMAIN:  envField.string({ context: "client", access: "public", default: "https://example.com" })
+            PUBLIC_SITE_DOMAIN:  envField.string({ context: "client", access: "public", default: "https://uncommonearthworm.vercel.app" })
         }
     }
 
