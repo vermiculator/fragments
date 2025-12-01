@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "set NODE_ENV=dev && astro dev",
     "start": "set NODE_ENV=dev && astro dev",
-    "build": "set NODE_ENV=production && astro build",
+    "build": "set NODE_ENV=production && node scripts/copyAssets.js && astro build",
     "preview": "astro preview",
     "astro": "astro",
     "deploy": "vercel env pull .env.local && vercel build --prod && vercel deploy --prebuilt --prod --yes"
