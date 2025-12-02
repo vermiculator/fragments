@@ -57,7 +57,6 @@ function renameAllMdFiles(dir) {
       const newPath = fullPath.replace(/\.md$/, '.mdx');
       try {
         fs.renameSync(fullPath, newPath);
-        console.log(`[rename-md-to-mdx] ${entry.name} -> ${entry.name.replace('.md', '.mdx')}`);
       } catch (err) {
         // File might already be renamed
       }
