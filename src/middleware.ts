@@ -26,6 +26,10 @@ const RDIR_MAP: Array<[string, string]> = [
 ];
 
 function maybeRedirect(pathname: string): string | undefined {
+    // Exact match for /thesis root
+    if (pathname === '/thesis' || pathname === '/thesis/') {
+        return '/thesis/masters-thesis';
+    }
     for (const [oldPath, newPath] of RDIR_MAP) {
         if (pathname.startsWith(oldPath)) {
             const rest = pathname.slice(oldPath.length); // keep remaining slug
