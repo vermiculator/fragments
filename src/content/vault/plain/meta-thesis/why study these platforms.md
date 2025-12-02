@@ -1,3 +1,6 @@
+---
+title: 'why study these platforms'
+---
 
 - why Pinterest
     - visual priority, ease of use, common low bar and casual use can lead to more instrumental use, more layman's than arena often, and a lit of existing research on it

@@ -1,3 +1,7 @@
+---
+title: 'future-building on Are.na'
+---
+
 Here I -may later- add more extended analysis of individual blocks that I ran out of room for in the [[plain/thesis/thesis-practise#^b866b9|main body of my thesis]]. For more details of procedure see '[[plain/meta-thesis/Are.na analysis|Are.na analysis]]'. All blocks on this page are embedded with consent.
 
 ---

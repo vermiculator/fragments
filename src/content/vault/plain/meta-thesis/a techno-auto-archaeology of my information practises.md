@@ -5,6 +5,7 @@ parent:
 peer:
   - "[[what counts as an atomic fragment]]"
   - "[[what i want to capture]]"
+title: 'a techno-archaeology of my information practises'
 ---
 discuss through my own history:
 - cataloguing/indexing

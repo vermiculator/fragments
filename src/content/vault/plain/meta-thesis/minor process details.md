@@ -1,4 +1,6 @@
-
+---
+title: 'minor process details'
+---
 ## Board Search Process
 ### general starting keywords
 - community support / community building

@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[Masters in public]]"
+title: 'why Solid ecosystem'
 ---
 the needs for
 - data ownership/portability/control/etc

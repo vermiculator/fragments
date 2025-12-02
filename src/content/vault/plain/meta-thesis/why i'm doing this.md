@@ -1,6 +1,7 @@
 ---
 contextKind: purpose
 contextDetails: understanding which methods, framings and perspectives have been useful for me, either through the thesis process or in constructing and arguing the thesis
+title: 'why im doing this'
 ---
 - fundamentally I'm doing this because I have a fuzzy brain with many many fuzzy connections. i want to bring together my learning/resources/knowledge from different places and become effective cyborg with the most minimal external tech. actually let the tech work as extended brainspace without stealing energy and extra data. directly link my concepts to adjacent concepts without the bloat of platforms and 'content'. connect ideas to ideas and pathways to pathways in the most natural multibranched path I can. functionalise my data hoarding and connect it to all the other useful data hoarding. 
 - Balancing my own values and my own practical needs and body-mind states with the requirements and possibilities of the institution us interesting in innumerable ways. It feels weird every time I'm either given access to or blocked out from resources and knowledge due to semi-arbitrary choices of the institution and political and commercial bodies around it 

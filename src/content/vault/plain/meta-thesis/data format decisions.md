@@ -1,3 +1,7 @@
+---
+title: 'data format decisions'
+---
+
 Through [[insights from my own experience|my experiences]] selecting tools in the past I'd always come back to markdown as the format that is the most portable, the most human readable but extensible through other syntax eg YAML that gives it properties useful for sorting and refinding. JSON and XML are very portable but not readable and don't prioritise the actual 'note-like' content, and .txt doesn't give basic formatting. No other non-proprietary formats are widely used enough for interoperability with most commonly used text editors from the very simple to the more complex. But markdown isn't enough when it comes to structured metadata for better linking, searching and finding, crucial to curation. 
 
 When it comes to structured metadata, we're in the world of linked data and the semantic web, which means RDF is the commonly used data format (and the format used by Solid Pods), so the question becomes compatibility between markdown and various extended forms of RDF.

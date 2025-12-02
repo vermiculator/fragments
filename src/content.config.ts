@@ -50,24 +50,24 @@ export const collections = {
 		  }),
 	}),
 	about: defineCollection({
-		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/docs/mdx/plain/about/" }),
+		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/plain/about/" }),
 		 schema: generalSchema
 	}),
 	thesis: defineCollection({
-		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/docs/mdx/plain/thesis" }),
+		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/plain/thesis" }),
 		  schema: generalSchema
 	}),
 	metaThesis: defineCollection({
-		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/plain/meta-thesis" }),
+		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/plain/meta-thesis" }),
 		  schema: generalSchema
 	}),
 	structural: defineCollection({
-		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/plain/structural" }),
+		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/plain/structural" }),
 		  schema: generalSchema
 	}),
 	docs: defineCollection({
-		loader: glob({ 
-			pattern: ['**/*.mdx', '**/*.md', '!earth/**', '!library/**', '!entities/**', '!plain/thesis/**', '!plain/meta-thesis/**', '!plain/about/**'], 
+		loader: glob({
+			pattern: ['**/*.mdx', '**/*.md', '!plain/about/**', '!plain/structural/**'],
 			base: "./src/content/docs/mdx"
 		}),
 		  schema: generalSchema

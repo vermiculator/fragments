@@ -1,0 +1,32 @@
+---
+import { debracketKeepFirst } from '@/scripts/util';
+import { Tag } from 'lucide-react';
+
+interface Props {
+	entry: any;
+}
+
+const { entry } = Astro.props;
+---
+
+<div class="entities-wrapper">
+	<div class="sl-container properties">
+	{entry.author??''}
+   {entry.caveats ? (
+    <div class="sl-container">
+          {entry.caveats.map((X: any) => (
+        	<Tag>{debracketKeepFirst(X)}</Tag>
+          ))}
+    </div>
+  ) : null}
+  </div>
+	<slot />
+</div>
+
+<style>
+	:root {
+		.entities-wrapper {
+			/* Add entities-specific styles here */
+		}
+	}
+</style>

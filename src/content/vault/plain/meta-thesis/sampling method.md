@@ -7,6 +7,7 @@ peer:
 child:
   - "[[Pinterest data collection]]"
   - "[[plain/meta-thesis/Are.na data collection]]"
+title: 'sampling method'
 ---
 I used keyword-search and snowball sampling methods for selection of boards/pins on Pinterest and channels/blocks on Are.na, for purposive sampling. I selected and excluded based on the following criteria:
 

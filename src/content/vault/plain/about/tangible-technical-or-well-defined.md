@@ -1,8 +1,9 @@
 ---
-title: ' "past experience: tangible, technical or well-defined"'
+title: 'past experience: tangible, technical or well-defined'
 slug: past/tangible-technical-well-defined
 template: splash
 ---
+
 projects, specific subjects of dedicated study, discrete measures of completion
 
 ---

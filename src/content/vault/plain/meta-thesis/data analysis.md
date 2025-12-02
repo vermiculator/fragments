@@ -1,3 +1,7 @@
+---
+title: 'data analysis'
+---
+
 content analysis of case studies
 
 in selecting I also identified how each board

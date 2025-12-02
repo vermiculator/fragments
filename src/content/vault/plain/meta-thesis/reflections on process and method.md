@@ -1,6 +1,7 @@
 ---
 contextKind: format
 contextDetails: overview
+title: 'reflections on process and method'
 ---
 - [[who i'm doing this for]]
 - [[why i'm doing this]]

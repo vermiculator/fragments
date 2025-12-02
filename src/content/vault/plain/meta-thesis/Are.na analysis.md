@@ -1,3 +1,6 @@
+---
+title: 'Are.na analysis'
+---
 
 See the [[plain/thesis/thesis-practise|main body of my thesis]] for context and discussion of the most relevant themes, see below for the details of my analysis, or see '[[plain/meta-thesis/future-building on Are.na|future-building on Are.na]]' for individual blocks.
 

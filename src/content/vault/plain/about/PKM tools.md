@@ -1,3 +1,7 @@
+---
+title: 'PKM tools'
+---
+
 Obsidian's new 'bases' core plugin has eclipsed the need/feature-set of other entity-based PKM tools in my view. Different interfaces are always welcome but at core Obsidian is now the best all-rounder/entity-based as well as the best at looser style . It is game-changing also for my research process as it eclipses my need for Zotero if I can view paper metadata quickly in a database view. Idk why they went for a new file format though, wider used formats exist. I also don't always need everything in a database to have its own md file associated, sometimes its a tiny data point.
 ## My current tools
 - Obsidian - almost perfect, just gets finicky when loaded with plugins and not fully open-source

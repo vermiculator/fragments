@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[meta-thesis]]"
+title: 'possibly later'
 ---
 ## direction [[plain/meta-thesis/directions|->]]
 

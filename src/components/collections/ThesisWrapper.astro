@@ -1,0 +1,35 @@
+---
+import { ScrollArea } from "../ui/scroll-area";
+
+interface Props {
+	entry: any;
+}
+
+const { entry } = Astro.props;
+---
+
+<div class="thesis-wrapper">
+	<ScrollArea className="body p-1 max-h-1/2">
+		<slot />
+	</ScrollArea>
+</div>
+
+<style>
+	:root {
+		.thesis-wrapper .sl-markdown-content {
+			line-height: 1.4;
+		}
+
+		.thesis-wrapper .level-h1,
+		.thesis-wrapper h1 {
+			color: white;
+		}
+
+		h2.thesis-part {
+			color: var(--color-accent-200);
+			opacity: 50%;
+			margin-bottom: 1rem;
+			padding: 0.2rem;
+		}
+	}
+</style>

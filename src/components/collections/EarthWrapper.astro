@@ -1,0 +1,38 @@
+---
+interface Props {
+	entry: any;
+}
+
+const { entry } = Astro.props;
+---
+
+<div class="earth-wrapper">
+   {entry.caveats?? entry.caveats}
+	<slot />
+</div>
+
+<style>
+	:root {
+		.earth-wrapper {
+			/* Add earth-specific styles here */
+		}
+		  .sidebar-content summary .caret {
+            transform: rotate(-90deg);
+        }
+
+        .sidebar-content summary:hover {
+
+            .caret {
+                transform: rotate(-115deg);
+                background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
+                color: var(--sl-color-text-accent);
+            }
+
+            .group-label {
+                background-color: var(--sl-color-gray-7, var(--sl-color-gray-6));
+                color: var(--sl-color-text-accent);
+            }
+
+        }
+	}
+</style>

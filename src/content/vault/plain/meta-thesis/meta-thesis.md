@@ -6,7 +6,7 @@ peer:
   - "[[pluriversality]]"
   - "[[institutional power]]"
   - "[[university elitism]]"
-title: meta-thesis
+title: 'meta-thesis'
 ---
 - here live any displaced notes on format and process 
 - purpose: understanding which methods, framings and perspectives have been useful for me, either through the thesis process or in constructing and arguing the thesis

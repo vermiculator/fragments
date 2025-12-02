@@ -7,7 +7,7 @@ peer:
   - "[[positionality]]"
 caveats:
   - "[[important to continuously update|caveat/important to continuously update]]"
-title: alignments
+title: 'alignments'
 ---
 generally where i sit on the 'isms - v much always-in-progress speculatory
 

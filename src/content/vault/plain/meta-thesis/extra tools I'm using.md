@@ -1,3 +1,7 @@
+---
+title: "extra tools i'm using"
+---
+
 ## data collection
 ### Are.na
 - individual blocks on Are.na usage were collected on an account specifically for this purpose and downloaded through the 'Are.na manager' Obsidian plugin by Javier Arce

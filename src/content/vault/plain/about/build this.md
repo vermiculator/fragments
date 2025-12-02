@@ -1,5 +1,5 @@
 ---
-title: build this
+title: 'build this'
 peer:
   - "[[personal sites]]"
   - "[[web 1.0 tech is still here]]"

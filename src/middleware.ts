@@ -1,52 +1,57 @@
 import { defineMiddleware } from 'astro:middleware';
 
-// redirects moved from astro config so they aren't static
-const RDIR_MAP: Array<[string, string]> = [
-    ['/mdx/library/library', '/library'],
-    ['/mdx/earth/earth', '/earth'],
-    ['/mdx/entities/entities', '/entities'],
-    ['/mdx/library', '/library'],
-    ['/mdx/earth', '/earth'],
-    ['/mdx/entities', '/entities'],
-    ['/md/library/library', '/library'],
-    ['/md/earth/earth', '/earth'],
-    ['/md/entities/entities', '/entities'],
-    ['/md/library', '/library'],
-    ['/md/earth', '/earth'],
-    ['/md/entities', '/entities'],
-    ['/about/about/', '/about/'],
-    ['/earth/earth/', '/earth/'],
-    ['/library/library/', '/library/'],
-    ['/entities/entities/', '/entities/'],
-    ['/mdx/plain', '/'],
-    ['/md/plain', '/'],
-    ['/mdx', '/'],
-    ['/md', '/'],
-    ['/plain', '/'],
-];
+const PLAIN_COLLECTIONS = ['thesis', 'about', 'meta-thesis', 'structural'];
+const UNIQUE_COLLECTIONS = ['entities', 'earth', 'library'];
 
 function maybeRedirect(pathname: string): string | undefined {
-    // Exact match for /thesis root
-    if (pathname === '/thesis' || pathname === '/thesis/') {
-        return '/thesis/masters-thesis';
+
+    // special cases
+    if(pathname === '/'){
+        return '/';
     }
-    for (const [oldPath, newPath] of RDIR_MAP) {
-        if (pathname.startsWith(oldPath)) {
-            const rest = pathname.slice(oldPath.length); // keep remaining slug
-            const target = newPath + rest;
-            // Avoid double slashes and self-redirect loops
-            const normalized = target.replace(/\/+/g, '/');
-            if (normalized !== pathname) {
-                return normalized;
+    if (pathname === '/thesis' || pathname === '/thesis/') {
+        return '/plain/thesis/masters-thesis';
+    }
+    if (pathname === '/about' || pathname === '/about/') {
+        return '/plain/about/about';
+    }
+
+    // normalize plain routes first
+    for (const prefix of ['/mdx/', '/mdx', '/md/', '/md']) {
+        if (pathname.startsWith(prefix)) {
+            const rest = pathname.slice(prefix.length);
+            const nextSeg = rest.split('/')[0] ?? '';
+            if (PLAIN_COLLECTIONS.includes(nextSeg)) {
+                return `/plain/${rest}`;
             }
+            return `/${rest}`;
         }
     }
-    return undefined;
+
+    for (const collection of PLAIN_COLLECTIONS) {
+        if (pathname.startsWith(`/plain/${collection}/`)) {
+            return undefined; // Already correct path
+        }
+        if (pathname.startsWith(`/${collection}/`)) {
+            const rest = pathname.slice(`/${collection}/`.length);
+            return `/plain/${collection}/${rest}`;
+        }
+    }
+
+    for (const collection of UNIQUE_COLLECTIONS) {
+        if (pathname.startsWith(`/${collection}/${collection}/`)) {
+            const rest = pathname.slice(`/${collection}/`.length);
+            return `${rest}`;
+        }
+    }
+
+    return pathname;
+
 }
 
 export const onRequest = defineMiddleware((context, next) => {
     const redirectTo = maybeRedirect(context.url.pathname);
-    if (redirectTo) {
+    if (redirectTo && redirectTo !== context.url.pathname) {
         return context.redirect(redirectTo, 301);
     }
     return next();

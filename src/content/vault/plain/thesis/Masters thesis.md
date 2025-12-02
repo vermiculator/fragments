@@ -4,20 +4,19 @@ peer:
   - "[[Masters Module - Intersectional Internets]]"
   - "[[Masters Module - Methods for Equitable Technology Development]]"
   - "[[Masters Module - Creative Making - Advanced Physical Computing and Tangible Media]]"
-  - "[[Masters Module - Creative Making - Advanced Computational Creativity and Responsive Environments]]"
+  - "[[Masters Module - Creative Making - Advanced Computational Creativity and Responsive Environments]"
 child:
   - "[[Masters in public]]"
 title: Masters thesis
-forwards: "[[thesis introduction]]
+forwards: "[[thesis introduction]]"
 ---
-# Thesis
 
 **Resistive fragment assemblages:** How do decentralised web technologies better enable collectivist para-archives?
 
 Rowan Lucas Smith, Creative Computing Institute, University of the Arts London
 
 ## Abstract
-	
+
 Anti-capitalist work in [[liberating the internet|liberating]] [[the everyday|everyday]] information practise from the goals of [[big tech|monopolising tech companies]] is spread thin across various industry concerns and [[interdisciplinarity|disciplinary hegemonies]]. By centering collectivist ideals I appeal to the digital commons and decentralised web to enable particular practises of hyperconnected personal curation that have potential for collectivist resistance. Through analysis of public assemblages of fragmented experience on existing web platforms ([[Pinterest analysis details|Pinterest]] and [[plain/meta-thesis/Are.na analysis|Are.na]]) I'll discuss the benefits that [[decentralised web|decentralised]] models and the [[semantic web]] could have on extra-institutional knowledge-work. This thesis is also a meta-work of [[self-exemplification]]. As a living [[provotypes|provotype]], this thesis is presented as part of a personal website indexing [[index of potential|cues]] to my own [[self-transcendence]] through collectivist pedagogy and experimental tech.
 
 ## Acknowledgments

@@ -8,7 +8,7 @@ peer:
   - "[[methodology overview]]"
   - "[[methods overview]]"
   - "[[choosing disciplinary framings]]"
-title: choosing methodology
+title: 'choosing methodology'
 ---
 - you are proposing the method, your insights can become methodologies 
 - combining methodologies and frameworks

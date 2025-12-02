@@ -1,0 +1,18 @@
+---
+interface Props {
+	entry: any;
+}
+
+const { entry } = Astro.props;
+---
+
+<div class="structural-wrapper">
+	<slot />
+</div>
+
+<style>
+	:root {
+		.structural-wrapper {
+		}
+	}
+</style>

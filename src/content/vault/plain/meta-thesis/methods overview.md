@@ -1,6 +1,7 @@
 ---
 contextKind: format
 contextDetails: overview
+title: 'methods overview'
 ---
 - ==Thematic Analysis of Imagery/Text Assemblage==
 			- Pinterest board case studies

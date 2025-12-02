@@ -2,6 +2,7 @@
 peer:
   - "[[plain/meta-thesis/Are.na analysis]]"
 forwards: "[[plain/meta-thesis/Are.na analysis]]"
+title: 'Pinterest analysis details'
 ---
 ## Methods
 

@@ -1,3 +1,7 @@
+---
+title: 'guidelines'
+---
+
 Some things I try to keep consistent here, to keep the space more manageable and useful. Not comprehensive or strictly adhered to, just a guide that may be of interest as I add to it. 
 
 Elaborations since writing my [[Masters thesis]] are pending!

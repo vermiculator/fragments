@@ -1,3 +1,6 @@
+---
+title: 'pin themes'
+---
 
 the themes I selected live [[plain/meta-thesis/selected Pinterest themes|here ->]]
 

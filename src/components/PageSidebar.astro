@@ -30,7 +30,7 @@ const headings = true;
 		</div>
 		<div class="right-sidebar-panel sl-hidden lg:sl-block">
 			<div class="sl-container">
-				<h2 class="toc-title">on this page:</h2>
+				<a href={'#_top'}><h2 class="toc-title">on this page:</h2></a>
 				<TableOfContents />
 			</div>
 		</div>
@@ -40,10 +40,16 @@ const headings = true;
 <style>
 	:root {
 		.right-sidebar-panel {
-			padding: 0.8rem var(--sl-sidebar-pad-x);
+			padding: 0.8rem var(--right-sidebar-pad-x);
 		}
+
+		.right-sidebar-panel #starlight__on-this-page, .right-sidebar-panel ul:nth-child(2) li:first-child {
+			display: none;
+		}
+
+
 		.right-sidebar-panel .sl-container {
-			width: calc(var(--sl-sidebar-width) - 2 * var(--sl-sidebar-pad-x));
+			width: calc(var(--right-sidebar-width) - 2 * var(--right-sidebar-pad-x));
 		}
 		.right-sidebar-panel h2 {
 			color: var(--sl-color-white);

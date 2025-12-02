@@ -1,5 +1,5 @@
 ---
-title: formal education
+title: 'formal education'
 slug: "/past/formal-education"
 template: splash
 ---

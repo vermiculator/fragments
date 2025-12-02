@@ -1,3 +1,6 @@
+---
+title: 'screenshot-specific routes'
+---
 
 A theme in capture-curation that I've not had the space yet to develop and explore, but is of great potential, and I've collected various thoughts/theories/insights on.
 

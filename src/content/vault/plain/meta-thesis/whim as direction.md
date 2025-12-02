@@ -1,7 +1,7 @@
 ---
 aliases:
   - (my) autistic methods
-title: whim as direction
+title: 'whim as direction'
 ---
 an inherently neurodivergent practise
 

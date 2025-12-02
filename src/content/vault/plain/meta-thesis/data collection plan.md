@@ -5,6 +5,7 @@ parent:
   - "[[meta-thesis]]"
 child:
   - "[[plain/meta-thesis/Are.na data collection]]"
+title: 'data collection plan'
 ---
 
 - [[Pinterest data collection|Pinterest]]

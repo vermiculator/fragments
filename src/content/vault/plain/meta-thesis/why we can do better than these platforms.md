@@ -3,6 +3,7 @@ parent:
   - "[[Masters in public]]"
 peer:
   - "[[why study these platforms]]"
+title: 'why we can do better than these platforms'
 ---
 - why we can do better than Tumblr/Pinterest/Are.na
     - future works not necessarily aligned with social goals

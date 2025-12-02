@@ -1,3 +1,6 @@
+---
+title: 'why i write lowercase'
+---
 - informality, readability
 - texting habits
 - coding habits

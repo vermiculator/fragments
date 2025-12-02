@@ -3,6 +3,7 @@ parent:
   - "[[meta-thesis]]"
 contextKind: purpose
 contextDetails: justification or argument
+title: 'justification of format'
 ---
 - self-exemplifying
 - para-tactics

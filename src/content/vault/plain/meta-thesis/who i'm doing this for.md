@@ -1,6 +1,7 @@
 ---
 contextKind: purpose
 contextDetails: understanding which methods, framings and perspectives have been useful for me, either through the thesis process or in constructing and arguing the thesis
+title: 'who im doing this for'
 ---
 - me
 -  not just institutional 'students' of specific topic but 'students' of everything

@@ -1,3 +1,7 @@
+---
+title: 'extra threads'
+---
+
 threads adjacent to my Masters thesis that aren't central to the initial shorter inquiry 
 
 this is a dump of stuff for me to unwind and i'm sorry if you try to read it

@@ -1,3 +1,6 @@
+---
+title: 'about'
+---
 
 - [[personal sites|personal site]] of a singular human author.
 

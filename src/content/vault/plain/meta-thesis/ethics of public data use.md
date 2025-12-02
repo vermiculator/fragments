@@ -3,6 +3,7 @@ parent:
   - "[[Masters thesis]]"
 peer:
   - "[[privacy in public]]"
+title: 'ethics of public data use'
 ---
 TODO discuss what I've considered
 - + discussion of  'online self-disclosure practices' - relevant for ethics in methodology [[quickref#^63f9f1]]

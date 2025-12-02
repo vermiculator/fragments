@@ -40,3 +40,7 @@ export function debracketKeepFirst (link:string):string {
   }
   return ''
 }
+
+export function baseify (link:string):string {
+  return link.replace(/^\/(md|mdx|plain)\//, '/').split('/').slice(0, -1).join('/') + '/';
+}

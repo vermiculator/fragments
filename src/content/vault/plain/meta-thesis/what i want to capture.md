@@ -3,6 +3,7 @@ contextKind: task
 contextDetails: system/process development
 parent:
   - "[[meta-thesis]]"
+title: 'what i want to capture'
 ---
 - thoughts as words
 - images with words

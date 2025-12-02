@@ -1,0 +1,49 @@
+---
+import { debracketKeepFirst } from '@/scripts/util';
+import { Badge } from '@astrojs/starlight/components';
+
+interface Props {
+	entry: any;
+}
+
+const { entry } = Astro.props;
+---
+
+<div class="library-wrapper">
+	<div class="sl-container properties">
+    { entry.author ?
+      <div id="author" class="property">
+        by {entry.author}
+      </div>
+        : ''
+    }
+    { entry.url ?
+      <div id="source-url" class="property">
+        source: <a target="_blank" rel="noopener noreferrer" href={entry.url}>{entry.url}</a>
+      </div>
+        : ''
+    }
+    { entry.published_date ?
+      <div id="published-date" class="property">
+        published: {entry.published_date.toLocaleDateString()}
+      </div>
+        : ''
+    }
+   {entry.caveats ? (
+    <div class="sl-container caveats">
+          {entry.caveats.map((X: any) => (
+            <Badge text={debracketKeepFirst(X)} variant="caution"></Badge>
+          ))}
+    </div>
+  ) : null}
+    </div>
+	<slot />
+</div>
+
+<style>
+	:root {
+		.library-wrapper {
+			/* Add library-specific styles here */
+		}
+	}
+</style>
