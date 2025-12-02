@@ -7,4 +7,3 @@ aliases:
 backwards: "[[thesis conclusion|Conclusion]]"
 forwards: "[[masters thesis|Thesis Overview]]"
 ---
-

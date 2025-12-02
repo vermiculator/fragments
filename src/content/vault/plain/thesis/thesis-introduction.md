@@ -7,18 +7,16 @@ aliases:
 forwards: "[[thesis context|Context]]"
 backwards: "[[masters thesis|Thesis Overview]]"
 ---
- 
-[[Masters in public#Aims]]
- 
-[[Masters in public#Objectives]]
-
 
 ## Abstract
 
-Anti-capitalist work in [[liberating the internet|liberating]] [[the everyday|everyday]] information practise from the goals of [[big tech|monopolising tech companies]] is spread thin across various industry concerns and [[interdisciplinarity|disciplinary hegemonies]]. By centering collectivist ideals I appeal to the digital commons and decentralised web to enable particular practises of hyperconnected personal curation that have potential for collectivist resistance. Through analysis of public assemblages of fragmented experience on existing web platforms ([[Pinterest analysis details|Pinterest]] and [[plain/meta-thesis/Are.na analysis|Are.na]]) I'll discuss the benefits that [[decentralised web|decentralised]] models and the [[semantic web]] could have on extra-institutional knowledge-work. This thesis is also a meta-work of [[self-exemplification]]. As a living [[provotypes|provotype]], this thesis is presented within a personal website indexing [[externalised memory|cues]] of my own [[self-transcendence]] through collectivist pedagogy and experimental tech. 
+Anti-capitalist work in [[liberating the internet|liberating]] [[the everyday|everyday]] information practise from the goals of [[big tech|monopolising tech companies]] is spread thin across various industry concerns and [[interdisciplinarity|disciplinary hegemonies]]. By centering collectivist ideals I appeal to the digital commons and decentralised web to enable particular practises of hyperconnected personal curation that have potential for collectivist resistance. Through analysis of public assemblages of fragmented experience on existing web platforms ([[Pinterest analysis details|Pinterest]] and [[plain/meta-thesis/Are.na analysis|Are.na]]) I'll discuss the benefits that [[decentralised web|decentralised]] models and the [[semantic web]] could have on extra-institutional knowledge-work. This thesis is also a meta-work of [[self-exemplification]]. As a living [[provotypes|provotype]], this thesis is presented within a personal website indexing [[externalised memory|cues]] of my own [[self-transcendence]] through collectivist pedagogy and experimental tech.
+ 
+- [[Masters in public#Aims]]
+- [[Masters in public#Objectives]]
 
 ## Important Definitions
-- **[[mnemotechniques and mnemotechnologies]]**: tools, methods, platforms and structures for storing and retrieving information, loosely separated by their reliance on a singular medium or 'attentive mode' ([[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|Smolicki, 2017]]; Stiegler, 2010) [[mnemotechniques and mnemotechnologies|(1)]] [[plain/thesis/thesis-context#Mnemotechnology under capitalist realism|(2)]] 
+- **[[mnemotechniques and mnemotechnologies]]**: tools, methods, platforms and structures for storing and retrieving information, loosely separated by their reliance on a singular medium or 'attentive mode' ([[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|Smolicki, 2017]]; Stiegler, 2010) [[mnemotechniques and mnemotechnologies|(1)]] [[plain/thesis/thesis-context#Mnemotechnology under capitalist realism|(2)]]
 - **[[para-archival practise|para-archival]]**: deployment of capitalist tech for archival practises that "do not explicitly counteract, but evolve alongside or parallel to the proprietary power" [[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(Smolicki, 2017)]] -  "a second level interwoven into the first (de Certeau, 1984, p.31, cited by [[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|Smolicki, 2017, pp.20]])
 - **[[collectivism|collectivist/collectivism]]**: used here as a deliberately general term, referring to leftist politics that emphasise communal care and ownership; not necessarily in neglect of the individual. I intend particularly to encompass anti-capitalist, anti-fascist, intersectional feminist, decolonialist and environmental movements. The closest specific political connotation I'm making is with **[[communalism]]** and **anarcho-communism** in the tradition of [Bookchin](https://en.wikipedia.org/wiki/Murray_Bookchin) and [Kropotkin](https://en.wikipedia.org/wiki/Peter_Kropotkin).
 - **[[semantic web]]**: originally coined by [Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) to describe a web of connected data that is machine-readable. In modern developments and in my usage, it should also be maximally human-readable. 

@@ -1,0 +1,31 @@
+---
+
+interface Props {
+  perRow?: number;
+}
+
+---
+
+<div class="arena-grid">
+  <slot />
+</div>
+
+<style>
+  :root{
+    .arena-grid {
+      background-color: black;
+      overflow-y: scroll;
+      max-width: 100%;
+      padding: 1rem;
+      border: 1px solid var(--color-gray-800);
+      display: inline-flex;
+      flex-direction: row;
+      width: fit-content;
+      height: fit-content;
+    }
+
+     .arena-grid {
+      font-size: smaller;
+     }
+  }
+</style>

@@ -29,22 +29,31 @@ const nextLink = page.data?.forwards ? {link: slugify(debracketKeepFirst(page.da
 const { Content } = await render(page);
 export const prerender = true;
 
+const thesisTitle = "Resistive fragment assemblages: How do decentralised web technologies better enable collectivist para-archives?";
+
 ---
 
-    <StarlightPage frontmatter={{ title: page.data.title, prev: prevLink, next: nextLink, tableOfContents: true, template: 'doc', graph: {visible: false} }}>
-        <ScrollArea className="body p-1 max-h-1/2">
-                <Content />
+    <StarlightPage frontmatter={{ title: thesisTitle, prev: prevLink, next: nextLink, tableOfContents: true, template: 'doc', graph: {visible: false} }}>
+       <h2 class="thesis-part" set:html={ page.data?.aliases?.[0] } />
+       <ScrollArea className="body p-1 max-h-1/2">
+            <Content />
         </ScrollArea>
     </StarlightPage>
 
 <style>
     :root{
-        div.content-panel:nth-child(1){
-            display: none;
+
+        .sl-markdown-content {
+            line-height: 1.2rem;
+        }
+        .level-h1, h1 {
+            color: var(--color-accent-200);
+            opacity: 50%;
         }
 
-        .level-h1 {
-            color: var(--color-accent-600);
+        h2.thesis-part{
+            color: white;
+            text-decoration: underline;
         }
 
                 nav.thesis-nav {

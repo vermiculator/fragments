@@ -7,6 +7,7 @@ aliases:
 backwards: "[[thesis methodology|Methodology]]"
 forwards: "[[thesis discussion|Discussion]]"
 ---
+import ArenaGrid from '../../../../../components/ArenaGrid.astro';
 import ArenaEmbed from '../../../../../components/ArenaEmbed.astro';
 
 ## Assemblage analysis
@@ -52,23 +53,23 @@ A notable class of pins used irony, humour, vague language or appeal to in-group
 
 Are.na's infrastructure echoes Tumblr's multi-modality [[tumblr (book)|(Tiidenberg, Hendry, and Abidin, 2021)]]. Text blocks precipitate additional patterns of use to Pinterest's, such as [[excerpting]] and journaling. Saving PDFs is of huge microcultural and infrastructural significance as Are.na also now functions as a searchable textual archive. Allowing capture of a raw url is another benefit of this [[multi-modal|multi-modality]]. Both Are.na and Pinterest's bookmarks insist on an image cover, an uncommon pattern in bookmarking which [[refinding is quicker from images than text|can be useful for refinding]] [[Screenshot Situations|(Tyżlik-Carver, 2022)]], but in aggregate produces redundant visual clutter of auto-screenshots. I determined that Are.na's bookmarks covered common categories: organisations, articles, resources and temporal bookmarks. Resource bookmarks would've often been more useful as embedded lists of links but sometimes included web tools or unusual formats. Temporal bookmarks were those with associated dates and deadlines: bookmarks never intended to persist.
 
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/10305629/" title="embedded Are.na block"></iframe>
+<ArenaGrid><ArenaEmbed id="10305629"></ArenaEmbed>
 <caption>an example of an organisation bookmark whose auto-captured screenshot cover includes useful information that could be captured as metadata</caption>
- 
-<ArenaEmbed id="10305629"></ArenaEmbed>
+</ArenaGrid>
 
 #### knowledge lineage and reflexive curation
 
 Whilst Are.na stores only a single source link as Pinterest does, its culture encourages added provenance in the text body, title, descriptions or comments, to a greater degree than Pinterest. In text blocks, users often quote or take excerpts from longer articles, which act as **general inspiration** on Pinterest (CITE) but contain **reflexive commentary** on Are.na. Many channels are designed explicitly around a titular questions, as study guides or with **embedded navigational instructions**. Are.na's culture of connectivity and methods of capture encourage [[citational justice]]. 
 
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/10340425" title="embedded Are.na block"></iframe>
+<ArenaGrid><ArenaEmbed id="10340425"></ArenaEmbed>
 <caption>In quoting an article reviewing another work, source lineage is preserved but obscured by displaying it as plain text without quotation - a minor interface choice that confuses the authorship and intent of individual fragments when assembled.</caption>
+</ArenaGrid>
 
 #### forms of resistance
 Content on Are.na was more likely to indicate **earnest exploration** of a topic, with less representation of memes, slogans and humour and more straight-forward information. Much of the content was **hopeful**, **action-focused** and **esoteric**, reflecting both [[plain/thesis/thesis-practise#^9c0db3|the user base]] and the affordances of [[multi-modal|multi-modality]]. Reference to **collective responsibility** was more explicit and use of the platform often felt more deliberate and reflexive, leading me to further analysis through users' meta-commentary. 
 
 
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/785725" title="embedded Are.na block"></iframe>
+<ArenaGrid><ArenaEmbed id="785725"></ArenaEmbed></ArenaGrid>
 
 
 ## [[Are.na meta-analysis]]
@@ -77,19 +78,16 @@ With great capacity for **texture and liveness** through embedded elements of 'v
 
 Are.na users value the **multi-modality** of the platform, perhaps as it affords "respect for the multifaceted complexity of memory as opposed to one technical grid applied to all types of memories and observations." [[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(Smolicki, 2017, pp.102)]]. Juxtaposing [[embodied knowledge|embodied]], [[experiential knowledge|experiential]] knowledges with traditional sources provide reflexive space in its reconfiguration [[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(Smolicki, 2017)]]. Whilst some **hoarding** of blocks resembles "nothing more than collection" (Wolff and Mulholland, 2013, no pagination), Are.na users often describe **curation** as defined prior by **deliberate organisation** or collection along specific themes. Many users contrasted it with Pinterest directly.
 
-Further to this, I found my own impressions echoed by those who viewed their Are.na usage as a maturation of their time on Tumblr (["post-Tumblr"](https://www.are.na/block/17029606), ["tumblr graduation"](https://www.are.na/block/13297652/)). Tumblr's sense of **intimacy** alongside a "pedagogy for social change" [[tumblr (book)|(Tiidenberg, Hendry, and Abidin, 2021, pp.135)]] is evident also on Are.na. In interviews exploring later changes to the platform, a Tumblr user shared: "I miss a space where I could explore and construct a juxtapositional, incoherent, multifaceted version of myself...a particular engaged, kind audience...a space where I contained multitudes" [[tumblr (book)|(Tiidenberg, Hendry, and Abidin, 2021)]]. It appears that Are.na is one such space. 
+Further to this, I found my own impressions echoed by those who viewed their Are.na usage as a maturation of their time on Tumblr (["post-Tumblr"](https://www.are.na/block/17029606), ["tumblr graduation"](https://www.are.na/block/13297652/)). Tumblr's sense of **intimacy** alongside a "pedagogy for social change" [[tumblr (book)|(Tiidenberg, Hendry, and Abidin, 2021, pp.135)]] is evident also on Are.na. In interviews exploring later changes to the platform, a Tumblr user shared: "I miss a space where I could explore and construct a juxtapositional, incoherent, multifaceted version of myself...a particular engaged, kind audience...a space where I contained multitudes" [[tumblr (book)|(Tiidenberg, Hendry, and Abidin, 2021)]]. It appears that Are.na is one such space.
 
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/17029606" title="embedded Are.na block"></iframe>
-
-
+<ArenaGrid><ArenaEmbed id="17029606"></ArenaEmbed></ArenaGrid>
 
 
 ### (hyper)active exploratory agency
 
 ^cddc06
 
-
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/769369/" title="embedded Are.na block"></iframe>
+<ArenaGrid><ArenaEmbed id="769369"></ArenaEmbed></ArenaGrid>
 
 Many established themes covered cases of organizing (and 'deorganizing') content, balancing the freedoms of extensibility with the usability of minimal interfaces. I'd argue that Are.na users overestimate how reconfigurable their content is on this platform due to structural limitations I'll discuss [[plain/thesis/thesis-practise#^7b77d2|later]]. Are.na benefits greatly from comparison to more prohibitive tools, but it's overarching structural success is in its **multi-directional connectivity** that allows for representation of [[knowledge graphs]]. I found that **flexibility** alone is a surprisingly common draw, perhaps as it reflects a non-persistent selfhood "exposed in media, \[forming] realities or identities that can be accessed, shaped, and continuously re-edited" [[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(Smolicki, 2017, pp.63)]].
 
@@ -113,10 +111,10 @@ At its extreme, extensive access to external memory can feel like [[ambient inte
 ^323b17
 Are.na is commonly described as a 'second brain', an extension or replacement of the first. I want to highlight the difference between these metaphors to align with Smolicki's [[Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(2017)]] call for 'synergy versus substitution' with mnemotechnologies. [[Second brains are just as faulty as first brains (just differently so)]], and the task of technology is to augment particular functions. Many Are.na users referred to it more as **extended memory** than cognition itself, which aligns with the [[plain/thesis/thesis-context#^fdd06b|prior discussion]] of [[externalised memory]]. I determined the most accurate metaphors to be those referencing **brain interfaces**, as this reflects the **mnemotechnical** use extending beyond Are.na's particular instantiation. A slight twist on this was mention of **transparency**, as this both speaks to the development of a [[knowledge commons]] and to the immediacy of access discussed in other themes.
 
-
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/768884/" title="embedded Are.na block"></iframe>
-<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/1140902/" title="embedded Are.na block"></iframe>
-
+<ArenaGrid>
+<ArenaEmbed id="768884"></ArenaEmbed>
+<ArenaEmbed id="1140902"></ArenaEmbed>
+</ArenaGrid>
 
 'productive coveillance'
 <caption>this description by a co-founder emphasises the transparency of open working on this platform but perhaps neglects the need for personal privacy of certain kinds of fragments</caption>

@@ -7,6 +7,7 @@ aliases:
 backwards: "[[thesis practise|Practise]]"
 forwards: "[[thesis conclusion|Conclusion]]"
 ---
+
 ## Research Direction
 
 The most difficult thing about this thesis is that it is inherently non-linear, and I'm trying to do it justice in a linear format. I didn't want it to entirely rely on its own infrastructure to parse and so I settled on a somewhat traditional form with further expansions given in its full realisation in the context of the website. I'm aware that my research question itself is wide ranging and its proper extrapolation needs wider exploration of options for decentralised web technologies. My intent was not just to evidence the need for these kinds of technologies, which is well-documented in the general, but to evidence it in the specific. I aim to bridge the formal and the unstructured by applying the very-technical to emergent structures of knowledge online. 

@@ -1,6 +1,12 @@
-export async function getBlock(id: string): Promise<{ content: string; id: string }> {
+export async function getBlock(id: string): Promise<{ id: string,
+        class: string,
+        source?: {title: string, url: string},
+        content_html?: string,
+        image?: {thumb: {url: string}},
+        user: {username: string},
+        connections?: {id: string, title: string}[] }> {
    const requestUrl = "https://api.are.na/v2/blocks/" + id + "?per=50&sort=position&direction=desc"
-    const response = fetch(requestUrl, {
+    const response = await fetch(requestUrl, {
             headers: {
             "Content-Type": "application/json",
             Authorization: "Bearer ",
@@ -8,10 +14,14 @@ export async function getBlock(id: string): Promise<{ content: string; id: strin
             method: "GET",
             })
         .then((res) => res.json())
-    console.log(response);
-    let block = JSON.parse(await response) as { content: string; id: string };
+    let block = response as {
+        id: string,
+        class: string,
+        source?: {title: string, url: string},
+        content_html?: string,
+        image?: {thumb: {url: string}},
+        user: {username: string},
+        connections?: {id: string, title: string}[]
+    };
     return block;
 }
-
-
-

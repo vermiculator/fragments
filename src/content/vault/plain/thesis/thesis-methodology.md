@@ -7,6 +7,7 @@ aliases:
 backwards: "[[thesis introduction|Introduction]]"
 forwards: "[[thesis practise|Practise]]"
 ---
+
 ## Framings
 
 I'm working necessarily trans-disciplinary, or even anti-disciplinary, as my own ([[autism|autistic]]) practise has never benefitted from the arbitrary way that disciplines  'chop up the world of thought' (Davis, 1998). I consider disciplines as live assemblages in a constant state of flux. Through my research I've come to understand disciplines, knowledge and experience as a kind of [[affective category theory]], with personal and collective value at both the intersection and in diverging modes of understanding.

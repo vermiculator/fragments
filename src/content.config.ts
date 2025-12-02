@@ -5,7 +5,7 @@ import { i18nLoader } from '@astrojs/starlight/loaders';
 //import { inruptSolidPodLoader } from '../src/loaders/solid';
 import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
 
-const anyDoc = z.union([reference('structural'), reference('docs'), reference('about'), reference('thesis'), reference('metaThesis'), reference('thesisParts'), reference('earth'), reference('library'), reference('entities')]);
+const anyDoc = z.union([reference('structural'), reference('docs'), reference('about'), reference('thesis'), reference('metaThesis'), reference('earth'), reference('library'), reference('entities')]);
 
 const generalSchema = docsSchema({
 	    extend: z.object({
@@ -17,6 +17,7 @@ const generalSchema = docsSchema({
 		  caveats: z.array(anyDoc).optional(),
 		  backwards: z.string().optional(),
 		  forwards: z.string().optional(),
+		  aliases: z.array(z.string()).nullable().optional(),
 		}).merge(pageSiteGraphSchema),
 	  });
 
@@ -58,10 +59,6 @@ export const collections = {
 	}),
 	metaThesis: defineCollection({
 		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/plain/meta-thesis" }),
-		  schema: generalSchema
-	}),
-	thesisParts: defineCollection({
-			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/plain/thesis/parts" }),
 		  schema: generalSchema
 	}),
 	structural: defineCollection({
