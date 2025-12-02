@@ -8,7 +8,7 @@ peer:
 child:
   - "[[Masters in public]]"
 title: Masters thesis
-next: "thesis-introduction"
+forwards: "[[thesis introduction]]
 ---
 # Thesis
 
@@ -18,7 +18,7 @@ Rowan Lucas Smith, Creative Computing Institute, University of the Arts London
 
 ## Abstract
 	
-Anti-capitalist work in [[liberating the internet|liberating]] [[the everyday|everyday]] information practise from the goals of [[big tech|monopolising tech companies]] is spread thin across various industry concerns and [[interdisciplinarity|disciplinary hegemonies]]. By centering collectivist ideals I appeal to the digital commons and decentralised web to enable particular practises of hyperconnected personal curation that have potential for collectivist resistance. Through analysis of public assemblages of fragmented experience on existing web platforms ([[Pinterest analysis details|Pinterest]] and [[plain/thesis/parts/Are.na analysis|Are.na]]) I'll discuss the benefits that [[decentralised web|decentralised]] models and the [[semantic web]] could have on extra-institutional knowledge-work. This thesis is also a meta-work of [[self-exemplification]]. As a living [[provotypes|provotype]], this thesis is presented as part of a personal website indexing [[index of potential|cues]] to my own [[self-transcendence]] through collectivist pedagogy and experimental tech.
+Anti-capitalist work in [[liberating the internet|liberating]] [[the everyday|everyday]] information practise from the goals of [[big tech|monopolising tech companies]] is spread thin across various industry concerns and [[interdisciplinarity|disciplinary hegemonies]]. By centering collectivist ideals I appeal to the digital commons and decentralised web to enable particular practises of hyperconnected personal curation that have potential for collectivist resistance. Through analysis of public assemblages of fragmented experience on existing web platforms ([[Pinterest analysis details|Pinterest]] and [[plain/meta-thesis/Are.na analysis|Are.na]]) I'll discuss the benefits that [[decentralised web|decentralised]] models and the [[semantic web]] could have on extra-institutional knowledge-work. This thesis is also a meta-work of [[self-exemplification]]. As a living [[provotypes|provotype]], this thesis is presented as part of a personal website indexing [[index of potential|cues]] to my own [[self-transcendence]] through collectivist pedagogy and experimental tech.
 
 ## Acknowledgments
 

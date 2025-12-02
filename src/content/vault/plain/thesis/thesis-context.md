@@ -4,11 +4,8 @@ parent:
 title: thesis context
 aliases:
   - Context
-backwards:
-  - thesis-glossary
-  - thesis-introduction
-forwards:
-  - thesis-methodology
+backwards: "[[thesis introduction|Introduction]]"
+forwards: "[[thesis methodology|Methodology]]"
 ---
 
 ## Background

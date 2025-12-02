@@ -4,12 +4,11 @@ parent:
 title: thesis practise
 aliases:
   - Practise
-backwards:
-  - thesis-glossary
-  - thesis-methodology
-forwards:
-  - thesis-discussion
+backwards: "[[thesis methodology|Methodology]]"
+forwards: "[[thesis discussion|Discussion]]"
 ---
+import ArenaEmbed from '../../../../../components/ArenaEmbed.astro';
+
 ## Assemblage analysis
 
 ### [[Pinterest analysis details|Analysis of Pinterest boards]]
@@ -45,7 +44,7 @@ A notable class of pins used irony, humour, vague language or appeal to in-group
 ![[vagueposting revolution.png]]
 
 
-### Analysis of [[plain/thesis/parts/Are.na analysis|Are.na]] channels
+### Analysis of [[plain/meta-thesis/Are.na analysis|Are.na]] channels
 
 ^b866b9
 
@@ -55,6 +54,7 @@ Are.na's infrastructure echoes Tumblr's multi-modality [[tumblr (book)|(Tiidenbe
 
 <iframe style="border:none;" width="100%" height="590" src="https://www.are.na/block/10305629/" title="embedded Are.na block"></iframe>
 <caption>an example of an organisation bookmark whose auto-captured screenshot cover includes useful information that could be captured as metadata</caption>
+ 
 <ArenaEmbed id="10305629"></ArenaEmbed>
 
 #### knowledge lineage and reflexive curation

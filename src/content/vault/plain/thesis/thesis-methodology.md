@@ -4,11 +4,8 @@ parent:
 title: thesis methodology
 aliases:
   - Methodology
-backwards:
-  - thesis-glossary
-  - thesis-introduction
-forwards:
-  - thesis-practise
+backwards: "[[thesis introduction|Introduction]]"
+forwards: "[[thesis practise|Practise]]"
 ---
 ## Framings
 

@@ -4,11 +4,8 @@ parent:
   - masters-thesis
 aliases:
   - Discussion
-backwards:
-  - thesis-glossary
-  - thesis-practise
-forwards:
-  - thesis-conclusion
+backwards: "[[thesis practise|Practise]]"
+forwards: "[[thesis conclusion|Conclusion]]"
 ---
 ## Research Direction
 
@@ -33,7 +30,7 @@ My findings expand on work on on Pinterest, social bookmarking and internet plat
 
 ## Further Work
 
-There are several [[plain/thesis/parts/directions|directions]] in which I'd like to take this work. Most practically, to develop and [[possibly later|iterate on the tool]] I've proposed with the technologies I've discussed. I intend to follow several connected threads in the near future and continue on the foundation I've laid here.
+There are several [[plain/meta-thesis/directions|directions]] in which I'd like to take this work. Most practically, to develop and [[possibly later|iterate on the tool]] I've proposed with the technologies I've discussed. I intend to follow several connected threads in the near future and continue on the foundation I've laid here.
 
 primarily
 - more on annotations and highlights

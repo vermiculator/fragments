@@ -4,7 +4,6 @@ parent:
 title: thesis conclusion
 aliases:
   - Conclusion
-backwards:
-  - thesis-discussion
-  - thesis-introduction
+backwards: "[[thesis discussion|Discussion]]"
+forwards: "[[thesis references|References]]"
 ---

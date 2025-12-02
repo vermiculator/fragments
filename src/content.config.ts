@@ -8,17 +8,17 @@ import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
 const anyDoc = z.union([reference('structural'), reference('docs'), reference('about'), reference('thesis'), reference('metaThesis'), reference('thesisParts'), reference('earth'), reference('library'), reference('entities')]);
 
 const generalSchema = docsSchema({
-		    	extend: z.object({
-			  parent:  z.array(anyDoc).optional(),
-			  peer:  z.array(anyDoc).optional(),
-			  child:  z.array(anyDoc).optional(),
-			  instanceOf:  z.array(anyDoc).optional(),
-			  instances: z.array(anyDoc).optional(),
-			  caveats: z.array(anyDoc).optional(),
-			  backwards: z.array(anyDoc).optional(),
-			  forwards: z.array(anyDoc).optional(),
-			}).merge(pageSiteGraphSchema),
-		  });
+	    extend: z.object({
+		  parent:  z.array(anyDoc).optional(),
+		  peer:  z.array(anyDoc).optional(),
+		  child:  z.array(anyDoc).optional(),
+		  instanceOf:  z.array(anyDoc).optional(),
+		  instances: z.array(anyDoc).optional(),
+		  caveats: z.array(anyDoc).optional(),
+		  backwards: z.string().optional(),
+		  forwards: z.string().optional(),
+		}).merge(pageSiteGraphSchema),
+	  });
 
 export const collections = {
 	earth: defineCollection({

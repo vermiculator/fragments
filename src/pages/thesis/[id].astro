@@ -1,9 +1,10 @@
 ---
 
-import type { CollectionEntry } from 'astro:content';
+import type { CollectionEntry, ReferenceDataEntry } from 'astro:content';
 import { getCollection, render} from "astro:content";
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 import { ScrollArea } from "../../components/ui/scroll-area";
+import { slugify, debracketKeepFirst, debracketKeepTitleOrAlias } from '@/scripts/util';
 
 interface Props {
 	page: CollectionEntry<'thesis'>;
@@ -11,7 +12,6 @@ interface Props {
 
 export async function getStaticPaths() {
   const pages = await getCollection('thesis');
-  console.log('Available thesis pages:', pages.map(p => p.id));
   return pages.map(page => ({
     params: { id: page.id.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') },
     props: { page },
@@ -24,16 +24,18 @@ if (!page) {
   return Astro.redirect('/404');
 }
 
+const prevLink = page.data?.backwards ? {link: slugify(debracketKeepFirst(page.data.backwards)), label: debracketKeepTitleOrAlias(page.data.backwards)} : false;
+const nextLink = page.data?.forwards ? {link: slugify(debracketKeepFirst(page.data.forwards)),  label: debracketKeepTitleOrAlias(page.data.forwards)} : false;
 const { Content } = await render(page);
 export const prerender = true;
 
 ---
 
-  <StarlightPage frontmatter={{ title: page.data.title, tableOfContents: true, template: 'doc', graph: {visible: false} }}>
-    <ScrollArea className="body p-1 max-h-1/2">
-        <Content />
-    </ScrollArea>
-  </StarlightPage>
+    <StarlightPage frontmatter={{ title: page.data.title, prev: prevLink, next: nextLink, tableOfContents: true, template: 'doc', graph: {visible: false} }}>
+        <ScrollArea className="body p-1 max-h-1/2">
+                <Content />
+        </ScrollArea>
+    </StarlightPage>
 
 <style>
     :root{
@@ -44,6 +46,20 @@ export const prerender = true;
         .level-h1 {
             color: var(--color-accent-600);
         }
+
+                nav.thesis-nav {
+                    display: flex;
+                    justify-content: space-between;
+                    gap: 1rem;
+                    margin-top: 2.5rem;
+                    padding-top: 1.5rem;
+                    border-top: 1px solid var(--sl-color-border);
+                    font-size: .9rem;
+                }
+                nav.thesis-nav a { text-decoration: none; }
+                nav.thesis-nav a.prev { color: var(--color-accent-600); }
+                nav.thesis-nav a.next { color: var(--color-accent-600); }
+                nav.thesis-nav a:hover { text-decoration: underline; }
     }
 
 </style>
