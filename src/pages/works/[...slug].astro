@@ -11,12 +11,17 @@ interface Props {
 export async function getStaticPaths() {
 	const piece = await getCollection('works');
 	return piece.map((entry: { id: any; }) => ({
-		params: { slug: entry.id },
+		params: { slug: entry.id.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') },
 		props: { entry },
 	}));
 }
 
 const { entry } = Astro.props;
+
+if (!entry) {
+  return Astro.redirect('/404');
+}
+
 const { Content } = await render(entry);
 ---
 

@@ -9,6 +9,7 @@ import { loadEnv } from "vite";
 import obsidianImages from './src/scripts/remark/obsidianImages.js';
 import react from '@astrojs/react';
 import inject from '@rollup/plugin-inject';
+import mdx from '@astrojs/mdx';
 
 const env = loadEnv(process.env.NODE_ENV ?? '', process.cwd(), '');
 
@@ -20,7 +21,7 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [obsidianImages],
   },
-  // Removed dynamic redirects relying on literal [...slug] expansion; handled via middleware now.
+  // Removed dynamic redirects, now handled by middleware
   redirects: {},
   vite: {
     plugins: [
@@ -82,7 +83,7 @@ export default defineConfig({
           starlightObsidian({
             vault: './src/content/vault',
             ignore: ['./*.md', '*/*.jpg', '*/*.png', '*/*.webp', 'id.md','.filenignore','.megaignore','*.acsm','LICENSE','*.txt','*.pdf','desktop.ini','./Rubbish','_.debris','.trash','./seeds', './private', './assets', './themes', './are.na'],
-            output: 'md',
+            output: 'mdx',
             copyFrontmatter: 'all',
             tableOfContentsOverview: 'title'
           }),
@@ -135,6 +136,8 @@ export default defineConfig({
           }),
         ]
        // .concat(process.env.CHECK_LINKS ? starlightLinksValidator() : []),
+    }), mdx({
+      extendMarkdownConfig: true,
     }), react()],
      env: {
         schema: {

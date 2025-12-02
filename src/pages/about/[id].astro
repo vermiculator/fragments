@@ -7,10 +7,22 @@ interface Props { page: CollectionEntry<'about'> }
 
 export async function getStaticPaths() {
   const pages = await getCollection('about');
-  return pages.filter(p => p.id !== 'about').map(p => ({ params: { id: p.id }, props: { page: p } }));
+  return pages.filter(p => p.id !== 'about').map(p => ({ 
+    params: { 
+      // Convert spaces and special chars to URL-safe format
+      id: p.id.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') 
+    }, 
+    props: { page: p } 
+  }));
 }
 
 const { page } = Astro.props;
+
+// Handle missing page
+if (!page) {
+  return Astro.redirect('/404');
+}
+
 const { Content } = await render(page);
 ---
 <Layout pageTitle={page.data.title ?? page.id} pageStyle='doc' starlightSettings={{next:false, prev:false}}>

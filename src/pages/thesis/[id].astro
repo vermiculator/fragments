@@ -13,12 +13,17 @@ export async function getStaticPaths() {
   const pages = await getCollection('thesis');
   console.log('Available thesis pages:', pages.map(p => p.id));
   return pages.map(page => ({
-    params: { id: page.id },
+    params: { id: page.id.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') },
     props: { page },
   }));
 }
 
 const { page } = Astro.props;
+
+if (!page) {
+  return Astro.redirect('/404');
+}
+
 const { Content } = await render(page);
 export const prerender = true;
 
