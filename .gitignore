@@ -61,6 +61,7 @@ publish.css
 !/src/content/vault/earth/.gitkeep
 
 /src/content/docs/md
+/src/content/docs/mdx
 /src/content/mulch
 /src/content/seeds
 /src/content/vignettes
@@ -69,6 +70,7 @@ publish.css
 
 /src/assets/**
 !/src/assets/md/
+!/src/assets/mdx/
 
 /src/data/bookmarks
 

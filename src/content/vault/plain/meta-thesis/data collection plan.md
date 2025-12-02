@@ -4,7 +4,7 @@ contextDetails: overview
 parent:
   - "[[meta-thesis]]"
 child:
-  - "[[plain/thesis/parts/Are.na data collection]]"
+  - "[[plain/meta-thesis/Are.na data collection]]"
 ---
 
 - [[Pinterest data collection|Pinterest]]

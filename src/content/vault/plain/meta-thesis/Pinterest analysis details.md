@@ -1,7 +1,7 @@
 ---
 peer:
-  - "[[plain/thesis/parts/Are.na analysis]]"
-next: "[[plain/thesis/parts/Are.na analysis]]"
+  - "[[plain/meta-thesis/Are.na analysis]]"
+forwards: "[[plain/meta-thesis/Are.na analysis]]"
 ---
 ## Methods
 
@@ -20,7 +20,7 @@ I ended up with 32 boards that would be suitable for analysis, 7 of which fit ma
 - selection of the most interesting/relevant/valuable codes and the best examples of each 
 - characterisation of some through wireframe sketch
 
-I selected the more valuable emergent themes to discuss and combined these with insights from literature to form the below characterisations. I'll go on to apply them to selected [[plain/thesis/parts/Are.na analysis|Are.na channels]] to see where the different infrastructure and community ethos corresponds to a comparison, contradiction or extension to each themes below. 
+I selected the more valuable emergent themes to discuss and combined these with insights from literature to form the below characterisations. I'll go on to apply them to selected [[plain/meta-thesis/Are.na analysis|Are.na channels]] to see where the different infrastructure and community ethos corresponds to a comparison, contradiction or extension to each themes below. 
 
 ## Themes
 
@@ -59,7 +59,7 @@ Additionally, many pins I'd describe as **concept-mapping** or otherwise **diagr
 ### Minor notes
 
 - I did not rigidly structure my analysis nor combine it with quantitative frequency analysis as I was interested more in relative frequencies to my expectations and in interpreting the juxtaposition of particular 'pins'.
-- The initial/additional codes I didn't select can be read [[plain/thesis/parts/pin themes|here ->]]
+- The initial/additional codes I didn't select can be read [[plain/meta-thesis/pin themes|here ->]]
 - Details of procedure can be read [[minor process details|here ->]]. 
 - Tags aren't included as they are not user generated, but created by user behaviour in the machine learning interests taxonomy and so are directed at business interest rather than the intentions and desires of the users.
 - In general observation, titles and descriptions are almost always redundant to alt text, errors/placeholders, not immediately relevant to the content or not adding much context (additional minor commentary)

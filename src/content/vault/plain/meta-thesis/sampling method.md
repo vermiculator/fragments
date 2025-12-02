@@ -6,7 +6,7 @@ peer:
   - "[[search terms]]"
 child:
   - "[[Pinterest data collection]]"
-  - "[[plain/thesis/parts/Are.na data collection]]"
+  - "[[plain/meta-thesis/Are.na data collection]]"
 ---
 I used keyword-search and snowball sampling methods for selection of boards/pins on Pinterest and channels/blocks on Are.na, for purposive sampling. I selected and excluded based on the following criteria:
 
@@ -44,4 +44,4 @@ issue in related terms in other languages
 ---
 ## [[Pinterest data collection]]
 
-## [[plain/thesis/parts/Are.na data collection]]
+## [[plain/meta-thesis/Are.na data collection]]

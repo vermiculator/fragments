@@ -10,6 +10,7 @@ import obsidianImages from './src/scripts/remark/obsidianImages.js';
 import react from '@astrojs/react';
 import inject from '@rollup/plugin-inject';
 import mdx from '@astrojs/mdx';
+import renameMdToMdx from './src/scripts/renameMdToMdx.js';
 
 const env = loadEnv(process.env.NODE_ENV ?? '', process.cwd(), '');
 
@@ -20,6 +21,8 @@ export default defineConfig({
   adapter: vercel(),
   markdown: {
     remarkPlugins: [obsidianImages],
+    // Allow MDX-style components in .md files
+    gfm: true,
   },
   // Removed dynamic redirects, now handled by middleware
   redirects: {},
@@ -28,6 +31,7 @@ export default defineConfig({
         inject({
             p5: 'p5',
         }),
+        renameMdToMdx(),
     ],
     optimizeDeps: {
 	    include: []
@@ -71,7 +75,7 @@ export default defineConfig({
       plugins: [
           starlightScrollToTop({
           // Button position
-          position: 'left',
+          position: 'right',
           showTooltip: false,
           smoothScroll: true,
           // Visibility threshold (show after scrolling 20% down)
@@ -138,6 +142,7 @@ export default defineConfig({
        // .concat(process.env.CHECK_LINKS ? starlightLinksValidator() : []),
     }), mdx({
       extendMarkdownConfig: true,
+      optimize: true,
     }), react()],
      env: {
         schema: {

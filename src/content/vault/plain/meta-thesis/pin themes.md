@@ -1,5 +1,5 @@
 
-the themes I selected live [[plain/thesis/parts/selected Pinterest themes|here ->]]
+the themes I selected live [[plain/meta-thesis/selected Pinterest themes|here ->]]
 
 other found themes are acknowledged below. I didn't focus heavily on the specific contents/messages of the images so much as their format, metadata, purpose and potential for resulting action
 

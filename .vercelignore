@@ -16,6 +16,7 @@ desktop.ini
 # generated output (Vercel builds these)
 dist/**
 public/md/**
+public/mdx/**
 
 # misc
 temp-hide/**

@@ -2,7 +2,7 @@
 parent:
   - "[[meta-thesis]]"
 ---
-## direction [[plain/thesis/parts/directions|->]]
+## direction [[plain/meta-thesis/directions|->]]
 
 other important angles for me longer term - focus on multi-perspective **knowledge commons** (interoperable private/collaborative knowledge), curation of **instrumental** and **experiential** knowledge alongside past narratives, **multi-modal** content and **fragmented** knowledge, framed by **permacomputing** and **tangible** interfacing
 ## tool
