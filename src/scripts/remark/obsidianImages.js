@@ -19,13 +19,15 @@ function slugifyFilename(input) {
 
 function normalizeAssetUrl(url) {
   if (!url) return url;
+  // Normalize slashes for consistent matching
+  const normalized = url.replace(/\\/g, '/');
   // Strip any ../../.. leading segments before assets/md
-  const cleaned = url.replace(/^(?:\.\.\/*)+/, '');
-  const m = cleaned.match(/assets\/md\/(.*)$/);
-  if (m) return `/assets/md/${m[1]}`;
+  const cleaned = normalized.replace(/^(?:\.\.\/*)+/, '');
+  const m = cleaned.match(/assets\/(mdx?)\/(.*)$/);
+  if (m) return `/assets/md/${m[2]}`;
   // If someone referenced just a filename under assets
-  if (/^(?:assets\/md\/)/.test(cleaned)) return '/' + cleaned;
-  return url;
+  if (/^(?:assets\/(mdx?)\/)/.test(cleaned)) return '/' + cleaned.replace('assets/mdx/', 'assets/md/');
+  return normalized;
 }
 
 export default function obsidianImagesPlugin() {
@@ -53,7 +55,7 @@ export default function obsidianImagesPlugin() {
         return `![](${url})`;
       });
       // Also fix markdown images that used deep ../../ paths into assets
-      v = v.replace(/!\[([^\]]*)\]\((?:\.\.+\/)+assets\/md\/([^\)]+)\)/g, (_m, alt, rest) => {
+      v = v.replace(/!\[([^\]]*)\]\((?:\.\.+\/)+assets\/(mdx?)\/([^\)]+)\)/g, (_m, alt, _kind, rest) => {
         return `![${alt}](/assets/md/${rest})`;
       });
       if (v !== node.value) node.value = v;

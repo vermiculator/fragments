@@ -142,6 +142,7 @@ export default defineConfig({
        // .concat(process.env.CHECK_LINKS ? starlightLinksValidator() : []),
     }), mdx({
       extendMarkdownConfig: true,
+      remarkPlugins: [obsidianImages],
       optimize: true,
     }), react()],
      env: {
