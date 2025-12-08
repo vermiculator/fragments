@@ -13,45 +13,12 @@ function maybeRedirect(pathname: string): string | undefined {
         pathname = pathname.replace(/%5B%5B/g, '').replace(/^\/%5B%5B/, '/').replace(/^\/\[\[/, '/');
     }
 
-    // Static special-case redirects
-    if (pathname === '/thesis' || pathname === '/thesis/') {
-        return '/works/thesis/masters-thesis';
-    }
-    if (pathname === '/earth/thesis' || pathname === '/earth/thesis/') {
-        return '/works/thesis/';
-    }
-    if (pathname === '/about' || pathname === '/about/' || pathname === '/plain/about' || pathname === '/plain/about/') {
-        return '/plain/about/about';
-    }
-    if (pathname === '/earth/masters-thesis' || pathname === '/earth/masters-thesis/') {
-        return '/works/thesis/masters-thesis';
-    }
-
-    // Handle /mdx/* and /md/* prefixes - strip them and redirect
-    for (const prefix of ['/mdx/', '/mdx', '/md/', '/md']) {
-        if (pathname.startsWith(prefix)) {
-            let rest = pathname.slice(prefix.length);
-            // Clean up any leading slash left after stripping prefix
-            while (rest.startsWith('/')) {
-                rest = rest.slice(1);
-            }
-            // If nothing left, redirect to root
-            if (!rest) {
-                return '/';
-            }
-            // Check if first segment is a plain collection
-            const nextSeg = rest.split('/')[0] ?? '';
-            if (PLAIN_COLLECTIONS.includes(nextSeg)) {
-                return `/plain/${rest}`;
-            }
-            // Default: strip the prefix and redirect
-            return `/${rest}`;
-        }
-    }
+    // Static redirects (/thesis, /earth/thesis, /about, /earth/masters-thesis) and
+    // dynamic prefix stripping (/mdx/*, /md/*) are handled by vercel.json
 
     // Redirect collection routes to /plain/ if needed
     for (const collection of PLAIN_COLLECTIONS) {
-        if (collection === 'thesis') continue; // thesis is handled above
+        if (collection === 'thesis') continue; // thesis is already handled by vercel.json
         if (pathname.startsWith(`/plain/${collection}/`)) {
             return undefined; // Already correct
         }

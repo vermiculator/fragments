@@ -1,0 +1,66 @@
+{
+  "redirects": [
+    {
+      "source": "/thesis",
+      "destination": "/works/thesis/masters-thesis",
+      "permanent": true
+    },
+    {
+      "source": "/thesis/",
+      "destination": "/works/thesis/masters-thesis",
+      "permanent": true
+    },
+    {
+      "source": "/earth/thesis",
+      "destination": "/works/thesis/",
+      "permanent": true
+    },
+    {
+      "source": "/earth/thesis/",
+      "destination": "/works/thesis/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/plain/about/about",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/plain/about/about",
+      "permanent": true
+    },
+    {
+      "source": "/plain/about",
+      "destination": "/plain/about/about",
+      "permanent": true
+    },
+    {
+      "source": "/plain/about/",
+      "destination": "/plain/about/about",
+      "permanent": true
+    },
+    {
+      "source": "/earth/masters-thesis",
+      "destination": "/works/thesis/masters-thesis",
+      "permanent": true
+    },
+    {
+      "source": "/earth/masters-thesis/",
+      "destination": "/works/thesis/masters-thesis",
+      "permanent": true
+    },
+    {
+      "source": "/mdx/:path*",
+      "destination": "/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/md/:path*",
+      "destination": "/:path*",
+      "permanent": true
+    }
+  ]
+}
+
+
