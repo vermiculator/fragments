@@ -19,6 +19,7 @@
     "/src/content/vault/.Rubbish",
     "/src/content/vault/Rubbish",
     "/src/content/vault/private",
+    "/temp-hide",
     "/src/content/vault/seeds",
     "/src/content/vault/.megaignore"
   ],
