@@ -26,6 +26,16 @@
       "permanent": true
     },
     {
+      "source": "/about/about",
+      "destination": "/plain/about/about",
+      "permanent": true
+    },
+    {
+      "source": "/about/about/",
+      "destination": "/plain/about/about",
+      "permanent": true
+    },
+    {
       "source": "/about/",
       "destination": "/plain/about/about",
       "permanent": true
