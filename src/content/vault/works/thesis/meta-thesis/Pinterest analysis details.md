@@ -1,8 +1,9 @@
 ---
 peer:
-  - "[[plain/meta-thesis/Are.na analysis]]"
-forwards: "[[plain/meta-thesis/Are.na analysis]]"
-title: 'Pinterest analysis details'
+  - "[[works/thesis/meta-thesis/Are.na analysis]]"
+child:
+  - "[[works/thesis/thesis-practise|thesis-practise]]"
+title: Pinterest analysis details
 ---
 ## Methods
 
@@ -21,7 +22,7 @@ I ended up with 32 boards that would be suitable for analysis, 7 of which fit ma
 - selection of the most interesting/relevant/valuable codes and the best examples of each 
 - characterisation of some through wireframe sketch
 
-I selected the more valuable emergent themes to discuss and combined these with insights from literature to form the below characterisations. I'll go on to apply them to selected [[plain/meta-thesis/Are.na analysis|Are.na channels]] to see where the different infrastructure and community ethos corresponds to a comparison, contradiction or extension to each themes below. 
+I selected the more valuable emergent themes to discuss and combined these with insights from literature to form the below characterisations. I'll go on to apply them to selected [[works/thesis/meta-thesis/Are.na analysis|Are.na channels]] to see where the different infrastructure and community ethos corresponds to a comparison, contradiction or extension to each themes below. 
 
 ## Themes
 
@@ -42,17 +43,34 @@ I selected the more valuable emergent themes to discuss and combined these with 
 | self-actualisation and self-transcendence | long-term capacity-building of individuals, groups and communities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                          |
 | making sense/making unsense               | denaturalisation, carthartic, complexities and confusions, absurdism and existentialism                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                          |
 | connecting past, present and future       | directly compared utopia/dystopia, or: what we have now, what we shouldn't have now, what we shouldn't have later, what we could have later                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                          |
-| pinning likely doesn't signal intent      | specific acts called for but likely not enacted, as in [[library/Just Pin It Understanding the Dynamics of Pinterest Use, Motivation, Self-Efficacy, and Health Behaviors\|(Dolphin, Char, and Rogers, 2024)]] (just pinning is different from engaging with content to make change)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                          |
+| pinning likely doesn't signal intent      | specific incendiary acts called for but likely not enacted, as in [[library/Just Pin It Understanding the Dynamics of Pinterest Use, Motivation, Self-Efficacy, and Health Behaviors\|(Dolphin, Char, and Rogers, 2024)]] (just pinning is different from engaging with content to make change)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                          |
 | screenshot provenance                     | screenshotting can be from necessity, as the most feasible/comprehensive method of capture, even if it loses some info - some dialogues and continued threads link directly back, others are missing valuable data, others contain provenance in the image text. Twitter screenshots in particular (as the second most common source I found, after Tumblr) have gained more nuanced questions of reliability through the influence of Musk                                                                                                                                                                                                                                                                                                                                                                                                    | <br>![[Twitter screenshots.png]]<br>     |
 | collection, not curation                  | mass data loosely tied, unlikely reflection of elements and placement has taken place, possibly hoarding, performative aestheticisms, etc                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                          |
 | strategies or tactics?                    | evidence of counter-strategy, counter-tactics, or a blurring of the two, as in [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture\|(Smolicki, 2017)]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                          |
 
 ![[performative, constructive, deconstructive.png]]
 
-## Discussion
+## Some Discussion
+#### hyperconnected para-archives
+
+Pinterest held more evidence of hyperconnected knowledge than I expected. I found **instructional diagrams** linked to relevant resources, historical claims and quotes connected to **primary sources** or secondary resources linked through **Tumblr threads of gold**. In descriptions, titles, watermarks and comments there were creative acts of resisting the site's capital-oriented architecture through additional provenance, **directly actionable** pins and **gateways** to alternative communities. This appropriation of tools can be considered para-tactical assemblage of **para-archives**.
+
+#### image-first infrastructure
+
+A particularly interesting circumvention of the image-first infrastructure was the use of **image as data** in the form of visual book lists, book covers and spines. Research is ongoing within library sciences to connect metadata with images of shelves (Zhou et al., 2022) which could be extended over these networks to associate predictable image forms. Many pins contained fragments of text within them, raising the question of [[what counts as an atomic fragment]]. I found a strong presence of **decorated text-blocks** and **slogans** from which the primary content is easily 'scraped', but the formatting might provide important context. Screenshots particularly often hold metadata and provenance. [[works/thesis/thesis-practise#^72fb09|Elsewhere I discuss]] the value of viewing these fragments both [[contextualised and decontextualised fragments are both useful|contextualised and decontextualised]].
 
 Additionally, many pins I'd describe as **concept-mapping** or otherwise **diagrammatic**. These textual forms would be more suited to alt-text or annotation than text-scraping as the visual elements hold more crucial information. Often these pins could make better use of hypertext in encoding semantic information visually in live code rather than as image, but this would necessitate manual translation of decades of digital image to reinterpret and replace commonly saved diagrams.
 
+![[wrong format.png]]
+
+#### vagueposting revolution
+
+A notable class of pins used irony, humour, vague language or appeal to in-group language to discuss incendiary political acts. Softened threats and speaking through others (screencap captions, gifs) dissociated posters from the acts described. Whilst catharcism like this is common and pinning doesn't necessarily entail engaging with the content to make change [[library/Just Pin It Understanding the Dynamics of Pinterest Use, Motivation, Self-Efficacy, and Health Behaviors|(Dolphin, Char, and Rogers, 2024)]], this ambiguity enables a resistive counter-public that retains denial of intent or purpose. Signalling directly and indirectly to multiple audiences at once allows resistive unity without the specifics that individualise and identify authors - another benefit of [[decontextualised over contextualised fragments|decontextualisation]].
+
+![[vagueposting revolution.png]]
+
+
+## Some Meta
 ### Consent
 - thoughts on need for consent for public data analysis [[ethics of public data use|here ->]]
 - I contacted each user for explicit consent to analyse this data in anonymous form, through Pinterest's messaging system, but didn't receive any responses. I chose to include my analysis without any reference to the specific boards I analysed.
@@ -60,7 +78,7 @@ Additionally, many pins I'd describe as **concept-mapping** or otherwise **diagr
 ### Minor notes
 
 - I did not rigidly structure my analysis nor combine it with quantitative frequency analysis as I was interested more in relative frequencies to my expectations and in interpreting the juxtaposition of particular 'pins'.
-- The initial/additional codes I didn't select can be read [[plain/meta-thesis/pin themes|here ->]]
+- The initial/additional codes I didn't select can be read [[works/thesis/meta-thesis/pin themes|here ->]]
 - Details of procedure can be read [[minor process details|here ->]]. 
 - Tags aren't included as they are not user generated, but created by user behaviour in the machine learning interests taxonomy and so are directed at business interest rather than the intentions and desires of the users.
 - In general observation, titles and descriptions are almost always redundant to alt text, errors/placeholders, not immediately relevant to the content or not adding much context (additional minor commentary)

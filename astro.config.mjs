@@ -67,7 +67,7 @@ export default defineConfig({
       PageFrame: './src/components/PageFrame.astro',
       },
       sidebar: [
-          { label: 'thesis >', link: '/thesis/masters-thesis' },
+          { label: 'thesis >', link: '/works/thesis/masters-thesis' },
           { label: 'earth >', link: '/earth' },
           { label: 'library >', link: '/library' },
           { label: 'entities >', link: '/entities' }

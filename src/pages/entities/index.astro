@@ -2,55 +2,16 @@
 export const prerender = false
 
 import Layout from '../../components/Layout.astro';
-import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
-// import CanvasComponent from '../../components/CanvasComponent.astro';
+import { Card } from '@astrojs/starlight/components';
 
-const contextResponse = await fetch('https://randomuser.me/api/');
-const displayData = await contextResponse.json();
-
-type EarthArea = {
+type Resource = {
 	id: string
-	title: string
 }
 
-async function fetchEarthArea(id : string): Promise<EarthArea> {
-
-	const response = await fetch('https://vermiculate.solidcommunity.net/private/long-term-contacts/Group/Plebs.ttl', {
-    method: 'GET',
-		headers: {
-			'content-type': 'application/ld+json',
-		}
-	})
-
-  type JSONResponse = {
-    data?: {
-      earthArea: EarthArea
-    }
-    errors?: Array<{ message: string }>
-  }
-
-  const { data, errors }: JSONResponse = await response.json()
-
-	if (response.ok) {
-    const earthArea = data?.earthArea
-		if (earthArea) {
-      // helpers
-			return earthArea
-		} else {
-			return Promise.reject(new Error(`No page with the id "${id}"`))
-		}
-  } else {
-    const error = new Error(errors?.map((e) => e.message).join('\n') ?? response.status + response.statusText)
-    console.log(response)
-		return Promise.reject(error)
-	}
-}
-
-
-import { PageGraph } from 'starlight-site-graph/components'
 import type { PageSiteGraphFrontmatter } from 'starlight-site-graph/schema';
+import { fetchResourceAt } from '@/scripts/fetchSolidResource';
 const frontmatter : PageSiteGraphFrontmatter = {
-   title: "earth",
+   title: "entities",
    tags: [],
    sitemap: {linkInclusionRules: ["**/*"]},
    graph: {visible: true},
@@ -58,38 +19,11 @@ const frontmatter : PageSiteGraphFrontmatter = {
  }
 ---
 
-<Layout pageTitle='earth' pageStyle='leftside' includes_p5 starlightSettings={{next: false, prev: false}}>
-<Card title="title">{displayData.results[0].name.first}</Card>
-{/** Fetch the earth area data at build time and render its title */}
-{await fetchEarthArea('abolition')
-  .then((data) => <Card title="title">{data.title}</Card>)
+<Layout pageTitle='entities' pageStyle='leftside' frontmatter={{frontmatter}} starlightSettings={{next: false, prev: false}}>
+
+{await fetchResourceAt('/fragments/autoethnography')
+  .then((data) => <Card title="title">{data}</Card>)
   .catch((error) => <Card title="Error">{error.message}</Card>)
 }
-<!-- <CanvasComponent script_path='scripts/earth-map.js' canvas_id='earth-map' figure_id='1' description='sketch explanation'/>  -->
-<div class="large-graph">
-<PageGraph showGraph slug="/earth/start-here" entry={{data: frontmatter}} config={{
-                  "depth": 2,
-                  "depthDirection": "both",
-                  "actions": [
-                      "fullscreen",
-                      "depth",
-                      "reset-zoom",
-                      "render-external",
-                  ],
-                  "repelForce": 333,
-                  "colliderPadding": 18,
-                  "alphaDecay": 0.023,
-                  "enableDrag": true,
-                  "enablePan": true,
-                  "enableZoom": true,
-                  "enableHover": true,
-                  "enableClick": "click",
-                  "prefetchPages": false,
-                  "renderUnresolved": true,
-                  "renderArrows": false,
-                  "renderExternal": true,
-                  "linkWidth": 2,
-                  "linkHoverWidth": 3,
-}}/>
-</div>
+
 </Layout>

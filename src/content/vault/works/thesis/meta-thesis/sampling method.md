@@ -1,13 +1,14 @@
 ---
+title: sampling method
 parent:
   - "[[meta-thesis]]"
+  - "[[Masters in public]]"
 peer:
   - "[[ethics of public data use]]"
-  - "[[search terms]]"
 child:
-  - "[[Pinterest data collection]]"
-  - "[[plain/meta-thesis/Are.na data collection]]"
-title: 'sampling method'
+  - "[[Pinterest analysis details]]"
+  - "[[works/thesis/meta-thesis/Are.na analysis|Are.na analysis]]"
+  - "[[Are.na meta-analysis]]"
 ---
 I used keyword-search and snowball sampling methods for selection of boards/pins on Pinterest and channels/blocks on Are.na, for purposive sampling. I selected and excluded based on the following criteria:
 
@@ -17,7 +18,7 @@ I used keyword-search and snowball sampling methods for selection of boards/pins
 | public (white-bordered) channel                                                                       | Are.na            | candidate           | [[ethics of public data use]]                                                                                                                                                                                                                                                                      |
 | open (green-bordered) channel with blocks authored by one user                                        | Are.na            | candidate           | [[ethics of public data use]]                                                                                                                                                                                                                                                                      |
 | authored by a collective                                                                              | Pinterest, Are.na | special case        | whilst shared knowledge is of great import to this research overall, this portion is concerned with the practises of individuals. There are limited useful data points in this category so I may or may not address it. It would also require a different mechanism for gaining consent for usage. |
-| appeared on search for [[search terms\|initial keywords]]                                             | Pinterest, Are.na | candidate           | sampling method                                                                                                                                                                                                                                                                                    |
+| appeared on search for initial keywords                                                               | Pinterest, Are.na | candidate           | sampling method                                                                                                                                                                                                                                                                                    |
 | suggested under 'related Pins'                                                                        | Pinterest         | candidate           | sampling method                                                                                                                                                                                                                                                                                    |
 | title/description includes keywords or related concepts                                               |                   |                     | study-specific relevance                                                                                                                                                                                                                                                                           |
 | appeared under/connected to another candidate channel                                                 | Are.na            | candidate           | sampling method                                                                                                                                                                                                                                                                                    |
@@ -29,8 +30,8 @@ I used keyword-search and snowball sampling methods for selection of boards/pins
 | ~~authored by a business~~                                                                            | Pinterest, Are.na | excluded            | legality                                                                                                                                                                                                                                                                                           |
 | ~~> 250 individual content items~~                                                                    | Pinterest, Are.na | excluded            | resource constraints                                                                                                                                                                                                                                                                               |
 | ~~framing is survivalist, for curriculum teaching, for homeschooling or for corporate 'communities'~~ | Pinterest, Are.na | excluded            | study-specific relevance                                                                                                                                                                                                                                                                           |
-| solutions-oriented or positivist                                                                      | Pinterest, Are.na | candidate           | study-specific relevance - this criteria excludes a variety of pessimistic, 'doomer' uncritically-utopian or meme-centric content                                                                                                                                                                  |
 | focus on present or future                                                                            | Pinterest, Are.na | candidate           | study-specific relevance - excludes boards/channels that contain only historical content (a more traditional form of archive)                                                                                                                                                                      |
+| solutions-oriented or positivist                                                                      | Pinterest, Are.na | excellent candidate | study-specific relevance - this criteria weeds out a variety of heavily uncritical 'doomer' or meme-centric content                                                                                                                                                                                |
 | limited number of irrelevant items, clear thematic cohesion                                           | Pinterest, Are.na | excellent candidate | study-specific relevance                                                                                                                                                                                                                                                                           |
 | wide variety of content types and purposes                                                            | Pinterest, Are.na | excellent candidate | study-specific relevance                                                                                                                                                                                                                                                                           |
 
@@ -41,8 +42,3 @@ there are similarities ad differences in sampling in this way on each platform. 
 These issues I see as minor due to the nature of my analysis - I'm treating these boards/channels more as case studies of themes developed from my prior casual experiences on the platforms and from the theories I'm framing this work with. This is not intended as a comprehensive analysis of all usage behaviours on either of these platforms but as evidencing principled design decisions ill be making in the development process.
 
 issue in related terms in other languages
-
----
-## [[Pinterest data collection]]
-
-## [[plain/meta-thesis/Are.na data collection]]

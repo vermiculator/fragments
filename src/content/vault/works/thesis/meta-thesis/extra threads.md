@@ -296,7 +296,7 @@ on capture, - "“sediments of time itself” (Spieker, 2008, p.8)"  [⤴️](ht
 	- (Mills, 2014)
 	- "Cultural flows in an Aboriginal school: Deterritorializing textual production through a socially mediated Indigenous heritage" or "Reterritorializing multimodal design in the classroom through a socially mediated Indigenous heritage" unclear which is final title
 - Pinterest digital scrapbooking, desires, why do people use Pinterest
-	- (D'Amore, 2016)
+	- 
 	- "Crafty Bricolage: Pinterest as Digital Scrapbooking"
 
 - self-actualisation is a privilege - "the facilitation of the personal growth process is at least somewhat contingent on privilege, as socioeconomic position shapes access to resources"  [⤴️](https://read.readwise.io/read/01jzws0bkn3fms3pfya68dwhp0) [[Journaling into the void - TikTok's eudaimonic 'web-weaving' and its digital practises|->]]

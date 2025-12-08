@@ -8,8 +8,8 @@ const { links, currentKind, side } = Astro.props;
 
   {links && links.length > 0
                         ? links.map((link: { id: string }) => {
-                      // should be collection/slug
-                      // clean out [[Title]]/slug and [[Title]]/collection/slug
+                      // should be collection/slug or collection/sub/slug
+                      // clean out [[Title]] segments
                       const rawSegments = link.id.split('/').filter(s => s !== '');
                       const cleaned = rawSegments.filter(seg => !/^\s*\[\[.*\]\]\s*$/.test(seg));
                       const kind = cleaned[0] || rawSegments[0];
@@ -18,11 +18,16 @@ const { links, currentKind, side } = Astro.props;
                       const title = debracketKeepTitleOrAlias(link.id);
                       // guard: if kind still contains brackets, fall back to current collection
                       const safeKind = /^\s*\[\[.*\]\]\s*$/.test(kind) ? (currentKind || 'docs') : kind;
+                      // preserve middle segments (e.g., works/thesis/slug)
+                      const middleSegments = cleaned.length > 2 ? cleaned.slice(1, -1) : [];
+                      const fullPath = middleSegments.length > 0 
+                        ? `/${safeKind}/${middleSegments.join('/')}/${slug}/`
+                        : `/${safeKind}/${slug}/`;
                       return (
                         <LinkCard
                           arrow={side}
                           title={title}
-                          href={`/${safeKind}/${slug}/`}
+                          href={fullPath}
                         />
                       );
                     })

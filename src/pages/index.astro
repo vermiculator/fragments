@@ -1,6 +1,7 @@
 ---
 
-import Layout from '../components/Layout.astro';
+
+import Layout from '@/components/Layout.astro';
 import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
 import { getCollection } from 'astro:content';
 const allItems = await getCollection('earth');
@@ -33,7 +34,7 @@ const allItems = await getCollection('earth');
 
 
        this site indexes an amorphous collection of notes / thoughts / concepts / resources
-       (along with my <a href="/thesis/masters-thesis">Masters thesis</a>)
+       (along with my <a href="/works/thesis/masters-thesis">Masters thesis</a>)
 
       <div class="sl-container" style="margin-top: 2rem">
             <LinkCard title="about the author: a neuro-queer cyber-creative human-creature" href="/about/about" />

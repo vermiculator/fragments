@@ -6,7 +6,7 @@ A theme in capture-curation that I've not had the space yet to develop and explo
 
 ---
 
-## from [[plain/meta-thesis/Are.na analysis]]
+## from [[works/thesis/meta-thesis/Are.na analysis]]
 - cruft - auto-capture - cookie banners, ads, social buttons, large menus, donation banners etc take up the auto-screenshot space. these screenshots rarely useful, maybe to archival but not curation. - peripheral articles in screenshots maybe useful...
 
 ## principles - features

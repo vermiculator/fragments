@@ -4,7 +4,7 @@ contextDetails: overview
 parent:
   - "[[meta-thesis]]"
 child:
-  - "[[plain/meta-thesis/Are.na data collection]]"
+  - "[[works/thesis/meta-thesis/Are.na data collection]]"
 title: 'data collection plan'
 ---
 

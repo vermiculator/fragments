@@ -5,15 +5,23 @@ const UNIQUE_COLLECTIONS = ['entities', 'earth', 'library'];
 
 function maybeRedirect(pathname: string): string | undefined {
 
+    // Temp fix: strip leading [[ from malformed wikilink paths
+    if (pathname.includes('%5B%5B') || pathname.startsWith('/[[')) {
+        pathname = pathname.replace(/%5B%5B/g, '').replace(/^\/%5B%5B/, '/').replace(/^\/\[\[/, '/');
+    }
+
     // special cases
     if(pathname === '/'){
         return '/';
     }
     if (pathname === '/thesis' || pathname === '/thesis/') {
-        return '/plain/thesis/masters-thesis';
+        return '/works/thesis/masters-thesis';
     }
-    if (pathname === '/about' || pathname === '/about/') {
+    if (pathname === '/about' || pathname === '/about/' || pathname === '/plain/about' || pathname === '/plain/about/' ) {
         return '/plain/about/about';
+    }
+    if (pathname === '/earth/masters-thesis' || pathname === '/earth/masters-thesis/') {
+        return '/works/thesis/masters-thesis';
     }
 
     // normalize plain routes first
@@ -28,11 +36,23 @@ function maybeRedirect(pathname: string): string | undefined {
         }
     }
 
+    // Handle /earth/thesis/ → /works/thesis/
+    if (pathname.startsWith('/earth/thesis/')) {
+        const rest = pathname.slice('/earth/thesis/'.length);
+        return `/works/thesis/${rest}`;
+    }
+
+    // Handle /thesis/ → /works/thesis/
+    if (pathname.startsWith('/thesis/')) {
+        const rest = pathname.slice('/thesis/'.length);
+        return `/works/thesis/${rest}`;
+    }
+
     for (const collection of PLAIN_COLLECTIONS) {
         if (pathname.startsWith(`/plain/${collection}/`)) {
             return undefined; // Already correct path
         }
-        if (pathname.startsWith(`/${collection}/`)) {
+        if (pathname.startsWith(`/${collection}/`) && collection !== 'thesis') {
             const rest = pathname.slice(`/${collection}/`.length);
             return `/plain/${collection}/${rest}`;
         }

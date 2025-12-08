@@ -1,5 +1,13 @@
 ---
-title: 'meta-block codes'
+title: meta-block codes
+parent:
+  - "[[Are.na meta-analysis]]"
+peer:
+  - "[[Pinterest analysis details]]"
+  - "[[works/thesis/meta-thesis/Are.na analysis|Are.na analysis]]"
+child:
+  - "[[Masters in public]]"
+  - "[[Masters thesis]]"
 ---
 
 codes from the [[Are.na meta-analysis]] 
@@ -7,7 +15,7 @@ codes from the [[Are.na meta-analysis]]
 ---
 ## selected codes
 
-| code                    | building on / merged from                                                                                                                                | direct phrasing from                                                                                                                                                                         | general category  |
+| code                    | building on / merged from / in vivo                                                                                                                      | direct phrasing from                                                                                                                                                                         | general category  |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 | active discovery        | anti-algorithm / anti-AI / active search / mindful recommendation / dig                                                                                  | me                                                                                                                                                                                           | affordance        |
 | agency                  | choice / flexibility / options / take control / customisable                                                                                             | -                                                                                                                                                                                            | affordance        |
@@ -90,17 +98,6 @@ codes from the [[Are.na meta-analysis]]
 | experiential knowledge  | inner monologue / tune-in / trail / intersubjectivity / mind atoms                                                                                       | me                                                                                                                                                                                           | use               |
 | vibrant media           | texture / liveness                                                                                                                                       | [[Vibrant Matter]] ?                                                                                                                                                                         | use               |
 
-
-
-metametameta
-
-ecosystem metaphors:
-dark and wet / incubator / mycelium / wormhole / garden / seeds / the underground / tab bloom / tend to the self / cross-pollination / evolving / caves / fertiliser / ant colony / dig
-
-collect and organize (double meaning) BL95
-
-
----
 ## emergent common codes lacking depth
 - for creatives, artists, researchers - defining audience by a limited set of occupations as marketed
 - surface level interface descriptors and general praise
@@ -111,3 +108,10 @@ collect and organize (double meaning) BL95
 - now / next / modern / 21st century - comparison to older media, remediation
 - 'intellectual', smart ('nerd' and 'pretentious' are the more interesting forms of this, see above)
 - referring to generally a place, a space, a site, a platform or another spatial metaphor - common to web experiences
+
+### metametameta
+
+both I and Are.na users favour ecosystem metaphors:
+dark and wet / incubator / mycelium / wormhole / garden / seeds / the underground / tab bloom / tend to the self / cross-pollination / evolving / caves / fertiliser / ant colony / dig
+
+collect and organize (double meaning) BL95

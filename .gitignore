@@ -47,10 +47,11 @@ publish.css
 !/src/content/vault/plain/
 !/src/content/vault/plain/about/
 !/src/content/vault/plain/about/**
-!/src/content/vault/plain/thesis/
-!/src/content/vault/plain/thesis/**
-!/src/content/vault/plain/meta-thesis/
-!/src/content/vault/plain/meta-thesis/**
+!/src/content/vault/works/
+!/src/content/vault/works/thesis/
+!/src/content/vault/works/thesis/**
+!/src/content/vault/works/thesis/meta-thesis/
+!/src/content/vault/works/thesis/meta-thesis/**
 !/src/content/vault/plain/structural/
 !/src/content/vault/plain/structural/**
 !/src/content/vault/library/
@@ -65,7 +66,6 @@ publish.css
 /src/content/mulch
 /src/content/seeds
 /src/content/vignettes
-/src/content/works
 /src/content/assets
 
 /src/assets/**

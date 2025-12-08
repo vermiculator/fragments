@@ -4,15 +4,28 @@ import '@fontsource-variable/grenze-gotisch';
 import '@fontsource-variable/noto-serif';
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 import { ScrollArea } from "./ui/scroll-area";
-const { pageTitle, tabTitle, pageStyle, starlightSettings } = Astro.props;
+const { pageTitle, tabTitle, pageStyle, starlightSettings = {} } = Astro.props;
 starlightSettings.title = pageTitle;
 starlightSettings.tableOfContents = (pageStyle == 'docs' || pageStyle == 'doc' || pageStyle == 'earth' || pageStyle == 'library' || pageStyle == 'entities' || pageStyle == 'only-right');
 starlightSettings.template = (pageStyle == 'full' ? 'splash' : 'doc');
-const hideLeftSidebar =  (pageStyle == 'full' || pageStyle == 'thesis' || pageStyle == 'only-right');
+const hideLeftSidebar =  (starlightSettings.template == 'splash' || pageStyle == 'full' || pageStyle == 'only-right');
+
 ---
 
-    <StarlightPage frontmatter={{ sidebar: { hidden: hideLeftSidebar }, ...starlightSettings }}>
+{ hideLeftSidebar ?
+
+    <StarlightPage frontmatter={{ sidebar: { }, ...starlightSettings }}>
      <ScrollArea className="body p-1 max-h-1/2">
       <slot />
     </ScrollArea>
  </StarlightPage>
+
+ :
+
+    <StarlightPage frontmatter={starlightSettings}>
+     <ScrollArea className="body p-1 max-h-1/2">
+      <slot />
+    </ScrollArea>
+ </StarlightPage>
+
+}

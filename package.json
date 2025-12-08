@@ -46,6 +46,7 @@
     "shadcn": "^3.5.1-canary.0",
     "solid-auth-cli": "^1.0.15",
     "solid-file-client": "^2.1.11",
+    "solid-node-client": "^3.0.0",
     "starlight-obsidian": "^0.9.1",
     "starlight-scroll-to-top": "^0.1.1",
     "starlight-site-graph": "^0.3.3",

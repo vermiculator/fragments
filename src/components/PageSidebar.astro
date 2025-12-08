@@ -8,6 +8,14 @@ import { getEntry, type DataEntryMap } from 'astro:content';
 const collections: (keyof DataEntryMap)[] = ["docs", "library", "earth", "entities"];
 const slug = String(Astro.params.id ?? '').replace(/\/$/, '');
 const headings = true;
+
+// Safely access starlightRoute
+let starlightRoute: any;
+try {
+	starlightRoute = Astro.locals.starlightRoute;
+} catch (e) {
+	starlightRoute = {};
+}
 ---
 
 <>

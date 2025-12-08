@@ -213,3 +213,33 @@
 	border: 2px dashed var(--color-gray-400);
     text-align: right;
 }
+
+/* Hide sidebar on splash template pages */
+.sl-template-splash .sidebar-pane,
+.sl-template-splash aside[aria-label="Sidebar"],
+body[data-template="splash"] .sidebar-pane,
+body[data-template="splash"] aside[aria-label="Sidebar"] {
+	display: none !important;
+	visibility: hidden !important;
+}
+
+.sl-template-splash [data-has-sidebar],
+body[data-template="splash"] [data-has-sidebar] {
+	--sl-content-inline-start: 0 !important;
+}
+
+/* Force hide left sidebar container on splash pages */
+body[data-template="splash"] .page .sidebar-pane,
+.sl-template-splash .page .sidebar-pane {
+	width: 0 !important;
+	min-width: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	overflow: hidden !important;
+}
+
+/* Hide pagination on specific thesis pages */
+.thesis-wrapper .pagination-links,
+[data-page-id^="works/thesis/meta-thesis/"] .pagination-links {
+	display: none !important;
+}

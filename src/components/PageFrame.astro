@@ -12,12 +12,24 @@ import BottomNavWrapper from './BottomNavWrapper.astro';
 import SidebarWrapper from './SidebarWrapper.astro';
 import { baseify } from '@/scripts/util';
 
-const { hasSidebar, entry, id } = Astro.locals.starlightRoute;
+// Safely access starlightRoute
+let starlightRoute: any = {};
+try {
+	starlightRoute = Astro.locals.starlightRoute || {};
+} catch (e) {
+	starlightRoute = {};
+}
+
+const { hasSidebar, entry, id } = starlightRoute;
 const collection = id ? baseify(id) : '';
-const isThesisPage = id?.startsWith('plain/thesis/');
+const isThesisPage = id?.startsWith('works/thesis/');
 const isAboutPage = id?.startsWith('plain/about/');
-const isMetaThesisPage = id?.startsWith('plain/meta-thesis/');
+const isMetaThesisPage = id?.startsWith('works/thesis/meta-thesis/');
 const isStructuralPage = id?.startsWith('plain/structural/');
+
+// Check if this is a splash page (index, 404)
+const isSplashPage = Astro.props?.frontmatter?.template === 'splash' || 
+                     starlightRoute?.frontmatter?.template === 'splash';
 ---
 
 <div class="page sl-flex">
@@ -113,10 +125,14 @@ const isStructuralPage = id?.startsWith('plain/structural/');
 					);
 				default:
 					return (
-						<SidebarWrapper>
-							<slot name="sidebar" slot="sidebar" />
-						</SidebarWrapper>
-						<div class="main-content"><slot /></div>
+						<>
+							{!isSplashPage && hasSidebar && (
+								<SidebarWrapper>
+									<slot name="sidebar" slot="sidebar" />
+								</SidebarWrapper>
+							)}
+							<div class="main-content"><slot /></div>
+						</>
 					);
 			}
 		})()}

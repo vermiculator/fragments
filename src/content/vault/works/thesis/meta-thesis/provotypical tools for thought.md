@@ -1,5 +1,8 @@
 ---
-title: 'provotypical tools for thought'
+title: provotypical tools for thought
+parent:
+  - "[[provotypes]]"
+  - "[[Masters thesis]]"
 ---
 
 I'm inclined to learn only where it is something I can apply. In undertaking my [[Masters in public|Masters thesis project]] I was already somewhat familiar with decentralised web technologies as well as embedded in the socio-technological hellscape of [[Web 2.0]]. For [[the personal is political, the political is personal|personal-political]] reasons I opted to study where precisely I could apply particular ecosystems of technology to my own struggles, and my [[whim as direction|whim]] leads me repeatedly to information practises, the study of knowledge, and the internet. I witnessed both in artistic circles, academic circles, activist circles, and my daily [[brain fog]], the need for better personal information tools (or [[tools for thought]]) built not for [[capitalist efficiency|capitalist]] notions of [[toxic productivity|productivity]] but along the lines of personal journals and [[commonplace books]]. 

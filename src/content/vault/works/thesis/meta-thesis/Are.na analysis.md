@@ -1,8 +1,14 @@
 ---
-title: 'Are.na analysis'
+title: Are.na analysis
+parent:
+  - "[[Pinterest analysis details]]"
+child:
+  - "[[Are.na meta-analysis]]"
 ---
+import ArenaGrid from '../../../../../components/ArenaGrid.astro';
+import ArenaEmbed from '../../../../../components/ArenaEmbed.astro';
 
-See the [[plain/thesis/thesis-practise|main body of my thesis]] for context and discussion of the most relevant themes, see below for the details of my analysis, or see '[[plain/meta-thesis/future-building on Are.na|future-building on Are.na]]' for individual blocks.
+See the [[works/thesis/thesis-practise|main body of my thesis]] for context and discussion of the most relevant themes, see below for the details of my analysis, or see '[[works/thesis/meta-thesis/future-building on Are.na|future-building on Are.na]]' for individual blocks.
 
 ---
 
@@ -47,8 +53,26 @@ sub-question:
 | temporal instrumentality | occasionally saw past events/call for submission/recurring events/to sign up for saved as if archival rather than temporal                                                                                                                                                                                                                 |                                                                                               |
 | ambient multi-modal use  | eg music playlist or podcast to be listened to whilst browsing the channel                                                                                                                                                                                                                                                                 |                                                                                               |
 | unsourced/unsourceable   | sources you can't find/don't have time to find vs can't be sourced (i heard it on tiktok/i overheard it)                                                                                                                                                                                                                                   |                                                                                               |
-## Discussion
+## Some Discussion
 
+#### rich, multi-modal linked data
+
+Are.na's infrastructure echoes Tumblr's multi-modality [[tumblr (book)|(Tiidenberg, Hendry, and Abidin, 2021)]]. Text blocks precipitate additional patterns of use to Pinterest's, such as [[excerpting]] and journaling. Saving PDFs is of huge microcultural and infrastructural significance as Are.na also now functions as a searchable textual archive. Allowing capture of a raw url is another benefit of this [[multi-modal|multi-modality]]. Both Are.na and Pinterest's bookmarks insist on an image cover, an uncommon pattern in bookmarking which [[refinding is quicker from images than text|can be useful for refinding]] [[Screenshot Situations|(Tyżlik-Carver, 2022)]], but in aggregate produces redundant visual clutter of auto-screenshots. I determined that Are.na's bookmarks covered common categories: organisations, articles, resources and temporal bookmarks. Resource bookmarks would've often been more useful as embedded lists of links but sometimes included web tools or unusual formats. Temporal bookmarks were those with associated dates and deadlines: bookmarks never intended to persist.
+
+<ArenaGrid><ArenaEmbed id="10305629"></ArenaEmbed>
+<caption>an example of an organisation bookmark whose auto-captured screenshot cover includes useful information that could be captured as metadata</caption>
+</ArenaGrid>
+
+#### knowledge lineage and reflexive curation
+
+Whilst Are.na stores only a single source link as Pinterest does, its culture encourages added provenance in the text body, title, descriptions or comments, to a greater degree than Pinterest. In text blocks, users often quote or take excerpts from longer articles, which act as **general inspiration** on Pinterest (CITE) but contain **reflexive commentary** on Are.na. Many channels are designed explicitly around a titular questions, as study guides or with **embedded navigational instructions**. Are.na's culture of connectivity and methods of capture encourage [[citational justice]]. 
+
+<ArenaGrid>
+<ArenaEmbed id="10340425"></ArenaEmbed>
+<caption>In quoting an article reviewing another work, source lineage is preserved but obscured by displaying it as plain text without quotation - a minor interface choice that confuses the authorship and intent of individual fragments when assembled.</caption>
+</ArenaGrid>
+
+## Some Meta
 ### Consent
 - For each Are.na channel I analysed here I created a private channel with the author to invite them to participate.
 - As channels are private, asynchronous, conceptually less intimate than private messaging and allow embedding both text and PDF, they're a good venue for this kind of research - they could in future be used to solicit further data. I see in particular that they could be useful for recruiting and engaging in research for some neurodivergent people who could now take their time and relate to prompts in multiple formats.

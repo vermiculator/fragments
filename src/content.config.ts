@@ -5,7 +5,7 @@ import { i18nLoader } from '@astrojs/starlight/loaders';
 //import { inruptSolidPodLoader } from '../src/loaders/solid';
 import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
 
-const anyDoc = z.union([reference('structural'), reference('docs'), reference('about'), reference('thesis'), reference('metaThesis'), reference('earth'), reference('library'), reference('entities')]);
+const anyDoc = z.union([reference('structural'), reference('docs'), reference('thesis'), reference('metaThesis'), reference('earth'), reference('library'), reference('entities')]);
 
 const generalSchema = docsSchema({
 	    extend: z.object({
@@ -49,16 +49,12 @@ export const collections = {
 			}).merge(pageSiteGraphSchema),
 		  }),
 	}),
-	about: defineCollection({
-		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/plain/about/" }),
-		 schema: generalSchema
-	}),
 	thesis: defineCollection({
-		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/plain/thesis" }),
+		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/works/thesis" }),
 		  schema: generalSchema
 	}),
 	metaThesis: defineCollection({
-		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/plain/meta-thesis" }),
+		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/works/thesis/meta-thesis" }),
 		  schema: generalSchema
 	}),
 	structural: defineCollection({
@@ -67,7 +63,7 @@ export const collections = {
 	}),
 	docs: defineCollection({
 		loader: glob({
-			pattern: ['**/*.mdx', '**/*.md', '!plain/about/**', '!plain/structural/**'],
+			pattern: ['**/*.mdx', '**/*.md'],
 			base: "./src/content/docs/mdx"
 		}),
 		  schema: generalSchema
@@ -110,8 +106,8 @@ export const collections = {
 			date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
 		}),
 	}),
-	works: defineCollection({
-		loader: glob({ pattern: ['**/*.md'], base: "./src/data/works" }),
+/* 	works: defineCollection({
+		loader: glob({ pattern: [' * * /*.md'], base: "./src/data/works" }),
 		schema: z.object({
 			format: z.enum(['image', 'video']),
 			kind: z.enum(['col', 'mono']),
@@ -122,6 +118,9 @@ export const collections = {
 			date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
 		}),
 	}),
+*/
+
+
 	////////////////// TYPES ///////////////////////
 
 	mediaTypes: defineCollection({

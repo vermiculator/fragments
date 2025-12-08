@@ -6,7 +6,8 @@ peer:
 title: 'ethics of public data use'
 ---
 TODO discuss what I've considered
-- + discussion of  'online self-disclosure practices' - relevant for ethics in methodology [[quickref#^63f9f1]]
+- + discussion of  'online self-disclosure practices' - relevant for ethics in methodology 
+- -  [[Journaling into the void - TikTok's eudaimonic 'web-weaving' and its digital practises]]
 
 "**Many people think that anonymizing social media posts is a good citation strategy that protects users’ privacy. But it’s not.**“Even when anonymized by not including usernames, content from social media collected and shared in research articles can be easily traced back to its creator,” as Dym and Fiesler assert, drawing on a [study by John W. Ayers and colleagues](https://www.nature.com/articles/s41746-018-0036-2). Basically, you can google the text of a social media post and find the original post, context, and its author extremely easily."  - from [Melanie Walsh on Medium](https://melanie-walsh07.medium.com/recommendations-and-updates-for-using-social-media-data-in-research-whether-youre-in-english-1a13c3e85e5d)
 
