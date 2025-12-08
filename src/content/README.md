@@ -1,0 +1,1 @@
+Content in this folder either does not belong to me (assets, excerpts) or is is licensed under CC BY-NC 4.0 by default

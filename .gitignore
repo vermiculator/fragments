@@ -35,6 +35,8 @@ publish.css
 /.trash
 .filenignore
 
+/temp-hide
+
 ## content
 # Ignore all vault by default
 /src/content/vault/**
