@@ -5,6 +5,9 @@ const UNIQUE_COLLECTIONS = ['entities', 'earth', 'library'];
 
 function maybeRedirect(pathname: string): string | undefined {
 
+    // Normalize the input path: decode, collapse backslashes, trim duplicate slashes
+    pathname = decodeURI(pathname).replace(/\\/g, '/').replace(/\/+/g, '/');
+
     // Temp fix: strip leading [[ from malformed wikilink paths
     if (pathname.includes('%5B%5B') || pathname.startsWith('/[[')) {
         pathname = pathname.replace(/%5B%5B/g, '').replace(/^\/%5B%5B/, '/').replace(/^\/\[\[/, '/');
@@ -17,6 +20,9 @@ function maybeRedirect(pathname: string): string | undefined {
     if (pathname === '/thesis' || pathname === '/thesis/') {
         return '/works/thesis/masters-thesis';
     }
+    if (pathname === '/earth/thesis' || pathname === '/earth/thesis/') {
+        return '/works/thesis/';
+    }
     if (pathname === '/about' || pathname === '/about/' || pathname === '/plain/about' || pathname === '/plain/about/' ) {
         return '/plain/about/about';
     }
@@ -27,12 +33,13 @@ function maybeRedirect(pathname: string): string | undefined {
     // normalize plain routes first
     for (const prefix of ['/mdx/', '/mdx', '/md/', '/md']) {
         if (pathname.startsWith(prefix)) {
-            const rest = pathname.slice(prefix.length);
+            const rest = pathname.slice(prefix.length).replace(/^\//, '');
             const nextSeg = rest.split('/')[0] ?? '';
             if (PLAIN_COLLECTIONS.includes(nextSeg)) {
                 return `/plain/${rest}`;
             }
-            return `/${rest}`;
+            // Default: strip the mdx/md prefix entirely
+            return `/${rest}` || '/';
         }
     }
 
