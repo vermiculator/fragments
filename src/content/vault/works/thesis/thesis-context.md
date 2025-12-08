@@ -13,9 +13,6 @@ child:
   - "[[thesis-discussion|Discussion]]"
 ---
 
-import ArenaGrid from '@/components/ArenaGrid.astro';
-import ArenaEmbed from '@/components/ArenaEmbed.astro';
-
 ## Instrumental and affective fragments
 
 [[Critical Data Studies|Critical Data Studies (CDS)]] allows us to conceptualise [[data and information processing|data]] 'as resistance' and 'as latent knowledge' [[Four Data Discourses and Assemblage Forms A Methodological Framework|(Fussell, 2022)]] that can be instrumentalised for socio-political change. The [[experiential knowledge]] shared online (particularly by multiply marginalised people) has such resistive potential due to its "eudaimonic (i.e., emotionally poignant, existential, or vulnerable)" quality [[Journaling into the void - TikTok's eudaimonic 'web-weaving' and its digital practises|(Moger, 2024, pp. iv)]]. This can surface as shared joy and solidarity but also as 'affective dissonance' (Hemmings, 2012), where anger and grief resonates in the 'onto-epistemological gap' between embodied and prescripted lives [[library/Lubunya Assemblages - Queer Networked Resistances in Turkey|(Kilic, 2024)]]. This affect proliferated through a network directly 'spurs action' to bridge the gap (Hemmings, 2012). Kilic [[library/Lubunya Assemblages - Queer Networked Resistances in Turkey|(2024)]], in their discussion of queer [[counter-archives|counter-archival practices]] in Turkey, describes how this circulation of affect allows "an everyday or individualised action \[to] eventually become transformative,". They describe the Lubunca term "gullüm alıkmak" (or making gullüm) as 'collective act of joy or humour as resistance' that can incite restorative change in the face of this dissonance ([[library/Lubunya Assemblages - Queer Networked Resistances in Turkey|Kilic, 2024]]). 
