@@ -13,72 +13,69 @@ function maybeRedirect(pathname: string): string | undefined {
         pathname = pathname.replace(/%5B%5B/g, '').replace(/^\/%5B%5B/, '/').replace(/^\/\[\[/, '/');
     }
 
-    // special cases
-    if(pathname === '/'){
-        return '/';
-    }
+    // Static special-case redirects
     if (pathname === '/thesis' || pathname === '/thesis/') {
         return '/works/thesis/masters-thesis';
     }
     if (pathname === '/earth/thesis' || pathname === '/earth/thesis/') {
         return '/works/thesis/';
     }
-    if (pathname === '/about' || pathname === '/about/' || pathname === '/plain/about' || pathname === '/plain/about/' ) {
+    if (pathname === '/about' || pathname === '/about/' || pathname === '/plain/about' || pathname === '/plain/about/') {
         return '/plain/about/about';
     }
     if (pathname === '/earth/masters-thesis' || pathname === '/earth/masters-thesis/') {
         return '/works/thesis/masters-thesis';
     }
 
-    // normalize plain routes first
+    // Handle /mdx/* and /md/* prefixes - strip them and redirect
     for (const prefix of ['/mdx/', '/mdx', '/md/', '/md']) {
         if (pathname.startsWith(prefix)) {
-            const rest = pathname.slice(prefix.length).replace(/^\//, '');
+            let rest = pathname.slice(prefix.length);
+            // Clean up any leading slash left after stripping prefix
+            while (rest.startsWith('/')) {
+                rest = rest.slice(1);
+            }
+            // If nothing left, redirect to root
+            if (!rest) {
+                return '/';
+            }
+            // Check if first segment is a plain collection
             const nextSeg = rest.split('/')[0] ?? '';
             if (PLAIN_COLLECTIONS.includes(nextSeg)) {
                 return `/plain/${rest}`;
             }
-            // Default: strip the mdx/md prefix entirely
-            return `/${rest}` || '/';
+            // Default: strip the prefix and redirect
+            return `/${rest}`;
         }
     }
 
-    // Handle /earth/thesis/ → /works/thesis/
-    if (pathname.startsWith('/earth/thesis/')) {
-        const rest = pathname.slice('/earth/thesis/'.length);
-        return `/works/thesis/${rest}`;
-    }
-
-    // Handle /thesis/ → /works/thesis/
-    if (pathname.startsWith('/thesis/')) {
-        const rest = pathname.slice('/thesis/'.length);
-        return `/works/thesis/${rest}`;
-    }
-
+    // Redirect collection routes to /plain/ if needed
     for (const collection of PLAIN_COLLECTIONS) {
+        if (collection === 'thesis') continue; // thesis is handled above
         if (pathname.startsWith(`/plain/${collection}/`)) {
-            return undefined; // Already correct path
+            return undefined; // Already correct
         }
-        if (pathname.startsWith(`/${collection}/`) && collection !== 'thesis') {
+        if (pathname.startsWith(`/${collection}/`)) {
             const rest = pathname.slice(`/${collection}/`.length);
             return `/plain/${collection}/${rest}`;
         }
     }
 
+    // Handle duplicate collection segments
     for (const collection of UNIQUE_COLLECTIONS) {
         if (pathname.startsWith(`/${collection}/${collection}/`)) {
             const rest = pathname.slice(`/${collection}/`.length);
-            return `${rest}`;
+            return `/${rest}`;
         }
     }
 
-    return pathname;
+    return undefined;
 
 }
 
 export const onRequest = defineMiddleware((context, next) => {
     const redirectTo = maybeRedirect(context.url.pathname);
-    if (redirectTo && redirectTo !== context.url.pathname) {
+    if (redirectTo) {
         return context.redirect(redirectTo, 301);
     }
     return next();
