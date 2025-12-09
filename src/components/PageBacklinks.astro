@@ -34,7 +34,8 @@ let { entry } = Astro.locals.starlightRoute;
 
 // If frontmatter is explicitly passed as 'entry' (happens in a Starlight context)
 if (entry.id) {
-	backlinksData = (entry.data?.backlinks ?? {}) as Partial<PageGraphConfig>;
+	const data = entry.data as { backlinks?: unknown };
+	backlinksData = (data.backlinks ?? {}) as Partial<PageGraphConfig>;
 }
 
 // Infer sitemap key from current URL or provided slug and match sitemap's md/**/** format

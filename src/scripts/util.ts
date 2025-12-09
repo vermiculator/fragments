@@ -1,3 +1,20 @@
+import { getCollection } from 'astro:content';
+import type { CollectionEntry } from 'astro:content';
+
+// Type alias for any document collection entry
+export type AnyDocEntry = CollectionEntry<'earth'> | CollectionEntry<'library'> | CollectionEntry<'entities'> | CollectionEntry<'thesis'> | CollectionEntry<'metaThesis'> | CollectionEntry<'structural'>;
+
+export function slugifyEntry(entry: any):string {
+		const pathWithoutExt = entry.replace(/\.(md|mdx)$/, '');
+		const filename = pathWithoutExt.split('/').pop() || pathWithoutExt;
+		const slug = filename.toLowerCase()
+			.replace(/[^\w\s-]/g, '')
+			.replace(/\s+/g, '-')
+			.replace(/-+/g, '-')
+			.trim();
+		return slug;
+}
+
 export function slugify (link:string):string {
   if(link && link!== ''){
   return link.normalize('NFKD') // decompose diacritics
@@ -43,4 +60,24 @@ export function debracketKeepFirst (link:string):string {
 
 export function baseify (link:string):string {
   return link.replace(/^\/(md|mdx|plain)\//, '/').split('/').slice(0, -1).join('/') + '/';
+}
+
+/**
+ * Get all entries from multiple collections in priority order.
+ * Default collections: earth, library, entities
+ */
+export async function getAllEntriesFromCollections(
+  collections: string[] = ['earth', 'library', 'entities', 'docs']
+): Promise<AnyDocEntry[]> {
+  const allEntries: AnyDocEntry[] = [];
+  for (const collection of collections) {
+    try {
+      const entries = await getCollection(collection as any);
+      allEntries.push(...(entries as AnyDocEntry[]));
+    } catch (error) {
+      // Collection might not exist, skip it
+      console.warn(`Collection ${collection} not found`);
+    }
+  }
+  return allEntries;
 }

@@ -7,7 +7,7 @@ title: Creating by Me, and for Me - Investigating the Use of Information Creatio
 short-title: Creating by Me, and for Me
 subtitle: Investigating the Use of Information Creation in Everyday Life
 full-title: "Creating by Me, and for Me: Investigating the Use of Information Creation in Everyday Life"
-summary: This study explores how people create and use information to help with daily tasks like grocery shopping and collecting ideas. Creating information helps them stay organized, make decisions, learn, and enjoy their activities. Understanding this process gives new insights into how people manage information in everyday life.
+summary: "This study explores how people create and use information to help with daily tasks like grocery shopping and collecting ideas. Creating information helps them stay organized, make decisions, learn, and enjoy their activities. Understanding this process gives new insights into how people manage information in everyday life."
 kind:
   - articles
 url: https://readwise.io/reader/document_raw_content/331603670

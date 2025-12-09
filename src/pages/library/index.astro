@@ -1,7 +1,7 @@
 ---
 import Layout from '../../components/Layout.astro';
-import { Card, LinkCard, CardGrid } from '@astrojs/starlight/components';
-import {
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
+/* import {
   Pagination,
   PaginationContent,
   PaginationEllipsis,
@@ -10,7 +10,7 @@ import {
   PaginationNext,
   PaginationPrevious,
 } from "../../components/ui/pagination"
-
+ */
 
 // const allItems = Object.values(await import.meta.glob('./earth/*.md'));
 import { getCollection } from 'astro:content';
@@ -25,8 +25,8 @@ const allItems = await getCollection('library');
       <LinkCard title={item.data.title} href={'/library/' + item.id} />
       )
     }
- </CardGrid> 
-  
+ </CardGrid>
+  <!--
 <Pagination>
 pagination not working yet, bear with me
   <PaginationContent>
@@ -41,8 +41,8 @@ pagination not working yet, bear with me
     </PaginationItem>
     <PaginationItem>
       <PaginationNext href="#" />
-    </PaginationItem>  
+    </PaginationItem>
   </PaginationContent>
-</Pagination>
+</Pagination> -->
 
 </Layout>

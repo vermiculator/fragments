@@ -1,7 +1,6 @@
 import { defineMiddleware } from 'astro:middleware';
 
-const PLAIN_COLLECTIONS = ['thesis', 'about', 'meta-thesis', 'structural'];
-const UNIQUE_COLLECTIONS = ['entities', 'earth', 'library'];
+const COLLECTIONS = ['entities', 'earth', 'library','thesis', 'about', 'meta-thesis', 'structural'];
 
 function maybeRedirect(pathname: string): string | undefined {
 
@@ -13,31 +12,44 @@ function maybeRedirect(pathname: string): string | undefined {
         pathname = pathname.replace(/%5B%5B/g, '').replace(/^\/%5B%5B/, '/').replace(/^\/\[\[/, '/');
     }
 
-    // Static redirects (/thesis, /earth/thesis, /about, /earth/masters-thesis) and
-    // dynamic prefix stripping (/mdx/*, /md/*) are handled by vercel.json
-
-    // Redirect collection routes to /plain/ if needed
-    for (const collection of PLAIN_COLLECTIONS) {
-        if (collection === 'thesis') continue; // thesis is already handled by vercel.json
-        if (pathname.startsWith(`/plain/${collection}/`)) {
-            return undefined; // Already correct
-        }
-        if (pathname.startsWith(`/${collection}/`)) {
-            const rest = pathname.slice(`/${collection}/`.length);
-            return `/plain/${collection}/${rest}`;
-        }
-    }
-
     // Handle duplicate collection segments
-    for (const collection of UNIQUE_COLLECTIONS) {
+    for (const collection of COLLECTIONS) {
         if (pathname.startsWith(`/${collection}/${collection}/`)) {
             const rest = pathname.slice(`/${collection}/`.length);
             return `/${rest}`;
         }
     }
 
-    return undefined;
+    for (const collection of COLLECTIONS) {
+        const mdxPrefix = `/mdx/${collection}/`;
+        const docsPrefix = `/docs/${collection}/`;
+        if (pathname.startsWith(mdxPrefix)) {
+            const rest = pathname.slice(mdxPrefix.length);
+            return `/${collection}/${rest}`;
+        }
+        if (pathname.startsWith(docsPrefix)) {
+            const rest = pathname.slice(docsPrefix.length);
+            return `/${collection}/${rest}`;
+        }
+    }
 
+    if (pathname.startsWith('/mdx/plain/')) {
+        const rest = pathname.slice('/mdx/plain/'.length);
+        return `/${rest}`;
+    }
+
+    if (pathname.startsWith('/about/')) {
+        const rest = pathname.slice('/about/'.length);
+        return `/plain/about/${rest}`;
+    }
+
+      if (pathname === '/earth/masters-in-public' || pathname === '/earth/masters-in-public/' || pathname === 'earth/masters-in-public/' || pathname === 'earth/masters-in-public'){
+        return '/works/thesis/meta-thesis/masters-in-public'
+      }
+
+    if (pathname === '/earth/masters-thesis' || pathname === '/earth/masters-thesis/' || pathname === 'earth/masters-thesis/' || pathname === 'earth/masters-thesis'){
+        return '/works/thesis/masters-thesis'
+      }
 }
 
 export const onRequest = defineMiddleware((context, next) => {

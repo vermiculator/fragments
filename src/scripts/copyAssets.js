@@ -33,10 +33,8 @@ function processDirectory(dir) {
         try {
           const content = readFileSync(fullPath, 'utf-8');
           const fixed = fixImagePaths(content);
-          
           if (content !== fixed) {
             writeFileSync(fullPath, fixed, 'utf-8');
-            console.log(`[fixImagePaths] Fixed: ${fullPath}`);
           }
         } catch (err) {
           console.error(`[fixImagePaths] Error processing ${fullPath}: ${err.message}`);

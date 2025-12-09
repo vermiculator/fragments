@@ -1,28 +1,47 @@
 ---
 
-import { debracketKeepFirst, debracketKeepTitleOrAlias, slugify } from '@/scripts/util';
+import { debracketKeepFirst, debracketKeepTitleOrAlias, slugify, getAllEntriesFromCollections } from '@/scripts/util';
 import LinkCard from './LinkCard.astro';
 
 const { links, currentKind, side } = Astro.props;
+
+// Get all entries so we can look up their collections
+const allEntries = await getAllEntriesFromCollections();
 ---
 
   {links && links.length > 0
-                        ? links.map((link: { id: string }) => {
-                      // should be collection/slug or collection/sub/slug
-                      // clean out [[Title]] segments
-                      const rawSegments = link.id.split('/').filter(s => s !== '');
-                      const cleaned = rawSegments.filter(seg => !/^\s*\[\[.*\]\]\s*$/.test(seg));
-                      const kind = cleaned[0] || rawSegments[0];
-                      const slugSource = cleaned.length > 1 ? cleaned[cleaned.length - 1] : cleaned[0] || link.id;
-                      const slug = slugify(debracketKeepFirst(slugSource)) || '';
+                        ? links.map((link: { id: string; collection?: string }) => {
                       const title = debracketKeepTitleOrAlias(link.id);
-                      // guard: if kind still contains brackets, fall back to current collection
-                      const safeKind = /^\s*\[\[.*\]\]\s*$/.test(kind) ? (currentKind || 'docs') : kind;
-                      // preserve middle segments (e.g., works/thesis/slug)
-                      const middleSegments = cleaned.length > 2 ? cleaned.slice(1, -1) : [];
-                      const fullPath = middleSegments.length > 0 
-                        ? `/${safeKind}/${middleSegments.join('/')}/${slug}/`
-                        : `/${safeKind}/${slug}/`;
+                      const unslugged = debracketKeepFirst(link.id);
+
+                      // Split into path segments and slugify only the last one
+                      const segments = unslugged.split('/').filter(s => s.trim());
+                      const lastSegment = segments[segments.length - 1];
+                      const slug = slugify(lastSegment) || lastSegment;
+
+                      // Reconstruct path: preserve middle segments + slugified final segment
+                      const pathSegments = segments.slice(0, -1);
+                      pathSegments.push(slug);
+                      const fullId = pathSegments.join('/');
+
+                      // Find which collection contains this entry (search by slug match or full id)
+                      let resolvedCollection: string | undefined;
+                      for (const entry of allEntries) {
+                        if (entry.id === fullId || entry.id.includes(slug)) {
+                          resolvedCollection = entry.collection;
+                          break;
+                        }
+                      }
+
+                      let safeKind = resolvedCollection || currentKind || 'earth';
+                      if (safeKind == 'docs'){safeKind = 'earth'};
+
+                      // If fullId has multiple segments, it's already a full path like works/thesis/slug
+                      // In that case, use it directly. Otherwise prepend the collection.
+                      const fullPath = fullId.includes('/') 
+                        ? `/${fullId}/`
+                        : `/${safeKind}/${fullId}/`;
+
                       return (
                         <LinkCard
                           arrow={side}

@@ -5,14 +5,14 @@ import type { DataEntryMap } from 'astro:content';
 import BottomLinks from './BottomLinks.astro';
 
 const { entry } = Astro.locals.starlightRoute;
-let parents : ReferenceDataEntry<keyof DataEntryMap>[] = await getLinks("parents", "docs", entry.id);
+let parents : ReferenceDataEntry<keyof DataEntryMap>[] = await getLinks("parents", ["earth", "library", "entities", "docs", "thesis", "metaThesis", "structural"] as (keyof DataEntryMap)[], entry.id);
 ---
 
  <div class="lg:sl-hidden"></div>
  <div class="sl-hidden lg:sl-block">
         <div class="sl-container" aria-label="parent links">
          <div class="text-sm">
-               <BottomLinks side="left" links={ parents } currentKind={ entry.collection == 'docs' || entry.collection == 'plain' || entry.collection == 'md' ? 'earth' : entry.collection}/>
+               <BottomLinks side="left" links={ parents } currentKind={ entry.collection }/>
          </div>
         </div>
  </div>
