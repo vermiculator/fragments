@@ -1,8 +1,0 @@
----
-title: male entitlement and emotional labour
-parent:
-  - "[[patriarchy|patriarchal systems]]"
-  - "[[hidden labour]]"
----
-
-"I ask my father to read an article about male entitlement and emotional labour. 'Can you just tell me what it says?' he says." - Martha Grover, 'Link'

@@ -1,5 +1,0 @@
----
-title: strikes
-parent:
-  - "[[activism]]"
----

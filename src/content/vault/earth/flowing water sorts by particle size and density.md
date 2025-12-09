@@ -1,9 +1,0 @@
----
-parent:
-  - "[[material and form]]"
-title: flowing water sorts by particle size and density
----
-
-- when put this succinctly it reminds me how useful this is
-- there MUST be more use cases for this that aren't frequently used
-- seeded by a Hank Green shirt about sand and glass

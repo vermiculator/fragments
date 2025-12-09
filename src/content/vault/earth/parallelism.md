@@ -1,4 +1,0 @@
----
-title: parallelism
-seeded-by:
----

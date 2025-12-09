@@ -1,8 +1,0 @@
----
-title: using chatbots for socratic dialogue
-parent:
-  - "[[digital humanities]]"
-  - "[[AI]]"
----
-
-chatbots as tools for reasoning, decision making through sound logical basis for specific rationale through philosophical/natural language inquiry. Use a logical machine to ensure your internal logic holds. Socratic dialogue, reconstituted sentence

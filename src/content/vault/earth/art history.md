@@ -1,9 +1,0 @@
----
-parent:
-  - "[[culture, art and media]]"
-  - "[[history and heritage]]"
-peer:
-  - "[[maker communities]]"
-  - "[[influencers, tastemakers and curators]]"
-title: art history
----

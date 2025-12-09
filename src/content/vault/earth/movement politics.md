@@ -1,7 +1,0 @@
----
-title: movement politics
----
-
-- not sure what context i wrote this in
-- is it linked as the politics of exercise and moving around 
-- or as the kind of politics that occurs in collective social movements

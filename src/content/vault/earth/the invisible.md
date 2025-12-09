@@ -1,7 +1,0 @@
----
-title: the invisible
-child:
-  - "[[making the invisible visible]]"
----
-
-- what isn't there, what isn't present, or unaccounted for, or unrevealed, or unperceived, and what that says about what IS there 

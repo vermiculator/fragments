@@ -1,5 +1,0 @@
----
-title: gastrodiplomacy
-parent:
-  - "[[politics]]"
----

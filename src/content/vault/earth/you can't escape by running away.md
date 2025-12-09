@@ -1,9 +1,0 @@
----
-parent:
-  - "[[collectivism|anti-individualism]]"
-title: "you can't escape by running away"
----
-
-collectivism requires bringing up those around you, reconfiguring the relations parallel to and alongside but also within, not everyone has the resources to escape to a wholly new system (espe. children)
-
-- "Colebrook writes that “a tactical economy is generated not by moving to a different place but generating a different point of view" [⤴️](https://read.readwise.io/read/01k3rgthvfz3xa4hxx4tymna09)

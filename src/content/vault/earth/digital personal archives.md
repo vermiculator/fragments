@@ -1,9 +1,0 @@
----
-parent:
-  - "[[personal archives]]"
-  - "[[digital archives]]"
-peer:
-  - "[[history of personal archiving]]"
-  - "[[internet|web]]"
-  - "[[knowledge stores]]"
----

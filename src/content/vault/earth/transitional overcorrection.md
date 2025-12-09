@@ -1,8 +1,0 @@
----
-title: transitional overcorrection
-parent:
-  - "[[socio-economics]]"
----
-
-when you're correcting past mistakes or things that were overlooked, you have to start somewhere, people often start with the most affected, the most vulnerable, the most crucial data, etc. For better or worse. Think 'diversity hire' or sample FAQs
-- ( also applies to early in trans ppl's transitions when ppl commonly feel pressured to go hyperfemme/hypermasc to 'counteract' or convince people of their decisions )

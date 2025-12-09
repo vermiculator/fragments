@@ -1,9 +1,0 @@
----
-title: new media conglomerates
-parent:
-  - "[[corporations]]"
-  - "[[new media]]"
----
-
-having accidentally absorbed a lot of info on the ins and outs of specific large US internet content conglomerates and their relations with one another, the creation of the new media industry, how weird it feels to be a side-observer of the connections between, essentially just a bunch of 30-something comedic nerds in Texas and LA that make up these various intersecting and overlapping groups. Maybe it's just a case of growing older and seeing the larger picture of how corporations and brands combine and break off and rewrite themselves, mixed with the same phenomen in public figures, but it feels different because of the more intimate parasocial connections to the figures and the often humble beginnings of the early internet. 
-	- (GMM and the Smosh thing, buzzfeed -> try guys, RT and years of AH growth and phasing down to 2023/4 iteration with more podcast focus to being shut down by Warner bros,  CH -> dropout + dimemsion 20 + drawfee, geek and sundry -> critical role, the various DND collabs, earlier even the various YT groups that formed but never made it to conglomerate level, increase of independent groups over conglomerates, more recent streamer groups, etc)

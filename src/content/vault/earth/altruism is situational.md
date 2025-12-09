@@ -1,9 +1,0 @@
----
-parent:
-  - "[[human relations]]"
-  - "[[contextual, relational and situational]]"
-peer:
-  - "[[trust is relational]]"
-  - "[[trust is situational]]"
-  - "[[mutual aid]]"
----

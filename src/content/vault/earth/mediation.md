@@ -1,9 +1,0 @@
----
-title: mediation
-seeded-by:
-  - "[[Masters Module - Intersectional Internets]]"
-peer:
-  - "[[remediation]]"
----
-
-- "In blackboxed, user-friendly frameworks, concerns related to the compatibility in regard to formats, extensions and size, resolution of the uploaded material (e.g. image, video) are preemptively eliminated. Conversion and adjustment of one’s mediated memory happens automatically."  [⤴️](https://read.readwise.io/read/01k6ajq9c1apyz95xgt671p423)
