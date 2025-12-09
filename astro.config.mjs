@@ -10,7 +10,6 @@ import obsidianImages from './src/scripts/remark/obsidianImages.js';
 import react from '@astrojs/react';
 import inject from '@rollup/plugin-inject';
 import mdx from '@astrojs/mdx';
-import renameMdToMdx from './src/scripts/renameMdToMdx.js';
 
 const env = loadEnv(process.env.NODE_ENV ?? '', process.cwd(), '');
 
@@ -24,14 +23,12 @@ export default defineConfig({
     // Allow MDX-style components in .md files
     gfm: true,
   },
-  // Removed dynamic redirects, now handled by middleware
-  redirects: {},
+  // All redirects handled  // Removed dynamic redirects, now handled by middlewareje  redirects: {},
   vite: {
     plugins: [
         inject({
             p5: 'p5',
         }),
-        renameMdToMdx(),
     ],
     optimizeDeps: {
 	    include: []

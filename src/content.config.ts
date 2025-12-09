@@ -1,85 +1,60 @@
 import { defineCollection, reference, z} from 'astro:content';
 import { glob } from 'astro/loaders';
-import { docsSchema, i18nSchema } from '@astrojs/starlight/schema';
+import { i18nSchema } from '@astrojs/starlight/schema';
 import { i18nLoader } from '@astrojs/starlight/loaders';
 //import { inruptSolidPodLoader } from '../src/loaders/solid';
 import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
+import { createMdxLoader } from '../src/loaders/mdxLoader.js';
 
-const anyDoc = z.union([reference('structural'), reference('docs'), reference('thesis'), reference('metaThesis'), reference('earth'), reference('library'), reference('entities')]);
+const anyDoc = z.union([reference('structural'), reference('thesis'), reference('metaThesis'), reference('earth'), reference('library'), reference('entities')]);
 
-const generalSchema = docsSchema({
-	    extend: z.object({
-		  parent:  z.array(anyDoc).optional(),
-		  peer:  z.array(anyDoc).optional(),
-		  child:  z.array(anyDoc).optional(),
-		  instanceOf:  z.array(anyDoc).optional(),
-		  instances: z.array(anyDoc).optional(),
-		  caveats: z.array(anyDoc).optional(),
-		  backwards: z.string().optional(),
-		  forwards: z.string().optional(),
-		  aliases: z.array(z.string()).nullable().optional(),
-		}).merge(pageSiteGraphSchema),
-	  });
+const baseSchema = {
+	title: z.string(),
+	parent: z.array(anyDoc).optional(),
+	peer: z.array(anyDoc).optional(),
+	child: z.array(anyDoc).optional(),
+	instanceOf: z.array(anyDoc).optional(),
+	instances: z.array(anyDoc).optional(),
+	caveats: z.array(anyDoc).optional(),
+	backwards: z.string().optional(),
+	forwards: z.string().optional(),
+	aliases: z.array(z.string()).nullable().optional(),
+};
 
 export const collections = {
 	earth: defineCollection({
-			loader: glob({ pattern: ['**/*.mdx'], base: "./src/content/docs/mdx/earth" }),
-		  schema: generalSchema
+		loader: createMdxLoader("./src/content/vault/earth"),
+		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	entities: defineCollection({
-			loader: glob({ pattern: ['**/*.mdx'], base: "./src/content/docs/mdx/entities" }),
-			schema: docsSchema({
-			extend: z.object({
-			  author: z.array(z.string()).optional(),
-			  caveats: z.array(z.string()).optional(),
-			  peer: z.array(anyDoc).optional(),
-			}).merge(pageSiteGraphSchema),
-		}),
+		loader: createMdxLoader("./src/content/vault/entities"),
+		schema: z.object({
+			...baseSchema,
+			author: z.array(z.string()).optional(),
+		}).merge(pageSiteGraphSchema),
 	}),
 	library: defineCollection({
-			loader: glob({ pattern: ['**/*.mdx'], base: "./src/content/docs/mdx/library" }),
-			schema: docsSchema({
-			extend: z.object({
-			  status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
-			  url: z.string().optional(),
-			  published_date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
-			  author: z.array(z.string()).optional(),
-			  caveats: z.array(z.string()).optional(),
-			  peer: z.array(anyDoc).optional(),
-			}).merge(pageSiteGraphSchema),
-		  }),
+		loader: createMdxLoader("./src/content/vault/library"),
+		schema: z.object({
+			...baseSchema,
+			status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
+			url: z.string().optional(),
+			published_date: z.union([z.date(), z.string().transform((str) => new Date(str))]).optional(),
+			author: z.array(z.string()).optional(),
+		}).merge(pageSiteGraphSchema),
 	}),
 	thesis: defineCollection({
-		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/works/thesis" }),
-		  schema: generalSchema
+		loader: createMdxLoader("./src/content/vault/works/thesis"),
+		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	metaThesis: defineCollection({
-		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/works/thesis/meta-thesis" }),
-		  schema: generalSchema
+		loader: createMdxLoader("./src/content/vault/works/thesis/meta-thesis"),
+		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	structural: defineCollection({
-		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/plain/structural" }),
-		  schema: generalSchema
+		loader: createMdxLoader("./src/content/vault/plain/structural"),
+		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
-	docs: defineCollection({
-		loader: glob({
-			pattern: ['**/*.mdx', '**/*.md'],
-			base: "./src/content/docs/mdx"
-		}),
-		  schema: generalSchema
-	}),
-
-
-	////////////////// DATA ///////////////////////
-
-	/* solidcontent: defineCollection({
-		loader: inruptSolidPodLoader,
-		schema: z.object({
-			id: z.string().optional(),
-			title: z.string().optional(),
-		}),
-	}), */
-
 	vignettes: defineCollection({
 		loader: glob({ pattern: ['**/*.md'], base: "./src/data/vignettes" }),
 		schema: z.object({

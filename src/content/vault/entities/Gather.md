@@ -4,7 +4,7 @@ author:
 title: "Gather"
 short-title: "Gather"
 full-title: "Gather"
-summary: Gather is an offline-first mobile app for collecting and organizing photos, notes, and other media. It merges physical and online discoveries into themed collections you can sort and revisit without notifications.  Built by Spencer and optionally syncing with Are.na, it’s a quiet tool for tending attention and memory.
+summary: "Gather is an offline-first mobile app for collecting and organizing photos, notes, and other media. It merges physical and online discoveries into themed collections you can sort and revisit without notifications.  Built by Spencer and optionally syncing with Are.na, it’s a quiet tool for tending attention and memory."
 kind: articles
 url: https://help.are.na/docs/partner-guides/gather
 published_date: 2024-06-13
