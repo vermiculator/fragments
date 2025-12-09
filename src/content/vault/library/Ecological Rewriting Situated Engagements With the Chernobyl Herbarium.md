@@ -1,12 +1,11 @@
 ---
-author: 
+author:
  - Gabriela Méndez Cota
 title: "Ecological Rewriting: Situated Engagements With the Chernobyl Herbarium"
 short-title: "Ecological Rewriting: Situated Engagements With the Chernobyl Herbarium"
 full-title: "Ecological Rewriting: Situated Engagements With the Chernobyl Herbarium"
-summary: Ecological Rewriting is a collective, open-access book that remixes The Chernobyl Herbarium through annotations and creative responses.  
-Led by Gabriela Méndez Cota and nine collaborators in Mexico, it reframes reuse as "disappropriation" and ties plant-thinking to local histories of nuclear power and activism.  
-The project challenges academic norms and offers an experimental online edition linking the new book to the original work.
+summary: "Ecological Rewriting is a collective, open-access book that remixes The Chernobyl Herbarium through annotations and creative responses.
+Led by Gabriela Méndez Cota and nine collaborators in Mexico, it reframes reuse as 'disappropriation' and ties plant-thinking to local histories of nuclear power and activism. The project challenges academic norms and offers an experimental online edition linking the new book to the original work."
 kind: articles
 url: https://www.openhumanitiespress.org/books/titles/ecological-rewriting/
 ---
