@@ -23,11 +23,11 @@ const generalSchema = docsSchema({
 
 export const collections = {
 	earth: defineCollection({
-			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/earth" }),
+			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/earth" }),
 		  schema: generalSchema
 	}),
 	entities: defineCollection({
-			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/entities" }),
+			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/entities" }),
 			schema: docsSchema({
 			extend: z.object({
 			  author: z.array(z.string()).optional(),
@@ -37,7 +37,7 @@ export const collections = {
 		}),
 	}),
 	library: defineCollection({
-			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs/mdx/library" }),
+			loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/library" }),
 			schema: docsSchema({
 			extend: z.object({
 			  status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
