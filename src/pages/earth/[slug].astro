@@ -19,12 +19,25 @@ if (!entry) {
   return Astro.redirect('/404');
 }
 
+console.log(`[earth] Found entry: ${entry.id}, has render: ${typeof entry.render}`);
+console.log(`[earth] Entry keys:`, Object.keys(entry));
+
 let Content;
 try {
-  const rendered = await entry.render();
-  Content = rendered.Content;
+  if (typeof entry.render === 'function') {
+    const rendered = await entry.render();
+    Content = rendered.Content;
+  } else if (entry.body) {
+    // Fallback: render raw markdown as text
+    const { compile } = await import('astro:content');
+    const result = await compile(entry);
+    Content = result.Content;
+  } else {
+    throw new Error('No render method or body available');
+  }
 } catch (err) {
   console.error(`[earth] Error rendering ${slug}:`, err);
+  console.error(`[earth] Error stack:`, err.stack);
   return Astro.redirect('/404');
 }
 ---
