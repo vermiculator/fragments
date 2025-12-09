@@ -6,10 +6,10 @@ peer:
   - "[[anti~'effective altruism']]"
 caveats:
   - "[[I do not endorse|disclaimer/I do not endorse]]"
-title: 'voluntary' human extinction
+title: "'voluntary' human extinction"
 ---
 
-https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement
+- https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement
 
 Interesting thing I'd guessed some people would posit
 On the face of it this would always involve fascism but even with more conceptually holistic/empathetic/ethically inclined versions/viewing it in good faith, it is in many ways still very conceptually flawed
