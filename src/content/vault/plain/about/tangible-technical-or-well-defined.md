@@ -1,0 +1,96 @@
+---
+title: 'past experience: tangible, technical or well-defined'
+slug: past/tangible-technical-well-defined
+template: splash
+---
+
+projects, specific subjects of dedicated study, discrete measures of completion
+
+---
+
+- 2025
+	- Production of a tech-arts exhibition
+	- Game design, interaction and play
+	- Game development with C# in Unity
+	- ==fill this==
+- 2024
+	- Small electronics and Arduino circuits
+	- Sound, motion and interaction
+	- Circularity, waste and production
+	- Computer aided design and fabrication, 3D printing
+	- Ethics of technology and innovation
+	- Internet ecosystems, intersectionality, data ethics and cyberfeminism
+	- Show lighting and sound, set design and fabrication for local Fringe theatre production
+- 2023 - 2024
+	- 3D modelling in Blender, flat texturing and PBR
+	- ==fill this==
+- 2021 - 2023 
+	- Managing domains, DNS, web hosting and WordPress websites
+	- Marketing campaign automation, CRM workflow management and  automations
+	- Build, maintenance and management of client and business sites, domains and hosting
+	- Technical and business documentation and data analytics reports
+	- WordPress plugin development with PHP and React
+- 2020 - 2021
+	- Modern front-end web development in React with headless CMS
+	- UX analysis and design of GP Practice Websites
+	 - Flow visualisation, design systems, prototyping in Adobe XD and Figma
+	- Ad-hoc consulting for e-commerce, setups and integrations
+	- Brand and merch design for small business, lettering
+	- Knowledge systems, personal knowledge management, notetaking systems and tools
+	- Beginners ceramics, thrown pottery
+- 2019 - 2020
+	- Philosophy of Cognitive Science and AI
+	 - Functional and concurrent programming in Haskell, OCaml and Go
+	 - Cognitive neural networks and machine machine-learning
+	- Design and implementation of features for functional programming language Granule, built on Haskell
+	- Extended academic research, technical writing
+	- Logic, proofs and satisfiability criteria
+	- Beginning fabrication with wood, material theory, wood lathe
+- 2018 - 2019
+	- Functional programming in Haskell and Erlang
+	- Database management with MySQL and PostgreSQL
+	- Compilation, interpretation and optimisation
+	- Personnel management desktop application, formulated in UML from client requirements and developed in Java with JUnit testing
+	- AJAX message forum in MVC format using CodeIgniter, PHP for server-side and SQL querying
+	- Web development tools, SASS, linting, JS frameworks, JQuery, Typescript
+	- Asynchronous message-passing in Go to keep track of patients and priorities in a virtual dentist waiting room
+	- Concurrent file access with client-server model in Java using Threads
+	- Cognitive neural networks and machine learning
+	- Ran group tour sessions for prospective university students, answering FAQs and ad-hoc queries
+- 2017 - 2018
+	- Advanced object oriented programming, software engineering practices, unit testing, system testing, mocks
+	- Algorithms, design patterns, system architectures
+	- UX processes, heuristic evaluation, ideation and iterative testing
+	- Conducting user interviews for UX study on differential course timetabling in relation for student housing options
+	- Pizza Order UX - Iterative design, prototyping and testing stages of an online pizza order site
+	- Interactive Text Adventure Game - Java application, text-based adventure game with small map, functional inventory items and independently acting enemies.
+	- Computing Law & Responsibility
+	- Relational database design for class timetabling, querying with PostgreSQL
+- 2014 - 2017
+	- Functional programming in Haskell
+	- Object-oriented programming with VB.Net
+	- Computer networking, security and cryptography
+	- Decision maths, graph theory, set theory and automata
+	- Algorithms, sorting and searching
+	- Assembly language and processors
+	- 3D Chess Exploration in Visual Basic with OpenGL. Research in game theory, vector graphics and speech generation
+	- Work experience with developers using AngularJS, reviewing technical documentation
+	- Development for mobile in Android Studio, tracking media consumption in a client app pulling from the Trakt and TVDB APIs
+	- Statistical analysis and research methods
+	- Scientific simulation, modelling, maths mechanics
+	- Multi-level platform game built in GameMaker
+	- Exploratory practice in Unity with C# functions, using Blender and Houdini for assets. Initial musings on spatial interaction in 3D space
+	- Stage manager for amateur musical theatre production, in charge of stage hands, techs and runners
+	- Mic technician and calling in cast in amateur musical theatre production
+	- Logistics, call sheets, cue sheets, props management and set building for amateur theatre production
+	- Show lighting for amateur theatre production
+- 2010 - 2013
+	- Exploring HTML/CSS for the first time with custom theming on Tumblr blogs
+	- Some exposure to python and Linux architecture through the raspberry pi
+	- Introductory physics and further mathematics
+	- Computer-aided design and fabrication, laser cutting and engraving
+	- Simple product design and requirements analysis
+	- Simple cast, shaped and forged metal
+	- Simple woodwork
+	- Basic electronics and electro-physics
+	- Scratch programming and Small Basic

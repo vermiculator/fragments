@@ -54,31 +54,23 @@ desktop.ini
 !/src/content/vault/plain/about/
 !/src/content/vault/plain/about/**
 /src/content/docs/md
-/src/content/docs/mdx
+/src/content/docs/mdx/**
+!/src/content/docs/mdx/
+!/src/content/docs/mdx/earth/
+!/src/content/docs/mdx/earth/**
+!/src/content/docs/mdx/entities/
+!/src/content/docs/mdx/entities/**
+!/src/content/docs/mdx/library/
+!/src/content/docs/mdx/library/**
+!/src/content/docs/mdx/works/
+!/src/content/docs/mdx/works/**
+!/src/content/docs/mdx/plain/
+!/src/content/docs/mdx/plain/**
 /src/assets/**
-!/src/assets/md/
-!/src/assets/mdx/
 
 # allow, minimal
 !/src/content/vault/works/
-!/src/content/vault/works/thesis/
-!/src/content/vault/works/thesis/**
-!/src/content/vault/works/thesis/meta-thesis/
-!/src/content/vault/works/thesis/meta-thesis/**
-!/src/content/vault/plain/structural/
-!/src/content/vault/plain/structural/**
-!/src/content/vault/earth/start-here.md
-!/src/content/vault/earth/.gitkeep
-!/src/content/vault/library/start-here.md
-!/src/content/vault/library/.gitkeep
-
-# temporarily allow - full content
-!/src/content/vault/library/
-!/src/content/vault/library/**
-!/src/content/vault/earth/
-!/src/content/vault/earth/**
-!/src/content/vault/entities/
-!/src/content/vault/entities/**
+!/src/content/vault/works/**
 
 # still ignore
 /src/content/seeds

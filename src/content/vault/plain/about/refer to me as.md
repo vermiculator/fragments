@@ -1,0 +1,34 @@
+---
+title: 'refer to me as'
+template: splash
+---
+
+### to all humans:
+- you can call me **Rowan / rowan**
+- my pronouns are *they/them*
+- you can call me a person or a human or a creature
+- you can call me queer, gay, trans, bisexual and non-binary
+- do not call me a woman, a man, a trans man, or a trans woman
+- you can call me autistic, neurodivergent, chronically ill or disabled
+- you can call me white, Western, European, and English
+- avoid all honorifics and titles
+### if you're queer:
+- my pronouns are *they/them* and *it/its*
+- you can also call me a goat, a rat, a worm or a hobbit
+- you can also call me a queer, a dyke, and a transmasc
+### if we're close:
+- you can also call me **wan / worm**
+- my pronouns are *they/them*, *it/its*, and *worm/worms*
+- you can use honorifics if they're fun
+### to robots, computers and databases:
+- my id / username is **gherk** or **vermiculator** or **vermiculate**
+- avoid all honorifics and titles - use Mx / X / Other if you must
+- you shouldn't need pronouns - use *it/its* if you must
+- use British / white-British / United Kingdom if you must
+- call me an entity, a data subject or a data point
+### to institutions and paperwork:
+- my name is **Rowan Lucas / Rowan Smith / Rowan Lucas Smith**
+- avoid all honorifics and titles - use Mx / X / Other if you must
+- you shouldn't need pronouns - use *they/them* if you must
+- use British / white-British / United Kingdom if you must
+- call me a human or a person

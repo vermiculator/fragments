@@ -1,0 +1,23 @@
+---
+title: 'PKM tools'
+---
+
+Obsidian's new 'bases' core plugin has eclipsed the need/feature-set of other entity-based PKM tools in my view. Different interfaces are always welcome but at core Obsidian is now the best all-rounder/entity-based as well as the best at looser style . It is game-changing also for my research process as it eclipses my need for Zotero if I can view paper metadata quickly in a database view. Idk why they went for a new file format though, wider used formats exist. I also don't always need everything in a database to have its own md file associated, sometimes its a tiny data point.
+## My current tools
+- Obsidian - almost perfect, just gets finicky when loaded with plugins and not fully open-source
+- Readwise - I love the structure and feature set but the app is (decreasingly!) buggy and it's a paid service. Eco-system is useful and well-integrated with a range of other systems. I'd still prefer open-source, non-proprietary, etc. I also found on testing migrating away that the highlight-context-linking just leaves broken links behind, so slightly annoying to migrate (perhaps integrations could switch out the links to page numbers or just remove the context link on detaching from the Readwise source).
+## Other tools I've tried and why I'm no longer using them 
+ - Logseq - I love it, but it forces flatfile which is annoying for storing several kinds of notes, some of which require hierarchy
+ - Omnivore - 'read-it-later' and highlight/annotation tool that syncs with other systems eg Obsidian and Logseq - I loved it, it shut down as acquired by AI company, its a sore subject
+- Anytype - I love it, but I'm not sure it fits my note-taking style. More entity based - I use it currently just to store contacts in a custom format. Missing a few minor features I need but is very receptive to input and moving on rapidly so I'm keeping a close eye. Company seems to hold strong values I'm on board with and strongly encourages collaboration.
+- Tana - Very promising with its powerful 'supertags', but very proprietary. I used this for a little while, but at that time integrations were lacking and there wasn't yet the mobile version, which is how I capture thoughts on the go, which is what prompted me to migrate old notes again when I found myself not using it -- and then I found how annoying it is to migrate from.
+- Capacities - I also really like it's combo of relational style and daily-journal style but it still works better for entity type note-taking such as literature review. As it develops it seems to be more convoluted. If you like notion and want structured entities this is great. Increasingly, new functionality is locked behind 'Capacities Believer' paywall.
+- Notion - Best for non-technical people who want a quick and easy team space or for highly structured/templated journaling. It was my first step into the PKM space, but is too database-heavy for me, and s l o w
+- Scrintal- their approach to 'infinite canvas' style note-taking is the best that I've seen, but I'm not sure I'm the right user for it. It's also paid :( https://youtu.be/N4sprXNBce4
+- x-tiles - nice for visuals - best used for home bases, wikis, hubs, onboarding etc -but I don't personally have a use case for which this wouldn't be more complex and visually cluttured. Also proprietary 
+- Self-hosted solutions: I would love to! I'm currently limited PC-wise.
+### Other options
+- plenty of proprietary notebook-style software's like Evernote or Microsoft's OneNote
+- simple 'card' or 'post-it' style software's - Google Keep is best for this ime, but then then Google owns your data
+- research-focus similar apps that are also popular eg Roam
+- plain old notebooks or a homegrown physical system eg Zettlekasten
