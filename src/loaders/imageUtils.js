@@ -1,19 +1,7 @@
 /**
- * Shared utilities for image path handling and slugification
+ * Shared utilities for image path handling in copyAssets script
+ * Used during build to transform image references in generated MDX files
  */
-
-/**
- * Slugify a filename to use as a content ID
- * Used by content loaders to transform filenames to slug format
- */
-export function slugifyFilename(name) {
-  return name
-    .toLowerCase()
-    .trim()
-    .replace(/[^\w\s-]/g, '')   // Remove special characters
-    .replace(/[\s_-]+/g, '-')    // Replace spaces/underscores with hyphens
-    .replace(/^-+|-+$/g, '');    // Remove leading/trailing hyphens
-}
 
 /**
  * Slugify an asset filename to use in public/assets/md paths

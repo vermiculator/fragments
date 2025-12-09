@@ -2,6 +2,8 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../components/Layout.astro';
 
+export const prerender = false;
+
 const { slug } = Astro.params;
 
 if (!slug) {
@@ -11,11 +13,11 @@ if (!slug) {
 const allEntries = await getCollection('library');
 const entry = allEntries.find(e => e.id === slug);
 
-if (!entry || !entry.rendered) {
+if (!entry) {
   return Astro.redirect('/404');
 }
 
-const Content = entry.rendered.Content;
+const { Content } = await entry.render();
 ---
 
 <Layout pageTitle={entry.data.title} pageStyle="library">

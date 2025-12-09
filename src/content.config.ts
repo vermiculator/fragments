@@ -4,7 +4,6 @@ import { i18nSchema } from '@astrojs/starlight/schema';
 import { i18nLoader } from '@astrojs/starlight/loaders';
 //import { inruptSolidPodLoader } from '../src/loaders/solid';
 import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
-import { createMdxLoader } from '../src/loaders/mdxLoader.js';
 
 const anyDoc = z.union([reference('structural'), reference('thesis'), reference('metaThesis'), reference('earth'), reference('library'), reference('entities')]);
 
@@ -23,18 +22,52 @@ const baseSchema = {
 
 export const collections = {
 	earth: defineCollection({
-		loader: createMdxLoader("./src/content/docs/mdx/earth"),
+		loader: glob({ 
+			pattern: ['**/*.md', '**/*.mdx'], 
+			base: "./src/content/docs/mdx/earth",
+			generateId: ({ entry, base }) => {
+				// Slugify the filename for the ID
+				const filename = entry.replace(/\.(md|mdx)$/, '');
+				return filename.toLowerCase()
+					.replace(/[^\w\s-]/g, '')
+					.replace(/\s+/g, '-')
+					.replace(/-+/g, '-')
+					.trim();
+			}
+		}),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	entities: defineCollection({
-		loader: createMdxLoader("./src/content/docs/mdx/entities"),
+		loader: glob({ 
+			pattern: ['**/*.md', '**/*.mdx'], 
+			base: "./src/content/docs/mdx/entities",
+			generateId: ({ entry, base }) => {
+				const filename = entry.replace(/\.(md|mdx)$/, '');
+				return filename.toLowerCase()
+					.replace(/[^\w\s-]/g, '')
+					.replace(/\s+/g, '-')
+					.replace(/-+/g, '-')
+					.trim();
+			}
+		}),
 		schema: z.object({
 			...baseSchema,
 			author: z.array(z.string()).optional(),
 		}).merge(pageSiteGraphSchema),
 	}),
 	library: defineCollection({
-		loader: createMdxLoader("./src/content/docs/mdx/library"),
+		loader: glob({ 
+			pattern: ['**/*.md', '**/*.mdx'], 
+			base: "./src/content/docs/mdx/library",
+			generateId: ({ entry, base }) => {
+				const filename = entry.replace(/\.(md|mdx)$/, '');
+				return filename.toLowerCase()
+					.replace(/[^\w\s-]/g, '')
+					.replace(/\s+/g, '-')
+					.replace(/-+/g, '-')
+					.trim();
+			}
+		}),
 		schema: z.object({
 			...baseSchema,
 			status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
