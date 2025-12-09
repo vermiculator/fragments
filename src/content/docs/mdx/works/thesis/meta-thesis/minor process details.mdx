@@ -1,0 +1,183 @@
+---
+title: minor process details
+editUrl: false
+---
+
+## Board Search Process
+
+### general starting keywords
+
+* community support / community building
+* collectivism / communalism / commoning
+* justice / human rights / activism / abolition
+* power systems / oppression / resistance
+
+### more specific and commonly useful
+
+* mutual aid
+* anarcho-communism
+* solarpunk
+* queer anarchism
+* green anarchy
+* decolonisation
+
+## JSON Extract queries
+
+procedure: open the board folder in vscode, create a new doc first and open the json file
+manually check for source link and strip the url from media as i couldn't figure out how to do optional items in JSONPath
+
+To extract the metadata for a Pin, run the following queries (saved in settings.json in vscode)
+
+```json
+{
+    "jsonPathExtract.savedQueries": [
+        {
+            "output": "json",
+            "query": "$.otherPropertiesMap._json.gridTitle",
+            "title": "Get Pin title"
+        },
+        {
+            "output": "json",
+            "query": "$.otherPropertiesMap._json.description",
+            "title": "Get Pin description"
+        },
+        {
+            "output": "json",
+            "query": "$.otherPropertiesMap._json.link",
+            "title": "Get Pin link"
+        },
+        {
+            "output": "json",
+            "query": "$.otherPropertiesMap._json.isRepin",
+            "title": "is repin?"
+        },
+        {
+            "output": "json",
+            "query": "$.otherPropertiesMap._json.tags",
+            "title": "Get Pin tags"
+        }
+    ]
+}
+```
+
+```json
+
+    "commandOnAllFiles.commands": {
+
+      "Pull Pin data from JSON": {
+
+      "command": "multiCommand.jsonpins",
+
+      "includeFileExtensions": [".json"]
+
+    }
+
+    },
+
+    "multiCommand.commands": [
+
+      {
+
+      "command": "multiCommand.jsonpins",
+
+      "sequence": [
+
+        { "command": "jsonPathExtract.savedQuery",
+
+          "args": { "savedQuery": "Get Pin tags" }
+
+        },
+
+        "editor.action.selectAll",
+
+        "editor.action.clipboardCopyAction",
+
+        "workbench.action.closeActiveEditor",
+
+        { "command": "jsonPathExtract.savedQuery",
+
+          "args": { "savedQuery": "Get Pin isRepin" }
+
+        },
+
+        "cursorBottom",
+
+        "editor.action.clipboardPasteAction",
+
+        "editor.action.selectAll",
+
+        "editor.action.clipboardCopyAction",
+
+        "workbench.action.closeActiveEditor",
+
+        { "command": "jsonPathExtract.savedQuery",
+
+          "args": { "savedQuery": "Get Pin link" }
+
+        },
+
+        "cursorBottom",
+
+        "editor.action.clipboardPasteAction",
+
+        "editor.action.selectAll",
+
+        "editor.action.clipboardCopyAction",
+
+        "workbench.action.closeActiveEditor",
+
+        { "command": "jsonPathExtract.savedQuery",
+
+          "args": { "savedQuery": "Get Pin description" }
+
+        },
+
+        "cursorBottom",
+
+        "editor.action.clipboardPasteAction",
+
+        "editor.action.selectAll",
+
+        "editor.action.clipboardCopyAction",
+
+        "workbench.action.closeActiveEditor",
+
+        { "command": "jsonPathExtract.savedQuery",
+
+          "args": { "savedQuery": "Get Pin title" }
+
+        },
+
+        "cursorBottom",
+
+        "editor.action.clipboardPasteAction",
+
+        "editor.action.selectAll",
+
+        "editor.action.clipboardCopyAction",
+
+      ]
+
+    }
+
+    ]
+
+}
+
+```
+
+```
+find            [{ "url": "
+replace with    ![](
+```
+
+```
+find            ,"type":"image"}]
+replace with    )
+```
+
+```regex
+find (?:((?:[0-9])*)(?:\s|\\)*\|\s*\[\{"url":"((?:[a-zA-Z]|[0-9]|\/|:|\?|=|-|\.)+)","type":"image"\}\](?:\s|\|)*\|((?:\s|\S)*)\|\s*((?:[a-z]|[A-Z]|[0-9]|\/|:|\?|=|-|\.)+)(?:\s|\||\\|(?:<br>))*)
+
+replace with $1 | ![]($2) | $3 | $4 |
+```
