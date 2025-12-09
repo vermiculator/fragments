@@ -1,0 +1,11 @@
+---
+kind: personal note store
+title: Andy's notes
+aliases:
+  - Andy Matuschak
+---
+the structure, content and meta-content of this live knowledge store are often incredibly pertinent and interesting to my own work
+
+---
+
+"I'm an applied researcher, focused on creating user interfaces that expand what people can think and do." - [andymatuschak.org](https://andymatuschak.org/)

@@ -1,0 +1,18 @@
+---
+parent:
+  - "[[programming languages and datatypes]]"
+  - "[[networked knowledge stores|linked knowledge]]"
+title: Conflict-free replicated data types
+aliases:
+  - CRDTs
+  - CRDT
+---
+
+I reviewed a paper on this during my degree and didn't think about it again until I saw it mentioned in the Redecentralize Digest — July 2019
+
+- "great potential is seen in data synchronisation protocols like [Dat](https://datproject.org/) in combination with [Conflict-free Replicated Data Types](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type) (CRDTs), with which the lab created several experiments."
+- So I would like to review this again
+
+"Anytype encrypts and versions each block separately (with CRDTs). " - [r/Anytype](https://www.reddit.com/r/Anytype/comments/1k4w1pw/comment/moea18u/)
+
+Also NextGraph  https://docs.nextgraph.org/en/framework/crdts/ 

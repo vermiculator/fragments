@@ -1,0 +1,19 @@
+---
+title: pinkwashing
+peer:
+  - "[[greenwashing]]"
+  - "[[wokewashing]]"
+instanceOf:
+  - "[[x-washing]]"
+  - "[[marketing faux-progress]]"
+---
+
+## Disambiguation
+
+This term is used widely in two contexts.
+
+- [[rainbow-washing]] - quick-fix diversity gains through 'appeal' to queer communities (also uses pink presumably due to historical identification of homosexuals under the Nazi regime)
+- [[charity cover-up]] - feel-good factor marketing on the back of charity or 'awareness' (uses pink due to breast cancer awareness ribbons)
+
+## Mentions
+- [[Race After Technology]]

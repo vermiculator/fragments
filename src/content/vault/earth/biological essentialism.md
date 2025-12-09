@@ -1,0 +1,12 @@
+---
+instanceOf:
+  - "[[anti ~ harmful beliefs, systems and movements]]"
+parent:
+  - "[[philosophy]]"
+peer:
+  - "[[trans rights and liberation|transphobia]]"
+  - "[[women's liberation|misogyny]]"
+title: biological essentialism
+---
+
+“The belief that ‘human nature’, an individual's personality, or some specific quality (such as intelligence, creativity, homosexuality, masculinity, femininity, or a male propensity to aggression) is an innate and natural ‘essence’ (rather than a product of circumstances, upbringing, and culture)” (Oxford Reference, n.d.)

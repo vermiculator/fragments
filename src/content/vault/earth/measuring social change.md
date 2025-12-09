@@ -1,0 +1,11 @@
+---
+title: measuring social change
+seeded-by:
+  - "[[Masters Module - Design for Social Change]]"
+parent:
+  - "[[sciences|the scientific method]]"
+  - "[[how to make change]]"
+peer:
+  - "[[design for social change]]"
+  - "[[activism]]"
+---

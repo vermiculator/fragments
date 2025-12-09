@@ -1,0 +1,15 @@
+---
+parent:
+  - "[[obscuring, redaction, anonymity]]"
+peer:
+  - "[[obscured medium]]"
+  - "[[privacy, security and surveillance]]"
+  - "[[creative process]]"
+title: silhouette anonymity
+---
+
+- silhouettes obscuring, silhouettes revealing shape
+- do they actually provide anonymity
+- shadow and form, hiding detail, resolution
+- like how in photo licensing you don't need model releases if subject isn't identifiable, silhouettes are measured by detail
+- some people's silhouettes are more recognisable than others

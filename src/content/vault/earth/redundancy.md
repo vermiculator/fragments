@@ -1,0 +1,14 @@
+---
+title: redundancy
+peer:
+  - "[[network resilience depends on efficient rerouting]]"
+---
+
+- redundancy is necessary in certain contexts
+  - fundamental to the scientific process that an experiment is repeated with the same result
+- redundancy is undesirable in certain contexts, but made necessary by circumstance
+  - lack of access to resources that are [unnecessarily made proprietary](problems with proprietary)
+- redundancy can be desirable in certain contexts
+  - repeating processes or emulating events for teaching and learning
+  - useful to have redundant tech hardware, spares, surplus
+- use of the word redundancy for work and what it tells us about labour structures/relations - being made extra, surplus, against your wishes - yet cultural onus, blame and shame goes on the unemployed 

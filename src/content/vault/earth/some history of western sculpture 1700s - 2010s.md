@@ -1,0 +1,42 @@
+---
+title: some history of western sculpture 1700s - 2010s
+parent:
+  - "[[art history]]"
+  - "[[creative process|art making]]"
+seeded-by:
+  - "[[Masters Module - Creative Making - Advanced Physical Computing and Tangible Media]]"
+---
+
+- Neoclassicism 1760-1850 reviving styles of Greece and Rome
+- marble sculpture contracted by rich ppl 
+- romanticism mid 19th century, emphasises the individual, subjective, irrational, cheerful and carefree
+- propaganda pieces, romanticism of war
+- realism mid to late 19th with depiction of the ordinary, photography 
+- French revolution 
+- sculpture of everyday ppl, age of bronze
+- Impressionism late 19th as the industrial revolution happened, painters now paint outside with tubes and sculptors have more access to materials
+- Mixed media sculpture
+- he's broke so he mixed up materials - that's how most mixed media happens really, use what you have
+- cheap for volume and expensive for detail
+- art nouveau late 19th to early 20th
+- again related to industrialisation as could cast iron for decorative arts
+- expressionism late 19th to early 20th. Emotion not fact
+- war expressionism, German expressionists
+- work on motion, precursor to kinetic sculpture 
+- war commentary rather than propaganda pieces
+- cubism early 20th representing perspectives on one plane
+- in sculpture, exploring simplified shape 
+- futurism early 20th celebration of tech innovation and dynamism
+- expressing movement 
+- constructivism early to mid 20th, industrial materials and volume through planes
+- new materials, acrylic, kinetic constructions
+- dada early 20th rejection of societal norms, ready made, pranks, irony
+- surrealism early to mid20th, unconscious, dream imagery, automatism and meditative state
+- balanced sculpture, working with the wind 
+- abstract expressionism mid 20th, peak modernism
+- minimalism mid to late 20th, inherent quality of materials and their interactions
+- pop art mid to late 20th imagery from mass culture , huge scales
+- postmodernism late 20th eclectic mixtures , ironic and critical, concepts
+- tax deducted art and money laundering. Vs collecting long art
+- contextualising your art in past present and future 
+- where is that somewhere else we are taking art work

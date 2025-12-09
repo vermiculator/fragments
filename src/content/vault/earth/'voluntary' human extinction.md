@@ -1,0 +1,24 @@
+---
+parent:
+  - "[[balanced ecosystems]]"
+peer:
+  - "[[genocide]]"
+  - "[[anti~'effective altruism']]"
+caveats:
+  - "[[I do not endorse|disclaimer/I do not endorse]]"
+---
+
+https://en.wikipedia.org/wiki/Voluntary_Human_Extinction_Movement
+
+Interesting thing I'd considered some people would posit
+On the face of it thus would always involve fascism but even with more conceptually holistic/empathetic/ethically inclined versions/viewing it in good faith, it is in many ways still very conceptually flawed
+Obviously any partial journey to this practically verges too close to eugenics
+And restricting human rights and bodily autonomy to prevent reproduction
+But also generally are human beliefs are too varied to converge towards something like this? Steps in between might be too dangerous for any remaining society
+Human accomplishments in ecosystem renewal/management/actually working in tandem with other animals IS possible and valuable and large-scale, we are not JUST capable of destruction
+Is it veering too hard towards biological determinism to say that it is our specific biological functionality that makes us 'worse' than other species. Are we not an essential part of the ecosystem too?
+And ultimately humans might still be too subjective to wish for no human, like it might be valuable selfishness that we don't want to 'breed out', nor should anyone attempt to actively 'breed out' anything? But is any species actually ultimately possible of wishing for its end, its unprecedented - or impossible to guarantee that an equally damaging species won't arise again 
+Decreased reproduction will always either favour some dominant force/selective reproduction, or involve an element if force/reduced agency or even technoscientific dominance in order to enforce randomness/diversity
+In general it sways towards techno-scientific-intellectual dominance of an extreme viewpoint, valuing specific knowledge systems and not accounting for the full range of human interaction with our ecosystems left alone any intrinsic value many give to human life
+The only time this would be actually voluntary is by the suicide pf the last member of a species. And suicide under many cases can't even be considered voluntary, especially under extreme circumstances such as being the last of a species
+If this were to happen it would likely only be in a time with multi 'human' species similar enough for some power to assert the involuntary extinction of another, aka genocide. And in this case there would be no even remotely moral reason to wish for it anyway

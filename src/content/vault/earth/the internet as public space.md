@@ -1,0 +1,65 @@
+---
+title: the internet as public space
+themes:
+  - internet equalities
+  - internet freedoms
+  - anon
+  - blogs and forums
+  - collective knowledge
+  - digital community building
+  - participatory place-making
+  - democratic participation
+aliases:
+  - the internet is public space
+  - internet as public space
+  - internet is public space
+parent:
+  - "[[internet sociology]]"
+  - "[[public space]]"
+peer:
+  - "[[forums]]"
+  - "[[platforms and silos]]"
+  - "[[internet content]]"
+  - "[[children online]]"
+  - "[[accessibility|accessibility]]"
+  - "[[decentralisation]]"
+  - "[[digital community building]]"
+  - "[[collaborative knowledge]]"
+  - "[[connecting ideas]]"
+  - "[[digital disconnection]]"
+  - "[[influencers, tastemakers and curators]]"
+  - "[[online exploitation and consent]]"
+  - "[[sharing online]]"
+  - "[[comments]]"
+  - "[[Initiatives for Web Freedom]]"
+  - "[[hostile public space]]"
+  - "[[public behaviour]]"
+  - "[[community building]]"
+  - "[[boundaries and borders]]"
+  - "[[commoning]]"
+  - "[[digital discourse moderation]]"
+---
+
+- regulation on how content is consumed, sometimes requests sometimes demands
+- setting boundaries for your own pages and profiles
+	- taking lead on how you are treated and how you'd like to interact with the world
+	- but personal pages on public platforms aren't actually personal, they're a shopfront
+	- often unenforceable boundaries, left to other parties to respect or not, just like in offline world
+	- muting, blocking, or leaving platforms as direct mechanisms for disapproval
+	- mechanisms to report to authorities, just like in offline world
+	- who does and who should be holding any authority over these matters
+- 'community guidelines' in eg forums and discords that are legitimately community-informed and community-managed vs corporate 'community guidelines' that have frequent backlash by the users eg Instagram nipple policy
+- [who is the comments section for?](comments.md)
+- the right to be an enigma, public art and its consequences
+- the right to ignorance of possible response, pre-caveats and disclaimers, fear of mis-speech preventing sharing anything - both on and offline
+- the importance of making mistakes, and dealing with them well
+- public forums for backlash, the ease of storing evidence of wrongdoing
+- public safety, safeguarding, what we owe to each other, [[online exploitation and consent]]
+	- 'if you don't like us maybe don't follow us or don't comment'
+	  'no, you don't get to say that. You're a public figure.'
+- online culture as representative of offline culture to more or lesser extents
+- how comments sections on some forums can be more strictly controlled for integrity of useful educational eg coding, stack overflow, 'this doesn't answer the question' sort of thing
+- upvoting, downvoting, distributed mechanisms for approval
+- QA forums, currency systems of social (or sometimes monetary) value, bulk answering without adding real value to discussion
+
+- what about as physical space? [[the internet as physical infrastructure]]

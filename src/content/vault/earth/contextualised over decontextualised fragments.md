@@ -1,0 +1,22 @@
+---
+title: benefits of contextualised content
+parent:
+  - "[[contextualised and decontextualised fragments are both useful]]"
+peer:
+  - "[[decontextualised over contextualised fragments]]"
+child:
+  - "[[context of saving is useful for bookmarking]]"
+---
+
+- decontextualised are lacking authorship
+- lacking info on perspectives/purposes embedded in its creation
+- 'raw' or 'atomic' is still contestable - what is an [[atomic content|atom]] in this context, anything that provides meaning? right down to a single bit? 'raw' likely still has context embedded in it that is now obscured and assumed universal. define everything, everything relies on something else, everything takes a perspective
+- satire, devices employed for teaching, unfiltered early thoughts etc taken out of context of their assumed truth/falsity/etc
+- cross-cultural mismatch, translation error
+
+---
+
+#### examples of decontextualisation issues
+- "The assemblage he was proposed as a summary of his mediated memories was, to a large extent, the result of a randomized procedure incapable of making moral and ethical judgments. Where the human aspect fell short, he argued “was in not providing a way to opt out.” The Year in Review kept appearing on his Facebook wall with, at times, a swapped background image, yet always retaining the same, celebratory aura. Meyer pointed out that the year in review revealed Facebook’s bias toward success stories"  [⤴️](https://read.readwise.io/read/01k0ydh6qpg0vzn4eyz91rnhck)
+- "Meyer’s mediated memory became captured in two senses: firstly, through the algorithmic procedure mechanically scavenging on the image of his daughter, while extracting all emotional residue it carried. Secondly, he was captured in an inescapable feedback loop, mechanically re-posting this traumatic moment without his consent. This entrapment in a loop was avoidable only to a certain degree – if Meyer opted out from Facebook"  [⤴️](https://read.readwise.io/read/01k0ydj4tqch21h1n67hsn2z73)
+- "about an instance where Facebook’s algorithm suggested he befriend his ex-wife’s lover."  [⤴️](https://read.readwise.io/read/01k0ydkyg2bwvr5y8pqd5hdatp)

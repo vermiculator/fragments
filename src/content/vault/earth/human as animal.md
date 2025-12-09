@@ -1,0 +1,50 @@
+---
+title: human as animal
+peer:
+  - "[[human animal relations]]"
+  - "[[de~colonialism]]"
+  - "[[evolutionary biology and anthropology]]"
+  - "[[deep ecology]]"
+parent:
+  - "[[cognitive science]]"
+  - "[[human bodies]]"
+caveats:
+  - "[[fetish|content warning/fetish]]"
+aliases:
+  - humans are animals
+---
+
+### in philosophy and anthropology 
+- the 'primal' humans
+    - a multitude of ways people engage with the concept of a primal self, theories/frameworks/approaches to exploring this in modern life/times/cultures/research
+        - eg reptilian brain/limbic system
+        - calisthenics, 
+        - infant reflexes, 
+        - nature/nurture debates,
+        - pre-verbal and mentalese, 
+        - homosapien+
+    - fear, survival, trauma and psychology
+        - ![img]('../assets/reactions.jpg')
+- primal vs animalistic 
+- 'primal urges' and 'primal instincts'
+    - ![img]('../assets/primal instincts.jpg')
+- 'savage' and colonialism and the construction of whiteness [[de~colonialism]], [[indigenous peoples' rights]], [[Whiteness]]
+- thinking on how our body map determines so much of how we relate to each other and the world (what it feels like to be a bat, nagel(?) )
+
+### in sex ([[fetish|content warning/fetish]])
+- primal roleplay
+    - primal interpreted variously as both human and animal 
+- specific animal roleplay
+    - only kinds practised/discussed widely enough to allow for gatherings/media/being at all researchable are ponyplay, puppyplay and kittenplay
+    - whilst some are more body focused (eg cow fetishes often related to udders and lactation, a trait easily transferred between cow and human species),
+    - some are more straightforward aesthetic and behavioural matches (eg commonly kittenplay appears more aesthetic/cuteness focused or adjacent to 'brat' identities)
+    - but many of these specific interests cover ways of relating, crossing over with other kink-associated relationship dynamics such as training/ownership/service aspects of ponyplay and puppyplay
+    - interesting how some people transfer these ways of relating with animals to alternative ways of relating with other humans 
+
+## in body, media, performance
+- body maps in general are fascinating
+	  - annihilation film played with that in some fun ways
+	  - foetal development
+	     - amorphous globosus ([[gore|content warning/gore]])
+- experiments of people-as-animal like [[GoatMan]], in performance art, traditions, rituals
+- wild sheep chase novel 

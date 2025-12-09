@@ -1,0 +1,23 @@
+---
+title: tech for war
+parent:
+  - "[[ethics]]"
+  - "[[war]]"
+  - "[[techno-politics]]"
+  - "[[tech]]"
+  - "[[war, conflict and violence]]"
+peer:
+  - "[[science for war]]"
+  - "[[tech for good]]"
+  - "[[social technology for war]]"
+---
+
+- weapons manufacture 
+- ammunition manufacture
+- transport and logistics
+- surveillance
+- communications
+- threat identification 
+
+## Resources
+- [[Science, Ethics and War]]

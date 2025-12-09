@@ -1,0 +1,35 @@
+---
+title: tech bros
+themes:
+  - crypto supremacy
+  - web3
+  - silicon valley ethics
+  - NFT ethics
+  - blockchain ethics
+  - cultural dominance
+  - upholding hierarchies
+parent:
+  - "[[techno-politics]]"
+  - "[[big tech]]"
+  - "[[hypernormative cultures]]"
+peer:
+  - "[[anti~elitism]]"
+  - "[[hierarchical domination]]"
+  - "[[ethical tech and tech for ethics]]"
+  - "[[internet sociology]]"
+  - "[[othering other humans]]"
+  - "[[human diversity]]"
+aliases:
+  - crypto bros
+  - AI bros
+---
+
+A dominant culture of tech at present is that of Web 3.0, blockchain and AI evangelists. This appears as a fusion of two (mostly white-cis-straight) male archetypes, the 'bro' and the 'nerd', and here the worst features of both are amplified in combination. This culture is incredibly alienating to any 'others' in tech, undermines all forces of tech for social good, and creates tangible harm in the hyper-capitalist almost-technocracy we are in.
+
+---
+
+- Web3 vs Web 3.0 is a crucial subtlety but not even distinguished by eg job postings
+- tech ethics is more than just AI ethics ! (and AI ethics is more than 'robot: don't kill human')
+- the metaverse is not the metaverse as seen by Meta
+- impacts of de-centering the human experience
+- start-up jobs are abundant, just drop your ethical standards! (/sarcasm)

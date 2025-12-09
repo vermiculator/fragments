@@ -1,0 +1,25 @@
+---
+instanceOf:
+  - "[[earth/research methods]]"
+parent:
+  - "[[qualitative methods]]"
+child:
+  - "[[in vivo coding]]"
+---
+
+- going from rich conversational human data into structured data for analysis
+- line by line analysis, ask what is happening and what it represents
+- create initial codes that are close to data, less analytical
+- identify conditions, interactions, consequences, causal links
+- develop subcategories and properties
+- use in vivo coding alongside open coding for in depth understanding
+
+---
+- open coding: breaking down data into small parts and labelling them
+- axial coding: connecting those labels/codes to find relationships and meaningful patterns
+- selective coding: identifying your core concept by seeing how codes relate to one another and building your final theory around that central story
+---
+- First-Order (Descriptive or Nominal): [[in vivo coding]] 
+- Second-Order (Interpretive/Data-Driven): use emerging theories for further data as you go
+- Third-Order (Theory-Driven): use external theories or conceptual frameworks
+

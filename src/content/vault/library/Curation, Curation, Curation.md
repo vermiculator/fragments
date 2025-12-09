@@ -1,0 +1,56 @@
+---
+author:
+  - Annika Wolff, Paul Mulholland
+title: Curation, Curation, Curation
+short-title: Curation, Curation, Curation
+full-title: Curation, Curation, Curation
+summary: Curation helps learning by letting people research, interpret, and organize content into stories. This process is like how museums create exhibitions to teach through selected objects. The more a learner engages in interpreting and organizing content, the more they understand and learn.
+kind:
+  - articles
+url: https://readwise.io/reader/document_raw_content/324845585
+published_date: 2013-03-22
+peer:
+  - for-thesis
+Harvard citation: "Wolff, A. and Mulholland, P. (2013) ‘Curation, curation, curation’, in Proceedings of the 3rd Narrative and Hypertext Workshop. HT ’13: 24th ACM Conference on Hypertext and Social Media, Paris France: ACM, pp. 1–5. Available at: https://doi.org/10.1145/2462216.2462217."
+short citation: (Wolff and Mulholland, 2013)
+aliases:
+  - (Wolff and Mulholland, 2013)
+---
+- "but who really benefits from the curation task: the content curator or the content consumer?"  [⤴️](https://read.readwise.io/read/01jy4dgfwwg7n35f0tpan3zk73)
+- "This paper introduces the notion of 'recuration' to describe a process in which shared content can be used as part of learning."  [⤴️](https://read.readwise.io/read/01jy4dgra62abqgqb7j7g7qsy7)
+- "A single piece of content can ultimately be used in many different contexts to the one for which it was originally intended."  [⤴️](https://read.readwise.io/read/01jy4dh5nssegjs5emdfa2babv)
+- "A curated exhibition is based on the knowledge and research of one or more experts in the field. This research informs both the selection and organization of the objects. Importantly, the curator offers an interpretation of the how the objects relate to one another."  [⤴️](https://read.readwise.io/read/01jy4dhjrcrmt574hrzsp0671c)
+- "Instead of imposing a grand narrative for a visitor to passively experience, the visitor is encouraged to actively explore and build their own connections and stories and, in the process of active engagement, to learn"  [⤴️](https://read.readwise.io/read/01jy4dj18ycvj03td3djsh3pk3) ^b780bf
+- "A secondary learner need not follow the same path as the curator, nor reach the same conclusion."  [⤴️](https://read.readwise.io/read/01jy4djnjv64ee01endb903j8f)
+- "might choose to access the story in a different way and make different interpretations"  [⤴️](https://read.readwise.io/read/01jy4djv4r28v60vc1vw3c4jsx) ^be215f
+- "bring in additional knowledge and personal interests, backed up by further research to produce a completely new output of their own"  [⤴️](https://read.readwise.io/read/01jy4dk1kmvxj5gvwh659x1xee)
+- "This paper proposes this as a *curatorial inquiry learning cycle* , with the act of learning from a curated output being referred to as *recuration.*"  [⤴️](https://read.readwise.io/read/01jy4dkbppvr25ey0x4tpb4k5q)
+- "Objects may be annotated according to many different properties,
+  such as when they were made, who by, what they are made of. The curator might add their own annotations, interpreting the object in the context of the narrative that is being developed"  [⤴️](https://read.readwise.io/read/01jy4dm5fywmv7k6tz7xyqmc01) ^35354e
+- "which perspective is relevant for this object when it is being viewed in the context of other objects"  [⤴️](https://read.readwise.io/read/01jy4dn6abaep3z9bs27dq5a14) ^248db7
+- "When the story is not overtly told, there is more opportunity for the visitor/reader to make their own interpretations, restarting the cycle, and undertaking for themselves some or all of the above curatorial processes."  [⤴️](https://read.readwise.io/read/01jy4dpahs0k30ttkb6zx0waxz) ^6de6de
+- "a curated 'reference list' of sources that can feed into a new learners inquiry"  [⤴️](https://read.readwise.io/read/01jy4dqjca0ga4q9f8z7p0wma1)
+- "*recurate* these objects into a new presentation, during which process they may discover logical inconsistencies and other possible interpretations to be reflected in their own outputs."  [⤴️](https://read.readwise.io/read/01jy4dqttedj52nv38y9merssk)
+- "define the task boundaries."  [⤴️](https://read.readwise.io/read/01jy4ds4bbpsxdhf4j0r507re6)
+- "Content selection and collection filtering out the bad resources and highlighting the good."  [⤴️](https://read.readwise.io/read/01jy4drywejh23pexkmy2wyzvw)
+- "annotate individual content to identify important points"  [⤴️](https://read.readwise.io/read/01jy4ds9mky4xd2q06d8anfbcv)
+- "annotate from a task perspective, finding the important relations"  [⤴️](https://read.readwise.io/read/01jy4dsftcvxb0gpngpyhwjq5r)
+- "the audience become participants in a narrative construction based on a previously curated output"  [⤴️](https://read.readwise.io/read/01jy4dt90bdac1a57p1dxnb6g4)
+- "Jeff Cobb 1 says:
+  *'If you really want to learn a body of knowledge or skills (or whatever other learning area you define), it is really hard to beat becoming a curator for that area. In a sense, this is what academics have always done.'*"  [⤴️](https://read.readwise.io/read/01jy4dtxwxmnk98jr7nb03s177)
+- "for learning, content curation cannot be merely about collecting, but must include the interpretation and organisation as well"  [⤴️](https://read.readwise.io/read/01jy4dvvk39fhzff5gmqtpkx4v)
+- "putting them into a context with organization, annotation, and presentation.'"  [⤴️](https://read.readwise.io/read/01jy4dw1y2tg70a1jdpgpzmr62)
+- "Collecting: collecting web content under thematic headings, often includes theme-linking
+  • bag the web, pearltrees, Pinterest"  [⤴️](https://read.readwise.io/read/01jy4dx2fbk6pk2eajd7bet0h0)
+- "Clipping: collect web-clippings, such as text portions and images from pages
+  • clipboard"  [⤴️](https://read.readwise.io/read/01jy4dx7mf6hqz4g6g1teqxr3a)
+- "are these processes supported by social curation tools? Does the tool support a user to recurate existing content?"  [⤴️](https://read.readwise.io/read/01jy4e0w3xf0cr0q1ebcs60t6v)
+- "Content collection involves deciding which content is relevant to a task and which is not. Whilst it should involve at least some assessment of the content, to decide if it is relevant or not, as mentioned previously much speculation exists as to whether simply collecting links is enough for learning. It seems reasonable to suggest that deeper processing of the source materials will occur as the user annotates each piece of content."  [⤴️](https://read.readwise.io/read/01jy4e1ecd4g1pf607mec0ww70)
+- "identifying the relevant parts of each unit of content and minimizing the distraction of information that is redundant to the task at hand"  [⤴️](https://read.readwise.io/read/01jy4e1tskmab132bjjande629)
+- "useful to make annotations that belong to a task, rather than to an individual unit of content."  [⤴️](https://read.readwise.io/read/01jy4e2m543jax0kd05b38r74b)
+- "Annotation can be *tagging* , *writing notes* , or *selecting the relevant part or parts of the resource* . Since it is part of an ongoing learning process, there must be the *facility to easily change the annotations* as new information comes to light."  [⤴️](https://read.readwise.io/read/01jy4e2xsp4fnsd779vkthvg60)
+- "most sites support some kind of content annotation, although the extent to which notes were easily viewable alongside content, or could be edited, varied a great deal."  [⤴️](https://read.readwise.io/read/01jy4e4az7g43gw4q0y8v8q3ck)
+- "Very few sites allow the collected content to be flexibly organised by the user."  [⤴️](https://read.readwise.io/read/01jy4e4rhw7vn7q0xzrr2mrmpz)
+- "Pearltrees is the only site to allow a non-linear organisation of the content. All sites promote the re-use of their content making it easy to take items that have been selected by another user and add them to the users own topic."  [⤴️](https://read.readwise.io/read/01jy4e4zsj70pcma3hb0w1d9qn)
+- "many social curation tools that facilitate nothing more than collection"  [⤴️](https://read.readwise.io/read/01jy4e5eft54ehm9cavmfw9w9z)
+- "Does the learner really learn more when they can annotate content, then even more if they can talk about what links the content and physically organize everything"  [⤴️](https://read.readwise.io/read/01jy4e604c1vq8f0qyvg3hvfqz)

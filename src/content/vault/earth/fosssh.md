@@ -1,0 +1,31 @@
+---
+aliases:
+  - foss
+  - fossh
+  - sh
+  - self-hosting
+  - self-hosted
+  - open-source
+parent:
+  - "[[techno-politics]]"
+  - "[[earth/techgnosis|techgnosis]]"
+peer:
+  - "[[licensing and IP]]"
+  - "[[Initiatives for Web Freedom]]"
+  - "[[public tech]]"
+title: fosssh
+---
+
+free, open source and self-hosted software. 
+free as in freedom and free as in beer.
+## Mentions
+- "I don’t share the same perspective as most '[[tech bros|fossbros]]' and organizations like the FSF. Software freedom is important because it gives people agency instead of delegating control to an authority; it’s not valuable in and of itself, and promoting a 'fosssh' alternative that has vulnerabilities and [[accessibility|accessibility]] issues is sometimes counterproductive." [[seirdy#^bb76a0|➡️]]
+
+## Misc Alternatives
+- find the master lists again
+- [Adobe Photoshop -> Photopea](https://www.photopea.com/)
+
+## Resources
+- Eric S Raymond - The Cathedral and the Bazaar (haven't read)
+- Lawrence Lessig - Free Culture (haven't read)
+- [Why 'self-host it' isn't the answer to everything](https://neilzone.co.uk/2022/07/self-host-it-is-not-the-answer/)

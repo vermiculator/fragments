@@ -1,0 +1,12 @@
+---
+title: the internet as a political system
+parent:
+  - "[[techno-politics]]"
+peer:
+  - "[[the internet as an economic system]]"
+  - "[[the internet as physical infrastructure]]"
+  - "[[the internet as public space]]"
+  - "[[internet sociology|the internet as a social system]]"
+tags:
+  - framings
+---

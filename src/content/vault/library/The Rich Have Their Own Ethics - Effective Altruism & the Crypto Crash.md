@@ -1,0 +1,37 @@
+---
+kind: videos
+url: https://youtube.com/watch?v=Lm0vHQYKI-Y&si=IwUpOvvhaWe5C_cf
+title: The Rich Have Their Own Ethics - Effective Altruism & the Crypto Crash
+author:
+  - Philosophy Tube
+peer:
+  - "[[system change]]"
+  - "[[how to make change]]"
+  - "[[anti~'effective altruism']]"
+  - "[[issues with non-profit system]]"
+---
+## Extracts
+- "effective altruism makes a number of key assumptions. The first is that just because somebody is far away doesn't mean they matter less. There are people who need help in your neighbourhood and people who need help in developing nations and just because some of them are closer doesn't mean you should help them first. Numbers, however, do matter. You should always help more people if you can and the consequences of your donation matter as opposed to your intentions or your relationship to the people that you're helping."
+- "MacAskill has some interesting discussions of the ways that [[technology can affect society's values]]." ^12b50b
+- "when you create a piece of tech to do a job, it becomes more difficult to ask, 'should this job be done?'" ^06508d
+- "you say no 'cause you don't know what they're gonna spend that money on; you don't know the consequences of that action"
+- "I also think he effectively handles one of the big challenges to longtermism. 
+  \[...] you put that money towards buying malaria nets for somebody 3,000 miles away \[...] you've missed the point of morality. \[...] You could have given them your respect even if it wouldn't have the optimum consequences. Isn't morality about human beings and the way that we treat each other?"
+- "rejecting the idea that consequences are the main thing that matters when it comes to charity"
+- "MacAskill worries about future people, but **future people by definition do not exist**" 
+- "the people of the 31st century are imaginary"
+- "Philosophers call this the non-identity problem. Our actions don't just affect what kind of lives people in the future will lead. We affect who they will be. So any discussion about future people kind of has to miss out on their individuality because it's constantly in flux. This point was originally made by a philosopher called Derek Parfit"
+- "He says, yes, a rogue AI would require things like server racks, but it could manipulate people into giving it them." - [[the internet as physical infrastructure]]
+- "This thought experiment is called Pascal's Mugging and it's supposed to highlight the difficulty of making decisions now based on future value or future risk."
+- "Critics say this results in measurability bias. EA tends to favour short-term,
+  small scale interventions that don't tackle the root of the problems. Some of those short-term interventions don't last or have long-term negative effects"
+- "evidence and reasoning will only get you part of the way. What gets you the rest of the way is clout. Given incomplete evidence, who can fill in the gaps to tell the most persuasive story, persuade you to give them your money" - [[ethos, logos, pathos]]
+- "It's just a restatement of this old idea that the best way to help people is through the free market and business. Through giving money away, yes, but never changing the system that makes the money." 
+- "Don't talk about Lenin at the banking conference! If you want clout, that world is where the clout is."
+- "EA has indoctrinated its followers to strictly support a small select list of charities that have been labelled most effective by the movement's own charity raters"
+- "there is no chance that they will mention one of EA's supported effective charities as having impacted their lives more than the work of traditional global antipoverty agencies."
+- "MacAskill and Ord write a lot about progress and humanity's potential,
+  but they say almost nothing about [[narrative privilege|who gets to define those concepts]]. Who gets seen as an expert, who decides what counts as evidence, whose vision of the future gets listened to?"
+- "The real question we're bumping up against here is [[how to make change|how do we change the world? Do we work within the system or try to dismantle it?]]"
+- "If a movement is trying to do good, how do we deal with the bad things that it also does?" ^da50d5
+- "I'm very intrigued by this topic of [[narrative privilege|who gets to tell a story]]" ^5bc4bc

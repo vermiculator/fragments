@@ -1,0 +1,34 @@
+---
+author: 
+ - RebeccaMayJohnson
+title: "I Dream of Canteens"
+short-title: "I Dream of Canteens"
+full-title: "I Dream of Canteens"
+summary: The text discusses the importance of canteens in providing affordable and pleasurable food experiences, particularly in large establishments like IKEA. It highlights how mass catering can offer comfort and sustenance, contrasting the lack of public canteens in cities with the presence of multiple canteens in institutions like the houses of parliament. The author reflects on the historical significance of canteens in providing hospitality and nutrition during times of scarcity, expressing a longing for well-managed massness and inclusive dining spaces.
+kind: articles
+url: https://dinnerdocument.com/2019/04/30/i-dream-of-canteens/
+published_date: 2019-04-30
+peer:
+ - canteens
+ - communal living
+ - food poverty
+ - Tory-failures
+---
+- "privacy in public, that is, if privacy is defined as the ability to be present without being suspected of anything."  [⤴️](https://read.readwise.io/read/01k4xcejzann91qaex4pmk1p6p)
+- "where the rent and running costs mean that spending a short time and a large sum is essential, there is an unwritten-but-clearly-defined time limit that induces anxiety in everyone (owner, worker, customer)."  [⤴️](https://read.readwise.io/read/01k4xcfe09khnv0mvse979dagy)
+- "In these places and in most places now, the body begins to cross over into a state of abjection the longer the period of time spent since spending money."  [⤴️](https://read.readwise.io/read/01k4xcg0mckpna78tsmr31qj8x)
+- "The idea that mass catering must be devoid of pleasure is false."  [⤴️](https://read.readwise.io/read/01k4xcdsdw3skcycxwmwgan2xp)
+- "Frozen and canned vegetables are picked at the peak of their season when they are plentiful and prices are at their lowest. The same cannot be said of imported fruit and vegetables that remain unripe weeks after being picked and often rot without ever ripening to an acceptably edible point."  [⤴️](https://read.readwise.io/read/01k4xchf8w7xpj511j1b2ya3p5)
+- "I long for such well-managed massness and hospitality and affordable and appealing, calorie-dense food such as I experienced in the IKEA canteen and in a few other places: the Indian YMCA canteen in Fitzrovia; the canteen in the Muslim World League on Charlotte Street; McDonalds everywhere; at a Tamil funeral where catering was done by a caterer who could feed ‘from 10 to 10, 000’; the university canteen."  [⤴️](https://read.readwise.io/read/01k4xcj7yz12gnbsmn8m2pw1mp)
+- "Hiding one’s body and one’s lack of money has become part of survival in London."  [⤴️](https://read.readwise.io/read/01k4xck66wt4yz48tq935hh16j)
+- "I have seen queues outside food banks and the arrival of food donation boxes outside supermarkets. The government allows effective starvation to proliferate without lifting a finger."  [⤴️](https://read.readwise.io/read/01k4xckyrvr57v3e9xe7nt3vpx)
+- "The streets of the city no longer acknowledge the perpetual motion of the gut and the bladder that is part of every human life."  [⤴️](https://read.readwise.io/read/01k4xcmb1gn7sevvmjwy6xjpcw)
+- "The Victorians knew about guts even if they didn’t know about women having the vote, and their underground lavatories have become coffee shops with no lavatories."  [⤴️](https://read.readwise.io/read/01k4xcmk6spv3bwwxjwk81k010)
+- "the will for a different situation to the impoverishment of municipal hospitality that increasingly defines public space."  [⤴️](https://read.readwise.io/read/01k4xcn26m6hjng0tc9wb0y1ph)
+- "when rationing was going on and there wasn’t enough food during the war the government set up ‘British Restaurants’ to serve cheap hot food for everyone so that people had enough to eat"  [⤴️](https://read.readwise.io/read/01k4xcp2c31sk8h02yrmhavq7c)
+- "It was in the 1950s or 1960s. They were for workers and ordinary people and children, she said."  [⤴️](https://read.readwise.io/read/01k4xcpvh166523x54dkd1zzn3)
+- "I tried to imagine a British Restaurant now, a government-backed scheme to make sure all comers were fed as a matter of the greatest national importance: I couldn’t."  [⤴️](https://read.readwise.io/read/01k4xcq7md5y3w325d1nw4mnzm)
+- "British Restaurants served nutritionally balanced meals (according to contemporary science) and had libraries and fresh flowers on the tables and gramophones and pianos and felt as if I were reading about a utopian vision of the future"  [⤴️](https://read.readwise.io/read/01k4xcr4dcrtmptggsjtnsmyv3)
+- "people who felt delighted at feeling so full, that the food was hot. They served 50 million meals a week in 1945."  [⤴️](https://read.readwise.io/read/01k4xcrhdqfdcejvzerc6dxz89)
+- "Discussions were had in parliament about how the canteens produced astonishing improvements in workers’ wellbeing. After the war Conservatives dismissed them in parliament because they weren’t making profit."  [⤴️](https://read.readwise.io/read/01k4xcs71m8a6xj8pbv5n3nb9n)
+- "as food poverty surges, we forget that we built canteens, once."  [⤴️](https://read.readwise.io/read/01k4xcsm1kehn07cwwpj2wetts)

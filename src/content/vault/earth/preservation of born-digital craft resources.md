@@ -1,0 +1,7 @@
+---
+title: preservation of born-digital craft resources
+parent:
+  - "[[digital heritage]]"
+---
+
+vital info on old blogs/file-sharing/YouTube for traditional methods that are born-digital demos as well as digital demos on digital arts. Especially vital with frequent versioning/updates/obsolete software etc

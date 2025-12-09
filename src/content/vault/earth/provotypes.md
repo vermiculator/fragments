@@ -1,0 +1,13 @@
+---
+title: provotypes
+aliases:
+  - provotyping
+seeded-by:
+  - "[[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(Smolicki, 2017)]]"
+parent:
+  - "[[prototyping]]"
+  - "[[creative critical tech]]"
+peer:
+  - "[[creative-critical-code]]"
+  - "[[tactical media]]"
+---

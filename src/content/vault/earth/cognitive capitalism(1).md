@@ -1,0 +1,19 @@
+---
+instanceOf:
+  - "[[paradigmatic inertia]]"
+peer:
+  - "[[imagining alternatives]]"
+  - "[[influencers, tastemakers and curators]]"
+parent:
+  - "[[anti~capitalism]]"
+title: cognitive capitalism
+aliases:
+  - capitalist realism
+---
+
+- Alternatives often not pursued as capitalism is so intrinsically linked with how people process thoughts and build solutions and consider the functioning of society that they cannot imagine a world without it
+- Capitalist Realism - Mark Fisher
+
+---
+
+## Men

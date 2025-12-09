@@ -1,0 +1,260 @@
+---
+author:
+  - adrienne maree brown
+title: "Emergent Strategy: Shaping Change, Changing Worlds"
+summary: In "Emergent Strategy," adrienne maree brown emphasizes the importance of relational and adaptive approaches to change, inspired by Octavia Butler's work. She advocates for embracing complexity and interconnectedness in organizing, highlighting that true unity requires time and experimentation. The ultimate goal is collective transformation and relationship building to create a more just and liberated society.
+kind:
+  - books
+published_date: 2017-02-22
+peer:
+  - "[[how to make change]]"
+  - "[[deep ecology]]"
+recommended-by: "[[Masters Module - Design for Social Change]]"
+short citation: (brown, 2017)
+---
+- "emergent strategy, strategy for building complex patterns and systems of change through relatively small interactions"  [⤴️](https://read.readwise.io/read/01jm5bf8pd54sfr8y8ws22vd12)
+- "the potential scale of transformation that could come from movements intentionally practicing this adaptive, relational way of being, on our own and with others."  [⤴️](https://read.readwise.io/read/01jm5bfn93v3daxr77r93q25xw)
+- "Many of us have been and are becoming students of these systems of life, wondering if in fact we can unlock some crucial understanding about our own humanity if we pay closer attention to this place we are from, the bodies we are in."  [⤴️](https://read.readwise.io/read/01jm5bh966cwb6x68gjvet9tc8)
+- "a collection of essays, speeches, spells, interviews, conversations, tools, profiles, and poems sharing my learning processes in the face of that wonder."  [⤴️](https://read.readwise.io/read/01jm5bhvrqqh6ptm0y49a3g94k)
+- "“Emergence is the way complex systems and patterns arise out of a multiplicity of relatively simple interactions.”[2](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-031)"  [⤴️](https://read.readwise.io/read/01jm5bjfn4sxmqw7xv35rmpe3b)
+- "the connective tissue of all that exists—the way, the Tao, the force, change, God/dess, life. Birds flocking, cells splitting, fungi whispering underground."  [⤴️](https://read.readwise.io/read/01jm5bjyy9gj2w67ds4tmajrxc)
+- "Emergence emphasizes critical connections over critical mass, building authentic relationships, listening with all the senses of the body and the mind."  [⤴️](https://read.readwise.io/read/01jm5bk5883a4pmtxr4aa6t670)
+- "With our human gift of reasoning, we have tried to control or overcome the emergent processes that are our own nature, the processes of the planet we live on, and the universe we call home."  [⤴️](https://read.readwise.io/read/01jm5bkm7w6y08jdnw3kebsv7t)
+- "crisis at each scale we are aware of, from our deepest inner moral sensibilities to the collective scale of climate and planetary health and beyond, to our species in relation to space and time."  [⤴️](https://read.readwise.io/read/01jm5bkvqv2s7j2r8pb4w0ytyc)
+- "emergence notices the way small actions and connections create complex systems, patterns that become ecosystems and societies."  [⤴️](https://read.readwise.io/read/01jm5bmademvz6s6jw4g4yk52t)
+- "Emergent strategy is how we intentionally change in ways that grow our capacity to embody the just and liberated worlds we long for."  [⤴️](https://read.readwise.io/read/01jm5bmken6gk89xewpfky5z5d)
+- "I am offering this content as a cluster of thoughts in development"  [⤴️](https://read.readwise.io/read/01jm5bn0mhnak6kgp8qzzt7e0y)
+- "This book is for people who want to radically change the world.[3](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-030)"  [⤴️](https://read.readwise.io/read/01jm5bnhmx1wknvtjdaqgabb81)
+- "apply natural order and our love of life to the ways we create the next world"  [⤴️](https://read.readwise.io/read/01jm5bnssextn0sc0mstqpx76t)
+- "tap into the most ancient systems and patterns for wisdom as we build tomorrow."  [⤴️](https://read.readwise.io/read/01jm5bp1n139m85tydbd339fx1)
+- "who feel and know more than we can say or explain, a"  [⤴️](https://read.readwise.io/read/01jm5bpswv8cw3y1s00bgpqf4e)
+- "The natural world actually supports any worldview"  [⤴️](https://read.readwise.io/read/01jm5bq7s29jm12yzmvv4q1fqs)
+- "the adaptation of small, collaborative species."  [⤴️](https://read.readwise.io/read/01jm5br028sxssm1wwz19sff4a)
+- "so many other more collaborative life forms continue to proliferate, survive, grow. Sustain."  [⤴️](https://read.readwise.io/read/01jm5br7pfy0k83c9w12n1yjqv)
+- "the ways creatures and ecosystems function together in and with the natural world."  [⤴️](https://read.readwise.io/read/01jm5brxy7hyqf84tr51qaszf8)
+- "I am open to critiques of course, if they are offered in the spirit of collective liberation."  [⤴️](https://read.readwise.io/read/01jm5bs2rr2p7k9dnbs86e0m22)
+- "our entire future may depend on learning to listen, listen without assumptions or defenses"  [⤴️](https://read.readwise.io/read/01jm5bscstr44e8gyn8gyet620)
+- "this book favors those who learn like me, through inspiration, through late-night conversations, personal revelations, experience, and reflection"  [⤴️](https://read.readwise.io/read/01jm5bt09v1xra5em2nwt4cnp5)
+- "“Exercise your human mind as fully as possible, knowing it is only an exercise. Build beautiful artifacts, solve problems, explore the secrets of the physical universe, savor the input from all the senses, feel the joy and sorrow, the laughter, the empathy, compassion and tote the emotional memory in your travel bag.” 
+  —Ryan Power, Waking Life"  [⤴️](https://read.readwise.io/read/01jm5bt7p5gd1rtyz5savjd6k9)
+- "the fatal human flaw as a combination of hierarchy and intelligence.[6](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-027)"  [⤴️](https://read.readwise.io/read/01jm5bvkpqpw10pv0q408he35r)
+- "We tend to slip out of togetherness the way we slip out of the womb, bloody and messy and surprised to be alone. And clever—able to learn with our whole bodies the ways of this world."  [⤴️](https://read.readwise.io/read/01jm5bvwe4fjjc6x634xnpbdeg)
+- "deepen and soften that intelligence such that we can align our behavior, our structures and our movements with our visions of justice and liberation,"  [⤴️](https://read.readwise.io/read/01jm5bwe8rryta86kmrp1b1dwj)
+- "ommunity.
+  I will be satisfied if this book sparks conversations, new practices, and projects where people keep noticing, observing, and learning about emergence and liberation."  [⤴️](https://read.readwise.io/read/01jm5bx6bw5xty2zwgyk4eawy9)
+- "our (r)evolutionary journey."  [⤴️](https://read.readwise.io/read/01jm5bxk58xek1fk1z40j92bwe)
+- "I don’t want to be the owner of this, just a joyful conduit.
+  Throughout the book I weave together thoughts and theories"  [⤴️](https://read.readwise.io/read/01jm5bxwhwvarx9wwb65ma5de5)
+- "The book can be engaged nonlinearly!"  [⤴️](https://read.readwise.io/read/01jm5c4058wz13ac815078mryr)
+- "notice how it connects and echoes other theoretical frameworks."  [⤴️](https://read.readwise.io/read/01jm5c4wrqey1t6m13nz7e3w40)
+- "I believe we are all actually already aware of these things, we just have the volume turned down."  [⤴️](https://read.readwise.io/read/01jm5c5j7hm4krffmmhm9ttef6)
+- "individualistic linear organizing (led by charismatic individuals or budget-building institutions), which intends to reform or revolutionize society, but falls back into modeling the oppressive tendencies against which we claim to be pushing."  [⤴️](https://read.readwise.io/read/01jm5c8h21wfq8katqv71gtj5g)
+- "seeking to assert one right way or one right strategy."  [⤴️](https://read.readwise.io/read/01jm5c8nrvt3j5ndv6bzcdapws)
+- "the capitalistic belief that constant growth and critical mass is the only way to create change,"  [⤴️](https://read.readwise.io/read/01jm5c8w8mb2zv3c6d831jv6t9)
+- "something beyond all of our binaries—evolving in relationship with our hierarchical tendency."  [⤴️](https://read.readwise.io/read/01jm5c9ebbeagq7f7bxagtwb90)
+- "micro-hierarchies in a collaborative environment."  [⤴️](https://read.readwise.io/read/01jm5caqag7cyth8mrqrdqnayc)
+ - anarchist 'anti-hierarchy' usually does align with this - hierarchies of experience and priority but not prescribed, chosen by individuals, and with opportunities to move around the hierarchy -- it is unjust hierarchies, power not willingly shared, that is the hierarchy to fight
+
+- "dandelions spread not only themselves but their community structure, manifesting their essential qualities (which include healing and detoxifying the human body) to proliferate and thrive in a new environment. The resilience of these life forms is that they evolve while maintaining core practices that ensure their survival."  [⤴️](https://read.readwise.io/read/01jm5cevezf89ky64pjnx1rf6f)
+- "A mushroom is a toxin-transformer, a dandelion is a community of healers waiting to spread"  [⤴️](https://read.readwise.io/read/01jm5cf55hqgpf8q59x9zszbtc)
+- "When we are engaged in acts of love, we humans are at our best and most resilient. The"  [⤴️](https://read.readwise.io/read/01jm5cfcvvw84vvpyag3q17j97)
+- "Perhaps humans’ core function is love."  [⤴️](https://read.readwise.io/read/01jm5cfp9cp7aatyv50tv16rxc)
+- "If love were the central practice of a new generation of organizers and spiritual leaders, it would have a massive impact on what was considered organizing."  [⤴️](https://read.readwise.io/read/01jm5cg39gcjnehyhsyd8dgtyh)
+ - but what feels like love to someone doesn't always manifest as love to someone else
+
+- "We would suddenly be seeing everything we do, everyone we meet, not through the tactical eyes of war, but through eyes of love."  [⤴️](https://read.readwise.io/read/01jm5chbry2dg8chtew5y2km05)
+- "no such thing as a blank canvas, an empty land or a new idea—but everywhere there is complex, ancient, fertile ground full of potential."  [⤴️](https://read.readwise.io/read/01jm5chgrwrgny6g2hv1xw79cb)
+- "instead of starting up new ideas/organizations all the time, we would want to listen, support, collaborate, merge, and grow through fusion, not competition."  [⤴️](https://read.readwise.io/read/01jm5cj07g16dspvb02hsvmhbw)
+- "strength of our movement is in the strength of our relationships,"  [⤴️](https://read.readwise.io/read/01jm5cj7dfyf9tf1g2zx0bnwq0)
+- "Scaling up would mean going deeper, being more vulnerable and more empathetic."  [⤴️](https://read.readwise.io/read/01jm5cjkwf4p2ynrt433t80qg3)
+- "listening with less and less judgment to the ideas and efforts of others, having visions that are long term."  [⤴️](https://read.readwise.io/read/01jm5ck3q51b95km0r6pkakgc1)
+- "enough humility to learn, to be taught, to have teachers. A"  [⤴️](https://read.readwise.io/read/01jm5ckay3tp0gdmgak8h6w4mh)
+- "Sufi poet Hafiz said, “How do I listen to others? As if everyone were my Teacher,"  [⤴️](https://read.readwise.io/read/01jm5ckt4vh74rpamzmfqaaf7m)
+- "I am listening now with all of my senses, as if the whole universe might exist just to teach me more about love."  [⤴️](https://read.readwise.io/read/01jm5cmaajd6kwgtkxjfav7x7q)
+- "connect to the part of myself that is divine, aligned with the universe, and the place within myself where I can be a conduit for spiritual truth—I"  [⤴️](https://read.readwise.io/read/01jm5cngjnxrw2tyzcz67ake3b)
+- "Our generation must walk the spiritual path that is available to us only in this time,"  [⤴️](https://read.readwise.io/read/01jm5crvgnscbj72mj9hw0xp9s)
+- "like dancing around a black hole, praying it is a portal and not a nothingness."  [⤴️](https://read.readwise.io/read/01jm5cta6kmsy47bv5vccw4bhz)
+- "In the framework of emergence, the whole is a mirror of the parts. Existence is fractal—the health of the cell is the health of the species and the planet."  [⤴️](https://read.readwise.io/read/01jm5cvbw6hgjfwnqnnzjmkcrq)
+- "There is an art to flocking: staying separate enough not to crowd each other, aligned enough to maintain a shared direction, and cohesive enough to always move towards each other."  [⤴️](https://read.readwise.io/read/01jm5cvz3m5pvq8jvx7s6cp68t)
+- "Under the earth, always, they reach for each other, they grow such that their roots are intertwined and create a system of strength that is as resilient on a sunny day as it is in a hurricane."  [⤴️](https://read.readwise.io/read/01jm5cwn8ezrsdqzensqq39wmq)
+- "each seed can create a field of dandelions. We are invited to be that prolific."  [⤴️](https://read.readwise.io/read/01jm5cx0e6c8xsqaw7wdbjxt8j)
+- "Cells may not know civilization is possible."  [⤴️](https://read.readwise.io/read/01jm5cx62e92s8def82d9da27w)
+- "they grow until they split, complexify."  [⤴️](https://read.readwise.io/read/01jm5cxfbm4fj3pgjpvsjyt67m)
+- "Then they interact and intersect and discover their purpose—I am a lung cell! I am a tongue cell!—and they serve it. And they die. And what emerges from these cycles are complex organisms, systems, movements, societies."  [⤴️](https://read.readwise.io/read/01jm5cxkxyb17m05ff4ss0nkby)
+- "Nothing is wasted, or a failure."  [⤴️](https://read.readwise.io/read/01jm5cy1wsbkvyt7sjzgw57y76)
+- "Emergence is a system that makes use of everything in the iterative process. It’s all data."  [⤴️](https://read.readwise.io/read/01jm5cy5xr607j3x49xx4rfcqn)
+- "Octavia Butler (amb)
+  All successful life is (Fractal)
+  Adaptable, (Adaptive)
+  Opportunistic, (Nonlinear/Iterative)
+  Tenacious, (Resilient/Transformative Justice)
+  Interconnected, and (Interdependent/Decentralized)
+  Fecund. (Creates More Possibilities)
+  Understand this. (Scholarship, Reflection)
+  Use it. (Practice/Experiment)
+  Shape God. (Intention)"  [⤴️](https://read.readwise.io/read/01jm5cyktz9fk1nstthxvcsmwr)
+- "She also said “all that you touch you change / all that you change, changes you.”[11](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-022)"  [⤴️](https://read.readwise.io/read/01jm5czjx8ae6n3fzqgehn91z9)
+- "a world that is, by its very nature, in a constant state of change."  [⤴️](https://read.readwise.io/read/01jm5d0x15sy3ge32bapyrmp2v)
+- "“Nature/Life would always create conditions conducive to life.”[12](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-021) She tells of a radical fringe of scientists who are realizing that natural selection isn’t individual, but mutual—that species only survive if they learn to be in community."  [⤴️](https://read.readwise.io/read/01jm5d1ccr1tx4dg5ka9xe1gzj)
+- "we, future ancestors,"  [⤴️](https://read.readwise.io/read/01jm5d1xs6ac9dgge8d83y0fv9)
+- "emergence shows us that adaptation and evolution depend more upon critical, deep, and authentic connections, a thread that can be tugged for support and resilience."  [⤴️](https://read.readwise.io/read/01jm5d2e22hdeq0cczf1z7cefh)
+- "The quality of connection between the nodes in the patterns."  [⤴️](https://read.readwise.io/read/01jm5d2v1d9nd7gzz9gmj308zv)
+- "The goal is not to repeat each other’s motion, but to respond in whatever way feels right in your body. The waves we create are both continuous and a one-time occurrence. We must notice what it takes to respond well. How it feels to be in a body, in a whole—separate, aligned, cohesive. Critically connected."  [⤴️](https://read.readwise.io/read/01jm5d3dyxhfvghah1ycvbpvb1)
+- "“science fictional behavior”—being concerned with the way our actions and beliefs now, today, will shape the future, tomorrow, the next generations."  [⤴️](https://read.readwise.io/read/01jm5d4njht0kef9smv913j6ad)
+- "We are excited by what we can create, we believe it is possible to create the next world.
+  We believe.
+  For me this might be because I was born to a trekkie—"  [⤴️](https://read.readwise.io/read/01jm5d50nzzqzqb9acc82d65zf)
+- "My dad watched Star Trek in a way that seems logical to me now. He watched this “post-racist” narrative as Black man from the deep south bringing multiracial children into a racist world—eyes wide, faith bubbling up."  [⤴️](https://read.readwise.io/read/01jm5d5hpxm76361z01gzh1sz3)
+- "I think what I experienced there, the casual and constant presence of white supremacy, the knee-jerk assessments of my intelligence and humanity, is one of the foundational catalysts for my study of sci fi, apocalypse and post-apocalypse, emergence and complexity."  [⤴️](https://read.readwise.io/read/01jm5d5z6zc67re21hft2qvz8n)
+- "thought then, and I think now: This can’t be all. No one survives this way, not long term. This can’t be the purpose of our species, to constantly identify each other as “other,”"  [⤴️](https://read.readwise.io/read/01jm5d691106c8xfhx5vz1rmh9)
+- "Why can’t they love me? Should I love them anyway? How can I hold these massive contradictions?"  [⤴️](https://read.readwise.io/read/01jm5d6z4gyz15x26ydqkabsfz)
+- "Decades before my birth, she was working these same edges in her heart, pendulum swinging between curiosity, possibility, and hopelessness."  [⤴️](https://read.readwise.io/read/01jm5d777mj763ykyg55bz81t2)
+- "Woven throughout her work are two things: 1) a coherent visionary exploration of humanity and 2) emergent strategies for being better humans."  [⤴️](https://read.readwise.io/read/01jm5d7mtr2hf2q9aq2p1wcenn)
+- "divergent paths that are moving in and out of alignment, in and out of conflict. Imagination is shaped by our entire life experience,"  [⤴️](https://read.readwise.io/read/01jm5d9cgq8eh90wmz1x3bxbh0)
+- "Our ideas of right and wrong shift with time—right now it’s clear to me that something is wrong if it hurts this planet. But if we don’t claim the future, that sense of loyalty to earth, of environmentalism, could become outdated."  [⤴️](https://read.readwise.io/read/01jm5d9tzed5yv5h10bjh3kdhv)
+- "get into the game, get dirty, get experimental."  [⤴️](https://read.readwise.io/read/01jm5dah6dq6arxhqwee8m7mdy)
+- "How do we create and proliferate a compelling vision of economies and ecologies that center humans and the natural world over the accumulation of material?
+  We embody. We learn. We release the idea of failure, because it’s all data.
+  But first we imagine."  [⤴️](https://read.readwise.io/read/01jm5daqvjab9mmmf7k9mqh5qe)
+- "in some white imagination, they were dangerous. And that imagination is so respected that those who kill, based on an imagined, racialized fear of Black people, are rarely held accountable."  [⤴️](https://read.readwise.io/read/01jm5dbmy0s3m5jpk5mj5hp58j)
+- "Imagination gives us borders, gives us superiority, gives us race as an indicator of capability. I often feel I am trapped inside someone else’s imagination, and I must engage my own imagination in order to break free."  [⤴️](https://read.readwise.io/read/01jm5dc3bse8h4x5tethjs58h3)
+- "This is a time-travel exercise for the heart."  [⤴️](https://read.readwise.io/read/01jm5dcrsnzvp08mv2zqe5qf6z)
+- "This is collaborative ideation—what are the ideas that will liberate all of us?
+  The more people that collaborate on that ideation, the more that people will be served by the resulting world(s)."  [⤴️](https://read.readwise.io/read/01jm5dczegc4wd1h34hzw855sp)
+- "practicing futures together, practicing justice together, living into new stories."  [⤴️](https://read.readwise.io/read/01jm5dftt5t0qbrx8xentay9nf)
+- "What we pay attention to grows,"  [⤴️](https://read.readwise.io/read/01jm5dg8dsw9tvna14jkhamv57)
+- "Ursula Le Guin recently said, “It’s up to authors to spark the imagination of their readers and to help them envision alternatives to how we live.”[15](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-018)"  [⤴️](https://read.readwise.io/read/01jm5dh1fq39yw5pb8h8gp3pfn)
+- "As Toni Cade Bambara has taught us, we must make just and liberated futures irresistible.[16](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-017)"  [⤴️](https://read.readwise.io/read/01jm5dhenv7g3wcshe441d473x)
+- "it is healing behavior, to look at something so broken and see the possibility and wholeness in it"  [⤴️](https://read.readwise.io/read/01jm5dhzeffvqreqaqgf3bdty2)
+- "what our movements would look like if we focused on critical connections instead of critical mass.
+  We need each other. I love the idea of shifting from “mile wide inch deep” movements to “inch wide mile deep” movements that schism the existing paradigm.[18](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-015)"  [⤴️](https://read.readwise.io/read/01jm5dkcvtj3q0pj09zras073f)
+ - I so agree, but also fear what happens when the last of a small collective fades away, where does that great potential end up
+
+- "Strategy is a military term simply meaning a plan of action towards a goal.[19](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-014)"  [⤴️](https://read.readwise.io/read/01jm5dna2kkeq61qy5tg55gjn0)
+- "Horrible, racist, sexist, ableist, patriarchal, outdated, inflexible plans can be pitched as strategic.
+  We must be more precise."  [⤴️](https://read.readwise.io/read/01jm5dnrfyz8fas7j5f2cscrxy)
+- "her leaders are adaptive—r"  [⤴️](https://read.readwise.io/read/01jm5dp8r92cwx73txd62mghce)
+- "Adaptive but also intentional, like migrating birds"  [⤴️](https://read.readwise.io/read/01jm5dpnd5xrxg6c80s739xexj)
+- "Humans? Some of us are surviving, following, flocking—but some of us are trying to imagine where we are going as we fly. That is radical imagination."  [⤴️](https://read.readwise.io/read/01jm5dpxxb75aqqfnmh587yty4)
+- "the personal is political, and that pleasure evokes change—perhaps more than shame."  [⤴️](https://read.readwise.io/read/01jm5dq73zcy6psgf005fagns1)
+ - I never realised how important 'lifestyle' would be for me.
+
+- "where shame makes us freeze and try to get really small and invisible, pleasure invites us to move, to open, to grow."  [⤴️](https://read.readwise.io/read/01jm5drbkpfkhhxpba90gm946e)
+- "having the will to imagine and implement something else."  [⤴️](https://read.readwise.io/read/01jm5drsa1hcfpgjhdxkt3cdty)
+- "We are living in the ancestral imagination of others, with their longing for safety and abundance, a longing that didn’t include us, or included us as enemy"  [⤴️](https://read.readwise.io/read/01jm5ds2pzpw747jx7crqj15tk)
+- "adaptability and interdependence—often through the practice of repeated vulnerability."  [⤴️](https://read.readwise.io/read/01jm5dsjj7ypvqwywp43be4ddk)
+- "justified and tangible hope,"  [⤴️](https://read.readwise.io/read/01jm5dtb1rs024fywex9wa74p7)
+- "in the space of such constant Black trauma, we get together and celebrate and love on each other, we laugh, we find the pleasure of community, of interdependence. It feels good together."  [⤴️](https://read.readwise.io/read/01jm5dtvhd5ta4sb99jh7sv761)
+- "Octavia’s leaders were also decentralized, and they were generative—resilience and solutions came from that decentralization; the collective response was possible because no one person held the power."  [⤴️](https://read.readwise.io/read/01jm5dv58zxry656mmbg4szbsa)
+- "what happens at the interpersonal level is a way to understand the whole of society. In"  [⤴️](https://read.readwise.io/read/01jm5dw03sfyqyv6khr07n7y4z)
+- "radical ideas spread through conversation, questions, one to one interactions. Social movements right now are also fractal, practicing at a small scale what we most want to see at the universal level."  [⤴️](https://read.readwise.io/read/01jm5dwa2ht3hv2379hvwmtfek)
+- "Not one perfect path forward, but an abundance of futures, of ways to manage resources together, to be brilliant together."  [⤴️](https://read.readwise.io/read/01jm5dwqyjmyq6zgvaxhyjanra)
+
+- "small collective creatures who were humble and abundant and resilient."  [⤴️](https://read.readwise.io/read/01jmc7e67h9475kr3rss0v2scx)
+- "we can be movements like flocks of birds, underground power like whispering mushrooms"  [⤴️](https://read.readwise.io/read/01jmc7emrrgnr5k7dfhp9dnt5v)
+- "small patterns that avoid useless predation, spread lessons, and proliferate change."  [⤴️](https://read.readwise.io/read/01jmc7evgcyfdqt2v9aqa0xxxg)
+- "adaptation."  [⤴️](https://read.readwise.io/read/01jmc7n4nd9qf3fj0tk2j8x2rd)
+- "• Biomimetics or biomimicry is the imitation of the models, systems, and elements of nature for the purpose of solving complex human problems.
+  Permaculture is a system of agricultural and social design principles centered around simulating or directly utilizing the patterns and features observed in natural ecosystems.
+  • which evolved into strategies for organizers building movements for justice and liberation that leverage relatively simple interactions to create complex patterns, systems, and transformations—including adaptation, interdependence and decentralization"  [⤴️](https://read.readwise.io/read/01jmc7nmz0jnx49y0synh01rpr)
+- "• fractal awareness, resilience and transformative justice, nonlinear and iterative change, creating more possibilities.
+  • and now it’s like…ways for humans to practice being in right relationship to our home and each other, to practice complexity, and grow a compelling future together through relatively simple interactions. Emergent strategy is how we intentionally change in ways that grow our capacity to embody the just and liberated worlds we long for."  [⤴️](https://read.readwise.io/read/01jmc7pyafxqmqgsjwvgfjb0jw)
+- "you are the one
+  you are waiting for"  [⤴️](https://read.readwise.io/read/01jmc7rba69de65s6j6eb7jw6q)
+- "being in right relationship with the natural world, learning from the ways change and resilience happen throughout this entire interconnected complex system."  [⤴️](https://read.readwise.io/read/01jmc7v51tgfy0nkpp2ty41362)
+- "being humble in the face of the unknown"  [⤴️](https://read.readwise.io/read/01jmc7vysg8s78chxg3s6x01ea)
+- "Honoring the changes that come through longing, honoring the very small things that create the largest shifts in the world."  [⤴️](https://read.readwise.io/read/01jmc7vrwnkbwwneb5c1gkg3ev)
+- "convergence of thinkers and conversations that has sharpened this particular set of concepts into something I could name and share."  [⤴️](https://read.readwise.io/read/01jmc7xbpbfn0m4pyene718cfh)
+- "what is effective, through a lens of quantum physics, biology, and chaos theory."  [⤴️](https://read.readwise.io/read/01jmc7xtnkawbchzrb5s3rt6t1)
+- "• everything is about relationships, critical connections;
+  • chaos is an essential process that we need to engage;
+  • the sharing of information is fundamental for organizational success; and
+  • vision is an invisible field that binds us together, emerging from relationships and chaos and information.
+  Wheatley has continued"  [⤴️](https://read.readwise.io/read/01jmc7y4e18aj2pn2ensqhyxk8)
+- "an organic intellectual who could take these concepts into daily life and community work."  [⤴️](https://read.readwise.io/read/01jmc80yayyxk26tkz7bv4czeb)
+- "dialectical humanism—the cycle of collective transformation of beliefs that occurs as we gather new information and experiences, meaning that, over time, we can understand and hold a position we previously believed to be wrong.[23](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-010)"  [⤴️](https://read.readwise.io/read/01jmc818fnyzbkm2sm264528jy)
+- "emergence—interdependence, iteration, being in relationship with constantly changing conditions, fractals."  [⤴️](https://read.readwise.io/read/01jmc8b4stktv9f3z7h0g9eh5b)
+- "Wheatley’s work speaks of relationship—the depth of ­relationship between the individuals in a system determines the strength of the system."  [⤴️](https://read.readwise.io/read/01jmc8c8212q1gnvwxdtd68fv8)
+- "part of what can clear a path to making things easier is to name the simple interactions at play in a complex system.” 
+  —Rachel Plattus"  [⤴️](https://read.readwise.io/read/01jmc8h3sbfs9asn4g3fvts16j)
+- "both of them had to be able to see something impossible (based on the families and society they’d been born into) as not only a possible way forward, but as the best way forward."  [⤴️](https://read.readwise.io/read/01jmc8j5e4y2wye9t8c6cs1sm9)
+- "We often differed in opinion, which, with him, felt safe and even invited in a way that it wasn’t and hasn’t been with most other southern white people."  [⤴️](https://read.readwise.io/read/01jmc8mmfg43jes7e4n8dg3ma1)
+- "if I understood how powerful the horse was, how beautiful the land was."  [⤴️](https://read.readwise.io/read/01jmc8nhvyn8fsfseg7ngv2vwr)
+- "he let me come back to his table and before he left this plane we created room to recognize each other’s humanity and spirituality."  [⤴️](https://read.readwise.io/read/01jmc8p3v6fvcrc9eksbjz1p99)
+- "food is an important foundation for community, and that love isn’t always a doorway to forever…sometimes it is a door to another love."  [⤴️](https://read.readwise.io/read/01jmc8qtnr5xg5663x3jenegpr)
+- "love is an energy of possibility: the possibility of wholeness, in a Platonic understanding. I come from a lineage of brave and radical love, and I don’t think it is an accident that love has been such an overt and active force in my life"  [⤴️](https://read.readwise.io/read/01jmc8rbageqgspp3yhr84ppwy)
+- "there is a science of love, a science of transformation and acceptance and gratitude"  [⤴️](https://read.readwise.io/read/01jmc8rq1we6882hkwkxj4kr7j)
+- "claiming our right to experience pleasure, to be safe and respected in the pleasures we choose."  [⤴️](https://read.readwise.io/read/01jmc8sxdw3z7t7dgkqvjanym8)
+- "facts, guilt, and shame are limited motivations for creating change, even though those are the primary forces we use in our organizing work. I suspect that to really transform our society, we will need to make justice one of the most pleasurable experiences we can have.[](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-006)"  [⤴️](https://read.readwise.io/read/01jmc8t683wg8hgrv4xzwmch03)
+- "We try to leverage control over the natural world by making our emotions and sensations less reliable than our thoughts, and then burn at the stake anyone who stays attuned to the ways and power of pleasure in the natural world."  [⤴️](https://read.readwise.io/read/01jmc8vfcjczvcgf76y96n7xyn)
+- "What we pay attention to grows—this is a hard world, but it is also a world full of love and pleasure. I am of that, attending to and growing that. That, to me, is pleasure activism."  [⤴️](https://read.readwise.io/read/01jmc8wqvq5d8a8331fv1t5kvb)
+- "healer is a possibility in each of us."  [⤴️](https://read.readwise.io/read/01jmc8xgecmzqwadefnxgv3y7w)
+- "There is a way I can open up my presence, voice, and touch to an energy greater than what my body or life has given me."  [⤴️](https://read.readwise.io/read/01jmc8y7kb05zkm1ysqmsfqa84)
+- "we spoke of how we had created a future for her together."  [⤴️](https://read.readwise.io/read/01jmc97w7x7746t3h07sm3pga2)
+- "Life and death are transitions that want to be held gently."  [⤴️](https://read.readwise.io/read/01jmc98gx2sjhr4647ppcgw7x0)
+- "teaches us to engage tension, but not to indulge drama. It is another form of facilitation, making the miraculous experience of birth as easy as possible, intervening with any systems that make the process harder, helping the family attend to each other and listen to what the body is saying, staying focused on the possibility and wisdom of the body. Standing or sitting with someone as they realize, remember their own wholeness—that is the work of the healer and the doula."  [⤴️](https://read.readwise.io/read/01jmc99bfqegccsmj8gxadrbsx)
+- "Sterling Toles told me he considers himself a “dressing room where people can try on their most authentic selves,” an"  [⤴️](https://read.readwise.io/read/01jmc9a8ws6nzybyghxrzmq283)
+- ", “It’s ok to feel beautiful in the process of creating justice.”"  [⤴️](https://read.readwise.io/read/01jmc9aya3nhcqwc6zg7qn46bb)
+- "Toni Cade Bambara"  [⤴️](https://read.readwise.io/read/01jmc9bqt6xht78q0eww8rtnqh)
+- "she said “The role of the artist is to make the revolution irresistible.”[30](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-003)"  [⤴️](https://read.readwise.io/read/01jmc9bjreqea1s9xfc5azpsa9)
+- "she said that “Writing is one of the ways I participate in transformation.”"  [⤴️](https://read.readwise.io/read/01jmc9c75gancj92gm6rx15fab)
+- "any writing I do, even if it isn’t explicitly political, is still a transformative act."  [⤴️](https://read.readwise.io/read/01jmc9cjwdkzvf42epdcczwx9r)
+- "understanding that when a Black, queer, thick artist woman intentionally takes up space, it creates a new world."  [⤴️](https://read.readwise.io/read/01jmc9ct1ttsjtngesk2prfk08)
+- ". I spent the first part of my life learning what history’s victors wanted to tell me to believe about the past, including the simple assumption that it was the past."  [⤴️](https://read.readwise.io/read/01jmc9djxj16k5gwb2er838rnx)
+- "Science fiction, particularly visionary fiction, is where I go when I need the medicine of possibility applied to the trauma of human behavior. While"  [⤴️](https://read.readwise.io/read/01jmc9e4p4tqcnx3xx71nqpe5j)
+- "Octavia"  [⤴️](https://read.readwise.io/read/01jmc9fnmhmbddqzj984e20cvr)
+- "“Radical simply means ‘grasping things at the root.’”—Angela Davis, “Let Us All Rise Together” Address, Spelman College, reprinted in Women, Culture and Politics (New York, Random House, 1989)."  [⤴️](https://read.readwise.io/read/01jmcamfnqdrv637866jvb9aks)
+- "She said:
+  all that you touch
+  you change
+  all that you change
+  changes you
+  the only lasting truth
+  is change
+  god is change[31](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-002)"  [⤴️](https://read.readwise.io/read/01jmc9fy5mz3bgqtshj2tqxc6s)
+- "If we accept the scientific and science fictional premise that change is a constant condition of this universe, then it becomes important that we learn to be in right relationship with change."  [⤴️](https://read.readwise.io/read/01jmc9h4v87vbnh5rtamtnrgrb)
+- "I have learned that feeling matters, that feeling is an important and legitimate way of knowing."  [⤴️](https://read.readwise.io/read/01jmc9jsh3p8fa84ex28m0f5mz)
+- "(meet the biological needs of a community as a mode of organizing);"  [⤴️](https://read.readwise.io/read/01jmc9qa16srxxw1p9xf9z4kyn)
+- "“Without positive obsession, there is nothing at all.” 
+  —Octavia Butler[33](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-000)"  [⤴️](https://read.readwise.io/read/01jmc9syz34trbfjht7hcmvjm3)
+- "Small is good, small is all. (The large is a reflection of the small.)
+  Change is constant. (Be like water).[34](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-037)"  [⤴️](https://read.readwise.io/read/01jmc9vvfxa36594w836jsqdyr)
+ - Resist being forced to remain in one shape
+
+- "There is always enough time for the right work.
+  There is a conversation in the room that only these people at this moment can have.[35](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-036) Find it.
+  Never a failure, always a lesson.[36](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-035)
+  Trust the People. (If you trust the people, they become trustworthy).[37](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-034)"  [⤴️](https://read.readwise.io/read/01jmc9wxz9t928jc8tm4avay26)
+- "Move at the speed of trust.[38](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-033)"  [⤴️](https://read.readwise.io/read/01jmc9xgg0wcx3ck618hpt893d)
+- "Less prep, more presence."  [⤴️](https://read.readwise.io/read/01jmc9xqzn0fk6zrn1zgq225ms)
+- "What you pay attention to grows."  [⤴️](https://read.readwise.io/read/01jmc9xvvcyr4wtnsmnz1vr00a)
+- "Complex Movements is also studying the relationship between emergence and movements for social justice."  [⤴️](https://read.readwise.io/read/01jmc9yv3ceg1wet8mxpac6et5)
+- "It connects roots to one another and breaks down plant material to create healthier ecosystems. Mycelium is the largest organism on earth. Interconnectedness. Remediation. Detoxification."  [⤴️](https://read.readwise.io/read/01jmc9zhrg00neqb0pkcx3gfds)
+- "nt societies function through individual ants acting collectively in accord with simple, local information to carry on all of their survival activities. Every ant relies on the work of others in producing their own work. Cooperative work. Collective Sustainability."  [⤴️](https://read.readwise.io/read/01jmc9zykgpfj4ph4wxtde1yab)
+- "it looks roughly the same at any scale. Small-scale solutions impact the whole system. Use similar principles to build at all scales."  [⤴️](https://read.readwise.io/read/01jmca0q3cdgpzsw0wnqr90qt0)
+- "distributed across space, exploring different intermixing paths to all possible destinations."  [⤴️](https://read.readwise.io/read/01jmca1ebzgrysg6g3sw5asmax)
+- "Uncertainty/doubt. Valuing both process and outcome."  [⤴️](https://read.readwise.io/read/01jmca1hw5wa5fq544hdp6zea6)
+- "Guided by simple rules, starling murmurations can react to their environment as a group without a central leader orchestrating their choices;"  [⤴️](https://read.readwise.io/read/01jmca25mjd1aee4adhg9s0x00)
+- "mistakenly identified as weeds, aggressively removed, but are hard to uproot; the top is pulled but the long taproot remains. Resilience. Resistance. Regeneration. Decentralization."  [⤴️](https://read.readwise.io/read/01jmca2tpqyyg6pczah9exepmj)
+    - I also identified with the dandelion for its stubborn existence, gentle form, transformation
+- "we in a western/US context are socialized to work against respecting the emergent processes of the world and each other:
+  • We learn to disrespect Indigenous and direct ties to land.
+  • We learn to be quiet, polite, indirect, and submissive, not to disturb the status quo.
+  • We learn facts out of context of application in school."  [⤴️](https://read.readwise.io/read/01jmcaggdrt3nnv845gbh9pzjy)
+- "Complex Movements is a Detroit-based artist collective supporting the transformation of communities by exploring the connections of complex science and social justice movements through multimedia interactive performance work. The Complex Movements crew uses an ­emblem system with ferns, ants, wavicles, mycelium, and more to engage communities in thinking about the formations and movements of the future."  [⤴️](https://read.readwise.io/read/01jmca831a5ntazgvd0cpgkft6)
+- "• umstance.
+  • We learn to compete with each other in a scarcity-based economy that denies and destroys the abundant world we actually live in.
+  • We learn to deny our longings and our skills, and to do work that occupies our hours without inspiring our greatness.
+  • We learn to manipulate each other and sell things to each other, rather than learning to collaborate and evolve together.
+  • We learn that the natural world is to be manicured, controlled, or pillaged to support our consumerist lives. Even the natural lives of our bodies get medicated, pathologized, shaved or improved upon with cosmetic adjustments.
+  • We learn that factors beyond our control determine the quality of our lives—something as random as which skin, gender, sexuality, ability, nation, or belief system we are born into sets a path for survival and quality of life.
+  • In the United States specifically, though I see this most places I travel, we learn that we only have value if we can produce—only then do we earn food, home, health care, education.
+  • Similarly, we learn our organizations are only as successful as our fundraising results, whether the community impact is powerful or not.
+  • We learn as children to swallow our tears and any other inconvenient emotions, and as adults that translates into working through red flags, value differences, pain, and exhaustion.
+  • We learn to bond through gossip, venting, and destroying, rather than cultivating solutions together.
+  • Perhaps the most egregious thing we are taught is that we should just be really good at what’s already possible, to leave the impossible alone."  [⤴️](https://read.readwise.io/read/01jmcahg477b6revsqyjx043ff)
+- "Grace often said that every crisis is an opportunity, which is amazing theoretically, and requires great emotional fortitude in practice, as well as the maturity to understand that the negative realization of that theory is “disaster capitalism.”[39](private://read/01jk13zvqzfrcbb9a4rd8jkmz6/#footnote-039)"  [⤴️](https://read.readwise.io/read/01jmca9xnh12er4e2sqyvnwxek)
+- "“Biomimicry is basically taking a design challenge and then finding an ecosystem that has already solved that challenge, and literally trying to emulate what you learn."  [⤴️](https://read.readwise.io/read/01jmcabw68we2yh8j6yg0zckkv)
+- "mimicking at an ecosystem’s level, like building a nature-inspired city.” 
+  —Janine Benyus"  [⤴️](https://read.readwise.io/read/01jmcac2rr23scrt39nja64fa7)
+- "some people are more comfortable with emergent strategy than others, but I don’t think this has to do with personality or intelligence. We are already emergent beings, just by our very existence. But we’ve been tricked away from it."  [⤴️](https://read.readwise.io/read/01jmcadewcdtnvp39a1srrv218)

@@ -1,0 +1,24 @@
+---
+parent:
+  - "[[digital archives]]"
+  - "[[cybercreative]]"
+peer:
+  - "[[web-weaving]]"
+title: digital histories in screenshots
+---
+
+- screenshot as the day-to-day method, the Easiest method, the most common method of digital archival, despite being often inadequate, sourceless, unlinked etc
+- best archives (eg internet archive) are full site snapshots
+- but this takes significant space/energy/maintenance/backup
+- and isn't known about/practical for most
+- and doesn't account for specific viewpoints/personalisation in content
+- and often paywalled/password-locked content can't be captured this way
+- and content/data/works only viewable through certain tech, becomes obsolete, requires special archival methods and storage (eg flash games, flash games archives)
+- and screenshots are often time-sensitive/temporary/not relevant for wide audience or long periods (aka not archival)
+- but average users also don't clean out their screenshots/data captured and/or stored unnecessarily
+- or content that's relevant to individuals simply isn't relevant enough to capital to preserve/important enough for stretched non-profits with limited resources to preserve
+- BUT there is a LOT of digital history that hasn't been archived comprehensively, and is saved only in screenshots stored haphazardly by individuals in disparate locations
+- work that is often important, culturally valuable, artistically valuable, valuable to subcultures, even of historic or scientific value in some cases
+- how to preserve screenshots and all of their variants?? 
+- think of memes that exist as screenshots of screenshots of screenshots -- 'fried' screenshots -- has become an artistic choice/medium in itself -- I've even seen recreations of original text content when a passage of text has been found widely valuable but barely legible in screenshot form, or even just 'ugly'
+- 

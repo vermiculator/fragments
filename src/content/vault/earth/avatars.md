@@ -1,0 +1,42 @@
+---
+themes:
+  - representations
+  - AR
+  - VR
+tags:
+  - digital-humanities
+  - social-media
+  - philosophy
+title: avatars
+peer:
+  - "[[no face, no voice, no problem]]"
+---
+
+- representation
+- AR and VR
+- [[animation and puppetry and automata]]
+- how body mapping / sensing through digital tech can allow gestural embodied control of digital avatars
+### on physical avatars
+- Representative small figures present in almost all cultures?
+- deities and idols
+- voodoo dolls and use in the occult
+- clown egg faces as copyright or just for posterity?
+### on digital avatars
+- what was that book I read on second life avatars?
+- pic-crew style avatars as the latest in digital dress up dolls which came from paper dress up dolls
+- any AI driven or photo-supported or computer-vision-supported avatars like
+- in gaming - human fall flat, Miis, etc.
+- from Second Life -> VRChat
+- VR avatars and Vtubers and digital puppetry
+- physical forms from photogrammetry.
+- What would AR avatars look like?
+- FPS, just a hand and a gun
+- perspective of vs representation of
+- unable to capture decision and mannerism
+- accuracy, precision and perspective in reproductive works
+- and does accuracy even matter
+- holograms eg the ABBA tour
+- regenerated movement eg posthumous reanimation - ethical?
+- static representation more ethical than reanimated forms? reanimation akin to puppeteering a corpse? Does physicality make a difference? Learned models of Twitter accounts. [[Doppelganger]].
+- 'reanimation' when to animate is to form new static states and constrict the transition over time - adding an artificial dimension to a corpse too reliant on artistic choice? Forming new stories of a person not reliant on either external circumstance or self-determined with autonomy - denying closure - [[humans form understanding through narrative]]
+- [[ai generated influencers]]

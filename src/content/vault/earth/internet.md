@@ -1,0 +1,32 @@
+---
+title: internet
+parent:
+  - "[[networks and communications]]"
+  - "[[data and information processing]]"
+aliases:
+  - web
+  - what is the internet
+child:
+  - "[[studying the internet]]"
+  - "[[internet sociology]]"
+  - "[[internet content]]"
+---
+
+### initial conception
+- Earliest incarnations in 85 were basic peer-to-peer protocols: Gopher, finger, telnet, FTP, SMTP
+- HTTP and World Wide Web at CERN, Tim Berners Lee 
+- Network of networks designed to survive a nuclear attack
+- Initially military technology, funded by US military, gov and civilian funding
+	- how power ideologies determine innovation
+- Designed to be recoverable through rerouting around damage
+
+### development
+- Early Internet, sharing songs, causing almost complete collapse of music industry, who attacked the networks
+- From 2011 first huge spread of nationwide political messaging from people on the ground with the April uprising, Egypt president attempted to cut it off 
+
+### beyond infrastructure 
+- [[internet as social infrastructure]]
+- [[the internet as public space|internet as public space]]
+- [[internet sociology|internet cultures]]
+- [[the internet as an economic system|internet economics]]
+- [[internet activism]]

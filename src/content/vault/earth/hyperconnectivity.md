@@ -1,0 +1,10 @@
+---
+parent:
+  - "[[networks and communications]]"
+peer:
+  - "[[networked knowledge stores]]"
+  - "[[network resilience depends on efficient rerouting]]"
+  - "[[redundancy]]"
+child:
+  - "[[autistic hyperconnectivity]]"
+---

@@ -1,0 +1,15 @@
+---
+title: industries with exceptions to demographic statistics
+parent:
+  - "[[human diversity]]"
+  - "[[liberation]]"
+  - "[[employment]]"
+peer:
+  - "[[queers in tech]]"
+---
+
+- eg how being transfem in tech is actually common but being transmasc in tech is often a financial/visible diversity/etc loss, [[corporate diversity initiatives unsuited to actually increasing diversity]] in general but also specifically 'women in STEM' type initiatives further marginalise transmascs and non-binary people of all flavours
+- eg [[imo|in my experience]]
+- men in nursing
+- men in childcare
+- men in nurseries

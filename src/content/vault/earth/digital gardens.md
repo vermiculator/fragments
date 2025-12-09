@@ -1,0 +1,20 @@
+---
+parent:
+  - "[[tools for thought]]"
+  - "[[sharing online]]"
+  - "[[personal sites]]"
+peer:
+  - "[[everything;nothing sites]]"
+title: digital gardens
+critique-or-extension: "[[beyond the 'digital garden' metaphor]]"
+---
+
+A digital space; a collection of notes continuously edited. Digital gardens encourage you to tend to thoughts of varying levels of maturity in a hyperconnected single space. Ideas are seeds that sprout into bigger ideas. There is no hierarchy of draft/document - unfinished thoughts are welcome.
+
+"there's no reason why you _have_ to stick with the digital garden metaphor, which appears to be approaching the end of its shelf life. While the metaphor of the garden conjures up pastoral images \[...] I'd prefer it to be like the sprawling, abandoned estate of Heligan in Cornwall - but in its wild, overgrown form, _before_ its rediscovery after a century and transformation into a tourist attraction," - [dokoissho](https://dokoissho.hmm.garden/01f5e3xd5ctfk8dthsb01v7ywn) 
+
+[[digital ecologies]] - "Gardens are by their very nature narcissistic: they're about their owners and their personal tastes and idiosyncrasies rather than the world at large, inward rather than outward looking."
+
+## Resources 
+- https://maggieappleton.com/garden-history
+- https://dev.to/jbranchaud/the-digital-garden-l10

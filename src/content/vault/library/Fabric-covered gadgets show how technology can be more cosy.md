@@ -1,0 +1,39 @@
+---
+author:
+    - Rima Sabina Aouf
+title: "Fabric-covered gadgets show how technology can be more cosy"
+summary: Fabric-coated tech products have slowly but surely padded into the market in 2018, suggesting a future of gentle, unobtrusive devices.
+kind: articles
+url: https://www.dezeen.com/2018/11/21/fabric-covered-gadgets-technology-cosy/
+peer:
+ - soft-peripherals
+ - tangible-interfaces
+---
+- "gentle, unobtrusive devices."  [⤴️](https://read.readwise.io/read/01jbm59fm5ahx41rm082z9pcf4)
+- "A fabric cord connects the two earbuds and forms a small loop at either end, which sits inside the ear to help hold them in place."  [⤴️](https://read.readwise.io/read/01jbm59fpvgqxe03fyxqa9ne85)
+- "cosy technology"  [⤴️](https://read.readwise.io/read/01jbm59fs24cn19d41ke58ye7y)
+- "Thing Industries furry Wi-Fi router"  [⤴️](https://read.readwise.io/read/01jbm59fvwmv7bgnkseqmd24x7)
+- "Her vision was for a future where working from home was typical and technology blended into domestic life."  [⤴️](https://read.readwise.io/read/01jbm59fy63nc9bevc26zw0re7)
+- "Everything is familiar, human, rounded.""  [⤴️](https://read.readwise.io/read/01jbm59g0eg41gbkbc0d191d9e)
+- "broader trend to return a sense of calm to domestic life."  [⤴️](https://read.readwise.io/read/01jbm59g2jgxyh04b7fn7b4qva)
+- "2018, the [HP Tango X](http://www.hp.com/go/tango) is probably the only printer to be covered in soft textile."  [⤴️](https://read.readwise.io/read/01jbm59g4mv0zn2pccbgfg2wn8)
+- "wraps the wireless printer like a book jacket, disguising it when it's not in use."  [⤴️](https://read.readwise.io/read/01jbm59g6r182eykmxyvzzf45z)
+- "Google's Home Mini that is probably the most fully concealed by its fabric cover, looking like a soft, stone-like button. Lights shine through the fabric when the speaker is activated."  [⤴️](https://read.readwise.io/read/01jbm59g8ykfad01qat86rt3b2)
+- "The fabric is Alcantara, an Italian-made microfibre that looks and feels similar to suede."  [⤴️](https://read.readwise.io/read/01jbm59gb67yxgmw89w6vj7zkw)
+- "a mesh that looks like something between a metal and a textile while Amazon's Echo range offers woven textures."  [⤴️](https://read.readwise.io/read/01jbm59gd9p6nenrh00b5zs9xt)
+- "the [Ome smart doorbell](https://www.dezeen.com/2016/10/12/ding-smart-doorbell-connected-home-design-technology-map-projects/) (previously Ding) has two main components: a plastic button for outside the door, and a fabric-covered, pill-shaped speaker for inside the home."  [⤴️](https://read.readwise.io/read/01jbm59gfejrh54dbzvyy5zg5q)
+- "In a few cases now, technology has been embedded into clothing without damaging the fabric's softness and flexibility."  [⤴️](https://read.readwise.io/read/01jbm59ghpz7prrg77k4rj8pq9)
+- "gentle, unobtrusive devices."  [⤴️](https://read.readwise.io/read/01jbm59fm5ahx41rm082z9pcf4)
+- "A fabric cord connects the two earbuds and forms a small loop at either end, which sits inside the ear to help hold them in place."  [⤴️](https://read.readwise.io/read/01jbm59fpvgqxe03fyxqa9ne85)
+- "cosy technology"  [⤴️](https://read.readwise.io/read/01jbm59fs24cn19d41ke58ye7y)
+- "Thing Industries furry Wi-Fi router"  [⤴️](https://read.readwise.io/read/01jbm59fvwmv7bgnkseqmd24x7)
+- "Her vision was for a future where working from home was typical and technology blended into domestic life."  [⤴️](https://read.readwise.io/read/01jbm59fy63nc9bevc26zw0re7)
+- "Everything is familiar, human, rounded.""  [⤴️](https://read.readwise.io/read/01jbm59g0eg41gbkbc0d191d9e)
+- "broader trend to return a sense of calm to domestic life."  [⤴️](https://read.readwise.io/read/01jbm59g2jgxyh04b7fn7b4qva)
+- "2018, the [HP Tango X](http://www.hp.com/go/tango) is probably the only printer to be covered in soft textile."  [⤴️](https://read.readwise.io/read/01jbm59g4mv0zn2pccbgfg2wn8)
+- "wraps the wireless printer like a book jacket, disguising it when it's not in use."  [⤴️](https://read.readwise.io/read/01jbm59g6r182eykmxyvzzf45z)
+- "Google's Home Mini that is probably the most fully concealed by its fabric cover, looking like a soft, stone-like button. Lights shine through the fabric when the speaker is activated."  [⤴️](https://read.readwise.io/read/01jbm59g8ykfad01qat86rt3b2)
+- "The fabric is Alcantara, an Italian-made microfibre that looks and feels similar to suede."  [⤴️](https://read.readwise.io/read/01jbm59gb67yxgmw89w6vj7zkw)
+- "a mesh that looks like something between a metal and a textile while Amazon's Echo range offers woven textures."  [⤴️](https://read.readwise.io/read/01jbm59gd9p6nenrh00b5zs9xt)
+- "the [Ome smart doorbell](https://www.dezeen.com/2016/10/12/ding-smart-doorbell-connected-home-design-technology-map-projects/) (previously Ding) has two main components: a plastic button for outside the door, and a fabric-covered, pill-shaped speaker for inside the home."  [⤴️](https://read.readwise.io/read/01jbm59gfejrh54dbzvyy5zg5q)
+- "In a few cases now, technology has been embedded into clothing without damaging the fabric's softness and flexibility."  [⤴️](https://read.readwise.io/read/01jbm59ghpz7prrg77k4rj8pq9)

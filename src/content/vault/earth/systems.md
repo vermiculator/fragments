@@ -1,0 +1,6 @@
+---
+title: systems
+parent:
+  - "[[sciences]]"
+ 
+---

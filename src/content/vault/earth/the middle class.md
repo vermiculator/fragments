@@ -1,0 +1,21 @@
+---
+title: the middle class
+parent:
+  - "[[normative cultures]]"
+  - "[[social class and wealth disparity]]"
+  - "[[hegemony]]"
+peer:
+  - "[[the horror of the suburbs]]"
+  - "[[neoliberalism]]"
+  - "[[interdependence]]"
+---
+factors are wider but I'm speaking from experience of the post-millennium UK primarily.
+## Notes
+- a very subjective designation
+- on the current day middle class as a much larger proportion of the population
+- diverse needs and a diverse range of actual wealth and potential of earning
+- some of the middle class are elites, owning multiple properties and investments, and/or very high earnings
+- but much of the middle class are actually a generally-comfortable portion of the working class. the kind that are just one step away from financial ruin - maybe own their one property or still paying for it, wealth dependent on career capital that is dependent on their continued good health, on maintaining their steady stream of income
+- in reality, the middle class may not necessarily exist. are you a manager or are you managed? can you afford sick days? general questions like this are more useful in determining power balance and wealth disparity 
+- more relevant when considered as a *culture* than as a class, an supposedly-aspirational aesthetic for the tenuously-safe portion of the working class and a comfortable middle-ground for elites embarrassed by their wealth
+- 

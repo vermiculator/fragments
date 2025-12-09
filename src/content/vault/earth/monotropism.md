@@ -1,0 +1,11 @@
+---
+title: monotropism
+parent:
+  - "[[psychology]]"
+  - "[[autism]]"
+---
+
+
+## Resources
+1. [Me and Monotropism: A unified theory of autism](https://web.archive.org/web/20240623110245/https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism)
+2. 

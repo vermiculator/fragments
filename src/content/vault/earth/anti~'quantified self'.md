@@ -1,0 +1,52 @@
+---
+aliases:
+  - QS
+  - anti-QS
+  - quantified self
+  - "anti-'quantified self'"
+  - lifelogging
+  - anti-lifelogging
+  - lifelogs
+peer:
+  - "[[The Rich Have Their Own Ethics - Effective Altruism & the Crypto Crash]]"
+parent:
+  - "[[reduction of the qualitative to the quantitative]]"
+  - "[[scientific models are lossy]]"
+---
+
+- lifelogging is more often passive then [[active decision-making for regaining agency under controlling structures|active]] - data/science fetishism
+
+-  not every 30 seconds is equally important and we don't experience time this way - see [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^041a96|(Smolicki, 2017)]]
+
+- "in 1998 Bell decided to begin the digital capture and archiving of as much information about his everyday life as technologically possible. He saw advancements in digital technologies, storage capacities, and pervasive computing as enablers of a total memory, or as he called it, “e-memory.” E-memory was not only a technological supplement, but potentially an evolutionary advancement, and the ultimate replacement of bio-memory. While describing the latter as “subjective, patchy, emotion-tinged, ego-filtered, impressionistic and mutable,” in a highly techno-enthusiastic spirit, Bell emphasized the superiority of digital, automated memory as being “objective, dispassionate, prosaic and unforgivingly accurate” (Bell and Gemmell, 2013, p.51). In order to capture one’s life accurately, Bell believed that human agency should be entirely written out of the process, and replaced by passively operating sensors and monitoring devices."  [⤴️](https://read.readwise.io/read/01k0ye6t6zs2eew1dhbp0w3p5k)
+- "What distinguishes lifelogging from earlier practices of systematic recording and archiving of everyday life (e.g. writing memoirs, annals, journaling) is its increasingly automated, seemingly immaterial, and non-eroding nature, as well as its wide scope, which ambitiously aspires to cover “a totality of an individual’s experiences” (Gurrin et al., 2014, p.3). As opposed to more energy consuming, selective, and voluntary forms of personal archiving, such as journaling, life-logging deliberately “operates in a passive manner” (ibid., p.5). Thus, initiating or stopping the capture process are seemingly the only active moments in life-logging. What happens in between is a “passive” and “unobtrusive” recording of “facts” around the episodes in our lives, “but not their emotional and qualitative interpretation” (ibid., p.7)."  [⤴️](https://read.readwise.io/read/01k0ye7sgygknhz3tq9k51fbfx)
+- "people no longer only write, but increasingly log their multi-media life-bits, they do not remember (which is to say actively recall and reflect), but employ quantifying procedures and algorithms to retrieve these life-bits, set them in relation and extract meanings out of them."
+- - "What was officially presented as an outcome of the project was a set of data for a production of the Artificial Intelligence systems as well as Intelligent Robotic Assistants enhancing decision-making capacities and memory of military commanders. Due to the project’s vague handling of privacy issues and adverse publicity, DARPA’s work on Lifelog, the all-encompassing cyber diary, was eventually discontinued in 2004.35"  [⤴️](https://read.readwise.io/read/01k2ynsv92p5fgytkjthw5h4vc)
+- "mutated into other, more carefully confined mass-surveilling initiatives, such as PRISM."  [⤴️](https://read.readwise.io/read/01k2ynt7wnxxzkm9zhy3q8h0k9)
+- criticisms of lifelogging from surveillance studies, memory studies, and media and communication studies
+- "the rise and widespread normalization of “data fetishism” (Dormehl, 2014; Morozov, 2013; Sharon and Zandbergen, 2016)."  [⤴️](https://read.readwise.io/read/01k2ypqj7znh3haxseb8gptm3d)
+- "many life-loggers themselves do not subscribe to the belief that knowledge can derive from the streams of quantified data. Rather, data tracking is only one component of a more complex practice that involves reflexivity and mindfulness (Sharon and Zandbergen, 2016). Meaning does not arrive automatically with the data, but through a processual and reflective engagement with it: “alongside the figure of the quantified self, as the perfected, optimized, calculable and controlling subject and object of self-tracking, emerges a quantifying self \[original emphasis]. The quantifying self ascribes meaning to self-tracking and the data it generates through a process of continuous negotiation with self-tracking methods and tools” (ibid., p.12)."  [⤴️](https://read.readwise.io/read/01k2yptayfvt9ct18xk91bttrr)
+- "Dawn Nafus and Jamie Sherman (2014, pp.1784- 1794)"  [⤴️](https://read.readwise.io/read/01k2ypv9g8xp8pvyrhwfecxhpw) - "Coming from Intel Labs (a sponsor of the QS movement), Nafus and Sherman"  [⤴️](https://read.readwise.io/read/01k2ypvxwk8d34cekkda201rkk)
+- "Abigail Sellen and Steve Whittaker (2010)"  [⤴️](https://read.readwise.io/read/01k2yr088g039xkph1py4eb8g2)
+- "techno-enthusiasts, computer scientists, and HCI experts, whose futuristic visions, as already demonstrated via Chun, persistently render technologies as forms of substitution and replacement, and not assistants to human mnemonic capacities and imaginations"  [⤴️](https://read.readwise.io/read/01k2yqymwfxnavt206pr9s8wpv) 
+- often people interested in wearable tech are interested in lifelogging, quantifying, digitising the analogue rather than working with it, obscuring its capacity rather than bringing it to the forefront
+## qualitative > quantitative
+-  "skepticism toward the growing automation of memory capture, which risks foregrounding quantitative aspects at the expense of qualitative ones."  [⤴️](https://read.readwise.io/read/01k2yr1ze71myhdydsafz8gv6a)
+- "Quantified Self (QS) movement. The members of this community, established in 2007 in San Francisco (attracting to a large degree tech-developers, programmers, and life-hackers), promote the use of wearable, self-surveilling technologies for self-optimization purposes. The driving force among QS’ers is a belief that, through closely monitoring one’s life activities via sensors and wearable computing, breaking these activities down into sequences of numbers, and subsequently performing a range of algorithmic procedures, one can acquire unique self-knowledge not accessible by any other means."  [⤴️](https://read.readwise.io/read/01k2ynvbdsk506rjw9vx1esc54)
+- "digital grammatization and quantification of everyday life certainly works in some particular cases (such as chronic diseases whose trajectories require constant monitoring and analysis). But the risk that the rise of QS brings about is an uncritical belief that, to be truly understood, one’s life processes need to be technologically quantified. In other words, what evades technological capture and cannot be digitally stored and measured (and consequently optimized and advanced) is at risk of becoming considered irrelevant"  [⤴️](https://read.readwise.io/read/01k2ynxcpqygrwwx870b8xtxah)
+- "In practices such as QS, the agency of sensors, numbers, and numeric calculation take the role of decisive entities in regulating how people perceive and assign value to their lives and the world around them"  [⤴️](https://read.readwise.io/read/01k2ynyavfytny57ah6s88c0gp)
+
+---
+
+- [[memex|Bush]] would disagree that Bell made a Memex because Bush valued he  'creative thought' as well
+	- "It is in this automated processing of captured memory that Bell’s project takes its inspiration from Memex, a proto-hypertextual system (e.g. Nyce and Kahn, 1991; Ellis, 1991; Groza, 2012) designed in 1945 by American inventor and researcher Vannevar Bush Memex (a portmanteau of memory and index) was a hypothetical, electro-mechanized remediation of previous systems for organizing personal archives, such as filing cabinets (Boyd Rayward, 1992, p.99), built with the aim to “turn an information explosion into a knowledge explosion”(Wardrip-Fruin and Montfort, 2003, p.35)
+	- Although Bush acknowledged that replicating the skill of selective and creative associations that people establish between various pieces of information might be beyond the capacity of a machine (**“For mature thought there is no "mechanical substitute” and “the creative thought and essentially repetitive thought are very different things”\[Bush, 1945, p.116])**, he nevertheless believed that, overall, the complexities of memory processes can be artificially simulated, mechanized, and perfected through the application of increasingly affordable technologies of the time. "Bell’s MyLifebits project, which the author also refers to as “Real Memex” (Bell and Gemmell 2009), adopts the same assumption as a starting point. What Bush was unable to fully achieve due to the technological constraints at the time, Bell thought could finally be executed on an unprecedented scale thanks to digital technologies of automated record, ready to “capture everything,” while “discarding nothing” (ibid., p.46)."  [⤴️](https://read.readwise.io/read/01k0yea9yy52w90sz0pxsbp1sx)
+
+---
+
+- ## 'soft resistance' ??
+	- seeing lifelogging as "a “soft resistance” to Big Data practices"  [⤴️](https://read.readwise.io/read/01k2ypvk98qdkbvw5q40pazxvp) ?? well, maybe kinda, but it is still quantified - limited room for combination and recombination, plays well with [[capitalist efficiency]], arbitrary measures or instrumentalised for specific quantifiable growth eg specific health metrics
+	- "\[Soft resistance] happens when participants assume multiple roles \[...] rapidly assessing and often changing what data they collect and why in response to idiosyncratically shifting sets of priorities and objectives \[...] disrupts current algorithmic logics, and thus creates both material and social resistance to traditional modes of data aggregation (ibid., p.1784)."  [⤴️](https://read.readwise.io/read/01k2ypwagjszdkd64kk0qyfw7b)
+	- if anything this is just another form of overcompliance as in that example i don't have right now -- [[tactical overvisibility]] ?
+	- but it doesn't have much resistive potential as they're collecting the exact forms of data that are desirable to markets, often?
+	- makes me think of The Sims game and how it measures eg 'time played' and 'skill levels gained' but also 'times kissed', 'times laughed' or similar - here the subjective IS quantifiable

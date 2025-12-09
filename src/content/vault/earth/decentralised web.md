@@ -1,0 +1,19 @@
+---
+parent:
+  - "[[decentralisation]]"
+  - "[[web infrastructure]]"
+  - "[[techno-politics]]"
+  - "[[big tech]]"
+peer:
+  - "[[digital community building]]"
+  - "[[digital discourse moderation]]"
+  - "[[Web 1.0]]"
+  - "[[platforms and silos]]"
+aliases:
+  - redecentralisation
+---
+
+- how does federation work and is/when is/isn't it desirable/viable/feasible 
+- 're-decentralisation' referring to a return to the 'original ' intentions of the web
+- federated tech, self-hosting and alternative webs
+- culture issues in alternative webs, migration from big tech silos

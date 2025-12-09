@@ -1,0 +1,15 @@
+---
+parent:
+  - "[[creative process]]"
+  - "[[culture, art and media]]"
+  - "[[recombination]]"
+peer:
+  - "[[zine cultures]]"
+instanceOf:
+  - "[[assemblage]]"
+aliases:
+  - collage and bricolage
+  - bricolage
+  - physical remixing
+  - physical assemblage
+---

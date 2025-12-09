@@ -1,0 +1,17 @@
+---
+title: "indigenous peoples' rights"
+parent:
+  - "[[human rights]]"
+  - "[[de~colonialism]]"
+peer:
+  - "[[landback]]"
+  - "[[indigenous perspectives]]"
+themes:
+  - extractivism
+  - gentrification
+  - missing people
+  - ethnic cleansing
+  - cultural dominance
+  - cultural differences
+  - travelling cultures
+---

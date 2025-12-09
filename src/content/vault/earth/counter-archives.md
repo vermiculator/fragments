@@ -1,0 +1,21 @@
+---
+title: counter-archives
+aliases:
+  - counter-archive
+parent:
+  - "[[archival justice]]"
+peer:
+  - "[[counter-mapping]]"
+  - "[[legacy]]"
+  - "[[counter-narratives|counter-narrative]]"
+coined-by:
+  - (Amad, 2012)
+seeded-by:
+  - "[[Masters Module - Design for Social Change]]"
+---
+
+## Mentions
+- "\[...] a sister term, **counter-archive**, coined by film and media scholar Paula Amad (2012)."  [⤴️](https://read.readwise.io/read/01k0espb80cyz7zvtgv941k5x5)" [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^c56285|->]]
+-  "critique of the tendency to perceive the human mind and archival storage as founded upon the same kinds of operations (see \[...] the discussion in **Paula Amad’s Counter Archive** (2010, p.117)."  [⤴️](https://read.readwise.io/read/01k2yq07zga0212mp7dqjwr1xc) [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^54cb93|->]]
+- "step from counter- to [[para-archival practise|para-]]," [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^9e6b30|->]]
+

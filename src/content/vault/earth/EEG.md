@@ -1,0 +1,23 @@
+---
+parent:
+  - "[[neuroscience]]"
+  - "[[creative critical tech]]"
+title: EEG
+aliases:
+  - eeg
+  - emg
+  - EMG
+---
+
+## Resources
+
+- EEG Hacker: http://eeghacker.blogspot.com/2013/11/
+- https://hackaday.io/event/183577-electromyography-hack-chat | Electromyography Hack Chat | Hackaday.io
+- https://www.youtube.com/watch?v=k9wpirvB5_A | Hack Your Nerves with Electricity. Muscle Dancing with MIDI and Arduinos. - YouTube
+- https://www.mdpi.com/1424-8220/23/21/9012 | Fabrication and Evaluation of Embroidery-Based Electrode for EMG Smart Wear Using Moss Stitch Technique
+- file:///C:/Users/rowan/Downloads/sensors-23-09012-v2.pdf | Fabrication and Evaluation of Embroidery-Based Electrode for EMG Smart Wear Using Moss Stitch Technique - sensors-23-09012-v2.pdf
+- https://learn.adafruit.com/getting-started-with-myoware-muscle-sensor/about-emg | Overview | Getting Started with MyoWare Muscle Sensor | Adafruit Learning System
+- https://forum.arduino.cc/t/hack-your-muscles-a-muscle-emg-sensor-for-a-microcontroller/65475 | Hack your muscles! A Muscle (EMG) Sensor for a Microcontroller - Community / Arduino Forum
+-  https://backyardbrains.com/experiments/musclespikershield | https://backyardbrains.com/experiments/musclespikershield
+- https://blog.tindie.com/2022/09/emg-hacking-for-beginners/ | Tindie Blog | EMG Hacking for Beginners!
+- https://blog.tindie.com/2022/04/diy-emg-for-budding-bio-hackers/ | Tindie Blog | DIY EMG for Budding Bio-Hackers!

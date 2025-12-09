@@ -1,0 +1,15 @@
+---
+title: peer-to-peer networks
+aliases:
+  - p2p
+  - P2P
+  - peer-to-peer
+  - peer-to-peer networking
+  - p2p networks
+  - p2p networking
+parent:
+  - "[[networks and communications]]"
+peer:
+  - "[[client-server architecture]]"
+  - "[[actor network theory]]"
+---

@@ -1,0 +1,12 @@
+---
+title: privacy, security and surveillance
+parent:
+  - "[[developing human societies]]"
+peer:
+  - "[[public vs private expression]]"
+  - "[[public reputation]]"
+  - "[[public, private and personal]]"
+---
+
+## Resources
+- [Surveillance Self-Defence](https://ssd.eff.org/module-categories/security-scenarios)

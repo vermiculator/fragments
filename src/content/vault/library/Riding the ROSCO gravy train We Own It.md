@@ -1,0 +1,39 @@
+---
+author:
+    - weownit.org.uk
+title: "Riding the ROSCO gravy train | We Own It"
+summary: You may have seen in the papers recently that last year the profits of the ROSCOs, UK’s private train-leasing firms, tripled from £122.3m to £409.7m.
+kind: articles
+url: https://weownit.org.uk/blog/riding-rosco-gravy-train
+peer:
+ - nationalisation
+ - nationalisation/privatisation
+ - privatisation
+ - public-transport
+ - trains
+ - uk
+---
+- "Every time you buy a ticket to travel, a proportion of the cost goes on paying the rent being charged by the ROSCOs to the train lines."  [⤴️](https://read.readwise.io/read/01jbm55vpvzj3g7re7x1cpa46r)
+- "The three private ROSCOs are Angel Trains, Eversholt, and Porterbrook."  [⤴️](https://read.readwise.io/read/01jbm55vt7r9wndfhdv9jbr43g)
+- "last year the profits of the ROSCOs, UK’s private train-leasing firms, tripled from £122.3m to £409.7m."  [⤴️](https://read.readwise.io/read/01jbm55vwb01erwdr3ncmy20cy)
+- "those three same ROSCOs own most of the 15,200 vehicles that are registered to run on Britain’s railways"  [⤴️](https://read.readwise.io/read/01jbm55vyqn13r0a5h06t6n9dg)
+- "Angel Trains is 64% owned by Canadian pension fund the Public Sector Pension Investment Board"  [⤴️](https://read.readwise.io/read/01jbm55w10m7eswzqtsp708knz)
+- "its chief executive, was paid £900k."  [⤴️](https://read.readwise.io/read/01jbm55w37qr6k7bvqjqrzfzct)
+- "CK Group. Their portfolio of UK companies also includes [Northumbrian Water](https://dataportal.orr.gov.uk/media/algdbizg/rail-industry-finance-uk-statistical-release-202223.pdf) and [UK Power Networks](http://weownit.org.uk/public-ownership/energy), which delivers electricity to London and the East and South East of England."  [⤴️](https://read.readwise.io/read/01jbm55w5fn4292kys9dejqapj)
+- "Profits which over the years could have gone into building up to 1,000 new vehicles have instead been syphoned off to keep investors satisfied."  [⤴️](https://read.readwise.io/read/01jbm55w7n723wadg9vrvvjf94)
+- "Porterbrook is 30% owned by AIMCO, a Canadian pension fund; 30% by Allianz, a German insurance firm; 30% by asset management firms in Israel and the UK; and 10% by EDF which is owned by the French state."  [⤴️](https://read.readwise.io/read/01jbm55w9vp56p7bfzfqkb10av)
+- "The effect of the ROSCO monopoly, combined with a leasing model which [discourages the companies from investing in their assets,](https://www.rmt.org.uk/news/public-document-library/the-rosco-racket-why-its-time-to-take-control-of-uk-rolling/) means that the supply line of new rolling stock is choked and the average age of the existing stock has increased"  [⤴️](https://read.readwise.io/read/01jbm55wc2gg7dcg86bhda1mch)
+- "any shortfall between their revenue and their costs has to be met out of the public purse. This means **we’re subsidising the rental cost of the rolling stock**"  [⤴️](https://read.readwise.io/read/01jbm55wea2y8brwf2ztcjn3ky)
+- "Their complex financial arrangements are also very hard to untangle; which is possibly why Labour have not given the same commitment to bring ROSCOs in house that they have for the train operating companies."  [⤴️](https://read.readwise.io/read/01jbm55wgg6p5bnmeg69q4k2ay)
+- "Every time you buy a ticket to travel, a proportion of the cost goes on paying the rent being charged by the ROSCOs to the train lines."  [⤴️](https://read.readwise.io/read/01jbm55vpvzj3g7re7x1cpa46r)
+- "The three private ROSCOs are Angel Trains, Eversholt, and Porterbrook."  [⤴️](https://read.readwise.io/read/01jbm55vt7r9wndfhdv9jbr43g)
+- "last year the profits of the ROSCOs, UK’s private train-leasing firms, tripled from £122.3m to £409.7m."  [⤴️](https://read.readwise.io/read/01jbm55vwb01erwdr3ncmy20cy)
+- "those three same ROSCOs own most of the 15,200 vehicles that are registered to run on Britain’s railways"  [⤴️](https://read.readwise.io/read/01jbm55vyqn13r0a5h06t6n9dg)
+- "Angel Trains is 64% owned by Canadian pension fund the Public Sector Pension Investment Board"  [⤴️](https://read.readwise.io/read/01jbm55w10m7eswzqtsp708knz)
+- "its chief executive, was paid £900k."  [⤴️](https://read.readwise.io/read/01jbm55w37qr6k7bvqjqrzfzct)
+- "CK Group. Their portfolio of UK companies also includes [Northumbrian Water](https://dataportal.orr.gov.uk/media/algdbizg/rail-industry-finance-uk-statistical-release-202223.pdf) and [UK Power Networks](http://weownit.org.uk/public-ownership/energy), which delivers electricity to London and the East and South East of England."  [⤴️](https://read.readwise.io/read/01jbm55w5fn4292kys9dejqapj)
+- "Profits which over the years could have gone into building up to 1,000 new vehicles have instead been syphoned off to keep investors satisfied."  [⤴️](https://read.readwise.io/read/01jbm55w7n723wadg9vrvvjf94)
+- "Porterbrook is 30% owned by AIMCO, a Canadian pension fund; 30% by Allianz, a German insurance firm; 30% by asset management firms in Israel and the UK; and 10% by EDF which is owned by the French state."  [⤴️](https://read.readwise.io/read/01jbm55w9vp56p7bfzfqkb10av)
+- "The effect of the ROSCO monopoly, combined with a leasing model which [discourages the companies from investing in their assets,](https://www.rmt.org.uk/news/public-document-library/the-rosco-racket-why-its-time-to-take-control-of-uk-rolling/) means that the supply line of new rolling stock is choked and the average age of the existing stock has increased"  [⤴️](https://read.readwise.io/read/01jbm55wc2gg7dcg86bhda1mch)
+- "any shortfall between their revenue and their costs has to be met out of the public purse. This means **we’re subsidising the rental cost of the rolling stock**"  [⤴️](https://read.readwise.io/read/01jbm55wea2y8brwf2ztcjn3ky)
+- "Their complex financial arrangements are also very hard to untangle; which is possibly why Labour have not given the same commitment to bring ROSCOs in house that they have for the train operating companies."  [⤴️](https://read.readwise.io/read/01jbm55wgg6p5bnmeg69q4k2ay)

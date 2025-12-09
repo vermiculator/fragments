@@ -1,0 +1,38 @@
+---
+title: Braiding Sweetgrass
+author:
+  - Robin Wall Kimmerer
+peer:
+  - "[[deep ecology]]"
+  - "[[indigenous perspectives]]"
+  - "[[narratives]]"
+  - "[[oral history]]"
+  - "[[folklore]]"
+status: CURRENTLY
+---
+## Preface
+- "people and land are good medicine for each other"
+## Skywoman Falling
+- "ceremonies are the way we remember to remember"
+- "its value is both material and spiritual"
+- "when we braid sweetgrass, we are Braiding the hair of mother earth. Showing her our loving attention, our care for her beauty and wellbeing, in gratitude for all she has given us"
+- in order to eat, \[Eve] was instructed to subdue the wilderness into which she was cast. Same species, same earth, different stories. Like creation stories everywhere cosmologies are a sense of identity and orientation to the world. They tell us who we are. We are inevitably shaped by them, no matter how distant they may be from our consciousness. One story leads to the generous embrace if the living world, the other to banishment. "
+- "One woman is our ancestral gardener, a cocreator of the good green world that would be the home of her descendants. The other was an exile, just passing through an alien world on a rough road to her real home in heaven. And then, they met. The offspring of Skywoman and the children of eve. And the land around us bears the scars of that meeting, the echoes of our stories."
+- "They provide an orientation but not a map. The work of living is creating that map for yourself."
+- "It is good to remember that the original woman was herself an immigrant"
+- "to use your gifts and dreams for good, the same instructions we all carry"
+- "she accepted the gifts from the other beings with open hands, and used them honourably"
+- "we too are always falling. \[...] whether we jump or are pushed or the edge of the known world just crumbles at our feet, we fall."
+- "Knowing her grandchildren would inherit the world she left behind, she did not work for flourishing in her time only. It was through her actions of reciprocity, the give and take with the land, that the original immigrant became indigenous."
+- "For all of us, becoming indigenous to place, means living as if your children's future mattered."
+- "can a nation of immigrants once again follow her example to become native, to make a home"
+- "it's not just the land that is broken, but our relationship to the land"
+- "Our relationship with the land cannot heal until we hear it's stories"
+- in native ways of knowing, human people are often referred to as the younger brothers of creation
+- we say that humans have the least experience with how to live, and thus the most to learn 
+- "We must look to our teachers among the other species for guidance. Their wisdom is apparent in the way they live. They teach us by example."
+- "Plants know how to make food and medicine from light and water and then they give it away."
+- "Plants can tell us \[the] story. We need to learn to listen."
+## The Council of Pecans
+- g
+

@@ -1,0 +1,145 @@
+---
+author:
+  - Sicart, M
+title: Play Matters - Play Is
+summary: why is play important and how does it connect to the rest of life - from first chapter 'Play Is'
+kind: books
+url: https://readwise.io/reader/document_raw_content/261522208
+peer:
+  - "[[game design]]"
+  - "[[games]]"
+  - "[[play]]"
+  - "[[creative process|art making]]"
+Harvard citation: "Sicart, M. (2014) Play Matters. Cambridge: MIT Press"
+---
+https://ebookcentral.proquest.com/lib/ual/detail.action?docID=5348705
+
+- what are video games for
+- needs input from technical, artists, philosophers, everyone
+---
+- a lot of this below is very evident through playing ttrpgs. made very explicit in consent and context and playspace etc
+- i wonder if ttrpgs and larping have pushed the scholarship on play and game design further than any other medium of game
+- paper games and social games and book games and those prison-safe game books (find the link)
+- play as creating and expression - word games and poetry, 'the art of conversation' and spoken play, like riddles and jokes
+---
+- Apollonian and Dionysiac -- read this stuff and learn about Greek tragedy
+- is social media the modern carnival? is where we do satire etc, what is the physicial spatial equivalent? stand-up, drag shows etc
+- for something to go from play to game it has to have shared rules but do the goals have to be the same? i often comment we aren't playing this for the same reasons, i have fun when i lose too
+---
+- fandom and media discussion outside of analysis is often just the shape that play takes
+- internet as playground
+- 'playing with my toys' language of Tumblr atm
+- creation play with fanart, fanfics, AUs, OCs, shipping, etc
+
+---
+
+- "in a playful way, enjoying what you do"  [⤴️](https://read.readwise.io/read/01jhz626bbp10rnz9z38re1cxf)
+- "Happiness may give you time to play, to live in a different way."  [⤴️](https://read.readwise.io/read/01jhz62a3r5nky8tfnxpk1s568)
+- "The temptation of enjoying and living life through play, of
+  having fun, is always present."  [⤴️](https://read.readwise.io/read/01jhz62qf5401j14bev34m16pd)
+ ---
+- "Playing is a form of understanding what surrounds us and who we are, and a way of engaging with others. Play is a mode of being human."  [⤴️](https://read.readwise.io/read/01jhz63414t11wd535s1w66w8v)
+- "You might have encountered the argument that games are now everywhere; that intellectuals, artists, policymakers, and institutions are games for serious and trivial purposes."  [⤴️](https://read.readwise.io/read/01jhz63vjs9x10t649acttwerk)
+- "Games don’t matter."  [⤴️](https://read.readwise.io/read/01jhz65dcgsv4kfmnqy5ap1eqm)
+- "play is a dominant way of expression"  [⤴️](https://read.readwise.io/read/01jhz65kj3kjhdkd4pwq0z3zr5)
+- "play is not just the ludic, harmless, encapsulated, and positive activity that philosophers have described. Like any other form of being, play can be dangerous; it can be hurting, damaging, antisocial, corrupting. Play is a manifestation of humanity, used for expressing and being in the world."  [⤴️](https://read.readwise.io/read/01jhz667dc4e8pywy87e57rkmy)
+- "a portable theory, or rhetoric"  [⤴️](https://read.readwise.io/read/01jhz66h5zkpb5wp3x47zjwp4s)
+- "I see play as a portable tool for being. It is not tied to objects but brought by people to the complex interrelations with and between things that form daily life."  [⤴️](https://read.readwise.io/read/01jhz66t99k6r0w5zpfq5a2b96)
+---
+- "In our culture, *playful* has become a positive word."  [⤴️](https://read.readwise.io/read/01jhz67jbehs1gba8z6aea4cva)
+- "Apple’s “playful” design appropriated cues from an understanding of play as a personal expression: beauty, counter- cultural politics, and moral values."  [⤴️](https://read.readwise.io/read/01jhz685hysem88qdye2p9akh4)
+- "I am not going to oppose play to reality, to work, to ritual or sports because it exists in all of them. It is a way of being in the world, like languages, thought, faith, reason, and myth."  [⤴️](https://read.readwise.io/read/01jhz696gfxtapkgedfvzh9wxf)
+---
+- "Play can be pleasurable when it hurts, offends, challenges us and teases us, and even when we are not playing. Let’s not talk about play as fun but as pleasurable, opening us to the immense variations of pleasure in this world."  [⤴️](https://read.readwise.io/read/01jhz69ph7xcn2g6ngb9sbce6t)
+- "Play can be dangerous too it can be addicting and destructive and may lead to different types of harm—physical injuries, lost friendships, emotional breakdowns. Play is a dance between creation and destruction, between creativity and nihilism."  [⤴️](https://read.readwise.io/read/01jhz6nkfkrcj6swbs53wxby39)
+- "Play can be dangerous too it can be addicting and destructive and may lead to different types of harm—physical injuries, lost friendships, emotional breakdowns. Play is a dance between creation and destruction, between creativity and nihilism."  [⤴️](https://read.readwise.io/read/01jhz6p3ym41x8ptp2fah3ykjd)
+- "Playing is a fragile, tense activity"  [⤴️](https://read.readwise.io/read/01jhz6pbjj43vq45xjkkkxk4xj)
+---
+- "Individual play is a challenge to oneself, to keep on playing."  [⤴️](https://read.readwise.io/read/01jhz6phr4tsyp9bkbc6vmdaef)
+- "Collective play is a balancing act of egos and interests, of purposes and intentions."  [⤴️](https://read.readwise.io/read/01jhz6pp9jfva0he1g2d21ez2f)
+- "Play appropriates events, structures, and institutions to mock them and trivialize them, or make them deadly serious."  [⤴️](https://read.readwise.io/read/01jhz6tazpt6zwcn4bex75xrrq)
+- "Carnivalesque play takes control of the world and gives it to the players for them to explore, challenge, or subvert."  [⤴️](https://read.readwise.io/read/01jhz6tx2g27yjatddytjktww4)
+- "Initially a spam bot, then a piece of automatic found art, and finally a piece of performance art, *Horse_ebooks* is the perfect example of carnivalesque—dangerous play and playfulness in this age of computing machinery."  [⤴️](https://read.readwise.io/read/01jhz6vygzr4w5xte3snrye7m6)
+- "By faking being a bot, the artist Jacob Bakkila teased our perception of Twitter and the technologies to which we relinquish our entertainment."  [⤴️](https://read.readwise.io/read/01jhz6wvgmkd7qsgj6e67dth2j)
+- "Games don’t matter that much. They are a manifestation, a form of and for play, just not the only one. They are the strongest form, culturally and economically dominant."  [⤴️](https://read.readwise.io/read/01jhz6xfwyd4dp1ajew4f8dmet)
+- "an ecology of playthings and play contexts, from toys to playgrounds, from political action to aesthetic performance, through which play is used for expression"  [⤴️](https://read.readwise.io/read/01jhz6xts02w16ssccz8ny2299)
+---
+- "a romantic theory (or rhetoric) of play, based on an idea of creativity and expression that has been developed in the highly postromantic cultural environment of the early twenty-first century"  [⤴️](https://read.readwise.io/read/01jhz6ym32b02p482s8h2qe4kb)
+- "invocation of play as a struggle against efficiency, seriousness, and technical determinism"  [⤴️](https://read.readwise.io/read/01jhz6z1w8rr12x85tby44m8xm)
+- "reclaim play as a way of expression, a way of engaging with the world—not as an activity of consumption but as an activity of production"  [⤴️](https://read.readwise.io/read/01jhz6zc4rryfmkx4apy93z7xx)
+- "play is a fundamental part of our moral well-being"  [⤴️](https://read.readwise.io/read/01jhz6ztxqs1fjc9p0ttyhyg8v)
+- "Through play we experience the world, we construct it and we destroy it, and we explore who we are and what we can say."  [⤴️](https://read.readwise.io/read/01jhz708cyq4386rb9eptfww8j)
+- "Play frees us from moral conventions but makes them still present, so we are aware of their weight, presence, and importance."  [⤴️](https://read.readwise.io/read/01jhz70cny5yp80n5hf33we6kk)
+- "Play is important because we need to see values and practice them and challenge them so they become more than mindless habits."  [⤴️](https://read.readwise.io/read/01jhz70pgajyaw2e1y5ae35mwm)
+- "My life takes place in the time between play."  [⤴️](https://read.readwise.io/read/01jhz71n7hwzh0yt13rbmr6eyx) 
+	- reminds me how in comics action takes place in the space between panels
+	- and life takes place where work doesn't encroach (but work encroaches everywhere)
+	- work squeezing comic concept
+	- but also what takes place in the inbetweens
+	- animation
+	- transition, transport
+---
+- "Play, like any other human activity, is highly resistant to formalized understanding."  [⤴️](https://read.readwise.io/read/01jhz722304vehbn6m59sp8ayr)
+- "context is more complicated; it’s a messier network of people, rules, negotiations, locations, and objects. Play happens in a tangled world of people, things, spaces, and cultures."  [⤴️](https://read.readwise.io/read/01jhz72s4fym58tdftwajygwas)
+- "It is not the same to play pickup games of soccer in poor neighbourhoods as it is in more affluent ones: the materiality of the game changes, and so do the interpretations of the rules and even the play styles."  [⤴️](https://read.readwise.io/read/01jhz73ngmf60ndd503yjcsree)
+- "Context is the network of things, people, and places needed for play to take place."  [⤴️](https://read.readwise.io/read/01jhz74h1xzm1e2854gaz5zdh8)
+- "cues embedded in objects that signal that a space, thing, or collective are there to play"  [⤴️](https://read.readwise.io/read/01jhz74znwcb9hzx2n9a1zmke0)
+- "Artificially created objects or situations, then, can signal play. Play happens mostly in contexts designed for that activity."  [⤴️](https://read.readwise.io/read/01jhz75s6tzt3cavv49nnm92se)
+- "It is not designed exclusively in the Bauhaus-inspired tradition of a creator who shapes an object for a function,27 but in a weaker sense: designed as mediated by things created to facilitate the emergence of play."  [⤴️](https://read.readwise.io/read/01jhz7651js5rk5pq4f3bbkzrt)
+- "play requires a certain element of design, material or contextual or both, so we know we can play, or we can be playful."  [⤴️](https://read.readwise.io/read/01jhz76j3fqpjgtrd5m2we5hfe)
+---
+- "Rules are the formal instruments that allow the creation and shared identification of a context of play."  [⤴️](https://read.readwise.io/read/01jhz7717qdbmkmk099rgzhckt)
+- "Play is derived, mediated, and situated by the use of rules. A rule determines where we play, when we stop playing, and when we can re-enter the play context."  [⤴️](https://read.readwise.io/read/01jhz77hbt937mmyetcqa09tvs)
+- "upheld by a referee or a piece of circuitry or a group of friends, or even history and spaces, like house rules."  [⤴️](https://read.readwise.io/read/01jhz77w4em44484w7ymd47zza)
+- "Rules are facilitators"  [⤴️](https://read.readwise.io/read/01jhz783b3s3jv3k9g7sxxqdzj)
+- "rules are only one element of the context of play, and not the most important. They are necessary but not sufficient for play to exist: players and a certain will to play are needed"  [⤴️](https://read.readwise.io/read/01jhz78qamdnzh1mtf21x9mjx8)
+- "rules are not sacred. They are nodes in the complex network of the context of play, servants to the action of playing. Rules are another prop that can be targeted by the transformative capacities of play."  [⤴️](https://read.readwise.io/read/01jhz795dbhppzrfs72qrkb3xh)
+- "Discussing and interpreting rules is a crucial part of the play activity. This negotiation consolidates the context of play."  [⤴️](https://read.readwise.io/read/01jhz7a0gpnsfs2svfgrg6852m)
+- "Rules, servant to the context, evolve while we play to address the necessities of particular play situations."  [⤴️](https://read.readwise.io/read/01jhz7an5tyby1a5j29tbw3y1k)
+---
+- "Play is between the rational pleasures of order and creation and the sweeping euphoria of destruction and rebirth, between the Apollonian and the Dionysiac."  [⤴️](https://read.readwise.io/read/01jhz7bgmkkpnf8ehmxaynzkkn)
+- "the genre of the Greek tragedy effectively merged both. The order and sobriety of the Apollonian was tensely opposed by the embodied, passionate, irrational, and irreverent Dionysiac art."  [⤴️](https://read.readwise.io/read/01jhz7d43e2jq3frxx83b8ktha)
+- "When playing, we struggle to make sense of the world by constructing our actions within a context."  [⤴️](https://read.readwise.io/read/01jhz7dhzrzq64jxewe0h56a5w)
+- "tie our demons and make them coexist with our passion for order"  [⤴️](https://read.readwise.io/read/01jhz7ht9z5706365htr2s8h2k)
+- "mindless focus that lures us toward structured play"  [⤴️](https://read.readwise.io/read/01jhz7j566aekajxrshe308n3z)
+- in classic theories "playing is a pretense, requiring a particular attitude decoupled from reality, so it would always be possible for participants to disengage with the activity. But play is not detached from the world; it lives and thrives *in* the world. So how do we play between excessive order and compulsive destruction?"  [⤴️](https://read.readwise.io/read/01jhz7m787x838gyarmrp9w94m)
+	- why is this not true? i don't understand this response, surely consent is required for play? or is this the game/play distinction again, is this why dark play can involve others without consent
+---
+- "the carnival foreshadows modernity—the rise of a critical, self-aware individual, a body with a mind not subject to institutions determined from another world, but from rationality itself."  [⤴️](https://read.readwise.io/read/01jhz7sttpjf6jprtj49mzn8wv)
+	- but humans always play even under institutional opression
+- "By temporarily dismissing the oppressive forces of the establishment, laughter
+  takes over and allows for a bodily form of knowledge that creates truth, and it’s free. Laughter requires freedom, an opening from the institutional world, but it also creates freedom."  [⤴️](https://read.readwise.io/read/01jhz7tf4n07twpwxhfh239fsn)
+- "Modernity could be a consequence of laughter, of the possibility of expression afforded in the carnival. Laughter, critical and hurting and enjoyable and deeply embodied, makes carnivals matter."  [⤴️](https://read.readwise.io/read/01jhz7v96eahgk8qfk6pxf2c89)
+- "Laughter and the carnival give us an instrument against seri- ousness, restoring the “ambivalent wholeness” that is opposite the institutions we live in."  [⤴️](https://read.readwise.io/read/01jhz7y433nagz6dfg02n0cqh5)
+- "Games are an example of carnivalesque behavior that leads to a festive liberation in search from freedom, expression, and truth."  [⤴️](https://read.readwise.io/read/01jhz7ywdsp6pw1eaq9bnmphvh)
+- "the result is not fun but laughter—pleasurable but risky, and potentially harmful."  [⤴️](https://read.readwise.io/read/01jhz7zf9w9b2jfq3382abbgf8)
+---
+- "Play is appropriative, in that it takes over the context in which it exists and cannot be totally predetermined by such context."  [⤴️](https://read.readwise.io/read/01jhz806twjps27a3amnrgxpvn)
+- "Ninja makes players take over a location, forming a circle that soon loses its form and spreads around the space, effectively conquering it. But Ninja also appropriates the space in a sociocultural way: what used to be a parking lot becomes a battlefield"  [⤴️](https://read.readwise.io/read/01jhz82ezfbyhhq53aemckk6a4)
+- "Ninja appropriates the spaces it takes place by means of its sprawling nature."  [⤴️](https://read.readwise.io/read/01jhz82r8ajpa266g0k97rnmht)
+- "reinterpreting mundane locations of play into performance spaces, mesmerizing players and spectators in a choreography of moving lights and playful exhilaration"  [⤴️](https://read.readwise.io/read/01jhz85ekakan3qftw55fjby53)
+---
+- "The play object, be it a game or a toy, is just a prop for play. Regardless of all the intentions and meanings embedded in the design of play objects, play will always force us to contextualize the meaning of the things involved in playing. Play appropriates the objects it uses to come into existence."  [⤴️](https://read.readwise.io/read/01jhz863e655azdsffmz1nc8t1)
+- "In disrupting the normal state of affairs by being playful, we can go beyond fun when we appropriate a context with the intention of playing with and within it"  [⤴️](https://read.readwise.io/read/01jhz87cmdmqyk2q9kndswc5be)
+- "Camover disrupts the urban context through violent and dangerous play, engaging with the political situation in the urban space where the play is taking place. As an intervention through play, Camover uses the appropriative nature of play to make a commentary on social and political actions as they take place."  [⤴️](https://read.readwise.io/read/01jhz88h6fpdpz0batg3pqnzdf)
+- "to force an emotional response in those who do not recognize they are actually playing."  [⤴️](https://read.readwise.io/read/01jhz89p14abk7vjbg0gg5z6yh)
+- "The disruptiveness of play is used to shock, alarm, and challenge conventions."  [⤴️](https://read.readwise.io/read/01jhz89y9ha5kw3f4m796b881k)
+- "if we are deeply enthralled, we lose ourselves in play."  [⤴️](https://read.readwise.io/read/01jhz8b070cn14btpdbrzsafp0)
+- "Play is disruptive, and it can be dangerous through its disruptiveness."  [⤴️](https://read.readwise.io/read/01jhz8b4ppb06we1zpx1jzv25c)
+---
+- "Play is autotelic—an activity with its own goals and purposes, with its own marked duration and spaces and its own conditions for ending."  [⤴️](https://read.readwise.io/read/01jhz8ba97n505m8wnpq811ewv)
+- "there is no clear demarcation between the world of the game and the world at large."  [⤴️](https://read.readwise.io/read/01jhz8bvjy99kas848ym5rqz9q)
+- "We play by negotiating the purposes of play, how far we want to extend the influences of the play activity, and how much we play for the purpose of playing or for the purpose of personal expression."  [⤴️](https://read.readwise.io/read/01jhz8c8py855mmefrgqwchwkr)
+- "Play has a purpose of its own, but the purpose is not fixed. Play activities can be described as diachronically or synchronically autotelic, focusing on how the purpose of play evolved though the play session or looking at what particular purpose a particular instance of play had in a particular session."  [⤴️](https://read.readwise.io/read/01jhz8cpjr5n8k8bd9989835hs)
+- "Play negotiates its autotelic goals and purposes as part of playing."  [⤴️](https://read.readwise.io/read/01jhz8dfh78qcycje6snmrdx0w)
+- "a game, yes, in which we play more than just the game—is also a companion, a timed excuse for playing every day."  [⤴️](https://read.readwise.io/read/01jhz8emyrjwgc3gp3wmktm5qk)
+---
+- "Play is the act of creatively engaging with the world, with technologies, contexts, and objects, from games to toys and playgrounds, exploring them through ludic interaction."  [⤴️](https://read.readwise.io/read/01jhz8fhytv7dkk8m5f94ytn9a)
+- "When playing a game, players develop tac- tics, that is, temporally based interpretations of the context of play suited for particular modes of interaction toward particular goals; some of them may be a part of the game and some are purely personal."  [⤴️](https://read.readwise.io/read/01jhz8gvnagz46z5jekn93qddy)
+- "the effects of play are individual, attached to our own sentimental, moral, and political memories."  [⤴️](https://read.readwise.io/read/01jhz8kr9gyt1hzm4k3xqrwg1v)
+- "Play is not isolated in our eventful lives; in fact, it is a string with which we tie our memories and our friendships together. Play is a trace of the character that defines us."  [⤴️](https://read.readwise.io/read/01jhz8mw7fhqm8jfjagtdc68kz)
+- "Play is finding expression; it is letting us understand the world and, through that understanding, challenging the establishment, leading for knowledge, and creating new ties or break- ing old ones."  [⤴️](https://read.readwise.io/read/01jhz8ndwptb8zbb297fcb3st0)
+- "shared, yes, but meaningful only in the way it scaffolds an individual experience of the world."  [⤴️](https://read.readwise.io/read/01jhz8ns5hxg2m8pktnysccdqb)
+---
+- "We play not to entertain ourselves or to learn or be alienated: we play to be, and play gives us, through its characteristics, the possibility of being."  [⤴️](https://read.readwise.io/read/01jhz8ysk4fkxrnckv7efym7qz)
+- "As Sartre put it, “The desire to play is fundamentally the desire to be.”"  [⤴️](https://read.readwise.io/read/01jhz8z0eg73aym7a6j3thrg72)

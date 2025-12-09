@@ -1,0 +1,15 @@
+---
+title: Twitter
+aliases:
+  - X
+instanceOf:
+  - "[[social media platforms]]"
+kind: web platform
+parent:
+  - "[[platform studies]]"
+peer:
+  - "[[micro-content|micro-blogging]]"
+child:
+  - "[[X, formerly known as Twitter]]"
+  - "[[Twitter’s Potential Collapse Could Wipe Out Vast Records of Recent Human History]]"
+---

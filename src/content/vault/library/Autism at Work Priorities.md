@@ -1,0 +1,30 @@
+---
+publisher: neurodiversitymedia.com
+title: Autism at Work Priorities
+full-title: 32 Autism at Work Priorities We Need to Talk About
+short-title: Autism at Work Priorities
+summary: Although there has been growing research into neurodiversity, there are still lots of areas about autism at work that we still need to cover.
+kind: articles
+url: https://www.neurodiversitymedia.com/resource-library/autismatworkpriorities
+peer:
+  - "[[autism]]"
+  - "[[employment]]"
+  - "[[communication across neurotypes]]"
+---
+- "“up-to-date autism training"  [⤴️](https://read.readwise.io/read/01jbm59htzrcx4714hxa6c284v)
+- "examining the transition to retirement"  [⤴️](https://read.readwise.io/read/01jbm59hxebc4tq719yga7r61m)
+- "Widen the diversity of autistic people recruited to studies"  [⤴️](https://read.readwise.io/read/01jbm59hzgp4vtz16re1gw712n)
+- "research to highlight “the effect of corporate culture on mental health” and “inform changes to enable all autistic people to be able to work if they wish … in physical and cultural work environments that have a positive – rather than detrimental – effect upon their mental health” ."  [⤴️](https://read.readwise.io/read/01jbm59j1n6xqq1qyqvtsyx2qy)
+- "“the experiences of autistic people who have lost their job as a result of their autism”"  [⤴️](https://read.readwise.io/read/01jbm59j3mrpwhqc83qnkvaym8)
+- "involvement in research should extend beyond simple participation and should involve autistic people “as co-researchers or advisors.”"  [⤴️](https://read.readwise.io/read/01jbm59j5vk6fvwvtmqnbnst3m)
+- "what do autistic careers/professional lives/jobs over a lifetime look like?” and “what does successful work look like for autistic adults?”"  [⤴️](https://read.readwise.io/read/01jbm59j86f3enp3x3gzgmvs10)
+- "Research highlighting “types of jobs that suit autistics”, the “fields which are more autism-friendly” than others and “employers that actively recruit autistic people”."  [⤴️](https://read.readwise.io/read/01jbm59jadsanjzdmagdpjk23h)
+- "Research highlighting “types of jobs that suit autistics”, the “fields which are more autism-friendly” than others and “employers that actively recruit autistic people”."  [⤴️](https://read.readwise.io/read/01jbm59jd6ss7q2pqaq6pt0srz)
+- "* How autistic people can best get what they need without having to disclose personal information to an employer that they don’t fully trust"  [⤴️](https://read.readwise.io/read/01jbm59jfec92bz64qnyc00fbh)
+- "Participants felt it was important for research to highlight “autism friendly recruitment best practice” and indicate “how application \[and\] recruitment processes could be made easier and more practical for people with autism."  [⤴️](https://read.readwise.io/read/01jbm59jhn3r539gwy64wdd1e4)
+- "“\[research\] the level of stigma and discrimination autistic people encounter in the workplace” and to determine “how far discrimination is responsible for the appallingly low rates of employment among autistic people”"  [⤴️](https://read.readwise.io/read/01jbm59jktfa43t8etdn2y0rhw)
+- "research to “question the neurotypical style and methods of communication as being the ‘default’ against which autistic people are judged”"  [⤴️](https://read.readwise.io/read/01jbm59jnwk369tf0488pv1ta7)
+- "\[I would like research to identify\] what accommodations are the most widely used \[and\] most effective”, so autistic people can advocate for the adjustments they may require"  [⤴️](https://read.readwise.io/read/01jbm59jqvkakrdn9qnttv8dn9)
+- "Quantifying how \[productivity\] improves when adjustments are made would also be very helpful. Being able to tell a company that they can expect a certain percentage improvement in productivity by making adjustments is very powerful"  [⤴️](https://read.readwise.io/read/01jbm59jt36xv697s8sjd68m6e)
+- "“do people on the spectrum get paid fairly? \[And\] do we get promoted at the same rate?”"  [⤴️](https://read.readwise.io/read/01jbm59jwdq028w2kebp9yrv4s)
+

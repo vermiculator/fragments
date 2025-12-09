@@ -1,0 +1,15 @@
+---
+title: technomancy
+parent:
+  - "[[earth/techgnosis]]"
+peer:
+  - "[[social technology|social technology]]"
+  - "[[divine machinery]]"
+  - "[[code performance]]"
+  - "[[code commands as spells]]"
+---
+
+- a practise of imbuing the technological with the divine
+- a theoretical, perhaps fictional, perhaps spiritual, blurred lines
+## Mentions
+- Fiction short, Pythia by Olivie Blake

@@ -1,0 +1,15 @@
+---
+title: eco as default
+aliases:
+  - eco as non-default is a White practise
+seeded-by:
+  - https://www.autostraddle.com/reclaiming-abuelita-knowledge-as-a-brown-ecofeminista-213880/
+parent:
+  - "[[sustainability]]"
+  - "[[balanced-ecosystems]]"
+peer:
+  - "[[indigenous perspectives]]"
+---
+
+
+

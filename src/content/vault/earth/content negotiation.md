@@ -1,0 +1,14 @@
+---
+parent:
+  - "[[programming languages and datatypes]]"
+  - "[[multiplicity]]"
+peer:
+  - "[[RDF]]"
+title: content negotiation
+---
+
+making a resource available in several kinds directly at a URI in HTTP, the kind to return is selected as appropriate
+
+- can be active/passive 
+- client can request a type via headers
+- fallback mechanisms

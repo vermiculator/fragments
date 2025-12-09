@@ -1,0 +1,26 @@
+---
+parent:
+  - "[[alternative systems]]"
+  - "[[tactics vs strategy]]"
+  - "[[slow resistance]]"
+aliases:
+  - para-tactics
+  - parallel tactics
+---
+
+“inventive employment of possibilities within strategic circumstances” (Highmore, 2002, p.159)
+
+---
+
+tactics as anti-reactionary forms of disruption
+tactics for creation, production, for the long-term
+tactics as alternative perspective, alternative dimension
+
+---
+
+everyday practises of self-actualisation and self-transcendence
+collective action through habits and healing and learning and sharing and building
+resistive action as bottom-up dismantling
+
+
+

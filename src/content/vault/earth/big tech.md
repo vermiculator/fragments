@@ -1,0 +1,11 @@
+---
+parent:
+  - "[[corporations|big business]]"
+  - "[[tech]]"
+peer:
+  - "[[tech bros]]"
+aliases:
+  - tech corporations
+  - silicon valley
+title: big tech
+---

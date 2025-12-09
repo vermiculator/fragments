@@ -1,0 +1,47 @@
+---
+themes:
+  - utility systems
+  - public infrastructure
+  - social systems
+  - resource systems
+title: digital twins in communities
+parent:
+  - "[[community-owned infrastructure]]"
+  - "[[digital twins]]"
+  - "[[public tech]]"
+peer:
+  - "[[fosssh]]"
+---
+
+Considering the feasibility, desirability and ethics of building digital twins of not-easily-quantifiable systems, complex systems of resources, social influence, connections, etc, as constantly in creation by webs of interactions both physical and digital, and [[fuzzy]] connections. 
+
+## Notes
+
+### Utility systems
+- twins of utilities etc accessible publicly for regional management, [[community-owned infrastructure]], etc
+### Social Systems
+- Society at large not twinned by digital interactions, or vice versa 
+- infeasible and undesirable on a mass scale - often a fascist enterprise to map social connections precisely
+- a million ethical considerations at any level
+- but perhaps useful in a peer-to-peer small scale
+- better contacts storage systems basically
+- digital twins of small systems
+- eg community groups and family groups 
+- sometimes useful, but these are also v personal connections, private info
+- No single source of truth on social entanglements
+- Differing agent perspectives of one model
+- Fuzzy connections, 'right to be forgotten', protection, anon, etc
+
+### Resource/production systems of commodity
+- very speculative thoughts on modelling systems of value and production
+- semantically meaningful relationships between models that determine how data is shared between them eh the bread making machine needs to communicate with the flour milling machine but not the apple squishing machine, but the pie making machine needs to communicate with the bread making machine and the apple squishing machine but not directly to the flour milling machine, how data dominoes through the system reliably
+- How to work with one simple supply chain to get a system going in a way that prioritises people-values not profit etc
+- EG you can't have the pies until Friday because flour supplier is off sick
+- Individuals encoding their own 'digital twin' part of the process and get to put forth their own values and worth how they see fit. Person modelled with skills, abilities, preferences, medical necessities, etc. All inputs to the productive systems are optional and self determined. eg from each their ability, but also from each their willingness. And to each their need, but also to each their want. Individuals able to prioritise needs and wants, levels of limits and boundaries.
+- First for physical production, supply, demand, labour, etc, for eg food supply, health items, construction materials. But should also importantly be able to encode objects of cultural/artistic/personal value and interest.
+- What about orgs, their histories and cultural influence as institutions? - 
+	- Encode only individuals? 
+	- encode initiatives/value combos/projects as receiving/disseminating/whatever of resources - eg no RSPCA itself to give to, but CAN dedicate resources to the protection of animals. ?
+	- Maybe Orgs existing more as a 'for the protection of animals as defined as the a b c of x y z', clearer value statements etc 
+- Models of labour and value that include creative endeavours, social value, etc, and do not preclude disabled people's value
+- 

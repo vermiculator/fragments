@@ -1,0 +1,10 @@
+---
+title: internet + memorial
+parent:
+  - "[[digital humanities]]"
+  - "[[internet sociology]]"
+---
+
+web archival, dead loved ones, research on what people have done in memorial
+
+I found a published work of some kind of this at some point, find it again

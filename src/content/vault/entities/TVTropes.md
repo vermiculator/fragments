@@ -1,0 +1,8 @@
+---
+title: TVTropes
+kind: site
+url: https://tvtropes.org/
+summary: this is an extensive database for media tropes, I'm including it here for its relation to wider social patterns
+peer:
+  - "[[tropes|media tropes]]"
+---

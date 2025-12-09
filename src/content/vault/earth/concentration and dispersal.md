@@ -1,0 +1,11 @@
+---
+title: concentration and dispersal
+instanceOf:
+  - "[[processes and methods]]"
+parent:
+  - "[[interdisciplinary inspirations]]"
+---
+
+- dispersed things said to be gone, eg dissolved solutions and dispersed energy 
+- collect focus
+- knowledge as collected ideas and theories and facts, compared against each other

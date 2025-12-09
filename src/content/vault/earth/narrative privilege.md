@@ -1,0 +1,19 @@
+---
+title: narrative privilege
+peer:
+  - "[[maps colour our view of the world]]"
+parent:
+  - "[[narratives]]"
+aliases:
+  - rewriting histories
+---
+
+## The Concept
+History is written by those with greater power and privilege. How people and events are remembered can be skewed by who holds power and their relation to the subjects. Oppressed people often have their histories reframed, misremembered or entirely erased. 
+
+## Instances
+- literally rewriting histories
+- [[destroying histories]]
+
+## Mentions
+- [[The Rich Have Their Own Ethics - Effective Altruism & the Crypto Crash#^5bc4bc]]

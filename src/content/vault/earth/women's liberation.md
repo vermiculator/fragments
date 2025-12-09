@@ -1,0 +1,13 @@
+---
+title: "women's liberation"
+parent:
+  - "[[patriarchy|patriarchal systems]]"
+  - "[[liberation]]"
+peer:
+  - "[[identities]]"
+  - "[[gender diversity]]"
+  - "[[trans rights and liberation|trans liberation]]"
+aliases:
+  - "women's rights"
+  - misogyny
+---

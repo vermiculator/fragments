@@ -1,0 +1,19 @@
+---
+parent:
+  - "[[research and academia]]"
+peer:
+  - "[[citational justice]]"
+  - "[[research ethics]]"
+title: credible sources
+---
+
+- what is credible, to whom, says whom
+- conflicting knowledge systems
+- authority and trust, interpersonal
+- track record, does past predict future
+- evaluating credibility via the CRAAP test:
+	- Currency: Is the source up to date?
+	- Relevance: Is the source relevant to your research?
+	- Authority: Where is the source published? Who is the author? Are they considered reputable and trustworthy in their field?
+	- Accuracy: Is the source supported by evidence? Are the claims cited correctly?
+	- Purpose: What was the motive behind publishing this source?

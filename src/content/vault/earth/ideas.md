@@ -1,0 +1,11 @@
+---
+title: ideas
+parent:
+  - "[[knowledge creation]]"
+peer:
+  - "[[perspectives]]"
+child:
+  - "[[inductive patterns]]"
+  - "[[deductive theories]]"
+  - "[[sharing ideas]]"
+---

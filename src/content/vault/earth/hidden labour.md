@@ -1,0 +1,13 @@
+---
+title: hidden labour
+parent:
+  - "[[worker's rights]]"
+peer:
+  - "[[patriarchy]]"
+child:
+  - "[[reproductive labour]]"
+  - "[[child labour and exploitation]]"
+  - "[[computers, aka Black women]]"
+---
+
+-  de Certeau, everyday activity as sites for potential resistance in 'silent production' [[quickref#^330f61]]

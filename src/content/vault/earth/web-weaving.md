@@ -1,0 +1,23 @@
+---
+peer:
+  - "[[collage]]"
+  - "[[recombination]]"
+  - "[[scrapbooking]]"
+instanceOf:
+  - "[[assemblage]]"
+  - "[[Internet content curation]]"
+  - "[[remediation]]"
+title: web-weaving
+parent:
+  - "[[influencers, tastemakers and curators]]"
+  - "[[internet content]]"
+child:
+  - "[[web-weaving on Tumblr]]"
+  - "[[web-weaving in TikTok slideshows]]"
+---
+
+- a form of curation, adjacent to remix, a kind of collage of screenshots from across the Web, like a mood board or vision board
+- a largely 'feminine' form of communication, 'inalienable queerness'
+- usually used for inspirational quotes, or as a form of poetry, or similar
+- but is actually an advanced mechanism of pulling together disparate parts of the internet that connect by theme
+- using screenshot technology you have a mechanism that is very accessible and surprisingly archival even though a lot of data is lost the meaning often remains. (image ids and alt text really helps with this)

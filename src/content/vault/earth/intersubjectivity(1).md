@@ -1,0 +1,27 @@
+---
+title: intersubjectivity
+parent:
+  - "[[vault/earth/research methods]]"
+peer:
+  - "[[peer review]]"
+  - "[[emergent strategy]]"
+  - "[[collaborative knowledge]]"
+aliases:
+  - intersubjective
+---
+
+- we all are ultimately one subject, have one perspective
+- the only reliable measures are intersubjective, combinatory of our fragments
+- peer review is most reliable form of data as it produces emergent, convergent knowledge
+
+---
+
+## Mentions
+
+
+- "When we are with others, we are always something other than what we are when we are alone."  [⤴️](https://read.readwise.io/read/01jw24sm4qyr9v1zngk7pgv295) [[All Together Now Collective Knowledge, Collective Narratives, and Architectures of Participation]]
+- "In the phenomenological approach he describes in Being and Time, Heidegger distinguishes between Da-sein, being in the world, and Mitda-sein, the state of being-together-in-the-world"  [⤴️](https://read.readwise.io/read/01jw24sv9xtt2b6a98d1vcgnj3)
+- "In discussing how we arrive at consensus, Habermas writes of “linguistically generated intersubjectivity,” the use of language to create a subject that is not the self, but subjectivity shared with others"  [⤴️](https://read.readwise.io/read/01jw24t8pffeh4sedkws9epb29) ^d8a97a
+- "Luhmann, in Social Systems, argues that people are not society, but parts of its environment"  [⤴️](https://read.readwise.io/read/01jw24tm102zsckwfg7cvw05zv)
+- "whenever people are collaborating on a project of knowledge sharing or creative production, they are collaborating not only with other people, but with a system which they, the other participants, and the communicative environment help to create."  [⤴️](https://read.readwise.io/read/01jw24txtekpq4ezfsyv40afgx)
+- "In networked computer environments in particular, collaboration is always both collaboration with other people and with systems."  [⤴️](https://read.readwise.io/read/01jw24v5nq4at4spd1ejscae0y)

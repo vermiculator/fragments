@@ -1,0 +1,9 @@
+---
+title: social norms are often arbitrary
+parent: 
+    - "[[social patterns]]"
+---
+
+- reasons for social norms arising are wide-ranging and not always important 
+- whilst there is history and precedent and things to understand about the way some things are, there are many norms that came to be for unrelated irrelevant reasons
+- eg norms for economic conditions that no longer exist, norms transplanted from other cultures that aren't relevant to the new situation, norms based on outdated scientific evidence, norms based on scarcity in a post-scarcity world, norms based on the whims of one powerful authority, norms based on misunderstandings

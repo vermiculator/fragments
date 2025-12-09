@@ -1,0 +1,19 @@
+---
+title: techgnosis
+aliases:
+  - tech + spirituality
+  - tech + folklore
+  - tech + philosophy
+  - tech + religion
+parent:
+  - "[[gnosis]]"
+  - "[[people and tech]]"
+peer:
+  - "[[techno-politics]]"
+  - "[[technological determinism]]"
+coined-by:
+  - "[[earth/techgnosis|techgnosis]]"
+---
+
+- tech tarot by Suzanne Treister, Hexen 2.0
+- that video short, Adam, sigils and wards and proximity-based tech like RFID/NFC

@@ -1,0 +1,15 @@
+---
+parent:
+  - "[[fosssh|open-source]]"
+peer:
+  - "[[problems with proprietary]]"
+title: impracticalities of using open source software
+---
+
+- incompatibilities with other software - gap in the offerings covered by proprietary software that doesn't play well will others
+- ecosystem lock-in in general
+- open source development is often limited by lack of maintainers or lack of funding (and therefore those who can volunteer freely) 
+- poorly documented complex setups
+- generally not being well suited to collaborative work due to the above reasons/single author dogfooding bespoke setups
+- usually lacking in UX work/good UI
+- trustworthiness/non-established brand/layperson unwilling to sacrifice ease and familiarity

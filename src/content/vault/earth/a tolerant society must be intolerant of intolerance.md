@@ -1,0 +1,11 @@
+---
+aliases:
+  - the paradox of tolerance
+  - the tolerance paradox
+  - tolerance paradox
+parent:
+  - "[[developing human societies]]"
+title: a tolerant society must be intolerant of intolerance
+---
+
+A decision theory paradox first described by Karl Popper in 1945 states that a society that is tolerant without limit will eventually have their ability to be tolerant seized by the intolerant. In order to maintain a tolerant society, it must be intolerant of intolerance.

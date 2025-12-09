@@ -1,0 +1,14 @@
+---
+title: healing
+aliases:
+  - fixing
+  - make good
+  - making good
+  - fix
+  - heal
+parent:
+  - "[[human relations|interpersonal relations]]"
+peer:
+  - "[[harm reduction]]"
+  - "[[care]]"
+---

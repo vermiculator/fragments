@@ -1,0 +1,14 @@
+---
+parent:
+  - "[[earth/research methods]]"
+peer:
+  - "[[qualitative methods]]"
+  - "[[performative and arts-based methods]]"
+seeded-by:
+  - "[[Masters Module - Methods for Equitable Technology Development]]"
+title: post-qualitative inquiry
+---
+
+- ontology, epistemology and theory at every phase
+- data is entangled with theory and affect
+- emergence rather than static certainty of procedure through method

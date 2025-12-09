@@ -1,0 +1,18 @@
+---
+parent:
+  - "[[publishing]]"
+  - "[[activism]]"
+  - "[[knowledge creation|knowledge production]]"
+  - "[[Masters in public]]"
+peer:
+  - "[[open access publication]]"
+  - "[[zine cultures]]"
+  - "[[hypertext]]"
+seeded-by:
+  - '(Adema, 2024) - "Experimental Publishing as Collective Struggle. Providing Imaginaries for Posthumanist Knowledge Production"'
+---
+
+- why live docs are resistive
+- why commons are resistive
+- why assemblages are resistive 
+- remix culture in relation to scrapbooking

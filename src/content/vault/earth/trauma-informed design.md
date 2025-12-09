@@ -1,0 +1,30 @@
+---
+title: temp-title
+parent:
+  - "[[trauma]]"
+  - "[[design]]"
+peer:
+  - "[[inclusivity]]"
+  - "[[accessibility|accessibility]]"
+  - "[[activism]]"
+---
+
+## Resources (unexplored)
+- 
+https://contentdesign.london/blog/using-trauma-informed-principles-with-content-design
+
+https://innovate-us.org/applying-trauma-informed-design-to-improve-government-services
+
+https://www.tidresources.org/
+
+https://www.allsteeloffice.com/insights/trauma-informed-design
+
+https://www.birdcallux.com/blog/what-is-trauma-informed-design
+
+https://m.youtube.com/watch?v=Doxvsv31wOg
+
+https://www.gov.scot/publications/trauma-informed-practice-toolkit-scotland/
+
+https://assets.website-files.com/60fdc9111506063bb9fe8e49/64b081438e3221d7ffc92b12_Trauma-informed%20design_%20the%20whitepaper%20by%20Chayn.pdf
+
+https://reasondigital.com/blog/trauma-informed-design/

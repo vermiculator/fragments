@@ -9,39 +9,43 @@
 # macOS
 .DS_Store
 
-### node
+# node
 /node_modules
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 package-lock.json
 
-### misc
+# misc
 .vscode
 *.log
-.DS_Store
-desktop.ini
-.megaignore
-/assets
 *.acsm
 profile
+/temp-hide
+/backend
+.venv
 
 ## obsidian
 /Rubbish
 /.obsidian/**
 publish.css
+/src/content/vault/Rubbish
 
 ## filen
 /.trash
 .filenignore
 
-/temp-hide
+## mega
+desktop.ini
+.megaignore
 
-## content
-# Ignore all vault by default
+# outputs
+/public
+.vercel
+/dist
+
+# ignore vault by default, allow some for minimal build
 /src/content/vault/**
-
-# Allow minimal subset for build
 !/src/content/vault/
 !/src/content/vault/.obsidian/
 !/src/content/vault/.obsidian/app.json
@@ -49,6 +53,13 @@ publish.css
 !/src/content/vault/plain/
 !/src/content/vault/plain/about/
 !/src/content/vault/plain/about/**
+/src/content/docs/md
+/src/content/docs/mdx
+/src/assets/**
+!/src/assets/md/
+!/src/assets/mdx/
+
+# allow, minimal
 !/src/content/vault/works/
 !/src/content/vault/works/thesis/
 !/src/content/vault/works/thesis/**
@@ -56,30 +67,24 @@ publish.css
 !/src/content/vault/works/thesis/meta-thesis/**
 !/src/content/vault/plain/structural/
 !/src/content/vault/plain/structural/**
-!/src/content/vault/library/
-!/src/content/vault/library/start-here.md
-!/src/content/vault/library/.gitkeep
-!/src/content/vault/earth/
 !/src/content/vault/earth/start-here.md
 !/src/content/vault/earth/.gitkeep
+!/src/content/vault/library/start-here.md
+!/src/content/vault/library/.gitkeep
 
-/src/content/docs/md
-/src/content/docs/mdx
-/src/content/mulch
+# temporarily allow - full content
+!/src/content/vault/library/
+!/src/content/vault/library/**
+!/src/content/vault/earth/
+!/src/content/vault/earth/**
+!/src/content/vault/entities/
+!/src/content/vault/entities/**
+
+# still ignore
 /src/content/seeds
 /src/content/vignettes
 /src/content/assets
 
-/src/assets/**
-!/src/assets/md/
-!/src/assets/mdx/
-
-/src/data/bookmarks
-
 ## for now
-/backend
-.venv
-/public
-.vercel
-/dist
-.env*.local
+/assets
+/src/data/bookmarks

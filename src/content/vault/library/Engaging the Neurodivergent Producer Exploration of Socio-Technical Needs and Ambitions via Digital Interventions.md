@@ -1,0 +1,46 @@
+---
+author: 
+ - Petko Karadechev
+title: "Engaging the Neurodivergent Producer Exploration of Socio-Technical Needs and Ambitions via Digital Interventions"
+short-title: "Engaging the Neurodivergent Producer Exploration of Socio-Technical Needs and Ambitions via Digital Interventions"
+full-title: "Engaging the Neurodivergent Producer Exploration of Socio-Technical Needs and Ambitions via Digital Interventions"
+summary: None
+kind: articles
+url: https://vbn.aau.dk/ws/portalfiles/portal/549540246/PHD_PKaradechev.pdf
+published_date: 2025-06-19
+peer:
+ - creative-process
+ - neurodiversity
+ - online-content-creation
+ - technologies-of-the-self
+---
+- "Teachers and pedagogues should have the ability to customize their classes and approaches to include digital intervention practices on a regular basis"  [⤴️](https://read.readwise.io/read/01jy426ah1dh4a1y69kw8k4pfr)
+- "Giving workshops (Rice et al., 2018) and providing technologies so that participants can create devices (Frauenberger et al., 2016) provide ways to address that question. I propose that learning with and learning as a co-producer offers another powerful approach to explore new aspects of participation from a socially vulnerable position"  [⤴️](https://read.readwise.io/read/01jy425s3j389enyymqa1gva6c)
+- "We do not hear enough from neurodivergent youth."  [⤴️](https://read.readwise.io/read/01jy4255afn7mfe5563h1cgy33)
+- "explore the liminalities, marginalities, and privileges as well as uncertainties and change-bilities of our bodily selves and lives. (pp. 4–5)"  [⤴️](https://read.readwise.io/read/01jy424saz9ka3b0jqknpakkyg)
+- "subjectivity as a ‘construct that emerges in concert with technology’” (McNeill, 2016, p. 66)."  [⤴️](https://read.readwise.io/read/01jy4239anacxnkdkaamante9y)
+- "s that they offer users a repertoire of image, myth and history from which to co- create self-stories and give politicized communities access to new spaces for intersectional self-invention and narration (Baer, 2015). (Rice et al., 2018, p. 4) This sense of biomythography and self-invention and narration appeared to be visible"  [⤴️](https://read.readwise.io/read/01jy424514dqkhp82hx35pea0v)
+- "This sense of biomythography and self-invention and narration appeared to be visible in the online explorations"  [⤴️](https://read.readwise.io/read/01jy421r4zkrsg0bap05j155bs)
+- "used video compositing to create stories of who they were and what they could do"  [⤴️](https://read.readwise.io/read/01jy4227ehfjqda8br7m1jngrd)
+- "y, myth,"  [⤴️](https://read.readwise.io/read/01jy422fhxkh19kspsxfm98j42)
+- "a feminist perspective and augment our participants’ “personal stories with
+  history, myth, and image, moving beyond dualisms of private and public, story and
+  history,
+  text and image,
+  researcher and participant, and past
+  and future to
+  surface/create/tell who we become in relation through our research” (Rice et al., 2018,"  [⤴️](https://read.readwise.io/read/01jy422r12e03ehzb6ngsr7d8q)
+- "."  [⤴️](https://read.readwise.io/read/01jy421esjd1neq5yptvv9mz5w)
+- "exploratory engagement via digital production."  [⤴️](https://read.readwise.io/read/01jy421j011wvjeeccghc765p9)
+- "the participants’ digital ambitions and aspirations were taken seriously in a way they approved of but did not experience to any significant extent in their respective institutions ("  [⤴️](https://read.readwise.io/read/01jy420227jsp1qf3jf1jbc7mh)
+- "The horizon of possibilities for neurodivergent youth may otherwise be constrained by a system-centric view (where grades and policies regulate what is to be done and how) instead of possibilities and actual abilities (where the low-hanging fruit of “let’s try to accomplish something new” is not seen as vital)."  [⤴️](https://read.readwise.io/read/01jy41xfccwq6yyx47kaqc1t5g)
+- "They created spaces for digital exploration by building on the existing digital practices engaged in by our participants and further expanded those with relevant information available online."  [⤴️](https://read.readwise.io/read/01jy41xsf18nmev8rym1ejm2dm)
+- "exploratory approach"  [⤴️](https://read.readwise.io/read/01jy41wppc0gm1vwg9dsz4pfxx)
+- "There have been attempts at residential sites and special schools to create, for example, makerspaces and digital fabrication environments, as reported by Harry (phone interview, June 4, 2022)."  [⤴️](https://read.readwise.io/read/01jy41wepe4kzvnwh6cgshvvjd)
+- "the emergence of co-constituting human–technology relationships,"  [⤴️](https://read.readwise.io/read/01jy41vaam3wy34q3nc90tszv8)
+- "While at the start of field study 2, I would have thought that there was more to the
+  intentional, somewhat
+  rational, and person-centric desire that people have to
+  customize their technology to how they like and use it, I now think otherwise."  [⤴️](https://read.readwise.io/read/01jy41v1rjgx7hpx0n4c3gx312)
+- "Based on what I experienced with our participants, I am more interested in future iterations"  [⤴️](https://read.readwise.io/read/01jy41trt9edc20pk9drdzymb1)
+- "of this project aimed at exploring how socially vulnerable populations gravitate toward certain technologies due to them being the only existing (or only known) means of self-expression, self-exploration, and social communication."  [⤴️](https://read.readwise.io/read/01jy41tw46g0yekx7gsy7vresx)

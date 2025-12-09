@@ -1,0 +1,23 @@
+---
+title: "what is 'radical'"
+parent:
+  - "[[socio-politics]]"
+---
+
+- there are 'good' and 'bad' contexts 
+- radical meaning grabbing the problem by the root
+- radical left is only radical because the centre has moved further and further right
+- but also 'extremism' and radical seen as bad, polarisation of political spectrum etc
+- radical is only subjective, dependent entirely on one particular cultural norm
+- plenty of outsiders considered radical for harmless reasons as well as those for harmful ones
+- radical in terms of revolution vs reform, how slow can we afford to be, who is brought along with us, we aren't free till we're all free
+- many 'radical' beliefs quite simple and gentle but the norm is for polite and quiet forms of violence built into the infrastructures of society
+- who decides who is a terrorist?
+- a radical approach in some areas often harmful but not always eg radical surgery
+- but are any areas always/inherently harmful? 
+    - Can't think of an example.  
+        - eg a radical approach to a good thing could be good or bad and a radical approach to a bad thing probably still bad, anything else's radical approach could be either
+    - adding 'radical' qualifier to a bad thing doesn't necessarily change its inherent badness
+        - eg radical genocide doesn't change the fact of genocide being awful
+        -  might just indicate scale of impact. 
+- might just be getting into sematic weeds

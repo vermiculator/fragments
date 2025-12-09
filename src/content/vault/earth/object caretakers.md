@@ -1,0 +1,18 @@
+---
+title: object caretakers
+parent:
+  - "[[alternative systems]]"
+  - "[[circularity]]"
+peer:
+  - "[[reuse]]"
+  - "[[repurposing]]"
+  - "[[discard studies]]"
+---
+
+- as we ramp down overproduction we'll need emphasis on maintenance of existing objects
+- some things require specialist care by artisans eg leathers
+- other things require more widespread 'folk' knowledge to recirculate again around proper care and maintenance of eg clothing items
+- as with commoning space, possession and care, we'll need [[commoning|to common]] the care of objects
+- this exists to some extent with the conservation and care of buildings and collections of historical/cultural interest
+- 'caretakers' generally employed in buildings, grounds or for monuments (eg the chalk horse) but could be assigned more closely to subsets or instances of objects and materials, as with specialist craftspeople
+- 

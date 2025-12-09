@@ -1,0 +1,20 @@
+---
+title: species definitions are arbitrary
+parent:
+  - "[[evolutionary biology and anthropology]]"
+peer:
+  - "[[taxonomies and classification]]"
+  - "[[human as animal]]"
+  - "[[human animal relations]]"
+  - "[[deep ecology]]"
+---
+
+- the whole taxonomy is fundamentally arbitrary, but still useful - based on handy indicators
+		- common genetic material
+		- common ancestry 
+		- common behaviour 
+		- common appearance 
+		- common features and forms
+		- common environment?
+- a fun example of this is the Scrotifera, whose commonality lies in their scrotums
+- this view plants us more firmly into relation with the animals around us
