@@ -1,0 +1,35 @@
+---
+ 
+author:
+  - Richard Pope
+title: A working definition of Government as a Platform | by Richard Pope | Project on Digital Era Government | Medium
+summary: Government as a Platform (GaaP) has come to mean many things to many people since the publication of the article with that title by Tim O’Reilly in 2011.
+kind: articles
+url: https://medium.com/digitalhks/a-working-definition-of-government-as-a-platform-1fa6ff2f8e8d
+peer:
+  - "[[institutional power]]"
+  - "[[national politics]]"
+  - "[[platforms and silos|platform power]]"
+---
+- "There is a lot of duplication in government. Departments and agencies are, generally, vertically integrated, all running their own versions of similar systems"  [⤴️](https://read.readwise.io/read/01jbm55nv2gvqfsabq7nbqx917)
+- "Mike Bracken, the UK’s former Chief Digital Officer, said in 2015 that: “Siloed approaches to transformation don’t work. Reinventing the wheel every single time we build a service has led to far too much duplication and waste. That’s not good enough.”"  [⤴️](https://read.readwise.io/read/01jbm55p0pse1qnq455a0vz30e)
+- "a case for government to “build for multiple use cases at once”.¹¹"  [⤴️](https://read.readwise.io/read/01jbm55p2qnzzmtczw3acqy31a)
+- "The aim here is to illustrate the variety that exists rather than present an exhaustive literature review.²"  [⤴️](https://read.readwise.io/read/01jbm55p4r1axsr9m20jkvg6h6)
+- "The UK Government Digital Service (GDS) adopted the ‘Government as a Platform’ label in early 2015 for the next phase of its digital transformation work."  [⤴️](https://read.readwise.io/read/01jbm55p6zgnrycpg8r07898cd)
+- "the Australian Digital Transformation agency explicitly talks in terms of “Whole of government digital platforms”.¹²"  [⤴️](https://read.readwise.io/read/01jbm55p8ztft1cwgd2qd8jw3r)
+- "the idea of government platforms as a set of tools for government and non-government organizations alike."  [⤴️](https://read.readwise.io/read/01jbm55paw3bhmtceab9wrej6e)
+- "a route to developing better services “brilliant, user-centric government services” that were “more closely targeted at user needs”.³"  [⤴️](https://read.readwise.io/read/01jbm55pcw2v2d9a4yj4nm5fva)
+- "the Scottish government describes its payment platform project in terms of:"  [⤴️](https://read.readwise.io/read/01jbm55peyk79wgt98sz7p7k4y)
+- "“building something centrally that is easy for service teams to plug into and re-use"  [⤴️](https://read.readwise.io/read/01jbm55pj8bhngr6b4prpw4tz7)
+- "the term ‘smart cities’ is used to cover everything from parking apps to delivery robots and invasive digital advertising"  [⤴️](https://read.readwise.io/read/01jbm55pmjrdhwzyv18bnz4nf9)
+- "the usage of what is an evermore important concept starts to cover a range that becomes too broad, too vague, or is seen as contradictory."  [⤴️](https://read.readwise.io/read/01jbm55ppjzyrtzf377wr92kqn)
+- "important considerations, such as public safety and democratic accountability, often appear to be missing from the today’s debate."  [⤴️](https://read.readwise.io/read/01jbm55prn8h95qm4j68rhs3wk)
+- "an accepted “working definition” of GaaP could act as a useful decision-making tool for civil servants."  [⤴️](https://read.readwise.io/read/01jbm55ptvgk549fxbpb6atnk2)
+- "latent opportunity for technology platforms to have a “genuinely significant role in improving the quality of life for citizens and public employees alike …. particularly their ability to respond to realtime feedback to make continuous service improvements.⁵"  [⤴️](https://read.readwise.io/read/01jbm55pwvgq7cwb6jdak7sf8m)
+- "The Estonian government has talked about using its X-Road platform to make “invisible services” for 15 significant life events, such as the birth of a child.⁶ Singapore’s GovTech agency is following a similar approach and has developed a “Moments of Life” service, which is built on shared government platforms.⁷"  [⤴️](https://read.readwise.io/read/01jbm55q02ggxmbw03ne81s4v4)
+- "the promise of APIs to enable the federal government to better “partner with local government, nonprofits, and businesses to better serve the American people — extending its reach and helping solve our nation’s challenges”.⁸"  [⤴️](https://read.readwise.io/read/01jbm55q29y00805fzamvwmvjt)
+- "The Indian government’s IndiaStack is a set of components and APIs for, among other things, identity verification, digital payments and storing official documents. These components are explained in terms that make it clear they are aimed at wider societal transformation rather than government transformation."  [⤴️](https://read.readwise.io/read/01jbm55q48gw2hj40x1rpbbsy5)
+- "a narrative of APIs, data and cross-government components as infrastructure, analogous to government projects in the physical world."  [⤴️](https://read.readwise.io/read/01jbm55q6a3k8vxw48sj9fs4x1)
+- "As part of its work to encourage better use of data, the Open Data Institute also encourages governments to think about “data infrastructure”, making parallels with a country’s road networks.²² ²³"  [⤴️](https://read.readwise.io/read/01jbm55q89njfn7e1ybvwmfr1b)
+- "GaaP as providing a route to new institutions fit for the digital age."  [⤴️](https://read.readwise.io/read/01jbm55qarwa3qbcdws0mgtcpc)
+

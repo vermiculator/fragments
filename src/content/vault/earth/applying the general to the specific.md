@@ -1,0 +1,21 @@
+---
+parent:
+  - "[[intersubjectivity]]"
+peer:
+  - "[[abstraction is necessarily reductive]]"
+title: applying the general to the specific
+---
+
+the ability/practise of applying more general advice to a specific scenario, or gaining specific value from a situation based on the specifics of your own position/perspective/context
+
+---
+
+applying a template, blueprint, set of instructions, advice, etc to your own situation is a really valuable skill - modifying based on resources and requirements is a hugely important part of resilience and adaptivity. 
+
+one of the many reasons to be wary of LLMs - auto-applying templates without awareness of the context of use means often applying them wrong/unhelpfully/dangerously. it is impossible and undesirable for an LLM to hold your entire context - local models are better, but still cannot account for your embodied experience
+
+---
+## Mentions
+
+- " \[...] Aristotle described practical wisdom. Phronesis is based on a recognition of one’s ability to read individual situations correctly by drawing on previous experience and enhancing this reading in light of each particular situation that one confronts in day-to-day life (Hughes, 2001, pp. 87)" [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^0ad4b4|(Smolicki, 2017)]]
+- "the art of attending to “particulars” as opposed to “universals” (Hughes, 2001, pp .100)."  [⤴️](https://read.readwise.io/read/01k2ytsmyff3c6qe4zxdgccajh)

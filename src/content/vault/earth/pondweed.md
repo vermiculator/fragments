@@ -1,0 +1,57 @@
+a list of things I decided at some time or another aren't currently crucial for me to understand but would be potentially interesting to explore later. may fluctuate significantly as things become relevant or I lose interest.
+
+---
+## physical sciences
+* Magneto-inertial fusion
+* monotremes and electroreception
+* Obelisk (biology) - Incertae sedis
+* parallel intelligence
+* fluid dynamics
+## methods and movements
+- technopagan
+* somatics
+* generative somatics
+## tech/media + society
+- women's emancipation as seen through doctor who companions and additional characters
+- Translation softwares gendering, choosing specific Pronunciation too
+* 'slime tutorials', unalive, ⭐ve  and other constantly evolving anti-content-moderation-takedown language
+* what happened to 'press the red button'
+* simplification of logos and forced graphic minimalism. relationships with [complexity](/seeds/for-pondering/complexity)
+* 'im not a robot' can analyse your mouse movements and possibly your browsing history (source?)
+* pulling in parts of geographical map and parts of very personally relevant maps into into same frame.
+* Google returns datasets in search results now??
+## names
+* Staci Haines
+* Spenta Kandawalla
+* Lin Hoi-man
+* Lisa Thomas Adeyemo
+* Chris Lymbertos
+* Vassilissa Johri
+* Richard Strozzi-Heckler
+* Robert Gao on the art of transformation
+* China Melville
+* Zapatista
+* Nale Hopkinson
+* Samuel Delaney
+
+## hardware
+- Optical telegraphs
+* how do fax machines work, how easy are they to repair, how useful are they, how much are they still used
+* the above but for telegrams
+* how do satellite phones work
+* Scicomm techcomm book 'enigmatic england' small man in early phone boxes to do the process 'call station'
+* used to be an Out of office for phones by telling the call operators - click the amount of times of the hour, to phone back
+
+## software
+* code graveyard, code rehab, code rescue. Hub to find devs to rescue/recover/maintain legacy/deprecated/abandoned code/archive stuff that used to be useful. I guess somewhere like GitHub is this concept in an informal sort of way.
+* mass de-drm, mass eBook archive, etc
+* value based job matching - have seen a maybe solution, Japan's implementation 'wantedly'
+* expanding available info about a company and their hiring processes on job sites eg like glassdoor's extra info, but full info on eg interview methods and stages
+* text based adventure escape the maze except it's 'AI-assisted' hell nightmare where you can't Just find the answer easy
+
+## mixed and misc
+* fps video games allow dialogue in mentalese as you're first hand experiencing that's why actual dialogue can feel stilted - immersion, [mediation](/docs/earth/mediation)
+* Robots and awareness of back and behind. 3D or construed as human vision and perception
+* 'portal to the past' in physical/virtual mixed 3d space
+* fridge/freezer digital twins, are there actually any good current solutions, EG fridges with barcode readers, and how do they account for homemade/remix/partially eaten things
+* computation modelled on octopus brain layout or inspired by it

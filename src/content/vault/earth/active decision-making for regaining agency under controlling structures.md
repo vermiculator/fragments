@@ -1,0 +1,20 @@
+---
+title: active decision-making for regaining agency under controlling structures
+parent:
+  - "[[anti~determinism]]"
+renameMePlease: true
+---
+
+## in relation with technologies
+- "These qualities might be activated if one resists using the device inattentively or in full conformity with the technical instructions and mainstream aesthetic styles,"  [⤴️](https://read.readwise.io/read/01k0y4k5hqehxyqt3885wg32ba)
+-  Smolicki discusses the shift from the active to the passive in memory practise through the 'analog' shoebox to the 'quantified self' movements [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^14c055|(Smolicki, 2017)]]
+- mnemotechnologies 'release their users from the effort of actively recording, recalling and putting knowledge into action', passive - (Lovink, 2011, p.25), cited in [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture|(Smolicki, 2017)]]
+- personal memory assembled and disassembled - formalised and destroyed in the process - we are looking in contrast to preserve the subjective context
+- "in order to allow for a conscious shaping of one’s moral agency a technological device needs to be equipped with a degree of plasticity, inviting the user to consciously make decisions (Verbeek, 2011, p.135)"  [⤴️](https://read.readwise.io/read/01k2ytywdd6m4v71wgpzt8jm6p)
+## in media and media consumpution
+
+- "(Kember and Zylinska, 2012). Their critique concludes in a proposition to perceive media in terms of active and vital processes of mediation that break out from the trajectories and grids established by social structures, institutions and media infrastructures"  [⤴️](https://read.readwise.io/read/01k0pwajhg2pw1qmhek1fmd0c4)
+- "elaborate on the term mediation pointing at a set of differences that their understanding is characterized by if compared to former definitions. As they mention, mediation has been typically understood in a Marxist tradition as a reconciliation of two opposing forces within society (e.g. the cultural and material or the superstructure and base) by a mediating object. In this light it appears as an insertion of an element, an agency filling the space between two competing forces, or differently put, two elements of some hierarchical arrangement. Thus, medium is merely a mediating component in a wider process of communication or transmission."  [⤴️](https://read.readwise.io/read/01k0pwc0kxagta6et15hfgcgd9)
+- "a construct of the “structuralist thinking” in which some fixed organization of society is recognized and within which some elements of this organization are subsequently discussed as forces of dominance that establish and determine entirety of relations"  [⤴️](https://read.readwise.io/read/01k0pwdykhwkz51fvksf7b5pt9)
+- "mediation transpires as merely ”a product” of pre-existing dynamics prompted by these relationships. In other words, the process of mediation is trapped between firmly grounded elements of a bigger structure; it can not take place but as a direct response to these elements. This structure and the hierarchy it brings along, is a prerequisite to an emergence of mediation; it conditions its very occurrence. Consequently, as the authors argue, in that view, “mediation lends itself to the study of ‘effects’ because it is premised on a set of determining assumptions around subjects, objects and relations between them” (ibid., p.20)."  [⤴️](https://read.readwise.io/read/01k0pwerrx12tyh3cqg9q119d2)
+- approach related to [[media archaeology]]

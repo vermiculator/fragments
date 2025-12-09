@@ -1,0 +1,10 @@
+---
+title: messy notetaking
+parent:
+  - "[[messy data]]"
+  - "[[knowledge management]]"
+peer:
+  - "[[forms of fleeting, fixed and micro-expression]]"
+---
+
+accept and allow that most notetaking is not structured, it is often contextual and [transient](https://notes.andymatuschak.org/zKGjQtsTKgscAoq271ZzKqw)

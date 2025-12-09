@@ -1,0 +1,15 @@
+---
+title: context collapse
+parent:
+  - "[[context]]"
+  - "[[audience and purpose]]"
+  - "[[social media platforms|social media]]"
+---
+
+where separate identities or ways of being and interacting merge into one, with potentially negative consequence. term originating from social media studies
+
+## Mentions
+
+- "For each of these, I set up a new email address, and each is a new primary blog. This is the way of my first tumblr tribe, guided by a fervent commitment to avoiding **context collapse**" [[tumblr (book)#^00ea7a|->]]
+- "\[...] leading to **context collapse** resulting from the inability to modulate one's self presentations to different audiences (Marwick and boyd 2011)" [[tumblr (book)#^34185f|->]]
+- 

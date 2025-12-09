@@ -1,0 +1,15 @@
+---
+parent:
+  - "[[participatory methods]]"
+  - "[[knowledge creation|knowledge production]]"
+  - "[[collaborative knowledge]]"
+  - "[[sciences|science]]"
+peer:
+  - "[[co-design and co-research]]"
+  - "[[participatory design and participatory research]]"
+  - "[[participatory place-making]]"
+aliases:
+  - participatory science
+  - open science
+title: citizen science
+---

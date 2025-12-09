@@ -1,0 +1,14 @@
+---
+parent:
+  - "[[hierarchical domination|hierarchy]]"
+  - "[[how to make change]]"
+  - "[[activism]]"
+  - "[[bottom-up]]"
+  - "[[top-down]]"
+peer:
+  - "[[symbiosis of theory and practise]]"
+instanceOf:
+  - "[[convergence]]"
+---
+
+how change in highly hierarchical systems needs bottom up methods of resistance to be helpful and meaningful but that we're often trying to make change from the position of the least power and least resources so it neds to also be feeding down from above - the more power transferred to those at the bottom and the more the power of those at the top to control the lives of those at the bottom, the more the hierarchy is levelled and the methods converge at the center. 

@@ -1,0 +1,18 @@
+---
+title: public imaginaries
+aliases:
+  - common myths
+  - public impression
+  - public opinion
+parent:
+  - "[[knowledge and truth]]"
+  - "[[narratives]]"
+  - "[[public life]]"
+peer:
+  - "[[public space]]"
+  - "[[imagined futures]]"
+  - "[[imagining alternatives]]"
+child:
+  - "[[imagined audiences]]"
+  - "[[intimate publics]]"
+---

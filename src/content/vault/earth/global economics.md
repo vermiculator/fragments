@@ -1,0 +1,13 @@
+---
+title: global economics
+parent:
+  - "[[international relations]]"
+  - "[[economics]]"
+peer:
+  - "[[global perspective]]"
+  - "[[international solidarity]]"
+  - "[[de~colonialism]]"
+  - "[[reparations]]"
+  - "[[international relations|nation states]]"
+  - "[[anti~nationalism]]"
+---

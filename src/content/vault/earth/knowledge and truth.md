@@ -1,0 +1,15 @@
+---
+title: knowledge and truth
+parent:
+  - "[[philosophy]]"
+aliases:
+  - knowledge
+  - truth
+  - ways of knowing
+  - what counts as knowledge
+  - what counts as truth
+  - epistemologies
+  - epistemology
+  - what counts as fact
+  - facts
+---

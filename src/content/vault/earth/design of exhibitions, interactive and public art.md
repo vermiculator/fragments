@@ -1,0 +1,10 @@
+---
+parent:
+  - "[[creative process|art making]]"
+  - "[[public space]]"
+  - "[[design]]"
+peer:
+  - "[[public tech]]"
+  - "[[participatory methods]]"
+title: design of exhibitions, interactive and public art
+---

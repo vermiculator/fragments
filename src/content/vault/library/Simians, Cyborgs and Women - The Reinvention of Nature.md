@@ -1,0 +1,180 @@
+---
+title: Simians, Cyborgs and Women - The Reinvention of Nature
+author:
+  - Donna Haraway
+peer:
+  - "[[cyborgs]]"
+  - "[[interdependence|everything is connected]]"
+  - "[[deep ecology]]"
+  - "[[nature is a constructed category]]"
+kind: books
+status: CURRENTLY
+recommended-by: "[[Masters Module - Intersectional Internets]]"
+---
+- idea that nature is constructed, not discovered
+- gendered roots of science in culture
+- uncovering the historical construction of the pedigrees for existing social relations - the naturalization of race, sex, and class
+- accounts, narratives, and stories of the creation of nature, living organisms, and cyborgs
+- cyborgs, cybernetic organisms: systems which embrace organic and technological components
+- the immune system as an information system
+- mapping the fate of two potent and ambiguous words - 'nature' and 'experience'
+---
+- "a cautionary tale about the evolution of bodies, politics, and stories"
+- "the invention and reinvention of nature" ^c6a83a
+- nature as a site for "hope, oppression, and contestation for inhabitants of the planet earth"
+- "odd categories, invisible to themselves"  ^009a66
+- categories unmarked but dependent on unequal power
+- "a 'cyborg' feminism that is perhaps more able to remain attuned to specific historical and political positionings and permanent partialities without abandoning the search for potent connections."
+- "cyborgs are compounded of special kinds of machines and special kinds of organisms appropriate to the late twentieth century" - cyborgs could really be any technology combined with humanity - how about social technologies?
+- is as organic creatures as "unchosen 'high-technological' guise as information systems, texts, and ergonomically controlled labouring, desiring, and reproducing systems."
+- "cyborg embodiment, the fate of various feminist concepts of gender, reappropriations of metaphors of vision for feminist ethical and epistemological purposes, and the immune system as a biopolitical map of the chief systems of difference in a postmodern world."
+- Simians, Cyborgs and Women as 'boundary creatures' that destabilise evolutionary, technological, and biological narratives
+- monsters - to demonstrate - to signify
+- "multi-faceted biopolitical, biotechnological, and feminist theoretical stories of the situated knowledges by and about these promising and non-innocent monsters"
+- possible worlds for which we are responsible
+- essays from 78-89, which sets the political context
+- "How did nature for a dominant cultural group with immense power to make its stories into reality become a system of work, ruled by the hierarchical division of labour, where the inequities of race, sex, and class could be naturalized in functioning systems of exploitation? What were the consequences for views of the lives of animals and people?"
+- heteroglossia and power inequities within modem feminism
+- 'inappropriate/d others', (Trinh T. Minh-ha) - the historical positioning of those who refuse to adopt the mask of either 'self' or 'other' offered by dominant narratives of identity and politics.
+- "relations of difference other than hierarchical domination, incorporation of 'parts' into 'wholes', or antagonistic opposition."
+- "transformation of the despised metaphors of organic and technological vision in order to foreground specific positioning, multiple mediation, partial perspective"
+- human relationships with 'nature' are actively relational
+- relation with a being who doesn't fit our subject-pronouns 
+- nature is not 'they' or 'it' in relation to 'us' as we are within it - [[deep ecology]]
+- "Grammar is politics by other means."
+- not always language for it, come to terms with non-representability and historical contingency
+- people are "multiply heterogeneous, inhomogeneous, accountable, and connected human agents."
+- "we must never again connect as parts to wholes, as marked beings incorporated into unmarked ones, as unitary and complementary subjects serving the one Subject of monotheism and its secular heresies. We must have agency - or agencies - without defended subjects."
+- contemporary immune system discourse - [[one human is an ecosystem]]
+- "acknowledge the permanent condition of our fragility, mortality, and finitude"
+---
+- more chapters
+---
+### A Cyborg Manifesto
+
+^e7eb3a
+- "Blasphemy protects one from the moral majority within, while still insisting on the need for community" - questioning, not the same as renunciation 
+- irony as "the tension of holding incompatible things together because both or all are necessary and true"
+- irony as 'seemingly paradoxical', [[contradictory truths]] 
+- "\[Irony] is also a rhetorical strategy and a political method" ^067e55
+- "a creature of social reality as well as a creature of fiction"
+- "Social reality is lived social relations"
+- a "women's experience" as a collective cultural object, both fiction and fact
+- "the boundary between science fiction and social reality is an optical illusion" - links to [[Race After Technology#^9abd3b|black people already live in the future]] ^288787
+- modern medicine has cyborgs - "couplings between organism and machine" - "in an intimacy and with a power that was not generated in the history of sexuality"
+- cyborg reproduction under a system of labour akin to cyborg colonisation 
+- "modern war is a cyborg orgy"
+- "we are all chimeras, theorized and fabricated hybrids of machine and organism; in short, we are cyborgs"
+- "a condensed image of both imagination and material reality, the two joined centres structuring any possibility of historical transformation." - [[imagining alternatives|imagined futures]]
+- "the traditions of 'Western' science and politics - the tradition of racist, male-dominant capitalism; the tradition of progress; the tradition of the appropriation of nature as resource for the productions of culture; the tradition of reproduction of the self from the reflections of the other"
+- "an argument for /pleasure/ in the confusion of boundaries and for _responsibility_ in their construction"
+- need to work with "a different logic of repression"
+- "unalienated labour" or other ...
+- "seductions to organic wholeness through a final appropriation of all the powers of the parts into a higher unity"
+- "abstract individuation, an ultimate self untied at last from all dependency"
+- Marxism and psychoanalysis depends on "the plot of original unity out of which difference must be produced"
+- "The cyborg is resolutely committed to partiality, irony, intimacy, and perversity."
+- "\[The cyborg] is oppositional, utopian and completely without innocence"
+- not polarised by public and private as inherently based in 'revolution of social relations'
+- "The relationships for forming forming wholes from parts, including those of polarity and [[hierarchical domination]], are at issue in the cyborg world"
+- cyborg doesn't expect to be saved by 'a restoration of the garden' - fabrication of a heterosexual mate
+- cyborg doesn't expect completion in a finished whole, city, cosmos
+- "The cyborg does not dream of community on the model of the organic family"
+- "The cyborg would not recognise the Garden of Eden; it is not made of mud and cannot dream of returning to dust"
+- could they perhaps subvert nuclear apocalypse in compulsion to name the Enemy as they are not reverential of this cosmos
+- "They are wary of holism, but needy for connection"
+- "The main trouble with cyborgs, of course, is that they are the illegitimate offspring of militarism and patriarchal capitalism, not to mention state socialism. But illegitimate offspring are often exceedingly unfaithful to their origins. Their fathers, after all, are inessential." - an alienated child as an oppositional force
+- "By the late twentieth century in U.S. scientific culture, the boundary between human and animal is thoroughly breached \[...] "language, tool use, social behaviour, mental events - nothing really convincingly settles the separation of human and animal." ^ac7963
+- "Movements for animal rights are not irrational denials of human uniqueness"  
+- "connection across the discredited breach of nature and culture" ^c6b713
+- biology and evolutionary theory agree on "modern organisms as objects of knowledge"
+- "reduced the line between humans and animals to a faint trace"
+- causes professional disputes between life and social sciences
+- "Biological-determinist ideology is only one position opened up in scientific culture for arguing the meanings of human animality. There is much room for radical political people to contest the meanings of the breached boundary" - [[human as animal]]
+- mythic cyborgs appear at this transgressed boundary
+- "Far from signalling a walling off of people from other living beings, cyborgs signal disturbingly and pleasurably tight coupling"  relation to bestiality, [[guilt and shame|taboo]] [[human animal relations]]
+	- [[2000s Battlestar Galactica]] Starbuck + ship that is both machine and animal
+	- horse - car - ship similar relationship to humans historically - [[object caretakers]] - [[object as extension of self]] - [[occupying objects]]
+- "Pre-cybernetic machines could be haunted; there was always the spectre of the [[ghost in the machine]]." ^94b428
+- organism/machine dualism structures the dialogue between materialism and idealism
+- "settled by a dialectical progeny, called spirit or history, according to taste" - is his just saying the ghost in the machine is the remnants or the life according to belief?
+- in prior times machines were 'not self-moving, self-designing, autonomous'
+- "\[Machines] could not achieve man's dream, only mock it. They were not man, an author to himself, but only a caricature of that masculinist reproductive dream"
+- but now that's not quite true
+- "Late twentieth-century machines have made thoroughly ambiguous the difference between natural and artificial, mind and body, self-developing and externally designed"
+- "Our machines are disturbingly lively, and we ourselves frighteningly inert"
+- [[technological determinism]]
+- "reconceptions of machine and organism as coded texts"
+- "postmodernist strategies, like the cyborg myth, subvert\[s] myriad organic wholes (for example, the poem, the primitive culture, the biological organism)" 
+	-  how does cyborg myth subvert the poem
+	- what is the primitive culture
+	- why do socialist-feminists and Marxists 'damn' this "textualization"  of everything - "utopian disregard for the lived relations of domination" - can't positive, utopian 'play' in theory and grounded actionable work co-exist
+- "the certainty of what counts as nature - a source of insight and promise of innocence - is undermined, probably fatally"
+- "the alternative is not cynicism or faithlessness"
+- "the boundary between physical and non-physical is very imprecise for us"
+- the consequences of [[quantam theory]] and the [[indeterminancy principle]] - popular narratives "get it wrong, but they are on the right subject"
+- "Modern machines are quintessentially microelectronic devices: they are everywhere and they are invisible. Modern machinery is an irreverent upstart god, mocking the Father's ubiquity and spirituality." - we should approach and question machines as we do authorities and as we do the divine - [[divine machinery]]
+- "disturbed only by atomic noise, the ultimate interference"
+- "miniaturization has changed our experience of mechanism" - visible mechanisms and invisible computing, usually just because the components are miniature and not properly modularly composed and labelled by function
+- small is dangerous 
+- "Our best machines are made of sunshine" - light and portable to users but signifier of peripheral human waste and pain
+- "People are nowhere near so fluid, being both material and opaque. Cyborgs are ether, quintessence."
+- "\[Sunshine machines/cyborgs]  are as hard to see politically as materially. They are about consciousness—or its simulation."
+- "floating signifiers moving on pickup trucks" ??
+- "displaced and so unnatural women"
+- "Ultimately the “hardest” science is about the realm of greatest boundary confusion" - pure number and pure spirits - [[a universal universal]]
+- "The diseases evoked by these clean machines are 'no more' than the minuscule coding changes of an antigen in the immune system, 'no more' than the experience of stress." - on the digital as so ephemeral that it is inherently unrelatable to traditional concepts of the human, the individual, the muscle and flesh - but more akin to the body as ecosystem, the human as cyborg 
+- 'higher' tech as sun-tech, air-tech, tech no longer hampered by physicality 
+- "women’s enforced attention to the small take on quite new dimensions" - women forming small worlds, miniature worlds as they cannot control the larger ones, here controlling the small world means controlling the powerful ephemeral 
+- "the unnatural cyborg women making chips in Asia"
+- "whose constructed unities will guide efective oppositional strategies."
+- "my cyborg myth is about transgressed boundaries, potent fusions, and dangerous possibilities, which progressive people might explore as one part of needed political work"
+- "deepened dualisms of mind and body, animal and machine, idealism and materialism in the social practices, symbolic formulations, and physical artifacts associated with 'high technology' and scientific culture."
+- "analytic resources developed by progressives have insisted on the necessary domination of technics and recalled us to an imagined organic body to integrate our resistance" - reliance on a constructed nature, One Truth
+- "the need for unity of people trying to resist worldwide intensification of domination has never been more acute"
+- "a slightly perverse shift of perspective"
+- "a cyborg world is about the final imposition of a grid of control on the planet, about the final abstraction"
+- "the final appropriation of women’s bodies in a masculinist orgy of war (Sofia 1984)"
+- "From another perspective, a cyborg world might be about lived social and bodily realities in which people are not afraid of their joint kinship with animals and machines, not afraid of permanently partial identities and contradictory standpoints"
+- must see both viewpoints at once
+- "Single vision produces worse illusions than double vision or many-headed monsters. "
+- "Cyborg unities are monstrous and illegitimate; in our present political circumstances, we could hardly hope for more potent myths for resistance and recoupling."
+- cyborg society should be "committed to building a political form that actually manages to hold together witches, engineers, elders, perverts, Christians, mothers, and Leninists long enough to disarm the state."
+- --
+- "Consciousness of exclusion through naming is acute." - [[feminism by any other name]]
+- "There is nothing about being “female” that naturally binds women. " [[gender abolition]]
+- "There is not even such a state as “being” female, itself a highly complex category constructed in contested sexual scientifc discourses and other social practices. " 
+- "Gender, race, or class consciousness is an achievement forced on us by the terrible historical experience of the contradictory social realities of patriarchy, colonialism, and capitalism. "
+- "growing recognition of another response through coalition—afifnity, not identity." - it's what you choose to care for and belong to rather than any claim of an inherent state
+- Chela Sandoval (n.d.; 1984) “oppositional consciousness,” - theory "born of the skills for reading webs of power by those refused stable membership in the social categories of race, sex, or class."
+- "a kind of postmodernist identity out of otherness, difference, and specificity."
+- fully political identity
+- "Sandoval’s oppositional consciousness is about contradictory locations and heterochronic calendars, not about relativisms and pluralisms." ?? What?? That's gone WAY over my head
+- "emphasizes the lack of any essential criterion for identifying who is a woman of color. She notes that the definition of the group has been by conscious appropriation of negation. For example, a Chicana or U.S. black woman has not been able to speak as a woman or as a black person or as a Chicano. Thus, she was at the bottom of a cascade of negative identities"
+- "This identity marks out a self-consciously constructed space that cannot affirm the capacity to act on the basis of natural identification, but only on the basis of conscious coalition, of affinity, of political kinship."
+- "anti-colonialist discourse; that is to say, discourse dissolving the 'West' and its highest product—the one who is not animal, barbarian, or woman; man, that is, the author of a cosmos called history."
+- "chance to build an effective unity that does not replicate the imperializing, totalizing revolutionary subjects of previous Marxisms and feminisms, which had not faced the consequences of the disorderly polyphony emerging from decolonization."
+- Katie King - political/poetic mechanics of identification, persistent tendency for those from diff. 'conversations' to "taxonomize the women’s movement to make one’s own political tendencies appear to be the telos of the whole."
+- radical/liberal/socialist analogies mean "all other feminisms are either incorporated or marginalized"
+- "Taxonomies of feminism produce epistemologies to police deviation from official women’s experience." - [[problem of taxonomies]]
+- "learning how to craft a poetic/political unity without relying on a logic of appropriation, incorporation, and taxonomic identification."
+- "It remains to be seen whether all 'epistemologies' as Western political people have known them fail us in the task to build effective affinities."
+- "The acid tools of postmodernist theory and the constructive tools of ontological discourse about revolutionary subjects might be seen as ironic allies in dissolving Western selves in the interests of survival." - I like ALMOST understand this, it's about the constructions and frameworks we form being opposite but both used to dissolve the individual in favour of the collective - reread this it's important and I'm almost there
+- "But what would another political myth for socialist-feminism look like? What kind of politics could embrace partial, contradictory, permanently unclosed constructions of personal and collective selves and still be faithful, effective — and, ironically, socialist-feminist?"
+- "None of “us” has any longer the symbolic or material capability of dictating the shape of reality to any of “them.” Or at least “we” cannot claim innocence from practicing such dominations."
+- "discovered (that is, were forced kicking and screaming to notice)"
+- "Cyborg feminists have to argue that “we” do not want any more natural matrix of unity and that no construction is whole."
+- "Marxian socialism is rooted in an analysis of wage labor that reveals class structure. The consequence of the wage relationship is systematic alienation, as the worker is dissociated from his (sic) product. Abstraction and illusion rule in knowledge, domination rules in practice. Labor is the preeminently privileged category enabling the Marxist to overcome illusion and fnd that point of view that is necessary for changing the world. Labor is the humanizing activity that makes man; labor is an ontological category permitting the knowledge of a subject, and so the knowledge of subjugation and alienation."
+- "expand the category of labor to accommodate what (some) women did,"
+- "women’s labor in the household and women’s activity as mothers generally (that is, reproduction in the socialist-feminist sense) entered theory on the authority of analogy to the Marxian concept of labor. The unity of women here rests on an epistemology based on the ontological structure of 'labor.' "
+- "emphasis on the daily responsibility of real women to build unities, rather than to naturalize them." - the difficulty 
+- "MacKinnon’s “ontology” constructs a nonsubject, a nonbeing. Another’s desire, not the self’s labor, is the origin of “woman.” She therefore develops a theory of consciousness that enforces what can count as “women’s” experience—anything that names sexual violation, indeed, sex itself "
+- "a woman is not simply alienated from her product but in a deep sense does not exist as a subject"
+- "To be constituted by another’s desire is not the same thing as to be alienated in the violent separation of the laborer from his product."
+- "I think MacKinnon correctly argues that no Marxian version of identity can firmly ground women’s unity. But in solving the problem of the contradictions of any Western revolutionary subject for feminist purposes, she develops an even more authoritarian doctrine of experience."
+- "In my taxonomy, which like any other taxonomy is a reinscription of history" [[problem of taxonomies]]
+- "History and polyvocality disappear into political taxonomies that try to establish genealogies. " What's the difference between a taxonomy and a genealogy 
+- "the symbolic system of the family of man—and so the essence of woman—breaks up at the same moment that networks of connection among people on the planet are unprecedentedly multiple, pregnant, and complex. "
+- --
+- the informatics of domination
+- 

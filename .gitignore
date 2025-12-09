@@ -53,19 +53,14 @@ desktop.ini
 !/src/content/vault/plain/
 !/src/content/vault/plain/about/
 !/src/content/vault/plain/about/**
+!/src/content/vault/earth/
+!/src/content/vault/earth/**
+!/src/content/vault/entities/
+!/src/content/vault/entities/**
+!/src/content/vault/library/
+!/src/content/vault/library/**
 /src/content/docs/md
-/src/content/docs/mdx/**
-!/src/content/docs/mdx/
-!/src/content/docs/mdx/earth/
-!/src/content/docs/mdx/earth/**
-!/src/content/docs/mdx/entities/
-!/src/content/docs/mdx/entities/**
-!/src/content/docs/mdx/library/
-!/src/content/docs/mdx/library/**
-!/src/content/docs/mdx/works/
-!/src/content/docs/mdx/works/**
-!/src/content/docs/mdx/plain/
-!/src/content/docs/mdx/plain/**
+/src/content/docs/mdx
 /src/assets/**
 
 # allow, minimal

@@ -1,0 +1,11 @@
+---
+parent:
+  - "[[sharing processes and methods]]"
+  - "[[local activism]]"
+peer:
+  - "[[shared models]]"
+  - "[[local politics]]"
+---
+
+Local initiatives are often suitable for other localities or have knowledge to share on applying certain ideas to certain contexts. 
+

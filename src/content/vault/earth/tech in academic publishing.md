@@ -1,0 +1,19 @@
+---
+peer:
+  - "[[knowledge economy]]"
+parent:
+  - "[[research and academia]]"
+  - "[[tech]]"
+title: tech in academic publishing
+---
+
+- from print to programmable media
+- data, metadata and platform protocols reshape research
+- search engines and journal platforms, access
+- visibility of research, engagement and citation now all shaped by digital infrastructures
+- mediation through metrics, downloads and citations
+- determining how work and researchers are valued and ranked, determining further funding
+- further intensifying structures of control and dominance
+- platform algorithms and logics, SEO
+- academic legitimacy increasingly tied to digital performance
+- [[what we measure and how we measure it]]

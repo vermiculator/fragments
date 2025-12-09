@@ -1,0 +1,13 @@
+---
+title: temp-title
+parent:
+  - "[[spatial design]]"
+peer:
+  - "[[architecture and interiors]]"
+  - "[[transport]]"
+aliases:
+  - urban design
+  - town planning
+  - city design
+  - city planning
+---

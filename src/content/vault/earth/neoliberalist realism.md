@@ -1,0 +1,15 @@
+---
+parent:
+  - "[[neoliberalism]]"
+  - "[[ontologies]]"
+peer:
+  - "[[cognitive capitalism|capitalist realism]]"
+  - "[[pluriversality]]"
+child:
+  - "[[neoliberalism on Pinterest]]"
+---
+## Mentions
+- "The ‘sensible’ becomes shorthand for the **neoliberal ordering of reality** which conceals the material trouble and ‘unexists’ alternative ways to inhabit a world."  [⤴️](https://read.readwise.io/read/01k6d5m9jv2bxmzet6zr0m14zx)
+- "**Neoliberalization** is hegemonic, but it is not invincible. It is merely hegemonic now. Counter-projects are possible; indeed they are inevitable.
+  — MARK PURCELL, Resisting Neoliberalization (2009, 144)"  [⤴️](https://read.readwise.io/read/01k6d6ep49fss6mdca4q78fnwf)
+- 'Were we falling into the trap of **neoliberal thinking** that sees the future as something necessarily new?' - "Decolonising design in peacebuilding contexts"

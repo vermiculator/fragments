@@ -1,0 +1,13 @@
+---
+title: transmisogyny
+parent:
+  - "[[trans rights and liberation|trans liberation]]"
+peer:
+  - "[[misogynoir]]"
+  - "[[misogyny in medicine]]"
+instanceOf:
+  - "[[women's liberation|misogyny]]"
+  - "[[trans rights and liberation|transphobia]]"
+---
+
+the specific kind of oppressions faced by trans women

@@ -1,0 +1,27 @@
+---
+title: how to make change
+parent:
+  - "[[the present]]"
+  - "[[the future]]"
+peer:
+  - "[[private/4 - ephemeral/grab useful notes from then delete/Theory of Change]]"
+---
+
+- economics, politics and sociology inextricably linked
+- what is social change
+	- "The significant alteration of social structure and cultural patterns through time. It encompasses transformations in social institutions, behaviour, and cultural norms, often as a response to economic, political, environmental, or technological factors."
+		- Harper, C. L., & Leicht, K. T. (2019). Exploring Social Change: America and the World. New York: Routledge
+- intended impact and whether we meet it 
+- how do we measure it- [[measuring social change]]
+- prioritising methods that work within complexities rather than offering a 'miracle cure'
+
+
+- [[activism]], [[liberation]]
+- [[revolt vs reform]]
+- [[just transitions]] 
+- [[alternative systems]]
+- [[explicitly political art|art activism]]
+- [[legal interventions]], [[legal protections]]
+- [[state intervention]],  [[system change]]
+- [[improve archives top-down]]
+- [[improve access and equity through tech]]

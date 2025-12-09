@@ -1,0 +1,13 @@
+---
+title: rhetoric
+parent:
+  - "[[structured thinking]]"
+peer:
+  - "[[contradictory truths]]"
+---
+
+## Mentions
+- "unpopularity of the term *rhetoric* in contemporary culture—for many, it’s just a synonym for *lies*"  [⤴️](https://read.readwise.io/read/01jj4ehxq96kfxvv1sg20hx442)
+
+## Resources
+- [[Rhetoric for Interaction - Analysis of Pathos]]

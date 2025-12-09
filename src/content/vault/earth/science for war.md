@@ -1,0 +1,19 @@
+---
+title: science for war
+parent:
+  - "[[ethics]]"
+  - "[[sciences]]"
+  - "[[war]]"
+  - "[[war, conflict and violence]]"
+peer:
+  - "[[tech for war]]"
+  - "[[tech for good]]"
+---
+
+- technological innovation
+- social sciences for war
+- eugenics
+- biological weapons
+
+## Resources 
+- [[Science, Ethics and War]]

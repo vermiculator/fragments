@@ -1,0 +1,19 @@
+---
+title: intimate publics
+parent:
+  - "[[emotional affect]]"
+  - "[[the personal]]"
+  - "[[public life]]"
+coined-by:
+  - (Berlant, 2008)
+seeded-by:
+  - "[[Blurred Public-Private Boundaries and Ethical Practices Through a Case Study on Instagram|(Ravn, Barnwell and Neves, 2021)]]"
+peer:
+  - "[[imagined audiences]]"
+aliases:
+  - intimate public
+---
+
+## Mentions
+
+- "Rather than opposing the intimate and the public, Berlant (2008) conceives of the “**intimate public**,” often produced by media and marketing, as “**constituted by strangers who consume common texts and things**” (2008, p. viii). For Berlant, this public can be characterized by emotion and personal life, in ways that unsettle more traditional ideas of “public life” that emphasize collective action and civic and democratic debate (Habermas, 1962; Sennett, 1977)."  [⤴️](https://read.readwise.io/read/01jxynabfpfxsav484nwpzc6n9) ^452c9f

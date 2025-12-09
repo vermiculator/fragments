@@ -1,0 +1,11 @@
+---
+parent:
+  - "[[context]]"
+peer:
+  - "[[decontextualisation as violence]]"
+---
+
+- - the paper on pub philosophers [->](https://share.google/UBTn9RnjeMo0tEHIb)
+        - "And yet, most of the pub philosophers with whom I work constantly engage in stripping down, abstraction, and decontextualization in their “inquiries.” Key to almost every pub philosopher is the basic principle that it is good to think with and from others, but every person thinks for him/herself. In that  sense, they are methodological individuals, at least as far as thinking goes. Further, thinking carefully through a particular topic in as disinvested and unfettered a way as possible does not preclude the recognition that speaking from somewhere or from concrete instances is also of value. The effort is to balance the two ways that help people aim for the truth without the expectation that truth or full knowledge is achievable, or indeed that any truth so achieved is there to be applied to real personal ethical dilemmas or choices. Thinking together well is important; resolution is left up to individuals."
+        - "important to ask why people might find decontextualization productive in certain cases and teach themselves to think more generally and abstractly"
+        - "assumes that decontextualization is problematic. It does not have to be" - my instinct that it is problematic perhaps is rooted in [[autistic hyperconnectivity]] and the specificity of my full intersectional experience often being [[cross-contextuality|cross-contextually]] relevant 

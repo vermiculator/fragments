@@ -1,0 +1,14 @@
+---
+title: open science
+aliases:
+  - open research
+parent:
+  - "[[sciences]]"
+  - "[[research and academia]]"
+  - "[[alternative systems]]"
+  - "[[journalism]]"
+peer:
+  - "[[fosssh|fossh]]"
+  - "[[scientific communication]]"
+  - "[[participatory design and participatory research|participatory science]]"
+---

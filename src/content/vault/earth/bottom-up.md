@@ -1,0 +1,8 @@
+---
+peer:
+  - "[[top-down]]"
+  - "[[how to make change]]"
+  - "[[inductive patterns|induction]]"
+child:
+  - "[[bottom up top down convergence]]"
+---

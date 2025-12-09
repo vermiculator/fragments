@@ -1,0 +1,62 @@
+---
+author:
+  - Sahana Chattopadhyay
+title: Demystifying the ‘Pluriverse’ as the Hegemony Unravels
+short-title: Demystifying the ‘Pluriverse’ as the Hegemony Unravels
+full-title: Demystifying the ‘Pluriverse’ as the Hegemony Unravels
+kind:
+  - articles
+url: https://medium.com/age-of-emergence/demystifying-the-pluriverse-as-the-hegemony-unravels-f85b93dd605e
+published_date: 2024-02-19
+peer:
+  - anti-individualism
+  - collectivism
+  - pluriversality
+short citation: (Chattopadhyay, 2024)
+aliases:
+  - (Chattopadhyay, 2024)
+---
+- "work done by scholars like *Arturo Escobar*, *Ashish Kothari*, *Walter D. Mignolo*, *Boaventura de Sousa Santos*, *Bernd Reiter* and others who have been exploring the concept of the Pluriverse from various perspectives"  [⤴️](https://read.readwise.io/read/01jvppqg7deb3a8mxxdzq5d3bh)
+- "The collapse of the hegemony was inevitable. The reductionist, mechanistic, and supremacist paradigm is long past its due date."  [⤴️](https://read.readwise.io/read/01jvppqya8htgx6xmakjxx3d06)
+- "imaginaries of possible futures that are counter-hegemonic, beyond anthropocentric, and beyond growth."  [⤴️](https://read.readwise.io/read/01jvpprbhvsehymaah10veq32m)
+- "need to be carefully nurtured, nourished, and stewarded."  [⤴️](https://read.readwise.io/read/01jvpprngw29p392k9cpb3h6sp)
+- "Pluriversality proposes alternative visions of a world that is essentially in alignment and in harmony with life. It is the vision of a world where myriad and diverse cosmologies, epistemologies, and ontologies overlap, intersect, interweave, and entwine to form a glorious tapestry of entanglement — a reflection of our indelible interconnectedness and inter-relatedness."  [⤴️](https://read.readwise.io/read/01jvppss3h5nkq2mk6b5648pbp) ^bf82e2
+- "a diverse and entangled web of narratives and different ways of seeing, sensing, and relating that coexist, not in power differentials, but in relationships of collaboration and cooperation."  [⤴️](https://read.readwise.io/read/01jvppt5v7wtyb456nt6stk3mm)
+- "the vision of ‘a world where many worlds fit’"  [⤴️](https://read.readwise.io/read/01jvpptbhwk5t41kvyk6qzvzfz)
+- "first introduced in the Zapatista’s own decolonial political vision of a world in which many worlds would coexist"  [⤴️](https://read.readwise.io/read/01jvpptpzh84qmq9ayctztv0v2)
+- "The Eurocentric hegemony was imposed on the rest of the world as an imperial-colonial project; pluriversality eschews this singular narrative."  [⤴️](https://read.readwise.io/read/01jvppva4yd4jgxdrvqefhbd8n)
+- "Pluriversality embraces contextual knowledge, partial knowing, and experiential living."  [⤴️](https://read.readwise.io/read/01jvppvgw4ywnmnn2ef80addns)
+- "the imaginaries and frameworks of pluriversality offer unflinching and compassionate guidance to swim against the currents of egoism, power, and privilege."  [⤴️](https://read.readwise.io/read/01jvppw0ynk9v9bkgf492hdx8g)
+- "offer an invitation to all to collectively reimagine and reconstruct a pluriversal planet."  [⤴️](https://read.readwise.io/read/01jvppwc60jwdwsnwnbjeepja1)
+- "the interests of the Global North taking precedence has been the norm for the past five centuries since the beginning of colonization, and was further strengthened through neoliberal capitalism and the imposition of ‘free market’ globalization."  [⤴️](https://read.readwise.io/read/01jvppxb5k425eh6wk0ky19zx0)
+- "unipolar world order, currently led by the USA with the support of its Western allies."  [⤴️](https://read.readwise.io/read/01jvppxfsnr2wacjkcc8cy4swr)
+- "seeks to dominate and preserve control over the way the world is governed, the global economy, and the relationship amongst nations. It is supported in these endeavors by bodies like the World Bank, IMF, WTO, NATO, and other regulations and treatise like the The Transatlantic Trade and Investment Partnership (T-TIP)."  [⤴️](https://read.readwise.io/read/01jvppy8ckde9d1w44hcnjvn0g)
+- "**multipolar world** has been opened up by the economic growth and political confidence of China’s interstate politics, together with the BRICS (Brazil, Russia, India, China, South Africa) nations,"  [⤴️](https://read.readwise.io/read/01jvppyx9enrz2zp29fr1qcxn4)
+- "**Polarity** in [international relations](https://en.wikipedia.org/wiki/International_relations) is any of the various ways in which [power](https://en.wikipedia.org/wiki/Power_(international_relations)) is distributed within the international system."  [⤴️](https://read.readwise.io/read/01jvppzgqkwrknd6hy9tmh84k3)
+- "**unipolarity**, **bipolarity**, and **multipolarity** for three or more centers of power. The type of system is completely dependent on the distribution of power and influence of [states](https://en.wikipedia.org/wiki/State_(polity)) in a region or globally."  [⤴️](https://read.readwise.io/read/01jvppzvcm907wd1xtme57hpvv)
+- "“***unbalanced multipolarity***.”"  [⤴️](https://read.readwise.io/read/01jvpq0d7t5650z8bpfbtvzqn9)
+- "a multipolar world order is predicated on power-differentials between nation-states vying for control of resources and influence in the global arena. The rules of the game don’t significantly change; there are only more contenders for the top positions."  [⤴️](https://read.readwise.io/read/01jvpq2bcka93jk8estrp9rpwt)
+- "Multipolarity is essentially state led, and therefore continues to propagate a dominant narrative as ratified by the states in question. Multipolarity doesn’t shift the underlying paradigms of neoliberal capitalism and free market premised on extraction, exploitation, expropriation, and endless capital accumulation."  [⤴️](https://read.readwise.io/read/01jvpq2y42wb3v88bwyms2tdhe)
+- "Since multipolarity continues to be predicated on power negotiations, the larger powers can negotiate “mega-regional” agreements more easily than smaller ones."  [⤴️](https://read.readwise.io/read/01jvpq37zaawz4rrc1pvadfc65)
+- "a multipolar world order isn’t necessarily decolonial or dialogic."  [⤴️](https://read.readwise.io/read/01jvpq3eb0fqd31mem8v2dw3sg)
+- "**Pluriversality is the decolonial way of dealing with epistemology, ontology, and cosmologies that aims to change our praxis of living in the world.** It eschews the power-hierarchies and polarizing ideologies of multipolarity; but recognizes multipolarity as a move towards dewesternization."  [⤴️](https://read.readwise.io/read/01jvpqg7evs2q4xmx15j8p1s84)
+- "Dewesternization is a heterogeneous set of responses disputing the unipolar management of the world’s population and natural resources. Pluriversality, predicated on decoloniality, does not compete with dewesternization and re-westernization, but rather aims to delink from both — that is, to delink from state imposed forms of governance, from the extractive economic monomyth of accumulation, and from the power-hungry personalities that run the current hegemonic world order."  [⤴️](https://read.readwise.io/read/01jvpqk3ds9h0qqsxyz2m7ewma)
+- "**Decoloniality and Pluriversality is not a master plan or a global design**. They are, above all, a diverse horizon of liberation constructed by the heretofore marginalized and oppressed voices. There cannot be a decolonial global design, a single narrative."  [⤴️](https://read.readwise.io/read/01jvpqkd9w3x3n4mxe56p6244g)
+- "pluriversality is about shifting our beliefs and understanding of the world, which would lead to changing our praxis of living in the world"  [⤴️](https://read.readwise.io/read/01jvpqkp8ztyyyyzr714zt1xap)
+- "a weaving together of diverse narratives, not tied together by ‘isms’ but by something far deeper and profounder — a life-affirming philosophy of love, dignity, abundance, and joy."  [⤴️](https://read.readwise.io/read/01jvpqmshsfs524j01gvxwgyd5)
+- "our natural state of being, which was violently wrested from us through an imposition of the misguided doctrine of Separation."  [⤴️](https://read.readwise.io/read/01jvpqn835r9kbncmjz7kejn6r)
+- "As *Gary Nabhan* has written, we can’t meaningfully proceed with healing, with restoration, without ‘re-story-ation’. **Pluriversality is thus, a ‘re-story-ation’ of the world; it is an invitation to see the world as constructed through stories, where myriad narratives intersect, overlap, converge, diverge, and merge to form an intricate, resilient, and living web of life**"  [⤴️](https://read.readwise.io/read/01jvpqny3q8de0vgy91zt4eqx9)
+- "Colonization always seeks to destroy stories — through the destruction of schools, libraries, museums, artwork, and knowledge systems. This is rightly called **epistemicide**. The erasure is the aim to render invisible the uncountable sediments of history, which include innumerable and dizzying variety of peoples, languages, experiences, and cultures. These are deliberately destroyed as a process of elimination of alternative narratives, and the imposition of the hegemony. Thus, all memories and histories are swept aside or ignored, relegated to the sand heap and ground into meaningless fragments."  [⤴️](https://read.readwise.io/read/01jvpqp7n6yj4ma6e1y713x48j)
+- "colonization distorts history and wrenches cultural symbolisms out of context thus turning them into mere objects or curiosities."  [⤴️](https://read.readwise.io/read/01jvpqq4h0fya8ybpbzdkwvnfx)
+- "This is how people’s histories are eradicated, rendered invisible, and relegated to forgotten fragments."  [⤴️](https://read.readwise.io/read/01jvpqqb802tc51ar32spm5rba)
+- "luriversality looks at history, not with nostalgia or with a desire to go back, but with a curiosity to learn so that the emerging futures are firmly rooted in the cultures, contexts, and shared memories."  [⤴️](https://read.readwise.io/read/01jvpqqncttqc4g1ztj4gdnq51)
+- "For the colonizer, delinking the colonized from their roots is a way to retain control."  [⤴️](https://read.readwise.io/read/01jvpqqsxxqjq4c4qq0sh59342)
+- "coaxing and coercing towards homogenization and standardization is a violent process, euphemistically called ‘integration’, that has been a core practice of colonization."  [⤴️](https://read.readwise.io/read/01jvpqrrs31hajaxsytm53xt7j)
+- "Pluriversality eschews homogenization; it is predicated on embracing the diverse, not towards a goal of uniformity, but towards co-creating a shared vision of a pulsating, wondrously diverse, and thriving world."  [⤴️](https://read.readwise.io/read/01jvpqs228ynygd10gaaw8vx3c)
+- "goes beyond **heterogeneity** and invites **multiplicity**. Heterogeneity is about disparate and different powers. Multiplicity is about holding the differences in a profusion of abundance that overlaps, intersects, weaves, and dances together. It is about honoring our entangled lives and miraculous abundance. The differences are not divisive but the much-desired diversity that strengthen, mutually nourish, and form the bulwark of a resilient and antifragile world."  [⤴️](https://read.readwise.io/read/01jvpqt02f1j9dyj5z01tr4abg)
+- "the challenges are ‘wicked problems,’ which as any systems thinker will know, cannot be solved using reductionist and linear thinking."  [⤴️](https://read.readwise.io/read/01jvpqth2z7w08c4jdhmmwwfxh)
+- "The hegemonic order simply ends up doing more of the same, imposing standardized ‘solutions’ across varying contexts and cultures, and enforcing a one-size-fits-all approach on distinctly different issues."  [⤴️](https://read.readwise.io/read/01jvpqtt070ez1xn8p6qpyenpq)
+- "*“To rely on a single model is hubris,”* writes Page."  [⤴️](https://read.readwise.io/read/01jvpqvcngk84g54hdv095f5t6)
+- "The pluriversal world is one that is networked and connected via stories. The nodes are the people, communities, societies. And stories are the links."  [⤴️](https://read.readwise.io/read/01jvpqxgg2qymycfc7bf7s06gy)
+- "as the Argentinian author *Jorge Luis Borges* put it, “*everything touches everything*.”"  [⤴️](https://read.readwise.io/read/01jvpqxtydz709kdphspp697wc)
+- "story by story, vision by vision, powered by the imagination of many."  [⤴️](https://read.readwise.io/read/01jvpqy4gzr2q1abwgkjwasza7)

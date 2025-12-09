@@ -1,0 +1,19 @@
+---
+title: How Google’s Bad Data Wiped a Neighborhood Off the Map
+author:
+  - Caitlin Dewey
+kind: articles
+tags:
+  - big-tech
+  - gentrification
+url: https://onezero.medium.com/how-googles-bad-data-wiped-a-neighborhood-off-the-map-80c4c13f1c2b
+peer:
+  - "[[unethical marketing]]"
+  - "[[participatory place-making]]"
+  - "[[techno-politics]]"
+  - "[[data ethics]]"
+published_date: 2019-03-14
+---
+## Extracts
+- "calculated tweak in favour of gentrification, a digital rechristening that would be used to sell houses"
+- "the misnomer also revealed a great deal about the invisible process major tech firms use to put neighbourhoods on their maps — and how decisions based off arcane data sets can affect communities thousands of miles away."

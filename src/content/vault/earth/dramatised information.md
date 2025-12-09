@@ -1,0 +1,7 @@
+---
+peer:
+  - "[[content is data performed]]"
+parent:
+  - "[[data and information processing]]"
+  - "[[scientific communication]]"
+---

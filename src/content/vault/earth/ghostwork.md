@@ -1,0 +1,9 @@
+---
+title: ghostwork
+parent:
+  - "[[cyberfeminism]]"
+  - "[[digital creative labour]]"
+---
+
+- digital works, making visible the labour and layers of input - like screenshot crunch, Tumblr 'drowning'
+- term coined in a specific work i lost, find that to link to

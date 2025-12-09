@@ -1,0 +1,16 @@
+---
+author:
+    - Oolong
+title: "Autistic Skill Sets: A Spiky Profile of Peaks and Troughs » NeuroClastic"
+summary: Autistic people tend to have spiky skill profiles. What are the pros, cons, and misconceptions surrounding this aspect of autism?
+kind: articles
+url: https://neuroclastic.com/2019/07/05/autistic-skill-sets/
+peer:
+  - "[[autism]]"
+  - "[[neurodiversity]]"
+  - "[[human relations]]"
+---
+- "When things build on our existing interests, perhaps the [deep-linking style of the monotropic mind](https://thepsychologist.bps.org.uk/me-and-monotropism-unified-theory-autism) lends itself to rapid progress within an area, often at the cost of poorer generalisation between areas of skill."  [⤴️](https://read.readwise.io/read/01jbm59xxzrvzy6rfdpqhsmw4p)
+- "the savant narrative often talks about splinter skills in almost _mystical_ terms– as if they were acquired effortlessly, when in many cases the opposite is true."  [⤴️](https://read.readwise.io/read/01jbm59y0jcphtgkmgf86frpaj)
+- "We all benefit from being around people who are not like us, as well as from people who are. The diversity of human thinking is one of our species’ great assets, and communities do best when they make the most of everybody’s strengths and support them with their difficulties. The first step in doing that is to recognise what those strengths and support-needs are."  [⤴️](https://read.readwise.io/read/01jbm59y2p4dv95xgvyzqr8rbx)
+

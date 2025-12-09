@@ -1,0 +1,83 @@
+---
+themes:
+  - shared resources
+tags:
+  - commons
+title: carrying things
+---
+
+## Links
+- [[libraries of things]] 
+- [[community-owned infrastructure]]
+- [[object as extension of self]]
+- [[public property|commons]]
+
+
+- ### The Concept
+- I'm interested in the kinds of things we tend to surround themselves with - exploring questions of ownership, significance, utility and portability.
+
+## Notes
+
+- property, property and property
+	- Properties of things, philosophy, semantics and compsci 
+	- property (houses)
+	- concepts of ownership
+	    -  physical property that is [[public, private and personal]]
+	    - people as property
+	- classifications of object types, property law and insurance policies
+- archaeological findings, material histories, death rituals and 'taking it with you'
+- advice and regulation and tradition pertaining to carried objects
+	- EG Scout guides, army guides, personnel guides, religious traditions, as well as etiquette or cultural guides and marketing
+- peer-to-peer in practice
+		- publicly owned things in circulation between individuals
+		- publicly owned things allocated to individuals for practicality
+		- lending
+		- lending property in relation to economics (see Debt: The First 500 Years)
+- objects and personhood, decorated space and sense of self
+- varying cultural perspectives on property and economic value 
+   -   [[Debt - The First 500 Years]]
+- significance, souvenir, keepsake, token, ticket
+- portability, carrying vs wearing
+	- functional outfits
+	- tech wearables
+	- health wearables
+- utility and usefulness and design and affordances and usability, functional Vs beautiful Vs design Vs art
+- [[equipped]]
+- [[Pockets and pocket things]]
+- [[luggage]]
+- portability, straps, wheels, handles, leverage
+- thing as concept
+- object and data, [[digital twins]]
+- big things
+	- gigantic versions of normal things
+	- big feats of human construction and coordination
+	- monumentality
+	- when is it too big to be an object
+	- Occupying space, humans being around and in things, parking, claustrophobia 
+- what we do with stuff
+	- construction
+	- deconstruction
+	- rearrangement
+	- occupy
+	- engaging
+	- rearranging
+- ephemeral things
+- props
+- trash cultures, consumables, reuse, circularity, waste
+- ye olde personal tools, time-contextual fundamentals and those that persist
+- personal devices
+	-  'if this is a shared computer'
+	- poorer/more mobile/homeless people's relations to lack of tech access
+	- older people and devices, links to [[origins of modern luddism]]
+- maintaining tools, weapon as tool, craft tools and trade tools
+- survival, prepping and disaster
+- hoarding
+- substances, medication, medical object
+- scales of personal space
+- carrying as a psychological metaphor, a physical effect and a psychological effect of carrying both to much or too little: over and under preparedness
+- theory of forms, materiality, thing theory, other philosophies,
+	- The 'other extra magical part' that makes a thing a thing is just us, the perceiver, the labeller, the language user, etc. On how something is only a thing when perceived to be so
+	- 'i was using the word 'thing' in what tomison called a 'neutral' sense Vs a 'sortal' sense, an implied category. The neutral is useless for asking questions eg how many concepts that can be described as X
+- Temporary, long-term and 'permanent' storage
+- taxonomies and classifications of object types 
+- organic and artificial matter, object and life

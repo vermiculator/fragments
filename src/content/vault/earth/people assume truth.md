@@ -1,0 +1,24 @@
+---
+title: people assume truth
+parent:
+  - "[[psychology]]"
+  - "[[philosophy]]"
+  - "[[cognitive science]]"
+  - "[[earth/mental models]]"
+peer:
+  - "[[internet content]]"
+  - "[[knowledge and truth|truth]]"
+  - "[[trust]]"
+themes:
+  - schemas
+instanceOf:
+  - "[[bias and fallacy|cognitive bias]]"
+---
+
+- generally people do not check the source of a statement
+	- especially if a seemingly-plausible source is clearly given 
+	- especially if the statement agrees with their existing knowledge
+	- especially if it is in visual/audio form? 
+		- why? Is it to do with better visual memory
+	- especially on the internet? ^7b0804
+		- why? Is it just a [[tendency to trust recorded information]]

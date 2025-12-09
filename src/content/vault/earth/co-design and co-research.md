@@ -1,0 +1,21 @@
+---
+title: co-design
+parent:
+  - "[[design]]"
+  - "[[participatory methods]]"
+  - "[[research and academia]]"
+peer:
+  - "[[democratic participation]]"
+  - "[[participatory place-making]]"
+  - "[[research is relational]]"
+aliases:
+  - co-research
+  - co-design
+---
+
+- consultation -> collaboration -> co-creation
+- shared power in decision-making and research direction
+- using design justice frameworks to centre marginalised communities
+- directly addressing power imbalance, involving democratic processes and direct involvement of users
+- requires genuine commitment and is intensive on time, resources and facilitative skill
+- collective ownership of outcomes

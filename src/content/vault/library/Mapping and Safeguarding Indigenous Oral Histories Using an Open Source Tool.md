@@ -1,0 +1,79 @@
+---
+kind: videos
+url: https://www.youtube.com/watch?v=lwc22MC4wzg&feature=youtu.be
+title: Mapping and Safeguarding Indigenous Oral Histories Using an Open Source Tool
+author:
+  - NACIS
+  - Rudo Kemper
+parent:
+  - "[[history and heritage]]"
+  - "[[indigenous perspectives]]"
+  - "[[fosssh]]"
+  - "[[oral history]]"
+---
+- from a talk by The North American Cartographic Information Society
+- Rudo Kemper - geographer and technologist working here with the Amazon Conservation Team (usually works with Digital Democracies)
+
+- "We wanted to be able to give the community the ability to control who views the points and who views the story, so if there's restricted stories that are about a spiritual place or a historical place, that should only be shared with community members and nobody else. It's kind of internal knowledge; they should have the ability to control that"
+- "One of the central concerns that we had in mind in building this application is the complete sovereignty over the data and control that the community has - this is something that's really important for Amazonian communities that are very concerned about data extractivism and had a lot of experiences in the past with outsiders coming in. So when we talk about extractivism we don't just mean resources, but it can also be knowledge and stories, right, and even academics that build their career off of extracting data."
+- "They want to the world to know that they exist, that they are on the map, because when you go on a standard map you don't see them - but then they still want to protect certain stories, so that's part of the mechanism."
+
+- hand-drawn maps of 2.5million hectares
+- elders very used to outsiders, visitors from gov etc and data extractivism
+- cheiftain decided maps from their perspective was important
+- empty names or colonial place-maps
+- sacred sites, historical places, traditional knowledge, natural resources, medicines
+- digitise and put into GIS systems in early 2000s
+- negotiations for land and demarcation of lands, useful for political purpose
+- blurring it in research as its community data
+- narrative and storytelling 
+- places of great sacred importance
+- privacy factors
+- publication with emphasis on their connection to lands
+
+	"I had no idea at the beginning that so much story would come out of the mapmaking process...
+	At first I thought we would create some new kinds of maps that counter and challenge the notion of what maps are: where north does not have to be at the top; that scale is unnecessary...
+	\[But] what's more important are the stories, or the history described in these vignettes of experience. And now these are here for all Zunis to learn from, from here on out...
+	The whole constellation of what makes up a map to me has always been far beyond a piece of paper. When people have a map that is part of affirming their identity, it tells them they are of this place." 
+	- Jim Enote, traditional Zuni farmer and director of the A:shiwi A:wan Museum and Heritage Center in New Mexico. Counter Mapping video on a similar project in North America
+
+- Afro-descendant community, Matawai Maroon Ancestral Mapping 2015 - 2017
+- the oral histories are crucial
+- worked with the youth in the community to record the elders telling stories
+- participatory, directly by and for the youth
+- interactive maps, narratives directly alongside the maps
+- using maps to tell stories, online publications
+- not necessarily viewable out in rainforests etc
+- a big concern in many indigenous communities is that youth don't want to sit and listen to elders, they have smartphones - fun for kids and teachers love it as it includes computing, history, geography, and speaks to the kids where they are
+- they designed a methodology and best practises in working with oral histories
+- prior relationships - not directly trying to connect, they reach out first. long term engagement, coming back to visit
+- need to keep coming back to validate regularly too
+
+requirements:
+- online offline compatible
+- custom basemap as eg private knowledge you don't want on openstreetmap
+- community privilege to access and view, granular permissions, internal knowledge
+- a tool for visualising rather than creating data, ability to stream audiovisuals
+- free and open source as similar needs elsewhere
+- usable
+
+technical:
+- map in mapbox studio or geojson format
+- av content
+- free download of terrastories software
+- fully translatable 
+- primary view of maps and stories
+- can work offline using a tile-server
+- takes you to place from story and story from place
+- can categorise by speaker etc or community taxonomy.
+
+still working on:
+- ease of installation and making it out-of-the-box ready
+- safely and regularly backing up sensitive data
+- protecting data of individuals, data sovereignty, data extractivism
+- intercompatibility with other open source applications
+- peer to peer instance syncing
+- guaranteeing indefinite use in perpetuity for the community - what happens when the hardware breaks
+- curriculum builder for teacher use case
+- earth defenders toolkit of value-aligned software, manuals and compatibility, sharing methodologies etc
+

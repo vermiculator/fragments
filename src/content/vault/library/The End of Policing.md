@@ -1,0 +1,51 @@
+---
+title: The End of Policing
+author:
+  - Alex S. Vitale
+kind: book
+status: DORMANT
+peer:
+  - "[[anti~fascism]]"
+  - "[[police powers]]"
+  - "[[collectivism|anti-individualism]]"
+  - "[[abolition]]"
+---
+
+## 1: The Limits of Police Reform
+- "... because an officer's first instinct was to shoot ... who misunderstood their mental illness... "by mistake" because officers didn't use enough care in handling their weapons"
+- US law requires reporting of the number (and nature) of homicides at the hands of the police. Many police departments do not comply.
+- "black teens are up to twenty-one times more likely than white teens to be killed by police"
+- black and latine people (US) targeted way more in low level interactions like traffic tickets, searches, arrests for minor infractions, in NYC this is at least 80% POCs
+- those who question police authority subjected to verbal and physical abuse
+- "warrior mentality" as soldiers versus public rather than guardians of public safety
+- many have military backgrounds, War on Drugs and War on Terror continue to frame it this way
+- "casual disregard for his wellbeing", "seeming indifferent reaction to his near lifelessness"
+- "broken windows" style policing - aggressive enforcement of low-level issues - 1982 Wilson and Kelling - believing one broken window indicates lack of maintenance which will unleash 'latent destructive tendencies' 
+- "if cities want to establish or maintain crime-free neighbourhoods they must take action to ensure that residents feel the pressure to conform to civilised norms of public behaviour "
+- 1970 The Unheavenly City argues that the poor are trapped in a culture of "apathy" such that \[he] "does not mind the inadequacy of public facilities" !?
+- Wilson and Siegel seeded much of the belief that the problem was 'essentially moral' and the solution was 'punitive social control mechanisms'
+- Wilson co-authored book on 'biological determinants of criminality' 
+- "empower the police \[...] to become agents of moral authority"
+- "magically reverses the well-understood casual relationship between crime and poverty"
+- Attempts to shift the responsibility of poor living conditions onto the victims
+- "Diversity and multicultural training is not a new idea, nor is it terribly effective."
+- ineffective in policing specifically as the institutional pressures are not relieved
+- general training is inadequate - police regularly take action based on misunderstanding or inadequate knowledge of the law
+- "the officer insisted that the man's passive resistance was a threat that had to be neutralised"
+- training is more on strict discipline and rote law learning than on decision-making in complex environments
+- heavy emphasis on officer safety, with the teaching that "any encounter can turn deadly in a split second of officers don't remain ready to use lethal force at any moment" - making them quick to use force at any uncertainty
+- "see unexpected movement, shoot"
+- part of the emphasis on deadly force comes from independent training staffed by military personnel, with "battle-proven tactics"
+- increased use of armed SWAT teams (US) for drug warrants and regular patrols
+- regularly in the wrong location. 
+- increasingly used against protest action
+- SWAT teams often heavily funded by (alleged) drug money they sieze
+- 1970s police reform funding intended to reduce police brutality used instead to train and arm SWAT teams
+- diverse forces do not have lower instances of profiling
+- "use of force is highly concentrated in a small group of officers who tend to be male, young, and working in high-crime areas", exacerbated by 'weak accountability mechanisms and culture of machismo'
+- "These same cultural and institutional forces militate against differential behaviour by non-white officers"
+- departmental priorities set by local leaders that favour high-aggression, so black police in black neighbourhoods are still overpolicing due to these institutional priorities
+- often funding is spent to improve 'procedural justice' which is intended for training, better equipment, research and prevention and rehab strategizing, coordination between justice system, etc across the board, but largely spent on SWAT and drug enforcement 
+- at root, calls for better procedure and more professionalism fails to see the basic nature of policing as a tool for maintaining one vision of status quo
+> - "even racially neutral enforcement of traffic laws will invariably punish poorer residents who are least able to maintain their vehicles and pay fines. Well-trained police following proper procedure are still going to be arresting people for mostly low-level offenses, and the burden will continue to fall primarily on communities of color because *that is how your system is designed to operate* - not because of the biases or misunderstandings if officers."
+- hhh

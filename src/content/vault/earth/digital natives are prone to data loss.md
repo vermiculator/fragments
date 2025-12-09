@@ -1,0 +1,41 @@
+---
+tags:
+  - privacy
+  - interfaces
+  - data
+  - platforms
+  - big-tech
+  - commons
+  - knowledge-sharing
+themes:
+  - data ethics
+  - data loss
+title: digital natives are prone to data loss
+---
+
+## Links
+- [alternative systems](alternative systems)
+- [[preserving old methods]]
+- [[sharing processes and methods]]
+- [[platforms and silos]]
+- 
+## Notes
+- 'digital natives' without physical record of memories or important documents or important resources/guides are prone to losing entire lifestyles, entire histories, entire records.
+	- central backups are a thing but are held by fallible institutions
+	- huge losses at the whim of corporations and platforms
+	- better personal backup mechanisms?
+		- requires non-proprietary data formats
+		 -  open-source clones of popular sites are useful for this
+	- providing public decentralised data retrieval? 
+		- eg free/open-source data extractors
+		- but also, a physical alternative?
+			- eg streamlined mechanisms to store e-books on external storage, and/or print them off for archival
+			- consider those photo printing booths in eg Boots where you can connect social media
+			- this but free, private, public, open-source, etc
+			- even could compromise bring-your-own-paper or similar
+	- provision of information in a wider variety of formats can support those with accessibility needs, cross international/political limitations (e.g. communicating with dissident activists of authoritarian states), etc. 
+	- Open data is incredibly powerful.
+- Corporations as non-individuals despite appearing so in law -- concerned ultimately with protecting their assets and capital, mostly non-inclusive of the workforce or service users -- yet hold a huge amount of knowledge-power, personal info, etc
+- to the extent that younger generations have a lot more stake in the platforms they use that does not translate to power and autonomy
+- Entire communities, lifestyles, careers, reputations etc at the whim of mostly oblivious companies
+- platforms are designed to keep users on and not move their data out.

@@ -1,0 +1,28 @@
+---
+title: No Logo
+author:
+  - Naomi Klein
+peer:
+  - "[[anti~capitalism]]"
+  - "[[place-making]]"
+  - "[[unethical marketing]]"
+  - "[[activism]]"
+  - "[[anti~consumerism]]"
+  - "[[anti~advertisement]]"
+  - "[[urban planning]]"
+---
+## Notes
+### Chapter 1
+- "The modern city has been layered haphazardly on top of the old"
+- "Their only remaining capitalist function is to hoist large blinking billboards on their tar-coated roofs."
+- "the layering of decades" 
+- "post-industrial limbo"
+- "urban performance art"
+- "the transformation of the garment workers' struggle into sweatshop kitsch"
+- "it is an attempt to capture an anti-corporate attitude I see emerging among young activists. This book is hinged on a simple hypothesis that as more people discover the brand name secrets of the global logo web, their outrage will fuel the next big political movement, a vast wave of opposition squarely targeting transnational corporations" but based on observation of underground networks rather than just prediction
+- students growing more concerned by involvement of corporations in private schools
+- washroom ads
+- "academic studies were starting to look more and more like market research"
+- "institutional priority shifted to those most conducive to private partnership"
+- growing more concerned with daw away hidden projects and investments of their institutions 
+- 

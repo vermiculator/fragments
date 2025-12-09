@@ -1,0 +1,15 @@
+---
+title: Tech for Good or Tech for Greater? Understanding Hybrid Identity and Scaling Social Impact in UK Tech-Social-Enterprises
+author:
+  - University of Edinburgh Business School
+kind: articles
+url: https://www.business-school.ed.ac.uk/collaborate/dissertation-executive-summaries/tech-for-good-or-tech-for-greater
+peer:
+  - "[[issues with non-profit system]]"
+  - "[[anti~consumerism|anti-commercialism]]"
+  - "[[anti~capitalism]]"
+  - "[[ethical tech and tech for ethics]]"
+---
+## Extracts
+- "What was found was that SE’s hybrid identity was argued to cause the clashing of social and commercial aims leading to mission drift and ultimately hinder the ability to scale social impact."
+- "in practice, the firms all viewed themselves as commercial tech enterprises driven by a social mission."

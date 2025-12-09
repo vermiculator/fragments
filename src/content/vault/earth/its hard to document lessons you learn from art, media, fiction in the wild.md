@@ -1,0 +1,19 @@
+---
+title: its hard to document lessons you learn from art, media, fiction in the wild
+parent:
+  - "[[culture, art and media]]"
+peer:
+  - "[[limited notes on this as I listened on-the-go|notes from audio]]"
+---
+
+- best method I've found thus far is in keeping a [[commonplace books|commonplace book]]
+- learning strategies differ for fact-books and experience-books, narratives 
+- novels are written for experience-based knowledge, transport you into a characters shoes to uncover a story to learn morally and through absorption you get critical analysis. immersion first, the insights come at the end.
+- as with our own narratives, [[lived forwards, understood backwards]]
+- quick-note the aha moments
+- how did it transform me, change my thinking, resonate with me. what touched me. 
+- don't look for overarching themes until afterwards
+- learning through sympathy rather than detached logical analysis
+
+## Resources
+- 

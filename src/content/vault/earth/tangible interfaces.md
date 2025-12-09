@@ -1,0 +1,18 @@
+---
+title: tangible interfaces
+themes: haptics, materials, physical properties and affordances, fuzzy inputs, alternative data display, alternative peripherals
+links:
+  - "[[tangible privacy]]"
+  - "[[affordances]]"
+  - "[[soft computing]]"
+  - "[[accessibility|accessibility]]"
+  - "[[analogue computing]]"
+parent:
+  - "[[interaction]]"
+  - "[[analogue computing]]"
+  - "[[better interfaces]]"
+---
+
+- 
+## Resources
+- https://www.theverge.com/button-of-the-month

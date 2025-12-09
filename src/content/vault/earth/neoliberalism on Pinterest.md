@@ -1,0 +1,10 @@
+---
+peer:
+  - "[['apolitical' masses]]"
+  - "[[issue-specific politics]]"
+  - "[[Pinterest is for commercialism]]"
+parent:
+  - "[[neoliberalism]]"
+  - "[[Pinterest]]"
+---
+there's discussion of feminism/activism on Pinterest in scholarship but more from identity-politics/issue-specific perspectives as opposed to collectivism and wider liberation and anti-capitalism

@@ -1,0 +1,11 @@
+---
+parent:
+  - "[[international relations]]"
+peer:
+  - "[[unipolarity]]"
+  - "[[pluriversality]]"
+---
+
+## Resources
+- [The emerging multipolar world order: A preliminary analysis](https://www.tandfonline.com/doi/full/10.1080/00131857.2022.2151896)
+- [The Multipolar World: Meaning, Characteristics, Historical Evolution and Key Pillars](https://indiacsr.in/multipolar-world-meaning-evolution-pillars/)

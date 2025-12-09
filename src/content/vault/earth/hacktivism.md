@@ -1,0 +1,10 @@
+---
+title: hacktivism
+parent:
+  - "[[activism]]"
+  - "[[tech]]"
+---
+
+## Resources
+- [maia's blog](https://maia.crimew.gay/posts/please/)
+- [learn to hack](https://enlacehacktivista.org/index.php?title=Learn_to_hack)

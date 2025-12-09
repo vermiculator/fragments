@@ -1,0 +1,65 @@
+---
+themes:
+  - data ethics
+peer:
+  - "[[involuntary data capture]]"
+  - "[[data extractivism]]"
+  - "[[data noise]]"
+child:
+  - "[[Keep your inbox empty]]"
+  - "[[keeping your data to yourself]]"
+parent:
+  - "[[techno-politics]]"
+  - "[[data and information processing]]"
+  - "[[privacy, security and surveillance]]"
+title: collect less data
+aliases:
+  - data overcollection
+---
+
+  
+  Common practice assumes that the more data collected, the more useful tech can be. Data subjects often disagree.
+  
+## Notes
+- Look to reduce the amount of digital data collected, increase interoperability, etc
+	- one-login methods eg SSO, OAuth, password keepers
+- retaining good [[accessibility|accessibility]] and [[useful data]] for [[usability]] whilst giving more power to individuals
+	- eg 'your preferences' is a non-solution to privacy, so cumbersome to opt out and that many blanket-accept, and site is often impossible to use regardless of choices, see [cookies and gdpr](cookies and gdpr)
+- [[You nearly-never need to know a user's gender, actually]]
+- always prefer allowing self-identification on identity-based fields such as gender, religion, sexuality and nationality
+	- very minor data cleaning need, BUT
+	- ethical.
+	- way more accurate data!
+	- more uptake, if you're a non-essential service, or no EDI lawsuits if you're mandatory in some way
+		- anecdotally and from personal experience, gender-variant people will abandon web forms with inadequate options if we can afford to
+- consider making more fields optional, autofill already held data, or best of all, remove any requirement for this info
+	- [[let me choose the communication method]] for much better accessibility, dignity, and logistical ease for service-providers and service-users alike
+- oppressed people are in administrative lose-lose
+	- there is actually a huge cost to either disclosing or omitting 'variant' status
+	- almost always admin cost, sometimes privacy cost, and sometimes safety cost
+	- eg trans people end up in back-and-forths over records that do or don't exist under varying names and 'gender markers'
+		- I've personally had important medical records lost by institutions under these discrepancies, and this is very much not just me
+		- no matter which 'combo' entered in web forms, paper forms, say on the phone or in person, there will be confusion, dismissal, and sometimes hostility, with regards to any perceived mismatch in name/gender records, presentation and declaration
+	- for more on the logistical nightmare of trans healthcare, see [[I Emailed My Doctor 133 Times - The Crisis in the British Healthcare System]] 
+	- disabled people have huge logistical (and therefore often financial) costs in (everything, but specifically) managing admin
+		- plus often have more admin needed
+			- eg managing healthcare, transport for healthcare, transport where an able person might have more options, possibly support/care for themselves or dependents
+	- so there is bigger energy/communication support/transport cost to completing admin tasks
+		- and yet data still won't be accurate to this population
+			- disabled bodies, abilities, methods and lifestyles often don't fit into enumerated categories
+			- disabled people undervalued contributors and overlooked in many cases
+			- data collection itself is often inaccessible
+		- disclosing a disability for necessary support can lead to discrimination, loss of job prospects, and other service-blocking
+		- and non-disclosure means needs aren't catered for anyway
+	- large evidence base for non-'white-sounding' or non-Western names being discriminated against, especially in the job market, but those who use multiple names have the same logistical nightmare as outlined above with trans people, as well as the psychological and socio-cultural effects of self-mutilation of identity
+	- I'm sure there are plenty of examples from other oppressed groups on how seemingly innocuous data collection practices worsen their respective oppressions or provide a new venue for harassment
+		- eg non-native English speakers on a largely English internet
+		- eg mandatory 'home address' input for the unhoused or nomadic
+	- I'm also interested in the way in which people 'get around' these restrictions and how this is a form of tech activism that obscufates, 'poisons' or 'muddies' the data, whether out of active rebellion or sidestepping out of necessity (or both)
+- ethical considerations of arbitrarily collected data
+	- tracking user activity
+	- marketing to select demographics
+	- using two-dimensional 'user personas' in UX
+	- health data privacy
+	- safety of oppressed groups
+	- data leaks

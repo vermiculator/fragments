@@ -1,0 +1,10 @@
+---
+title: heart-warming small acts of solidarity
+aliases:
+  - heart-warming small act of solidarity
+parent:
+  - "[[activism]]"
+peer:
+  - "[[performative activism]]"
+  - "[[commenting as public performance]]"
+---

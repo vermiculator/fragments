@@ -1,0 +1,29 @@
+---
+title: reflecting on research
+parent:
+  - "[[research and academia]]"
+peer:
+  - "[[research planning]]"
+  - "[[research direction]]"
+---
+
+scheduling regular reflection
+understand the limitations and successes
+
+reflecting isn't just looking back but shaping direction
+how is it informed by your [[positionality]]
+
+Ways to reflect
+	Collective
+		• Brainstorm
+		• Groupchat
+		• Interview
+		• Peer Feedback
+		• Reading Group
+	Personal
+		• Diary
+		• Ethical Review
+		• Mapping
+		• Notebook/Sketchbook
+		• Position Statement
+		• Voice Recording

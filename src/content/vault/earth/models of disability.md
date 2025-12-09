@@ -1,0 +1,11 @@
+---
+title: models of disability
+parent:
+  - "[[activism]]"
+  - "[[cultures|sociology]]"
+peer:
+  - "[[systems of oppression]]"
+aliases:
+  - social model of disability
+  - medical model of disability
+---

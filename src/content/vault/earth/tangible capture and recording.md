@@ -1,0 +1,23 @@
+---
+parent:
+  - "[[tangible interfaces]]"
+  - "[[capture]]"
+  - "[[recording]]"
+peer:
+  - "[[tangible privacy]]"
+  - "[[curation]]"
+  - "[[slow labour]]"
+  - "[[low-power tech]]"
+  - "[[low tech]]"
+title: tangible capture and recording
+aliases:
+  - tangible capture
+  - tangible recording
+---
+
+- need for tangible capture/recording, materiality, standalone device
+	  - why not just phones?
+	- pros and cons
+	- tangibility 
+	- disability, sensory and proprioceptive differences
+	- curb cut effect and other disabled people who'd benefit 

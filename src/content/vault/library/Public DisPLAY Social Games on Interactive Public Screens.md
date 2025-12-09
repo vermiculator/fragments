@@ -1,0 +1,183 @@
+---
+author:
+  - Travis Cox
+  - Marcus Carter
+  - Eduardo Velloso
+title: "Public DisPLAY: Social Games on Interactive Public Screens"
+summary: This paper explores how public interactive displays can enhance social play through gesture-based multiplayer games. The authors found that the design and context of these displays affect player comfort and engagement levels, as well as how spectators transition into active players. They provide recommendations for creating games that encourage participation while minimizing social embarrassment.
+kind: articles
+url: https://readwise.io/reader/document_raw_content/270422734
+published_date: 2017-01-04
+peer:
+ - games
+ - interaction
+ - interactive-art
+ - tangible-interfaces
+---
+- "player and spectator interaction, socialization"  [⤴️](https://read.readwise.io/read/01jmg1tdz61hp8et8n2brvpqd1)
+- "sensor-enabled and networked semi-public campus displays."  [⤴️](https://read.readwise.io/read/01jmg1tz6j7kbk3qysywvt75hj)
+- "One within a transitory corridor, the other in an open plan combined study area and student services space."  [⤴️](https://read.readwise.io/read/01jmg1v64hwtwe7f8ks7jygmj6)
+- "limit social embarrassment, and encourage spectators to become active players."  [⤴️](https://read.readwise.io/read/01jmg1vgh9t63qhjjtv54zqg2k)
+- "capturing users’ attention and encouraging engagement with a public display (Beyer, Binder et al. 2014) as well as on best practices for making users comfortable interacting in public (Brignull and Rogers 2003)."  [⤴️](https://read.readwise.io/read/01jmg1ws0w8z8fr0nfpp3ge0vj)
+ - should this be the goal, to capture attention, to interact with the screens? or should we prioritise getting people to engage with each other or their surroundings or objects or information?
+
+- "how different interaction techniques limit or encourage social engagement between players, how comfortable spectators feel in transitioning to playing (if at all), as well as how this affects the social experience and social embarrassment of current players."  [⤴️](https://read.readwise.io/read/01jmg1z22xrnfk85mfj3c0khfy)
+ - this reminds me of how I feel more comfortable spectating in most contexts and how that's a different valuable experience
+
+- "gestural excess (Simon 2009) and public embarrassment (Brignull and Rogers 2003)"  [⤴️](https://read.readwise.io/read/01jmg20mgwsk57waf45s67kgxp)
+- "‘honey-pot effect’ of public play (Wouters, Downs et al. 2016)."  [⤴️](https://read.readwise.io/read/01jmg20vxhsxd5dm1jmazrz1f8)
+- "PathSync (Carter, Velloso et al. 2016) technique for hidden gestural interaction."  [⤴️](https://read.readwise.io/read/01jmg21pa2ten4jf13cepjaxvq)
+- "interrogating the types of play afforded by the different NUI techniques and social context."  [⤴️](https://read.readwise.io/read/01jmg221jev57kdr1gks7e486v)
+- "we demonstrate different ways in which the interaction techniques in the games can help ameliorate the inherent social embarrassment and anxiety of public display interaction."  [⤴️](https://read.readwise.io/read/01jmg23959597j396wkcr7dpqj)
+- "we argue that by sensing all users in front of it, the Kinect functionally disallows some forms of spectatorship, instead considering spectators as players (Downs, Vetere et al. 2014)."  [⤴️](https://read.readwise.io/read/01jmg23qm7yr0bfqjsak66fcts)
+- "an extremely successful way to encourage social play by nudging users to step across the divide of *observation* to *interaction*."  [⤴️](https://read.readwise.io/read/01jmg241g0vh2qf6fsrvyntqh0)
+ - but this can also be invasive (permission to scan and trace the contours of the body) and discourage dipping in and out /secondary enjoyment/trying it out/genuinely enjoyable spectatorship
+
+- "the prevalence of display blindness within public spaces (Müller, Wilmsmann et al. 2009, Tomitsch, Ackad et al. 2014)"  [⤴️](https://read.readwise.io/read/01jmg27143yv08j94kxaab7n8f)
+- "changes in use patterns over time (Memarovic, Clinch et al. 2015)."  [⤴️](https://read.readwise.io/read/01jmg277dtqfv5h1tzbebwyfyg)
+- "Historically video games were exclusively played in the public setting in the form of arcade machines (Velloso, Oechsner et al. 2015),"  [⤴️](https://read.readwise.io/read/01jmg2c8s7eekrf5j5k4k6bn1h)
+- "widespread availability of interactive public screens they became testbeds for new interaction techniques (Brynskov, Dalsgaard et al. 2009, Fischer, Zollner et al. 2013, Velloso, Oechsner et al. 2015) and the center of a new research agenda on multi-user engagement with public displays (Brignull and Rogers 2003, Beyer, Binder et al. 2014, Hespanhol, Tomitsch et al. 2015), ubiquitous (Storz, Friday et al. 2006, Terrenghi, Quigley et al. 2009) and pervasive displays (Mitchell and Race 2006, Alt, Bial et al. 2011)."  [⤴️](https://read.readwise.io/read/01jmg2d9kc6w9xc1paqfe9n7qa)
+ - I strongly disagree with ubiquitous presence of screens and generally ubiquitous computing if it isn't explicitly tangible/visible mechanisms
+
+- "Play in public settings is substantially different to play in private settings."  [⤴️](https://read.readwise.io/read/01jmg2gzkaab6t0yf4w9dfx39a)
+- "interacting with a public display immediately opens up any user to the possibility of failure."  [⤴️](https://read.readwise.io/read/01jmg2h9zea66qq4m9xrkc5kxv)
+- "fail to complete a task given by the display, or may just not be physically or mentally able to interact correctly."  [⤴️](https://read.readwise.io/read/01jmg2hzb1xbkehjbz4m6df3kj)
+ - depends on how goal-oriented the interaction is and how well the user responds to 'failure'
+
+- "all interaction contains within it the possibility of failure (1971)"  [⤴️](https://read.readwise.io/read/01jmg2mt4gf8fqyvq9pe0jzwz0)
+- "“social pressure” (Beyer, Binder et al. 2014) and “evaluation apprehension” (Mathew, Rogers et al. 2011). In the presence of spectators, the user is overcome by a responsibility to teach them how to interact with the system, leading to pressure to act appropriately and to exhibit good performance. This is similar to the evaluation apprehension documented by O’Hara et al. (2008) and Matthew et al. (2011) in which users are overcome with a fear that their performance or interaction is being judged by others. This pressure has also been documented within more traditional gaming contexts such as arcades (Kimble and Rezabek 1992) where the act of ‘choking’ defines a player’s failure to reach their usual level of mastery due to the audience. The arcade, however, unlike other public spaces, involves a specific audience who have travelled to play and watch others, leading the watched player to accept a performative role by playing in that context (Lin and Sun 2011)."  [⤴️](https://read.readwise.io/read/01jmg2qbmc1s90zvdycaj96awv)
+ - that specific spectator-freezing is very strong in my (and others') experience of autism. it doesn't matter if you let go of failure as a problem, there is a physical tracking of your movement that makes it physically stall if you're aware of those eyes
+
+- "players be eased into interacting with a system and are given a chance to cross between spectatorship and participation and back again at will (Brignull and Rogers
+  2003)."  [⤴️](https://read.readwise.io/read/01jmg2wp8xvjkgy1wkmjhnnhfn)
+ - Crucially, you have to be able to drop OUT of playership
+
+- "intuitive gestures to allow interaction to happen “almost subconsciously” (2015),"  [⤴️](https://read.readwise.io/read/01jmg3259zwxaqxf8vt33rmc0a)
+- "Wouters et al., are more specific, discussing “audience flows” (2016) to document the “activation loop” of spectators flowing into a more active participant role before dropping out and sharing their experience with spectators"  [⤴️](https://read.readwise.io/read/01jmg34snvtq3x7pnabcgjb2hw)
+- "a continuing flow of participants due to subliminal encouragement and normalization."  [⤴️](https://read.readwise.io/read/01jmg39njmftaacp2vb11g3pe8)
+- "If they don’t move away, they may then choose to play after ascertaining the ‘correct’ way to interact from watching others or after becoming comfortable amongst other participants. This accrual of further interactors with a display once a certain number of users are already interacting or within the vicinity—the honeypot effect—has been documented in many public installations, interactive and static, large (Brignull and Rogers 2003) and small screens (Mitchell and Race 2006)."  [⤴️](https://read.readwise.io/read/01jmg3m9c6jhgtyw1srcb11z9r)
+- "strangers are more likely to choose to interact with others if they are working toward a common goal in which they are not directly engaging with other participants (Wouters, Downs et al. 2016)."  [⤴️](https://read.readwise.io/read/01jmg3mwpp8c3x9wrwzmy5xv2x)
+- "‘together but apart’ social experience."  [⤴️](https://read.readwise.io/read/01jmg3nx9x29kyjdwhfg1edn9v)
+- "The way an audience is positioned and their engagement with players has a great effect on gameplay."  [⤴️](https://read.readwise.io/read/01jmg3q3252j161yzmw7kke1py)
+- "Display blindness, the lack of user interaction due to a user not understanding a screen is interactive as well as the attrition of user interaction and interest over time due to continued exposure, has been documented during
+  installations in public spaces (Huang, Koster et al. 2008, Müller, Wilmsmann et al. 2009, Houben and Weichel 2013, Memarovic, Clinch et al. 2015),"  [⤴️](https://read.readwise.io/read/01jmg3r3k6gp10t690eyqdazth)
+- "questions around display blindness in long term installs especially within contexts that are likely to have recurrent use by the same people over long periods of time"  [⤴️](https://read.readwise.io/read/01jmg3s9fbvwwaz6ks8cj7bbq8)
+- "positioning displays at eye level, using dynamic content to hold a user’s attention, aiming to augment the physical context around the display to draw attention"  [⤴️](https://read.readwise.io/read/01jmg3t5e767ekcne94s8sjrwy)
+ - this seems unethical. forcible attention grabbing
+
+- "the Kinect SDK offers skeleton tracking including individual joint positions for up to 6 people within the sensor zone, inbuilt detection for a range of hand and arm gestures"  [⤴️](https://read.readwise.io/read/01jmg3yhqk5ada2kxfejkemq9e)
+- "test which was most easy for players to align themselves with the reference pose, and to examine player-representation’s effect on social embarrassment"  [⤴️](https://read.readwise.io/read/01jmg480t17g91d13h0bnvbmhb)
+- "Players can walk away from the screen at any time to end the game."  [⤴️](https://read.readwise.io/read/01jmg4ckt4ckwemmd35n80bzq5)
+- "spectators (friends included in interviews who watched play but did not play themselves) also reported feeling awkward and embarrassed as they watched."  [⤴️](https://read.readwise.io/read/01jmg5ef6n1q9cp1nh17yz6xcr)
+- "As Display 1 was installed within a shared study space where groups meet for project discussions it makes sense that there would be larger groups of players who have a pre-existing relationship and therefore feel comfortable engaging with the display together. Those interviewed described the space as quiet or calm and reported feeling
+  more comfortable there"  [⤴️](https://read.readwise.io/read/01jmg5km4gt0fnne913z1qhp73)
+- "solo players were less likely to engage with the screen due to the full body interaction technique"  [⤴️](https://read.readwise.io/read/01jmg5mmt7yhw7xjnx3pq47t0c)
+- "the smaller percentage of three or four player games is likely due to the space being transitory and therefore less likely to contain possible players with pre-existing relationships."  [⤴️](https://read.readwise.io/read/01jmg5namsy8nq7tnm8nfrcs3w)
+- "waves of higher engagement which align with the beginning of each University semester. This makes sense, as new students enter the campus who are yet to be accustomed to the displays (display blindness),"  [⤴️](https://read.readwise.io/read/01jmg5p06ch15svaas5tdxf4pq)
+- "This line snaked past the display and a large number of students entertained"  [⤴️](https://read.readwise.io/read/01jmg5pp9pcm0s88zj650rfbq5)
+- "themselves while they waited by playing *Masquerade.*"  [⤴️](https://read.readwise.io/read/01jmg5ptcm66mbdvqb4xx06nkp)
+- "The deployment of *SocialNUIz* highlights the different motivations for use in the distinct publics, and the way that social play supports prolonged, rather than fleeting, use."  [⤴️](https://read.readwise.io/read/01jmg5rhva1d5k8n6ja21prw3w)
+- "The ‘attract mode’ (Houser and DeLoach 1998) presents a question with two possible answers"  [⤴️](https://read.readwise.io/read/01jmg5shhzzvef5rygbsx63set)
+- "the correct answer is shown and the user’s silhouettes are displayed with a crown on the head of those which selected correctly"  [⤴️](https://read.readwise.io/read/01jmg5t6ce4ec7fygecrdah2yf)
+- "Carter et al. (2016) found that PathSync was a comparable technique to press-to-select in a task-selection challenge, and argue that it is better suited to multiple users due to being distal; not requiring users memorize gestures; requires a smaller range of motion to interact; and because a user’s input is not revealed to other users."  [⤴️](https://read.readwise.io/read/01jmg5vx425gtr3jgjz1a599j7)
+- "its distal nature allows multiple users to stand in front of and perpendicular to the screen and still interact, limited only by the number of users the Kinect can simultaneously track (six)."  [⤴️](https://read.readwise.io/read/01jmg5wevmbbe11ntbwyf8q3rs)
+- "users assuming that the game was a touch screen, and then not exploring other ways to interact when that modality did not work."  [⤴️](https://read.readwise.io/read/01jmgc670jkbzya2g7rkm0j8jj)
+- "Answering questions in a public space opens up players to judgement from spectators if they answer incorrectly."  [⤴️](https://read.readwise.io/read/01jmgc8bmn34kyy3nr2h1b8wkc)
+- "before playing, potential players must acquaint themselves with the technique. Looking from Goffman’s perspective (Goffman 1971), this increases the risk of embarrassment, making it an important aspect of the game design, particularly for the ‘attract mode’ screen."  [⤴️](https://read.readwise.io/read/01jmgc9q2q6bhnexvdpy5q5nhk)
+- "By using postures Masquerade demands more spatial awareness.
+  Masquerade encourages complex postures and therefore asks users to take over a large amount of space within a public context. Moreover, they must hold this posture for a certain amount of time and are rewarded for remaining still. SocialNUIz on the other hand demands temporal awareness due to the dynamics of the interaction technique—if the user is not in sync with the desired answer a different answer could be selected. The contrast between spatial and temporal acuity demonstrates the power of the body in enabling novel game mechanics."  [⤴️](https://read.readwise.io/read/01jmgcakp7tq24jrs9v9pk66y3)
+- "A consequence of the large amount of space taken by the postures players mirror in Masquerade is that the user interaction becomes substantially more conspicuous than in SocialNUIz."  [⤴️](https://read.readwise.io/read/01jmgcbyxn6aa085pft567wdkv)
+- "SocialNUIz would be presumed then to afford less social embarrassment due to the discreet nature of the interaction, but as shown in the following point, it rather engenders a *different* type of social embarrassment."  [⤴️](https://read.readwise.io/read/01jmgcbrf8n69xfj44632cwxkp)
+- "blurring the line between interacting and spectating."  [⤴️](https://read.readwise.io/read/01jmgcd2fd6nf18dg74ppzgq1h)
+ - I think this actually makes people feel LESS safe to engage with it though
+
+- "Attract screens should set expectations for the type of interactions that will occur:"  [⤴️](https://read.readwise.io/read/01jmgcedt9dx7dpkg3fdkgcnxz)
+- "The orbits rotating around each possible answer, as well, could be easily misread as ornamentation rather than part of an interaction technique."  [⤴️](https://read.readwise.io/read/01jmgce8zkm2a2y2ghnafp2aeg)
+- "there were very few circumstances observed where spectators who were not already acquainted with active players joined in a game in progress."  [⤴️](https://read.readwise.io/read/01jmgcf394vqext21zst4332pf)
+- "More socialization and dropping in did occur during the *SocialNUIz* game which required less physicality in its interaction technique."  [⤴️](https://read.readwise.io/read/01jmgcfcnk2aje5xzztw9n4pme)
+- "concrete recommendations on how public display games can be built to encourage social play, limit social embarrassment and anxiety, and move spectators to active players."  [⤴️](https://read.readwise.io/read/01jmgchwbc5h6rhhakfrknatwv)
+ - but why do we need to do this
+- "player and spectator interaction, socialization"  [⤴️](https://read.readwise.io/read/01jmg1tdz61hp8et8n2brvpqd1)
+- "sensor-enabled and networked semi-public campus displays."  [⤴️](https://read.readwise.io/read/01jmg1tz6j7kbk3qysywvt75hj)
+- "One within a transitory corridor, the other in an open plan combined study area and student services space."  [⤴️](https://read.readwise.io/read/01jmg1v64hwtwe7f8ks7jygmj6)
+- "limit social embarrassment, and encourage spectators to become active players."  [⤴️](https://read.readwise.io/read/01jmg1vgh9t63qhjjtv54zqg2k)
+- "capturing users’ attention and encouraging engagement with a public display (Beyer, Binder et al. 2014) as well as on best practices for making users comfortable interacting in public (Brignull and Rogers 2003)."  [⤴️](https://read.readwise.io/read/01jmg1ws0w8z8fr0nfpp3ge0vj)
+ - should this be the goal, to capture attention, to interact with the screens? or should we prioritise getting people to engage with each other or their surroundings or objects or information?
+
+- "how different interaction techniques limit or encourage social engagement between players, how comfortable spectators feel in transitioning to playing (if at all), as well as how this affects the social experience and social embarrassment of current players."  [⤴️](https://read.readwise.io/read/01jmg1z22xrnfk85mfj3c0khfy)
+ - this reminds me of how I feel more comfortable spectating in most contexts and how that's a different valuable experience
+
+- "gestural excess (Simon 2009) and public embarrassment (Brignull and Rogers 2003)"  [⤴️](https://read.readwise.io/read/01jmg20mgwsk57waf45s67kgxp)
+- "‘honey-pot effect’ of public play (Wouters, Downs et al. 2016)."  [⤴️](https://read.readwise.io/read/01jmg20vxhsxd5dm1jmazrz1f8)
+- "PathSync (Carter, Velloso et al. 2016) technique for hidden gestural interaction."  [⤴️](https://read.readwise.io/read/01jmg21pa2ten4jf13cepjaxvq)
+- "interrogating the types of play afforded by the different NUI techniques and social context."  [⤴️](https://read.readwise.io/read/01jmg221jev57kdr1gks7e486v)
+- "we demonstrate different ways in which the interaction techniques in the games can help ameliorate the inherent social embarrassment and anxiety of public display interaction."  [⤴️](https://read.readwise.io/read/01jmg23959597j396wkcr7dpqj)
+- "we argue that by sensing all users in front of it, the Kinect functionally disallows some forms of spectatorship, instead considering spectators as players (Downs, Vetere et al. 2014)."  [⤴️](https://read.readwise.io/read/01jmg23qm7yr0bfqjsak66fcts)
+- "an extremely successful way to encourage social play by nudging users to step across the divide of *observation* to *interaction*."  [⤴️](https://read.readwise.io/read/01jmg241g0vh2qf6fsrvyntqh0)
+ - but this can also be invasive (permission to scan and trace the contours of the body) and discourage dipping in and out /secondary enjoyment/trying it out/genuinely enjoyable spectatorship
+
+- "the prevalence of display blindness within public spaces (Müller, Wilmsmann et al. 2009, Tomitsch, Ackad et al. 2014)"  [⤴️](https://read.readwise.io/read/01jmg27143yv08j94kxaab7n8f)
+- "changes in use patterns over time (Memarovic, Clinch et al. 2015)."  [⤴️](https://read.readwise.io/read/01jmg277dtqfv5h1tzbebwyfyg)
+- "Historically video games were exclusively played in the public setting in the form of arcade machines (Velloso, Oechsner et al. 2015),"  [⤴️](https://read.readwise.io/read/01jmg2c8s7eekrf5j5k4k6bn1h)
+- "widespread availability of interactive public screens they became testbeds for new interaction techniques (Brynskov, Dalsgaard et al. 2009, Fischer, Zollner et al. 2013, Velloso, Oechsner et al. 2015) and the center of a new research agenda on multi-user engagement with public displays (Brignull and Rogers 2003, Beyer, Binder et al. 2014, Hespanhol, Tomitsch et al. 2015), ubiquitous (Storz, Friday et al. 2006, Terrenghi, Quigley et al. 2009) and pervasive displays (Mitchell and Race 2006, Alt, Bial et al. 2011)."  [⤴️](https://read.readwise.io/read/01jmg2d9kc6w9xc1paqfe9n7qa)
+ - I strongly disagree with ubiquitous presence of screens and generally ubiquitous computing if it isn't explicitly tangible/visible mechanisms
+
+- "Play in public settings is substantially different to play in private settings."  [⤴️](https://read.readwise.io/read/01jmg2gzkaab6t0yf4w9dfx39a)
+- "interacting with a public display immediately opens up any user to the possibility of failure."  [⤴️](https://read.readwise.io/read/01jmg2h9zea66qq4m9xrkc5kxv)
+- "fail to complete a task given by the display, or may just not be physically or mentally able to interact correctly."  [⤴️](https://read.readwise.io/read/01jmg2hzb1xbkehjbz4m6df3kj)
+ - depends on how goal-oriented the interaction is and how well the user responds to 'failure'
+
+- "all interaction contains within it the possibility of failure (1971)"  [⤴️](https://read.readwise.io/read/01jmg2mt4gf8fqyvq9pe0jzwz0)
+- "“social pressure” (Beyer, Binder et al. 2014) and “evaluation apprehension” (Mathew, Rogers et al. 2011). In the presence of spectators, the user is overcome by a responsibility to teach them how to interact with the system, leading to pressure to act appropriately and to exhibit good performance. This is similar to the evaluation apprehension documented by O’Hara et al. (2008) and Matthew et al. (2011) in which users are overcome with a fear that their performance or interaction is being judged by others. This pressure has also been documented within more traditional gaming contexts such as arcades (Kimble and Rezabek 1992) where the act of ‘choking’ defines a player’s failure to reach their usual level of mastery due to the audience. The arcade, however, unlike other public spaces, involves a specific audience who have travelled to play and watch others, leading the watched player to accept a performative role by playing in that context (Lin and Sun 2011)."  [⤴️](https://read.readwise.io/read/01jmg2qbmc1s90zvdycaj96awv)
+ - that specific spectator-freezing is very strong in my (and others') experience of autism. it doesn't matter if you let go of failure as a problem, there is a physical tracking of your movement that makes it physically stall if you're aware of those eyes
+
+- "players be eased into interacting with a system and are given a chance to cross between spectatorship and participation and back again at will (Brignull and Rogers
+  2003)."  [⤴️](https://read.readwise.io/read/01jmg2wp8xvjkgy1wkmjhnnhfn)
+ - Crucially, you have to be able to drop OUT of playership
+
+- "intuitive gestures to allow interaction to happen “almost subconsciously” (2015),"  [⤴️](https://read.readwise.io/read/01jmg3259zwxaqxf8vt33rmc0a)
+- "Wouters et al., are more specific, discussing “audience flows” (2016) to document the “activation loop” of spectators flowing into a more active participant role before dropping out and sharing their experience with spectators"  [⤴️](https://read.readwise.io/read/01jmg34snvtq3x7pnabcgjb2hw)
+- "a continuing flow of participants due to subliminal encouragement and normalization."  [⤴️](https://read.readwise.io/read/01jmg39njmftaacp2vb11g3pe8)
+- "If they don’t move away, they may then choose to play after ascertaining the ‘correct’ way to interact from watching others or after becoming comfortable amongst other participants. This accrual of further interactors with a display once a certain number of users are already interacting or within the vicinity—the honeypot effect—has been documented in many public installations, interactive and static, large (Brignull and Rogers 2003) and small screens (Mitchell and Race 2006)."  [⤴️](https://read.readwise.io/read/01jmg3m9c6jhgtyw1srcb11z9r)
+- "strangers are more likely to choose to interact with others if they are working toward a common goal in which they are not directly engaging with other participants (Wouters, Downs et al. 2016)."  [⤴️](https://read.readwise.io/read/01jmg3mwpp8c3x9wrwzmy5xv2x)
+- "‘together but apart’ social experience."  [⤴️](https://read.readwise.io/read/01jmg3nx9x29kyjdwhfg1edn9v)
+- "The way an audience is positioned and their engagement with players has a great effect on gameplay."  [⤴️](https://read.readwise.io/read/01jmg3q3252j161yzmw7kke1py)
+- "Display blindness, the lack of user interaction due to a user not understanding a screen is interactive as well as the attrition of user interaction and interest over time due to continued exposure, has been documented during
+  installations in public spaces (Huang, Koster et al. 2008, Müller, Wilmsmann et al. 2009, Houben and Weichel 2013, Memarovic, Clinch et al. 2015),"  [⤴️](https://read.readwise.io/read/01jmg3r3k6gp10t690eyqdazth)
+- "questions around display blindness in long term installs especially within contexts that are likely to have recurrent use by the same people over long periods of time"  [⤴️](https://read.readwise.io/read/01jmg3s9fbvwwaz6ks8cj7bbq8)
+- "positioning displays at eye level, using dynamic content to hold a user’s attention, aiming to augment the physical context around the display to draw attention"  [⤴️](https://read.readwise.io/read/01jmg3t5e767ekcne94s8sjrwy)
+ - this seems unethical. forcible attention grabbing
+
+- "the Kinect SDK offers skeleton tracking including individual joint positions for up to 6 people within the sensor zone, inbuilt detection for a range of hand and arm gestures"  [⤴️](https://read.readwise.io/read/01jmg3yhqk5ada2kxfejkemq9e)
+- "test which was most easy for players to align themselves with the reference pose, and to examine player-representation’s effect on social embarrassment"  [⤴️](https://read.readwise.io/read/01jmg480t17g91d13h0bnvbmhb)
+- "Players can walk away from the screen at any time to end the game."  [⤴️](https://read.readwise.io/read/01jmg4ckt4ckwemmd35n80bzq5)
+- "spectators (friends included in interviews who watched play but did not play themselves) also reported feeling awkward and embarrassed as they watched."  [⤴️](https://read.readwise.io/read/01jmg5ef6n1q9cp1nh17yz6xcr)
+- "As Display 1 was installed within a shared study space where groups meet for project discussions it makes sense that there would be larger groups of players who have a pre-existing relationship and therefore feel comfortable engaging with the display together. Those interviewed described the space as quiet or calm and reported feeling
+  more comfortable there"  [⤴️](https://read.readwise.io/read/01jmg5km4gt0fnne913z1qhp73)
+- "solo players were less likely to engage with the screen due to the full body interaction technique"  [⤴️](https://read.readwise.io/read/01jmg5mmt7yhw7xjnx3pq47t0c)
+- "the smaller percentage of three or four player games is likely due to the space being transitory and therefore less likely to contain possible players with pre-existing relationships."  [⤴️](https://read.readwise.io/read/01jmg5namsy8nq7tnm8nfrcs3w)
+- "waves of higher engagement which align with the beginning of each University semester. This makes sense, as new students enter the campus who are yet to be accustomed to the displays (display blindness),"  [⤴️](https://read.readwise.io/read/01jmg5p06ch15svaas5tdxf4pq)
+- "This line snaked past the display and a large number of students entertained"  [⤴️](https://read.readwise.io/read/01jmg5pp9pcm0s88zj650rfbq5)
+- "themselves while they waited by playing *Masquerade.*"  [⤴️](https://read.readwise.io/read/01jmg5ptcm66mbdvqb4xx06nkp)
+- "The deployment of *SocialNUIz* highlights the different motivations for use in the distinct publics, and the way that social play supports prolonged, rather than fleeting, use."  [⤴️](https://read.readwise.io/read/01jmg5rhva1d5k8n6ja21prw3w)
+- "The ‘attract mode’ (Houser and DeLoach 1998) presents a question with two possible answers"  [⤴️](https://read.readwise.io/read/01jmg5shhzzvef5rygbsx63set)
+- "the correct answer is shown and the user’s silhouettes are displayed with a crown on the head of those which selected correctly"  [⤴️](https://read.readwise.io/read/01jmg5t6ce4ec7fygecrdah2yf)
+- "Carter et al. (2016) found that PathSync was a comparable technique to press-to-select in a task-selection challenge, and argue that it is better suited to multiple users due to being distal; not requiring users memorize gestures; requires a smaller range of motion to interact; and because a user’s input is not revealed to other users."  [⤴️](https://read.readwise.io/read/01jmg5vx425gtr3jgjz1a599j7)
+- "its distal nature allows multiple users to stand in front of and perpendicular to the screen and still interact, limited only by the number of users the Kinect can simultaneously track (six)."  [⤴️](https://read.readwise.io/read/01jmg5wevmbbe11ntbwyf8q3rs)
+- "users assuming that the game was a touch screen, and then not exploring other ways to interact when that modality did not work."  [⤴️](https://read.readwise.io/read/01jmgc670jkbzya2g7rkm0j8jj)
+- "Answering questions in a public space opens up players to judgement from spectators if they answer incorrectly."  [⤴️](https://read.readwise.io/read/01jmgc8bmn34kyy3nr2h1b8wkc)
+- "before playing, potential players must acquaint themselves with the technique. Looking from Goffman’s perspective (Goffman 1971), this increases the risk of embarrassment, making it an important aspect of the game design, particularly for the ‘attract mode’ screen."  [⤴️](https://read.readwise.io/read/01jmgc9q2q6bhnexvdpy5q5nhk)
+- "By using postures Masquerade demands more spatial awareness.
+  Masquerade encourages complex postures and therefore asks users to take over a large amount of space within a public context. Moreover, they must hold this posture for a certain amount of time and are rewarded for remaining still. SocialNUIz on the other hand demands temporal awareness due to the dynamics of the interaction technique—if the user is not in sync with the desired answer a different answer could be selected. The contrast between spatial and temporal acuity demonstrates the power of the body in enabling novel game mechanics."  [⤴️](https://read.readwise.io/read/01jmgcakp7tq24jrs9v9pk66y3)
+- "A consequence of the large amount of space taken by the postures players mirror in Masquerade is that the user interaction becomes substantially more conspicuous than in SocialNUIz."  [⤴️](https://read.readwise.io/read/01jmgcbyxn6aa085pft567wdkv)
+- "SocialNUIz would be presumed then to afford less social embarrassment due to the discreet nature of the interaction, but as shown in the following point, it rather engenders a *different* type of social embarrassment."  [⤴️](https://read.readwise.io/read/01jmgcbrf8n69xfj44632cwxkp)
+- "blurring the line between interacting and spectating."  [⤴️](https://read.readwise.io/read/01jmgcd2fd6nf18dg74ppzgq1h)
+ - I think this actually makes people feel LESS safe to engage with it though
+
+- "Attract screens should set expectations for the type of interactions that will occur:"  [⤴️](https://read.readwise.io/read/01jmgcedt9dx7dpkg3fdkgcnxz)
+- "The orbits rotating around each possible answer, as well, could be easily misread as ornamentation rather than part of an interaction technique."  [⤴️](https://read.readwise.io/read/01jmgce8zkm2a2y2ghnafp2aeg)
+- "there were very few circumstances observed where spectators who were not already acquainted with active players joined in a game in progress."  [⤴️](https://read.readwise.io/read/01jmgcf394vqext21zst4332pf)
+- "More socialization and dropping in did occur during the *SocialNUIz* game which required less physicality in its interaction technique."  [⤴️](https://read.readwise.io/read/01jmgcfcnk2aje5xzztw9n4pme)
+- "concrete recommendations on how public display games can be built to encourage social play, limit social embarrassment and anxiety, and move spectators to active players."  [⤴️](https://read.readwise.io/read/01jmgchwbc5h6rhhakfrknatwv)
+ - but why do we need to do this
+

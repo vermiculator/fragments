@@ -1,0 +1,19 @@
+---
+parent:
+  - "[[creatures and their objects]]"
+child:
+  - "[[collection]]"
+  - "[[curation]]"
+peer:
+  - "[[archival]]"
+  - "[[humans form understanding through narrative]]"
+  - "[[ownership]]"
+---
+
+collecting a mass, by certain category or by quality but mostly indiscriminately, vs curating a collection from selected sources, tying items together, forming a cohesive narrative through them
+
+it may be that collection is an action followed by curation, or that both go hand-in-hand
+
+it may be that collection is a private activity and curation public-facing, or that collection is more free-for-all public and curation a private process.
+
+many contexts by which people collect and curate things, and other animals also carry out these activities eg in nest-building

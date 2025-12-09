@@ -1,0 +1,5 @@
+---
+parent:
+  - "[[physics]]"
+  - "[[philosophy]]"
+---

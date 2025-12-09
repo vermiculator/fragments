@@ -1,0 +1,15 @@
+---
+title: hyperconnectivity makes use of our mass data legacy
+parent:
+  - "[[big data]]"
+  - "[[hyperconnectivity]]"
+peer:
+  - "[[search and discovery]]"
+  - "[[liberating the internet]]"
+  - "[[transparency vs privacy]]"
+  - "[[hyperlink as associative trail]]"
+---
+
+- some brains are possibly more ingrained in hyperconnectivity
+- [[autistic hyperconnectivity]] (but [[be very wary of autism research]]) - [[quickref#^3830b9]]
+- Bush's Memex, "Bush envisioned “a new profession of trailblazers, those who find delight in the task of establishing useful trails through the enormous mass of the common record.”"  - "we might usefully think of the Wikipedia as one example of the “new forms of encyclopedias” Bush envisioned, “with a mesh of associative trails running through them”" [[quickref#^86a1c2]]

@@ -1,0 +1,44 @@
+---
+title: Ways Society Gaslights and Stonewalls Autistic People
+peer:
+  - "[[autism]]"
+status: ARCHIVED
+kind: articles
+---
+- "Autistic people, adults and children, are infantilized, gaslighted, and manipulated regularly by society – individuals and institutions."
+- "all \[the below] contribute to the way in which society functions like a narcissistic parent with regards to how autistic people are perceived and treated"
+- "It took about ten minutes to collect these responses from autistic adults and teens"
+- "in order for autistic people to gain parity and to live without the extant trauma of constant social messaging that is toxic and destructive– non-autistic people have to take a stand"
+- ---
+- "Telling us that our sensory differences are “no big deal” and that we just need to “be resilient” and learn to deal with it."
+- "assume we can habituate when we can’t"
+- "many of us grew up in environments that weren’t conducive to fostering our talents"
+- "only measure empathy in [NT](https://neuroclastic.com/glossary/nt/) ways like eye contact or understanding NT behaviour"
+- "When ABA therapists claim that ABA therapy for 40 hours is not exhausting for small children because it’s “just play,” when social play can be beyond-exhausting over extended periods of time for autistic kids."
+- "Their version of empathy is, “I accept and appreciate X, but if you become more like us, it won’t be a problem.” That ain’t empathy!"
+- "Telling us our special interests are stupid, a waste of time, or not age/gender appropriate."
+- "NT person says something and autistic person misunderstands it: It’s the autistic person’s fault because they have processing difficulties. Autistic person says something and NT person misunderstands it: It’s the autistic person’s fault because they have impaired communication skills. 
+- "generally, the autistic person is the one **literally stating or carrying out the desired or indicated action**, while the NT person is relying on assumption, innuendo, tone of voice, body language"
+- "The idea that the NT person could have communicated unclearly or ambiguously is never even considered"
+- "you tell them to take you literally and there is no subtext… and they still insist the subtext is there" - "hate manipulation" - "constantly accused of being a manipulator because it’s not believed that there is no subtext in my words"
+- "Acting like we need to just 'try harder' to be gainfully employed"
+- "The assumption that autistic style and communication aren’t sexy; thinking adult autistics don’t want relationships or don’t make good partners."
+- "Judging the impact of our autism based on how well we are “functioning,” aka [masking](https://neuroclastic.com/glossary/masking/)"
+- "Telling us to “be ourselves,” but when we actually are they basically say, “but not like that.”"
+- "Defining the goals of our “therapy” for us based on what they think we should want."
+- "Assuming that we wish we were not autistic."
+- "Being treated like an adult child after disclosing autism"
+- "Judging the depth of our thoughts/feelings by our nonverbal communication– or lack thereof"
+- "If our facial expressions and body language aren’t “expressive” enough, they insist that we are unfeeling."
+- "Always being 'Too Much.' 
+- "Living in a perpetual state of apology"
+- "deference for the rest of the world “tolerating” it."
+- "Telling us we need to 'agree to disagree' about when they are doing things that are absolutely oppressive."
+- "Telling autistic people that they are unqualified to discuss autism because they don’t have doctorates in a social science – whilst they themselves don’t have doctorates in a social science"
+- "Telling young autistic children that they are smart and full of potential for qualities that 20 years later will deny them success and professional access."
+- "we are always in the wrong \[...] when any misunderstandings erupt"
+- "pathologizing our logical, reasoned approach to problem-solving as lacking in empathy."
+- "regarded as pedantic or difficult by mental health care providers and physicians"
+- "misdiagnosed as having a variety of personality disorders, mood disorders, or hypochondria"
+- "In professional literature, [framing information about autistic people](https://autism-advantage.com/autistics-less-biased.-researchers.html) in a way that characterizes them solely according to perceived deficits while neglecting to acknowledge strengths."
+- "You learn early your contents are somehow inherently Wrong."

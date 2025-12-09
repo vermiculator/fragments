@@ -1,0 +1,27 @@
+---
+peer:
+  - "[[journalistic freedom]]"
+  - "[[activism]]"
+  - "[[justice]]"
+author:
+  - Reporters Without Borders
+status: ARCHIVED
+---
+
+## a brief initial analysis
+
+* This initiative is designed to combat internet censorship in regions with oppressive governments. An extensive virtual library was built in Minecraft to host texts from independent journalists in regions with heavily restricted media. As a sandbox game that is commonly available and thought to be harmless, Minecraft can provide a gateway hidden in plain sight.
+* The initiative is designed to reach those with limited access to independent sources of information and young people in particular. This initiative is led by Reporters Without Borders, who partnered with BlockWorks to build the Minecraft experience.
+* Reporters Without Borders populate books in the library with texts from journalists at threat of or experiencing exile, silencing, imprisonment and death, for sharing information or speaking critically of a regime. It is regularly updated to grow the range of issues, journalists and countries represented.
+* Whilst the texts are collated by Reporters Without Borders, the texts themselves come directly from journalists on the ground in the locations they discuss, or those directly affected. Those who select and upload the texts have most control of the narrative and it is not directly community led, but Reporters Without Borders as an organisation is designed specifically for freedom of press and members may also be those sharing the texts to be included.
+* There are some limited author profiles on the introductory site but the visitor is encouraged to visit their library texts to hear from the author directly. This 'guided' access is secondary to the primary access through Minecraft directly.
+* The authors are presented in the context of press freedom in their nation, in summary and as determined by the World Press Freedom Index. It isn't clear how the selection of authors presented in the introductory site were chosen, but preference isn't clearly given to those of particular interest or nationality, and authors without images are also featured. It appears on brief examination that all featured authors have significant contributions to the library in number of works and discussing ongoing issues within the past decade.
+* This is a highly accessible source of high quality independent reporting, giving a voice to those being silenced and bringing crucial perspectives to those who might not otherwise have access to differing viewpoints. However, it appears that some regions still don't have access, such as China, and it isn't technologically trivial to access for those not comfortable with games/servers. Navigating a large 3D space is not necessarily the most functional way to access texts and there is little information on the usefulness or impact of having built this out in virtual space rather than employing alternative, simpler methods of sharing texts.
+* The initiative is primarily designed for information access to those who cannot otherwise share and consume independent journalism, but it also fits into wider campaigns of Reporters Without Borders to fight against press censorship, so outside of the library itself the material appears additionally as marketing for the organisation, encouraging press attention and use of the hashtag \#TruthFindsAWay . The organisation more widely pushes for policy change internationally, and launched this on 'World Day Against Cyber Censorship' which indicates a coordinated approach across multiple initiatives. Subjectively, apparent lack of concern for traversibility, navigation or readability of the space and texts included does push it slightly more on the side of performative than functional, but press suggests it saw 25 million visitors on launch and still sees at least 50 visitors a week (Peet, 2022).
+* Reporters Without Borders determines which texts are worthy of sharing, and there is no direct access to journalists to be included. This does allow for content to be vetted for accuracy and journalistic integrity, and to provide the most pertinent information to those in critical situations, but also limits the use of this mechanism for truly free information exchange - whilst it is free from oversight by particular oppressive regimes, it is still under control by Reporters Without Borders as the gatekeeping organisation. 
+* Helpfully, the methods are highly replicable.
+
+### References
+
+* Reporters Without Borders (2024). *The Uncensored Library – Reporters without borders*. \[online] Available at: [https://web.archive.org/web/20241005151841/https://www.uncensoredlibrary.com/en](https://web.archive.org/web/20241005151841/https://www.uncensoredlibrary.com/en) \[Accessed 5 Oct. 2024].
+* Peet, L. (2022). *Reporters Without Borders’ Uncensored Library Uses Minecraft To Provide Access to Censored Work*. \[online] Library Journal. Available at: [http://web.archive.org/web/20241005151119/https://www.libraryjournal.com/story/reporters-without-borders-uncensored-library-uses-minecraft-to-provide-access-to-censored-work](http://web.archive.org/web/20241005151119/https://www.libraryjournal.com/story/reporters-without-borders-uncensored-library-uses-minecraft-to-provide-access-to-censored-work) \[Accessed 5 Oct. 2024].

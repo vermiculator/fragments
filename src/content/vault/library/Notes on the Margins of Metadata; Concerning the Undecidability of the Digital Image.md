@@ -1,0 +1,98 @@
+---
+author:
+  - Daniel Rubinstein
+  - Katrina Sluis
+title: Notes on the Margins of Metadata; Concerning the Undecidability of the Digital Image
+short-title: Notes on the Margins of Metadata; Concerning the Undecidability of the Digital Image
+full-title: Notes on the Margins of Metadata; Concerning the Undecidability of the Digital Image
+summary: None
+kind: articles
+url: https://ualresearchonline.arts.ac.uk/id/eprint/6238/1/DR_KS_Notes_on_the_Margins_of_Metadata.pdf
+published_date: 2013-06-14
+---
+- "the significance of metadata in relation to image economy of the web"  [⤴️](https://read.readwise.io/read/01k24xrqfmym1w56vkcvxxwbc4)
+- "Social practices such as keywording, tagging, rating and viewing increasingly influence the modes of navigation and hence the utility of images in online environments."  [⤴️](https://read.readwise.io/read/01k24xrxv17rcq92zg1gv9r1hr)
+- "metadata promises to make photographs machine readable in order to mobilize new knowledge, in a continuation of the archival paradigm"  [⤴️](https://read.readwise.io/read/01k24xsb36g07vz83evepkkw5f)
+- "metadata enables new topologies of the image, new temporalities and multiplicities"  [⤴️](https://read.readwise.io/read/01k24xsgq2wsmxeh1k1beyneg8)
+- "the turning away from the visual towards the mathematical and the algorithmic establishes undecidability as a key property of the networked image."  [⤴️](https://read.readwise.io/read/01k24xswmqxasy08q0dbw0ztwk)
+- "metadata offers the ability to append linguistic signs to an image (or other data object), to facilitate its classification, archiving, retrieval and indicate provenance (authorship, ownership, conditions of use)"  [⤴️](https://read.readwise.io/read/01k24xv9tbnbp7dggcjz6a1fj8)
+- "With respect to photographs, metadata comes in two categories: descriptive metadata which is generated mechanically during image creation or added later to the file (containing details such as date, location, camera make, owner, keywords) and is carried within the file; the second type is collected as a valuable by-product of interaction with the image (tags, comments, ratings, number of viewings) and is stored independently of the image."  [⤴️](https://read.readwise.io/read/01k24xwnwp6mm9za0bmhy3jyga)
+- "nforms the efficient operation of search engines"  [⤴️](https://read.readwise.io/read/01k24xx286za63jwh7f0bph9z5)
+- "Facebook's Open Graph, Google's Knowledge Graph, Schema.org, microformats.org are examples of emergent competing protocols which describe the application of metadata to semantic elements on the web to help machines map relationships between entities."  [⤴️](https://read.readwise.io/read/01k24xxga8rkqfnszz37dgsj9b)
+- "Metadata's production underpins the future Semantic Web, a utopian vision of a machine-readable web in which the automatic processing of information by non-human actors becomes possible 1"  [⤴️](https://read.readwise.io/read/01k24xy4epb5rg4pytjtxaqgtw)
+- "'data about data', in this paper we suggest that this characterization is unhelpful because it does not clarify metadata's place as a mediator between humans and computers."  [⤴️](https://read.readwise.io/read/01k24xyeqcq2ga5zaq1f1fzz2m)
+ - I'm more interested in metadata that is more self-representative, readable by both of us
+
+- "By re-writing the image as machine-readable text, metadata facilitates the identification, discovery, retrieval, mis-use,
+  exploitation and dissemination of images online."  [⤴️](https://read.readwise.io/read/01k24y0c5qctbxevb0b57f2a10)
+ - retrieval doesn't necessarily work like this though
+
+- "Metadata is highly political: it offers a means for asserting ownership and use of otherwise contextless images"  [⤴️](https://read.readwise.io/read/01k24y15me748zd4647w72af6x)
+- "specifies topologies between images"  [⤴️](https://read.readwise.io/read/01k24y1bkhfwyhfq6em7kjvth6)
+ - metadata it
+
+- "promises to democratize access to disparate digitized image collections and to facilitate the flow of images"  [⤴️](https://read.readwise.io/read/01k24y27qgfyexg4znq7f8qxvm)
+ - not necessarily, what data is captured
+
+- "Metadata practices such as tagging and annotation allows users with no programming skills to have some control over the visibility and aggregation of images and influence output of algorithms"  [⤴️](https://read.readwise.io/read/01k24y2y6xwmfrwqvq2hwgntck)
+- "metadata opens the image to a wide range of influences which depend not on the content of the image but on the decisions (wise or unwise) made by users."  [⤴️](https://read.readwise.io/read/01k24y37cj0fgbvd6jpfkft3c5)
+- "overlook its potential to contaminate, mutate or change the direction and context of the image at every turn"  [⤴️](https://read.readwise.io/read/01k24y3sycbn66ts2p8yehazea)
+- "metadata operates between the algorithmic, computational world of the computer network and the physical-biological-social world inhabited by humans, forming a layer of connective bio-computational tissue that translates social values into something computers can quantify, process and valorize (21-24)."  [⤴️](https://read.readwise.io/read/01k24y46s8n6kv0favehcd2cvz)
+- "the semantic capital of an image is determined by a range of signals which supplant previous - visual - economies of the image."  [⤴️](https://read.readwise.io/read/01k24y4jg0g70hm08gjzqd95d6)
+- "here is little about metadata that can resolve the ordering uncertainties of the exasperated online archivist. Metadata brings forward the inherent instability of meaning of the networked image as at each moment, and in each new instance, the tags and annotations that inform metadata can be modified, altered, deleted and changed."  [⤴️](https://read.readwise.io/read/01k24y5c4pazexvzpefty7h9sz)
+- "In the past, concerns about manipulation of pixels caused people to doubt the veracity of the digital image, however manipulation of metadata can have much more dramatic and far-reaching consequences"  [⤴️](https://read.readwise.io/read/01k24y5qv5h9ts7gcb2nsn3597)
+- "Small changes to metadata can completely redefine the context and circulation of an image"  [⤴️](https://read.readwise.io/read/01k24y62hmm358za9ymq7p4zf1)
+- "how best to 'game' the Flickr algorithm through the manipulation of tags, groupings and comments"  [⤴️](https://read.readwise.io/read/01k24y6a3tmx2pak2kzw53sc10)
+- "the design of websites which have prioritised the optimization"  [⤴️](https://read.readwise.io/read/01k24y6xvfdasv85sf155bwaxx)
+- "metadata for a non-human audience."  [⤴️](https://read.readwise.io/read/01k24y72hrsgq98hqb0smfa2pq)
+- "the algorithmic and computational aspects of the image takes precedence over the visual."  [⤴️](https://read.readwise.io/read/01k24y79ccv77etdwt1bw6t0yk)
+ - should i then ignore the visual to limit an unweildy scope or consider it as secondary? because with regards to Pinterest it is still very much image-first, but demonstratably this is not the only way it is interacted with - maybe i need to consider some angles of design and 'ugliness' to see how often these boards rely on that?
+
+- "Metadata therefore renders the image as a calculable surface, or, to invoke Heidegger, a "standing reserve" in which the photograph is valued not as a singular object but as a resource to be deployed in endless and varied successive contexts: "Everywhere everything is ordered to stand by, to be immediately on hand, indeed to stand there just so that it may
+  be on call for further ordering" (298)."  [⤴️](https://read.readwise.io/read/01k24yc0bkzxzxvme3g089jatg)
+ - live documents, hypertext, nothing is static
+
+- "The Stock Artists' Alliance 2006 'Metadata Manifesto' asks readers to "[i]magine a world where metadata is ubiquitous" in which "images can be easily located and identified by anyone, anywhere", and in view of the fragility of metadata one of their main demands is that "[o]wnership metadata must never be removed""  [⤴️](https://read.readwise.io/read/01k24yd2nfmwgedcq029np1ptp)
+ - interesting as ownership isn't always that clear with the kinds of things we capture and we might be committing to commons etc - i think semantic labelling of 'ownership' is necessary
+
+- "it paradoxically makes it unknown to us"  [⤴️](https://read.readwise.io/read/01k24yfcbbzx6n7wygzpbfz5sm)
+ - the more machine-readable, the less us-readable, shouldn't we be looking for more convergence? but do we then necessarily prioritise our existing methods or aim for somewhere inbetween?
+
+- "In "The Age of the World Picture" Heidegger (135) talks about the modern age as the overwhelming arrival of the gigantic and the incalculable, and suggests that when things become enormous in scale and immeasurable they also become non-representable and a change takes place that makes old cognitive categories redundant."  [⤴️](https://read.readwise.io/read/01k24yhpat98ak2v70w0fxfzz1)
+- "the cyberspeak of clouds, shadows, streams, farms and flows is misleading and unhelpful as it uses these bucolic metaphors to conceal the profound unknowability of big data."  [⤴️](https://read.readwise.io/read/01k24ykmwxxtkp74v0kcv76qaj)
+- "the networked image becomes progressively oriented towards being 'read' not by humans but by computers which raises significant questions about the political agency of the image."  [⤴️](https://read.readwise.io/read/01k24ymbz34ka7ya3s1nmct0gb)
+- "talking about the digital image as immaterial or as mathematically determined posits complete identity between the content of the image and its form."  [⤴️](https://read.readwise.io/read/01k24ymmbrnt6yesp46qed00j7)
+- "when the concept is identified with the object to such an extent that no space for ambiguity, negation and otherness remains, the image risks losing all potential for political agency which depends on the possibility of a multitude of interpretations, ambiguities and differences (Drucker 141-145). When materiality is evacuated from the image it becomes hostage to positivist interpretations that maintain complete identity between the image and its referent."  [⤴️](https://read.readwise.io/read/01k24yn51zwq2kgsbrbsh372qa)
+- "a widespread insistence on calling the web rational, citing its origin in military industrial complex"  [⤴️](https://read.readwise.io/read/01k24ynxg9mpan5hjtc0jyzxex)
+- "an irrational extension of a society that insists on calling itself rational."  [⤴️](https://read.readwise.io/read/01k24yp49y5pdqzg2zfmny9vxx)
+- "As the digital image traverses the network it brings forth new opportunities for classification, new assemblages, new aggregations. The digital-born image is never singular, it appears in series, repetitions, sequences, rapid volleys (Lister et al. 105-158)."  [⤴️](https://read.readwise.io/read/01k24yq0ktnkvwd2sd00j3pkhc)
+- "topologies between images 2"  [⤴️](https://read.readwise.io/read/01k24yqjv6dgd9przy19kwwc32)
+- "the simple act of tagging an image 'cat' immediately connects the image (whether it depicts a cat, dog or fish) with 100,000 other photos of images deemed to have a relationship to the term 'cat',"  [⤴️](https://read.readwise.io/read/01k24yr0sehyeqpbzdndwzywda)
+ - this is important - both parties should agree that A's 'cat' and B's 'cat' are identical, or even adjacent, to be framed as such - language is so variable and no tagging system takes this into account - defining the thing in relation to other things - think of wikipedia's disambiguation page, this is a better way to do it surely (and the most intersubjective is highlighted above edge cases? but also highlighted options should be those that correspond with your network and your specific topic/task so context determines the most likely 'cat' without it being an impenetrable algorithm recommendation as it would evidence similarities and pathways and trusted figures and contradictions - but also is this too deterministic in guiding people down dangerous pathways? maybe not if you always also see the pervading view of it highlighted?)
+
+- "there is no static viewpoint, no distinct separation between spectatorship and authorship, but an array of temporary constellations of images which are activated by users. The presentation of images from the underlying database is dependent on the sensitivity of the image to the search query, associated metadata and specific parameters coded into the interface 3 ."  [⤴️](https://read.readwise.io/read/01k24z15cqs359n55x8bryv5yz)
+ - but this is all non-repeatable and black box and commercially focused rather than based on social ties and explicit chosen connections, what if recommendation reasons are visible, (as in if you liked this you might like this) so metadata elements are fixable
+
+- "A networked image is both instantaneous in the sense that it can move across the Internet close to the speed of light and multiple in the sense that it can bifurcate into any number of copies."  [⤴️](https://read.readwise.io/read/01k24z582b6s1mc385vhkdh4m5)
+- "repetition, seriality and divergent parallel narratives take precedence over signification and representation."  [⤴️](https://read.readwise.io/read/01k24z5mgty3nx3wbxk559fe78)
+ - threads, nonpriorities
+
+- "This destabilisation of photographic meaning is the direct result of the image being detached from its teleological origins."  [⤴️](https://read.readwise.io/read/01k24z6d5459dxwagd4ryp1grd)
+ - 'in terms of the purpose they serve rather than of the cause by which they arise'
+
+- "the object is being sublated by the action of light and transformed by the photographic process that negates the object and preserves it at the same time (Osborne 61-70)."  [⤴️](https://read.readwise.io/read/01k24z846nssmez88ya3sf5x3z)
+- "Metadata can be noisy, contaminated, irregular. It can contain misspellings, inarticulate muttering, static noise and a little bit of chaos (Lingis 95-113)."  [⤴️](https://read.readwise.io/read/01k24z8sv555xpz47j58s0hp17)
+- "an expression of the possibility of variation and difference that happens through repetition."  [⤴️](https://read.readwise.io/read/01k24z9hh859tqgg54axa0gsq0)
+- "the difference between each one is not "analytically decomposable", it is not representable in any other way than as the tension, or the noise between the images (Lingis 108). 4 Rather then considering this image as 40 multiple imperfect copies of a master-original, the logic of the network suggests that this is an image of difference itself glimpsed through the repetition of disparate image fragments. The difference that arose out of repetition in this example is the result of an interaction between images that does not depend on any underlying representation or 'ground'."  [⤴️](https://read.readwise.io/read/01k24zabm27mkvsg2c82b32z5k)
+ - no digital image of a physical object can be considered the original - maybe also tbh even for digital objects too due to how files are saved annd backed up and all over the place
+
+- "This multiplicity of repetitions suggests not a hierarchy of representations – with some closer to the original then the others – rather, it suggests that there are only repetitions without ground and without foundation."  [⤴️](https://read.readwise.io/read/01k24zcfhfgq8vzgwwqnszfx6q)
+- "photography is considered here as a process of differentiation which creates a visible image of the differences between images."  [⤴️](https://read.readwise.io/read/01k24zcxhv5nz88pagb5zk8grf)
+- "the emphasis shifts from considering it in visual terms towards the semantic processes valorized within computational culture."  [⤴️](https://read.readwise.io/read/01k24zdaafb9j878rp2ajy2zsc)
+- "photography as a kind of unstable surface that produces meanings not through indexicality or representation but through the aggregation and
+  topologies of data."  [⤴️](https://read.readwise.io/read/01k24zdfsg3xtmq4add8p925kp)
+- "a new set of conceptual tools is necessary. What is required is a different metaphysics of the image, not one of system, dialectics, light, vision and truth but a metaphysics that can engage with the indeterminate, fragmented, recursive and multiple image produced and sustained by the world wide web."  [⤴️](https://read.readwise.io/read/01k24ze79e7jvz2bgn8vz7r51k)
+- "Metadata releases the image from its stillness, giving it a new meaning as the shape of continuous re-invention, underpinned by endless succession of users-whobecome-authors"  [⤴️](https://read.readwise.io/read/01k24zert877z78xc6fveszs9v)
+ - users are all authors in a way, 'last modified' becoming a part of the new version even if no meaningful changes were made. accidental saving - by observing/measuring, does it change?
+
+- "it is not identity that the networked image delivers to the screen, but rather an image of the multiplicity engendered by the network."  [⤴️](https://read.readwise.io/read/01k24zh4f7wb20p1mh8qcjd95b)

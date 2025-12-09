@@ -1,0 +1,28 @@
+---
+ 
+url: http://autisticinertia.com/2022/04/why-first-come-first-served-is-not-fair/
+author:
+  - Karen L Buckle
+title: Why ‘first come first served’ is not fair
+publisher: Autistic Inertia
+kind: articles
+published_date: 2022-04-06
+peer:
+  - "[[autism]]"
+  - "[[casual discrimination]]"
+  - "[[exclusionary design]]"
+  - "[[fairness]]"
+  - "[[accessibility|accessibility]]"
+status: ARCHIVED
+---
+- "There is an underlying assumption that those who care the most will respond the fastest."  [⤴️](https://read.readwise.io/read/01jbm5ah7g1sxys54jw1hp970g)
+- "favours those who have time, money, freedom and independence."  [⤴️](https://read.readwise.io/read/01jbm5ahb0sgg2bjarhey0tffg)
+- "We are seldom the quickest to respond. I need support workers to help with understanding letters, making decisions, organising my calendar and completing paperwork like application forms."  [⤴️](https://read.readwise.io/read/01jbm5ahdg3sdbc8zyvfdnctda)
+- "Even if I am able to respond, I often don’t see the opportunity before it is gone."  [⤴️](https://read.readwise.io/read/01jbm5ahfyg8ck78vxpvmf0tqj)
+- "Anything that systematically disadvantages the same people is, by definition, not fair. Most importantly, using the same system all the time persistently and systematically favours the same people for opportunities every time."  [⤴️](https://read.readwise.io/read/01jbm5ahj9tcs1a13cnf3dxgws)
+- "Take all the submissions up to the deadline you set. On that deadline, if you are oversubscribed, randomly draw from all the applications you have."  [⤴️](https://read.readwise.io/read/01jbm5ahmgnec0qpvr43q6xx76)
+- "If it’s really important for people to know whether they have a space as soon as possible, e.g. if they have to book transport, this system can be repeated at intervals in the run-up to the event or as long as there are still opportunities available."  [⤴️](https://read.readwise.io/read/01jbm5ahq13j7js6g5w3p2zrkm)
+- "Instead of placing people on waiting lists in the order in which they applied, put everyone in a waiting pool. Whenever a place comes up, draw randomly from the waiting pool."  [⤴️](https://read.readwise.io/read/01jbm5ahsv7mhta528zkpr38cd)
+- "Sometimes it’s fair to give advantages to certain groups."  [⤴️](https://read.readwise.io/read/01jbm5ahw0sdcgn3k9gkwv2db5)
+- "when you are organising an event or opportunity, consider whether you really have to allocate all the spaces as quickly as possible, or whether it would be possible for you to set a deadline in the future and consider everyone who applies by then on an equal basis."  [⤴️](https://read.readwise.io/read/01jbm5aj0qhqz01yrqzxsyhtqa)
+

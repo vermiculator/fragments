@@ -1,0 +1,27 @@
+---
+title: interaction
+parent:
+  - "[[tech]]"
+peer:
+  - "[[usability]]"
+  - "[[accessibility|accessibility]]"
+child:
+  - "[[personal devices]]"
+  - "[[tangible interfaces]]"
+  - "[[better interfaces]]"
+  - "[[ethical smart cities]]"
+  - "[[digital twins]]"
+  - "[[analogue computing]]"
+  - "[[AR]]"
+additional themes:
+  - interreality
+  - everyday engineering
+  - IoT
+aliases:
+  - interaction design
+---
+
+- LOST NOTES
+
+- peripherals for digital art 
+- digital art programs are annoying to use because the peripherals don't match the flexibility of interfaces and tools and outputs so controllers for digital arts programs is a wide area of expansion in peripherals
