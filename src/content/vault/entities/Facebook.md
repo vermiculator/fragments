@@ -8,7 +8,6 @@ kind: web platform
 peer:
   - "[[misinformation and disinformation]]"
   - "[[big tech]]"
-peer:
   - "[[Twitter]]"
   - "[[Instagram]]"
 title: Facebook

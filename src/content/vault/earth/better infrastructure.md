@@ -8,8 +8,6 @@ tags:
   - energy
 peer:
   - "[[waste]]"
-peer:
-  - "[[waste]]"
   - "[[ethical smart cities]]"
   - "[[car supremacy and walkability]]"
   - "[[public transport]]"

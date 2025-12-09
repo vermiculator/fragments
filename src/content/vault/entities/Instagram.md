@@ -8,7 +8,6 @@ parent:
 peer:
   - "[[Facebook]]"
   - "[[Twitter]]"
-peer:
   - "[[unethical marketing]]"
   - "[[public reputation]]"
 ---

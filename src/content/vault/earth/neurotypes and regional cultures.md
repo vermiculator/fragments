@@ -1,13 +1,5 @@
 ---
 title: neurotypes and regional cultures
-tags:
-  - neurodivergence
-  - neurodiversity
-  - autism
-  - cultures
-  - global-perspective
-tags:
-  - maybe
 parent:
   - "[[cognitive science]]"
   - "[[socio-politics]]"

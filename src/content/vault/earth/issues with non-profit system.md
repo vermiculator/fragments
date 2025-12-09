@@ -1,28 +1,12 @@
 ---
 title: issues with non-profit system
-tags:
-  - research
-  - funding
-  - philanthropy
-  - power-balance
-  - activism
-  - mutual-aid
-  - commons
-  - knowledge-making
-  - collectives
-  - collaboration
-themes:
-  - philanthropy
-  - purpose
-tags:
-  - movement
-critical?: somewhat-important
+peer:
+  - '[[alternative systems]]'
+  - '[[how to make change]]'
+  - '[[participatory methods]]'
 ---
 
 ## Links
-- [alternative systems](alternative systems)
-- [[how to make change]]
-- [[participatory methods]]
 
 ## Notes
 - TODO
