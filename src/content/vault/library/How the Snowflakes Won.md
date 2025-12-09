@@ -4,9 +4,7 @@ author:
 title: "How the Snowflakes Won"
 short-title: "How the Snowflakes Won"
 full-title: "How the Snowflakes Won"
-summary: Tumblr was once a chaotic, influential online underground that shaped internet culture and progressive discourse.  
-Its intense community dynamics also fostered cancel culture, harassment, and clashes with trolls.  
-After mistakes like banning NSFW content and declining influence, Tumblr now survives as a quieter, nostalgic space with uncertain prospects.
+summary: "Tumblr was once a chaotic, influential online underground that shaped internet culture and progressive discourse. Its intense community dynamics also fostered cancel culture, harassment, and clashes with trolls. After mistakes like banning NSFW content and declining influence, Tumblr now survives as a quieter, nostalgic space with uncertain prospects."
 kind: articles
 url: https://web.archive.org/web/20220201201355/https://www.theatlantic.com/technology/archive/2022/02/tumblr-internet-legacy-survival/621419/
 published_date: 2022-02-01

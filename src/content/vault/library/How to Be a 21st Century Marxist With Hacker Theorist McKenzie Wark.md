@@ -1,12 +1,10 @@
 ---
-author: 
+author:
  - SSENSE
 title: "How to Be a 21st Century Marxist With Hacker Theorist McKenzie Wark"
 short-title: "How to Be a 21st Century Marxist With Hacker Theorist McKenzie Wark"
 full-title: "How to Be a 21st Century Marxist With Hacker Theorist McKenzie Wark"
-summary: Platforms turn our attention and information into profit and surveillance.  
-McKenzie Wark calls the new ruling group the "vectorialist" or "hacker" class that controls information and shapes exploitation.  
-She urges new language and practical solidarity to rethink class and build alternative futures.
+summary: "Platforms turn our attention and information into profit and surveillance. McKenzie Wark calls the new ruling group the "vectorialist" or "hacker" class that controls information and shapes exploitation. She urges new language and practical solidarity to rethink class and build alternative futures."
 kind: articles
 url: https://www.ssense.com/en-us/editorial/culture/how-to-be-a-21st-century-marxist-with-hacker-theorist-mckenzie-wark
 published_date: 2020-02-06
