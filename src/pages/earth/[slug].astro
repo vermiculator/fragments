@@ -1,24 +1,24 @@
 ---
 import { getCollection } from 'astro:content';
-
-export async function getStaticPaths() {
-  const entries = await getCollection('earth');
-  return entries.map(entry => ({
-    params: { slug: entry.id },
-    props: { entry },
-  }));
-}
+import Layout from '../../components/Layout.astro';
 
 interface Props {
-  entry: any;
+  slug: string;
 }
 
-const { entry } = Astro.props;
+const { slug } = Astro.params;
+
+// Get the entry for this slug
+const allEntries = await getCollection('earth');
+const entry = allEntries.find(e => e.id === slug);
+
+if (!entry) {
+  return Astro.redirect('/404');
+}
+
 const { Content } = await entry.render();
 ---
 
 <Layout title={entry.data.title}>
   <Content />
 </Layout>
-
-import Layout from '../../components/Layout.astro';

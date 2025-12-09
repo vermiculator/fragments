@@ -1,6 +1,7 @@
-import { existsSync, mkdirSync, readdirSync, statSync, copyFileSync } from 'fs';
+import { existsSync, mkdirSync, readdirSync, statSync, copyFileSync, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { fixImagePaths } from '../loaders/imageUtils.js';
 
 function copyDir(src, dest) {
   if (!existsSync(src)) return;
@@ -15,6 +16,36 @@ function copyDir(src, dest) {
       copyFileSync(srcPath, destPath);
     }
   }
+}
+
+function processDirectory(dir) {
+  if (!existsSync(dir)) return;
+  
+  const walkDir = (currentPath) => {
+    const entries = readdirSync(currentPath, { withFileTypes: true });
+    
+    for (const entry of entries) {
+      const fullPath = path.join(currentPath, entry.name);
+      
+      if (entry.isDirectory()) {
+        walkDir(fullPath);
+      } else if (entry.isFile() && (entry.name.endsWith('.md') || entry.name.endsWith('.mdx'))) {
+        try {
+          const content = readFileSync(fullPath, 'utf-8');
+          const fixed = fixImagePaths(content);
+          
+          if (content !== fixed) {
+            writeFileSync(fullPath, fixed, 'utf-8');
+            console.log(`[fixImagePaths] Fixed: ${fullPath}`);
+          }
+        } catch (err) {
+          console.error(`[fixImagePaths] Error processing ${fullPath}: ${err.message}`);
+        }
+      }
+    }
+  };
+  
+  walkDir(dir);
 }
 
 const __filename = fileURLToPath(import.meta.url);
@@ -34,3 +65,7 @@ if (!srcDir) {
 
 const destDir = path.join(projectRoot, 'public', 'assets', 'md');
 copyDir(srcDir, destDir);
+
+// Fix image paths in generated MDX files
+const mdxDir = path.join(projectRoot, 'src', 'content', 'docs', 'mdx');
+processDirectory(mdxDir);

@@ -22,6 +22,12 @@ const baseSchema = {
 };
 
 export const collections = {
+	docs: defineCollection({
+		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/docs" }),
+		schema: z.object({
+			title: z.string(),
+		}).merge(pageSiteGraphSchema),
+	}),
 	earth: defineCollection({
 		loader: createMdxLoader("./src/content/docs/mdx/earth"),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),

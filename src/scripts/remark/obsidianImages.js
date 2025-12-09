@@ -23,10 +23,30 @@ function normalizeAssetUrl(url) {
   const normalized = url.replace(/\\/g, '/');
   // Strip any ../../.. leading segments before assets/md
   const cleaned = normalized.replace(/^(?:\.\.\/*)+/, '');
-  const m = cleaned.match(/assets\/(mdx?)\/(.*)$/);
+  
+  // First try to match assets/md or assets/mdx
+  let m = cleaned.match(/assets\/(mdx?)\/(.*)$/);
   if (m) return `/assets/md/${m[2]}`;
-  // If someone referenced just a filename under assets
-  if (/^(?:assets\/(mdx?)\/)/.test(cleaned)) return '/' + cleaned.replace('assets/mdx/', 'assets/md/');
+  
+  // Also match plain assets/ directory (without md/ subdirectory)
+  m = cleaned.match(/^assets\/(.*)$/);
+  if (m) {
+    const filename = m[1];
+    // Slugify the filename
+    const parts = filename.split('/');
+    const basename = parts.pop();
+    const [name, ...extParts] = basename.split('.');
+    const ext = extParts.length ? '.' + extParts.join('.') : '';
+    const slug = name
+      .toLowerCase()
+      .normalize('NFKD')
+      .replace(/['"`]/g, '')
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/-{2,}/g, '-')
+      .replace(/^-|-$/g, '');
+    return `/assets/md/${slug}${ext}`;
+  }
+  
   return normalized;
 }
 

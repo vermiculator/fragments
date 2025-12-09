@@ -2,19 +2,20 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../components/Layout.astro';
 
-export async function getStaticPaths() {
-  const entries = await getCollection('library');
-  return entries.map(entry => ({
-    params: { slug: entry.id },
-    props: { entry },
-  }));
-}
-
 interface Props {
-  entry: any;
+  slug: string;
 }
 
-const { entry } = Astro.props;
+const { slug } = Astro.params;
+
+// Get the entry for this slug
+const allEntries = await getCollection('library');
+const entry = allEntries.find(e => e.id === slug);
+
+if (!entry) {
+  return Astro.redirect('/404');
+}
+
 const { Content } = await entry.render();
 ---
 

@@ -22,6 +22,7 @@ export default defineConfig({
     remarkPlugins: [obsidianImages],
     // Allow MDX-style components in .md files
     gfm: true,
+    optimize: false,
   },
   // All redirects handled  // Removed dynamic redirects, now handled by middlewareje  redirects: {},
   vite: {
