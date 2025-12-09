@@ -20,11 +20,11 @@ if (!entry) {
 
 let Content;
 try {
-  const rendered = await entry.render();
+  const rendered = await (entry as any).render();
   Content = rendered.Content;
 } catch (err) {
   console.error(`[library] Error rendering ${slug}:`, err);
-  return Astro.redirect('/404');
+  return new Response(`Render error: ${err instanceof Error ? err.message : String(err)}`, { status: 500 });
 }
 ---
 
