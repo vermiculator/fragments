@@ -2,23 +2,22 @@
 import { getCollection } from 'astro:content';
 import Layout from '../../components/Layout.astro';
 
-interface Props {
-  slug: string;
-}
-
 const { slug } = Astro.params;
 
-// Get the entry for this slug
-const allEntries = await getCollection('earth');
-const entry = allEntries.find(e => e.id === slug);
-
-if (!entry) {
+if (!slug) {
   return Astro.redirect('/404');
 }
 
-const { Content } = await entry.render();
+const allEntries = await getCollection('earth');
+const entry = allEntries.find(e => e.id === slug);
+
+if (!entry || !entry.rendered) {
+  return Astro.redirect('/404');
+}
+
+const Content = entry.rendered.Content;
 ---
 
-<Layout title={entry.data.title}>
+<Layout pageTitle={entry.data.title} pageStyle="earth">
   <Content />
 </Layout>

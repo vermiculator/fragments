@@ -49,6 +49,7 @@ export function createMdxLoader(relativeBasePath) {
                 id: slug,
                 data: entryData,
                 body: fixedBody,
+                filePath: fullPath, // Add file path for Astro to locate the source
               });
             } catch (err) {
               // Log error but continue - skip malformed files
