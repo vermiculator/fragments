@@ -23,18 +23,18 @@ const baseSchema = {
 
 export const collections = {
 	earth: defineCollection({
-		loader: createMdxLoader("./src/content/vault/earth"),
+		loader: createMdxLoader("./src/content/docs/mdx/earth"),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	entities: defineCollection({
-		loader: createMdxLoader("./src/content/vault/entities"),
+		loader: createMdxLoader("./src/content/docs/mdx/entities"),
 		schema: z.object({
 			...baseSchema,
 			author: z.array(z.string()).optional(),
 		}).merge(pageSiteGraphSchema),
 	}),
 	library: defineCollection({
-		loader: createMdxLoader("./src/content/vault/library"),
+		loader: createMdxLoader("./src/content/docs/mdx/library"),
 		schema: z.object({
 			...baseSchema,
 			status: z.enum(['DORMANT', 'CURRENTLY', 'ARCHIVED']).optional(),
@@ -44,15 +44,15 @@ export const collections = {
 		}).merge(pageSiteGraphSchema),
 	}),
 	thesis: defineCollection({
-		loader: createMdxLoader("./src/content/vault/works/thesis"),
+		loader: glob({ pattern: ['*.md', '*.mdx'], base: "./src/content/vault/works/thesis" }),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	metaThesis: defineCollection({
-		loader: createMdxLoader("./src/content/vault/works/thesis/meta-thesis"),
+		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/works/thesis/meta-thesis" }),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	structural: defineCollection({
-		loader: createMdxLoader("./src/content/vault/plain/structural"),
+		loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: "./src/content/vault/plain/structural" }),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
 	}),
 	vignettes: defineCollection({
