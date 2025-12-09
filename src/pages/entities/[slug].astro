@@ -14,10 +14,18 @@ const allEntries = await getCollection('entities');
 const entry = allEntries.find(e => e.id === slug);
 
 if (!entry) {
+  console.log(`[entities] No entry found for slug: ${slug}`);
   return Astro.redirect('/404');
 }
 
-const { Content } = await entry.render();
+let Content;
+try {
+  const rendered = await entry.render();
+  Content = rendered.Content;
+} catch (err) {
+  console.error(`[entities] Error rendering ${slug}:`, err);
+  return Astro.redirect('/404');
+}
 ---
 
 <Layout pageTitle={entry.data.title} pageStyle="entities">

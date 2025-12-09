@@ -14,11 +14,19 @@ const allEntries = await getCollection('earth');
 const entry = allEntries.find(e => e.id === slug);
 
 if (!entry) {
+  console.log(`[earth] No entry found for slug: ${slug}`);
+  console.log(`[earth] Available IDs:`, allEntries.slice(0, 5).map(e => e.id));
   return Astro.redirect('/404');
 }
 
-// Glob loader provides rendered content
-const { Content } = await entry.render();
+let Content;
+try {
+  const rendered = await entry.render();
+  Content = rendered.Content;
+} catch (err) {
+  console.error(`[earth] Error rendering ${slug}:`, err);
+  return Astro.redirect('/404');
+}
 ---
 
 <Layout pageTitle={entry.data.title} pageStyle="earth">

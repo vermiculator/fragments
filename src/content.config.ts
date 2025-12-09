@@ -26,13 +26,18 @@ export const collections = {
 			pattern: ['**/*.md', '**/*.mdx'], 
 			base: "./src/content/docs/mdx/earth",
 			generateId: ({ entry, base }) => {
-				// Slugify the filename for the ID
-				const filename = entry.replace(/\.(md|mdx)$/, '');
-				return filename.toLowerCase()
+				// entry is the relative path from base, e.g., "'apolitical' masses.md"
+				// Remove extension and slugify
+				const pathWithoutExt = entry.replace(/\.(md|mdx)$/, '');
+				// Remove any directory parts (in case of subdirectories)
+				const filename = pathWithoutExt.split('/').pop() || pathWithoutExt;
+				const slug = filename.toLowerCase()
 					.replace(/[^\w\s-]/g, '')
 					.replace(/\s+/g, '-')
 					.replace(/-+/g, '-')
 					.trim();
+				console.log(`[generateId earth] ${entry} -> ${slug}`);
+				return slug;
 			}
 		}),
 		schema: z.object(baseSchema).merge(pageSiteGraphSchema),
@@ -42,7 +47,8 @@ export const collections = {
 			pattern: ['**/*.md', '**/*.mdx'], 
 			base: "./src/content/docs/mdx/entities",
 			generateId: ({ entry, base }) => {
-				const filename = entry.replace(/\.(md|mdx)$/, '');
+				const pathWithoutExt = entry.replace(/\.(md|mdx)$/, '');
+				const filename = pathWithoutExt.split('/').pop() || pathWithoutExt;
 				return filename.toLowerCase()
 					.replace(/[^\w\s-]/g, '')
 					.replace(/\s+/g, '-')
@@ -60,7 +66,8 @@ export const collections = {
 			pattern: ['**/*.md', '**/*.mdx'], 
 			base: "./src/content/docs/mdx/library",
 			generateId: ({ entry, base }) => {
-				const filename = entry.replace(/\.(md|mdx)$/, '');
+				const pathWithoutExt = entry.replace(/\.(md|mdx)$/, '');
+				const filename = pathWithoutExt.split('/').pop() || pathWithoutExt;
 				return filename.toLowerCase()
 					.replace(/[^\w\s-]/g, '')
 					.replace(/\s+/g, '-')
