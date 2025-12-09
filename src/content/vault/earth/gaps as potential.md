@@ -9,6 +9,7 @@ aliases:
   - redlinks
   - gaps
   - gap
+title: gaps as potential
 ---
 
 - eg gaps in archives, missing archives project

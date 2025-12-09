@@ -7,6 +7,7 @@ parent:
 peer:
   - "[[tactics vs strategy]]"
   - "[[tactical media]]"
+title: from mnemotechnique to mnemotechnology
 ---
 
 a technique for remembering/capturing memory/retrieving memory/storing memory will often (inevitably?) be later co-opted into a technology that takes over this role

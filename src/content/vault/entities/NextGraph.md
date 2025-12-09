@@ -7,6 +7,7 @@ peer:
   - "[[RDF]]"
   - "[[data clouds]]"
   - "[[Solid (RDF)|Solid]]"
+title: NextGraph
 ---
 "Based on [[Conflict-free replicated data types|CRDTs]], NextGraph brings about the convergence between P2P and Semantic Web, towards a secure and privacy-preserving cloud"
 

@@ -5,6 +5,7 @@ parent:
   - "[[curation]]"
   - "[[combination|assemblages]]"
   - "[[social technology|social technologies]]"
+title: curated assemblages of physical things maintain a social structure
 ---
 
 ## Mentions

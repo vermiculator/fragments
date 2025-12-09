@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[citational justice]]"
   - "[[platform infrastructures]]"
+title: finding lost source
 ---
 
 - for personal use people don't always save source metadata, depending on context this metadata isn't always necessary for instrumental usage, or visual inspirations aren't always tracked directly

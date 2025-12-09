@@ -7,6 +7,7 @@ peer:
   - "[[local politics]]"
 aliases:
   - mesopolitical
+title: mesopolitics
 ---
 
 politics at the level of not the hyperlocal or international scale but between medium-sized units if organisation such as individual communities, organisations, tribes, towns, states, etc.

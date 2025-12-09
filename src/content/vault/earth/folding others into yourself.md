@@ -4,6 +4,7 @@ parent:
   - "[[earth/perspective|perspective]]"
 peer:
   - "[[interdependent selfhood]]"
+title: folding others into yourself
 ---
 
 - forming subjecthood through others

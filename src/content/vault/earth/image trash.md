@@ -7,6 +7,7 @@ peer:
   - "[[data ethics]]"
   - "[[assemblage]]"
   - "[[born-digital content]]"
+title: image trash
 ---
 
 - digital discard

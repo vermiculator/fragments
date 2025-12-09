@@ -6,6 +6,7 @@ peer:
   - "[[anti~racism]]"
 author:
   - Resmaa Menakem
+title: My Grandmother's Hands
 ---
 
 - racialised trauma

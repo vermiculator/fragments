@@ -7,4 +7,5 @@ peer:
   - "[[cultures|sociology]]"
 child:
   - "[[autoethnography]]"
+title: ethnography
 ---

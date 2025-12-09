@@ -5,6 +5,7 @@ parent:
 peer:
   - "[[why multi-purpose information space matters]]"
   - "[[a techno-auto-archaeology of my information practises]]"
+title: why multi-modal information space matters
 ---
 
 - not always useful to search by format when following thematic/conceptual threads

@@ -6,6 +6,7 @@ peer:
   - "[[a techno-auto-archaeology of my information practises]]"
 aliases:
   - multi-purpose
+title: why multi-purpose information space matters
 ---
 
 - connecting action to earlier theory/quotes/inspiration in one space

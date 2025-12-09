@@ -6,6 +6,7 @@ parent:
 aliases:
   - para-tactics
   - parallel tactics
+title: slow tactics
 ---
 
 “inventive employment of possibilities within strategic circumstances” (Highmore, 2002, p.159)

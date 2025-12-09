@@ -2,6 +2,7 @@
 parent:
   - "[[sciences|the scientific method]]"
   - "[[frameworks]]"
+title: ImRaD
 ---
 
 Introduction, Methods, Results, and Discussion

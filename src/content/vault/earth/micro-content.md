@@ -7,4 +7,5 @@ parent:
   - "[[atomic content]]"
 peer:
   - "[[short-form video]]"
+title: micro-content
 ---

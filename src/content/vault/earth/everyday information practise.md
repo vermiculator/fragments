@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[why multi-modal information space matters]]"
   - "[[why multi-purpose information space matters]]"
+title: everyday information practise
 ---
 - why everyday information practise is important 
 - [[why multi-purpose information space matters]]

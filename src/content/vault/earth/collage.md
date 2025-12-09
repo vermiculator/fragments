@@ -12,4 +12,5 @@ aliases:
   - bricolage
   - physical remixing
   - physical assemblage
+title: collage
 ---

@@ -8,6 +8,7 @@ peer:
   - "[[web 1.0 tech is still useful]]"
   - "[[right to repair]]"
   - "[[planned obsolescence]]"
+title: retro-tech resistance
 ---
 
 - old forgotten tech as good site for resistance. 

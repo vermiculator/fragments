@@ -4,6 +4,7 @@ seeded-by:
 parent:
   - "[[war, conflict and violence]]"
   - "[[law]]"
+title: Hague Conventions
 ---
 
 - 1899 then 1907

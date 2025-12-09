@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[digital video]]"
   - "[[digital art]]"
+title: digital imaging
 ---
 
 "With a CCD sensor, the colors pop right out of the camera without excessive post-processing. With a CMOS sensor, I often find myself tweaking colors in post, trying to recapture something that a CCD sensor delivers effortlessly. The reality is that CCD sensors have all but disappeared from mainstream digital cameras. They are power-hungry, expensive to manufacture, and lack the speed that modern photographers demand. But for those of us who prioritize color over convenience, they remain irreplaceable." - [Sebastian Oakley, accessed 19/07/25](https://tech.yahoo.com/cameras/articles/forgotten-magic-ccd-sensors-why-071800795.html)

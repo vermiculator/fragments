@@ -9,6 +9,7 @@ aliases:
   - 9/11
   - jan-6
   - chatgpt release
+title: specific timestamps
 ---
 
 new placeholder to link resources on specific events/periods/moments/eras that come up often.

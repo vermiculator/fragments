@@ -1,8 +1,9 @@
 ---
 peer:
-  - "[[Black sci-fi 1]]"
+  - "[[Black sci-fi]]"
 parent:
   - "[[culture, art and media]]"
+title: Funk history
 ---
 
 Am interested in music history and how the genres I enjoy develop, ive learnt a fair amount over the years about discord/rap/punk/new wave/ska but my one true love FUNK I don't actually know much but Ive watched some of a good doc that I want to finish

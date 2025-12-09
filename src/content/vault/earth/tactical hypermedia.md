@@ -4,6 +4,7 @@ parent:
   - "[[tactical media]]"
 peer:
   - "[[fosssh]]"
+title: tactical hypermedia
 ---
 
 use of bottom-up tactics to reconstruct and rebuild hypermedia ecosystems

@@ -3,6 +3,7 @@ parent:
   - "[[old things on the internet still matter]]"
 peer:
   - "[[old web resurgence]]"
+title: web 1.0 literature is still useful
 ---
 
 useful for discussing open protocols and infrastructures, linking and tagging, etc, without focusing too closely on current big tech platforms

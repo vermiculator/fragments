@@ -5,6 +5,7 @@ parent:
 peer:
   - "[[collage|collage and bricolage]]"
   - "[[digital scrapbooking]]"
+title: data assemblages
 ---
 
 "Deleuze and Guattari’s approach to identifying and harnessing opportunities for change can be used to amplify the [[Critical Data Studies|CDS]] agenda of challenging data power asymmetries and creating more widely valued data assemblages." - [[Four Data Discourses and Assemblage Forms A Methodological Framework|(Fussell, 2022)]]

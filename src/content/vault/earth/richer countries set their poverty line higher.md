@@ -6,6 +6,7 @@ parent:
 aliases:
   - nations define poverty differently
   - poverty here =/= poverty there
+title: richer countries set their povrty line higher
 ---
 
 I lost the article and this needs citation but I read that Switzerland considers the poverty line to be equivalent to about $36 a day, and Ethiopia sets it at around $2

@@ -5,4 +5,5 @@ parent:
 peer:
   - "[[knowledge creation|knowledge production]]"
   - "[[archival justice]]"
+title: person as archive
 ---

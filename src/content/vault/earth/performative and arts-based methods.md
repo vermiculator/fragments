@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[qualitative methods]]"
   - "[[quantitative methods]]"
+title: performative and arts-based methods
 ---
 
 ## Resources

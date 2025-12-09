@@ -5,4 +5,5 @@ parent:
 peer:
   - "[[pluriversality]]"
   - "[[communal healing]]"
+title: interdependent selfhood
 ---

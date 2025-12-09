@@ -9,6 +9,7 @@ parent:
   - "[[capitalist efficiency]]"
 peer:
   - "[[issues with non-profit system]]"
+title: anti~'effective altruism'
 ---
 
 ## Resources

@@ -5,4 +5,5 @@ parent:
 peer:
   - "[[liberation]]"
   - "[[anti~racism]]"
+title: third world, developing world, global south
 ---

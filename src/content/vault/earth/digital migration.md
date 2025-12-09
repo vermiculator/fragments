@@ -6,4 +6,5 @@ peer:
 aliases:
   - digital nomads
   - digital migrations
+title: digital migration
 ---

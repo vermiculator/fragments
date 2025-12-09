@@ -4,6 +4,7 @@ aliases:
   - refind
 parent:
   - "[[search and discovery]]"
+title: refinding
 ---
 
 - [[refinding is quicker from images than text]]

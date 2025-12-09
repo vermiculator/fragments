@@ -5,4 +5,5 @@ peer:
   - "[[human relations]]"
   - "[[personal property]]"
   - "[[public property|commons]]"
+title: creatures and their objects
 ---

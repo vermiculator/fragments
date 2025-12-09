@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[personal archives]]"
+title: history of personal archiving
 ---
 
 - [[Victorian scraps]], [[scrapbooking]], albums, [[commonplace books]], photo albums, [[grangerized texts]]

@@ -5,6 +5,7 @@ peer:
   - "[[data is not neutral]]"
 instanceOf:
   - "[[neutrality and objectivity|X is not neutral]]"
+title: technology is not neutral
 ---
 
 ## Mentions

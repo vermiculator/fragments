@@ -11,6 +11,7 @@ peer:
   - "[[platforms and silos]]"
 aliases:
   - redecentralisation
+title: decentralised web
 ---
 
 - how does federation work and is/when is/isn't it desirable/viable/feasible 

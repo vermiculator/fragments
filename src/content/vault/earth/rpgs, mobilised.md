@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[culture, art and media]]"
+title: rpgd, mobilised
 ---
 
 - rpgs for education

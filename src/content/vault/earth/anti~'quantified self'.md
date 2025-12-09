@@ -12,6 +12,7 @@ peer:
 parent:
   - "[[reduction of the qualitative to the quantitative]]"
   - "[[scientific models are lossy]]"
+title: anti~'quantified-self'
 ---
 
 - lifelogging is more often passive then [[active decision-making for regaining agency under controlling structures|active]] - data/science fetishism

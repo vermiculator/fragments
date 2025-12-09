@@ -1,1 +1,5 @@
+---
+title: collective datastores in Solid
+---
+
 - people building ActivityPods agree on the need for collective, [[shared datastores as commons]] and that it is possible with Solid but there's no specification, they're working on possibly this for SAI (solid application interoperability) spec. elf Pavlik + (ActivityPods team?), have funding from NL.net to  work on it, soon this will be integrateable to my stuff?, https://activitypods.org/key-learnings-from-building-social-apps

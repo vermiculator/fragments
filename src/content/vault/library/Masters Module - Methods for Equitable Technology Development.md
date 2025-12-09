@@ -7,6 +7,7 @@ peer:
   - "[[Masters Module - Intersectional Internets]]"
   - "[[Masters Module - Design for Social Change]]"
 description: Module taught by Ceren Yuksel and Cindy Lin for the University of the Arts London Creative Computing Institute MA/MSc Modular course in Creative Computing, Data Science and Internet Equalities. I attended as part of the 2024/2025 cohort.
+title: Masters Module - Methods for Equitable Technology Development
 ---
 This page exists as an index of some topics, thoughts and pages seeded-by, relevant-to, or linked-to during my Masters study, as well as any specific resources read/referenced as part of this course.
 

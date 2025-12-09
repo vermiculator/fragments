@@ -5,4 +5,5 @@ parent:
   - "[[psychology]]"
 peer:
   - "[[anti~capitalism]]"
+title: does capitalism cause human-zoochosis
 ---

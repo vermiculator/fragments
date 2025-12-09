@@ -4,8 +4,7 @@ parent:
   - "[[abstractions, representations and visualisations]]"
 peer:
   - "[[deductive theories]]"
-tags:
-  - conceptual-theme
+title: obscuring, redaction, anonymity
 ---
 
 * ways to obscure people in photos and have them still legible, memories obscured in various ways, like in painting restoration, also for anonymised political works

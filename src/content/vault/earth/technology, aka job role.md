@@ -5,6 +5,7 @@ peer:
   - "[[worker's rights]]"
   - "[[ethical tech and tech for ethics]]"
   - "[[ethical innovation]]"
+title: technology, aka job role
 ---
 
 ## Instances

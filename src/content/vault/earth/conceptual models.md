@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[tools for thought]]"
   - "[[earth/mental models]]"
+title: conceptual models
 ---
 
 "…a high-level description of how a system is organized and operates" (Johnson and Henderson, 2002, p. 26)

@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[media archaeology]]"
+title: media anarchaeology
 ---
 
 media archaeology with an "intention to disrupt prevailing progressivist orthodoxy of media studies by allowing more anarchic and transversal exploration of different territories of media technological developments across time and space."

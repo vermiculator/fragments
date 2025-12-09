@@ -9,6 +9,7 @@ peer:
   - "[[psychology]]"
 tags:
   - conceptual-theme
+title: human scale
 ---
 
 - architectures often at monumental rather than human scale

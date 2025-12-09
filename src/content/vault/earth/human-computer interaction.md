@@ -4,4 +4,5 @@ parent:
   - "[[cultures|sociology]]"
 aliases:
   - HCI
+title: human-computer interaction
 ---

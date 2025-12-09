@@ -18,6 +18,7 @@ aliases:
   - cookies
   - GDPR
   - leave me alone
+title: involuntary data capture
 ---
 
 ## Mentions

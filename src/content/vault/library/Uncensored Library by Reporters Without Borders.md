@@ -1,4 +1,5 @@
 ---
+title: Uncensored Library by Reporters Without Borders
 peer:
   - "[[journalistic freedom]]"
   - "[[activism]]"

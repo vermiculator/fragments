@@ -1,3 +1,7 @@
+---
+title: liberating the internet
+---
+
 
 - disconnected groups
 

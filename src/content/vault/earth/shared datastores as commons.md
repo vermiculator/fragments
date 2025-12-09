@@ -7,4 +7,5 @@ peer:
   - "[[digital commons]]"
 child:
   - "[[collective datastores in Solid]]"
+title: shared datastores as commons
 ---

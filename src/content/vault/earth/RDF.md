@@ -6,6 +6,7 @@ peer:
   - "[[Web 1.0]]"
   - "[[Web 3.0]]"
   - "[[Solid (RDF)|Solid]]"
+title: RDF
 ---
 
 RDF stands for _Resource Description Framework_

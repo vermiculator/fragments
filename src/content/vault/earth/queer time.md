@@ -5,4 +5,5 @@ parent:
 peer:
   - "[[neurodivergent time]]"
   - "[[queer pasts]]"
+title: queer time
 ---

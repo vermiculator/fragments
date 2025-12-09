@@ -8,6 +8,7 @@ peer:
   - "[[archival]]"
   - "[[humans form understanding through narrative]]"
   - "[[ownership]]"
+title: collection and curation
 ---
 
 collecting a mass, by certain category or by quality but mostly indiscriminately, vs curating a collection from selected sources, tying items together, forming a cohesive narrative through them

@@ -7,4 +7,5 @@ peer:
   - "[[redundancy]]"
 child:
   - "[[autistic hyperconnectivity]]"
+title: hyperconnectivity
 ---

@@ -2,6 +2,7 @@
 parent:
   - "[[creative process|art making]]"
   - "[[ethics]]"
+title: capturing human forms
 ---
 
 - the ethics of portraiture and photography and similar, in capturing and defining and solidifying a thing as changeable and fluctuating as a person

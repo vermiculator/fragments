@@ -1,4 +1,5 @@
 ---
+title: knowledge economy
 parent:
   - "[[knowledge and truth|knowledge]]"
   - "[[economics]]"

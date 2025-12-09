@@ -10,6 +10,7 @@ peer:
   - "[[hypertext]]"
 seeded-by:
   - '(Adema, 2024) - "Experimental Publishing as Collective Struggle. Providing Imaginaries for Posthumanist Knowledge Production"'
+title: experimental publishing as collective struggle
 ---
 
 - why live docs are resistive

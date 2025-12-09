@@ -7,6 +7,7 @@ parent:
 peer:
   - "[[autism]]"
   - "[[trauma]]"
+title: somatic integration
 ---
 
 - method of regulation for the mind-body

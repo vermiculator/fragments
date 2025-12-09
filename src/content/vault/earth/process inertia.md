@@ -4,6 +4,7 @@ peer:
   - "[[tech inertia]]"
   - "[[paradigmatic inertia]]"
   - "[[action inertia|autistic inertia]]"
+title: process inertia
 instanceOf:
   - "[[inertia]]"
 aliases:

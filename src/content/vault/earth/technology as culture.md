@@ -7,4 +7,5 @@ parent:
   - "[[socio-technical systems]]"
 child:
   - "[[internet as social infrastructure]]"
+title: technology as culture
 ---

@@ -12,6 +12,7 @@ peer:
   - "[[capture]]"
   - "[[memory storage]]"
   - "[[data storage]]"
+title: recording
 ---
 
 of data, of memory, of moment, of fleeting thought 

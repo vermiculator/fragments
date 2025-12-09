@@ -3,6 +3,7 @@ instanceOf:
   - "[[research methods]]"
 parent:
   - "[[qualitative methods]]"
+title: thematic analysis
 ---
 
 - frequency of pattern isn't enough, but significance to participants and topic

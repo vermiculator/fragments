@@ -5,6 +5,7 @@ parent:
 peer:
   - "[[collection]]"
   - "[[archival]]"
+title: curation
 ---
 
 - quality is in the combination and reflections - but  "many social curation tools that facilitate nothing more than collection"  [⤴️](https://read.readwise.io/read/01jy4e5eft54ehm9cavmfw9w9z)

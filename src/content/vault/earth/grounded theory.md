@@ -7,6 +7,7 @@ peer:
   - "[[pattern recognition]]"
 seeded-by:
   - "[[Masters Module - Methods for Equitable Technology Development]]"
+title: grounded theory
 ---
 
 - a family of approaches developed in sociology as a response to hypothesis-first research models - Glaser and Strauss

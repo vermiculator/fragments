@@ -10,4 +10,5 @@ peer:
 child:
   - "[[slow labour]]"
   - "[[slow internet]]"
+title: go slow
 ---

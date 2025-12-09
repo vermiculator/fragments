@@ -1,4 +1,5 @@
 ---
+title: techno-auto-archaeology
 parent:
   - "[[autoethnography]]"
   - "[[media archaeology]]"

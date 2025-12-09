@@ -7,6 +7,7 @@ peer:
   - "[[pluriversality]]"
 child:
   - "[[neoliberalism on Pinterest]]"
+title: neoliberalist realism
 ---
 ## Mentions
 - "The ‘sensible’ becomes shorthand for the **neoliberal ordering of reality** which conceals the material trouble and ‘unexists’ alternative ways to inhabit a world."  [⤴️](https://read.readwise.io/read/01k6d5m9jv2bxmzet6zr0m14zx)

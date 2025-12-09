@@ -2,6 +2,7 @@
 parent:
   - "[[hypervisibility]]"
   - "[[slow tactics]]"
+title: tactical overvisibility
 ---
 
 - "radical openness."  [⤴️](https://read.readwise.io/read/01k3r8yk28we8a3rcscwwgpqdp)

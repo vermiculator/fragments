@@ -4,4 +4,5 @@ parent:
   - "[[the present]]"
 peer:
   - "[[explain the present through the past]]"
+title: explain the past through the present
 ---

@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[ethical tech and tech for ethics]]"
+title: improve access and equity through tech
 ---
 
 * teach people how to use the tech and empower them to do so

@@ -3,6 +3,7 @@ parent:
   - "[[context]]"
 peer:
   - "[[decontextualisation as violence]]"
+title: decontextualisation as method
 ---
 
 - - the paper on pub philosophers [->](https://share.google/UBTn9RnjeMo0tEHIb)

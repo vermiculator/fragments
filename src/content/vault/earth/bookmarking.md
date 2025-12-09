@@ -5,6 +5,7 @@ peer:
   - "[[Web 1.0]]"
   - "[[hyperlinks]]"
   - "[[metadata]]"
+title: bookmarking
 ---
 
 good overview of early 2000s bookmarking literature, visual bookmarking

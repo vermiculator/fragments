@@ -5,4 +5,5 @@ peer:
   - "[[multipolarity]]"
 instanceOf:
   - "[[hegemony]]"
+title: unipolarity
 ---

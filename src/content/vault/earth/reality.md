@@ -3,6 +3,7 @@ parent:
   - "[[philosophy]]"
 peer:
   - "[[knowledge and truth|knowledge]]"
+title: reality
 ---
 
 many, multiple, intersubjective, who decides truth, which truths are socially valuable

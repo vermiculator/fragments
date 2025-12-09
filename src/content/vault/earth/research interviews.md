@@ -6,6 +6,7 @@ parent:
 peer:
   - "[[research is relational]]"
   - "[[skilled listening]]"
+title: research interviews
 ---
 
 - structuring interviews by broad to narrow topic - funnelling into sensitive or complex topics

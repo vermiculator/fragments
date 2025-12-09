@@ -15,6 +15,7 @@ child:
   - "[[participatory design and participatory research]]"
   - "[[citizen science|participatory science]]"
   - "[[democratic participation]]"
+title: participatory methods
 ---
 
 - public participation

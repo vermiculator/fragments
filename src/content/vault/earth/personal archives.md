@@ -6,4 +6,5 @@ parent:
   - "[[curation]]"
 peer:
   - "[[knowledge graphs]]"
+title: personal archives
 ---

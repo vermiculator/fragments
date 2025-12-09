@@ -1,3 +1,6 @@
+---
+title: Fully Automated Luxury Communism
+---
 
 - 'her country becoming the workshop of the world' - but robots taking her job soon? trade unionists say pay is dwindling because of cheap labour overseas and new factories in America
 - Obama ratified the right of US companies to make profits in space

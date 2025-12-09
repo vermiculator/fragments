@@ -3,6 +3,7 @@ parent:
   - "[[capture]]"
   - "[[collection]]"
   - "[[curation]]"
+title: capture reflections ongoing
 ---
 
 autoethnography, diarise everything I want to capture and maybe why, write it all down and see if its adequate..... Basically aiming for there to be nothing left that I wanted to capture and couldn't. Even note when I thought about capturing and decided my memory was the best place to keep it. And note the other places/ways I capture (screenshots on PC, screenshots on phone, photos on phone, videos on phone, sometimes audio on phone)

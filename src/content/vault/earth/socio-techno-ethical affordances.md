@@ -11,6 +11,7 @@ peer:
   - "[[platforms for democracy]]"
   - "[[internet|web]]"
   - "[[Web 2.0]]"
+title: socio-techno-ethical affordances
 ---
 
 - the affordances of a platform in the sort of usage and interactions users have on it according to its technical setup - from sociological and ethical standpoints

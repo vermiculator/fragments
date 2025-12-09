@@ -3,6 +3,7 @@ instanceOf:
   - "[[qualitative methods]]"
 aliases:
   - IPA
+title: interpretative phenomenological analysis
 ---
 
 - no fixed set of techniques, a theoretical stance

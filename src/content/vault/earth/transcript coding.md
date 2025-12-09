@@ -5,6 +5,7 @@ parent:
   - "[[qualitative methods]]"
 child:
   - "[[in vivo coding]]"
+title: transcript coding
 ---
 
 - going from rich conversational human data into structured data for analysis

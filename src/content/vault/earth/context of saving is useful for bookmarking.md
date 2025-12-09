@@ -3,6 +3,7 @@ parent:
   - "[[context]]"
   - "[[contextualised over decontextualised fragments]]"
   - "[[original context helps in refinding]]"
+title: context of saving is useful for bookmarking
 ---
 
 ## Resources

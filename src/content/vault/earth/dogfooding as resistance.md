@@ -6,6 +6,7 @@ parent:
   - "[[activism|resistance]]"
 peer:
   - "[[dogfooding is laborious and risky]]"
+title: dogfooding as resistance
 ---
 
 

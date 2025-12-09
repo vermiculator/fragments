@@ -6,6 +6,7 @@ parent:
   - "[[tech]]"
 child:
   - "[[ethical smart cities]]"
+title: ubiquitous computing
 ---
 
 - "Marc Weiser, the declared father of ubiquitous computing"  [⤴️](https://read.readwise.io/read/01k0y4whg8nd60qej9gz88crzn)

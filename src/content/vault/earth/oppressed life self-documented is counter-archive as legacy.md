@@ -11,6 +11,7 @@ peer:
 aliases:
   - marginalised life self-documented is counter-archive as legacy
   - legacy of single perspective
+title: oppressed life self-documented is counter-archive as legacy
 ---
 
 - the legacy of a single perspective

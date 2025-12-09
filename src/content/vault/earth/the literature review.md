@@ -3,6 +3,7 @@ parent:
   - "[[research and academia]]"
 peer:
   - "[[earth/research methods|research methods]]"
+title: the literature review
 ---
 
 ### advice

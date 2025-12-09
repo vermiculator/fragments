@@ -1,3 +1,7 @@
+---
+title: pondweed
+---
+
 a list of things I decided at some time or another aren't currently crucial for me to understand but would be potentially interesting to explore later. may fluctuate significantly as things become relevant or I lose interest.
 
 ---

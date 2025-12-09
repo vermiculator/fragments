@@ -5,6 +5,7 @@ parent:
   - "[[earth/research methods|research methods]]"
 peer:
   - "[[symbiosis of theory and practise]]"
+title: practise-led vs practise-based research
 aliases:
   - practise-led research
   - practise-based research

@@ -5,6 +5,7 @@ peer:
   - "[[activism]]"
   - "[[communal healing]]"
   - "[[care]]"
+title: skilled listening
 ---
 
 - listening as feeling what they said to be true 

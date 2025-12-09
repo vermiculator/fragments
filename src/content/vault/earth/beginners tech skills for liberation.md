@@ -3,6 +3,7 @@ parent:
   - "[[adult education]]"
   - "[[children's rights]]"
   - "[[tech]]"
+title: beginners tech skills for liberation
 ---
 
 coding for kids often perfunctory or fun-focused or learning other skills through coding

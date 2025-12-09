@@ -5,4 +5,5 @@ peer:
   - "[[accessibility]]"
 aliases:
   - methods of alternative communication
+title: alternative communication
 ---

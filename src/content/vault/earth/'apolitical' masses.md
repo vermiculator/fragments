@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[activism]]"
   - "[[how to make change]]"
+title: "'apolitical' masses"
 ---
 
 - nobody is outside of politics

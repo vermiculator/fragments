@@ -6,6 +6,7 @@ peer:
   - "[[indigenous perspectives]]"
   - "[[knowledge lineage]]"
   - "[[ethics of care]]"
+title: research is relational
 ---
 
 - building trust between researchers and others involved is essential to the process

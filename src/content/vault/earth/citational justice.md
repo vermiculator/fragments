@@ -5,6 +5,7 @@ peer:
   - "[[knowledge lineage]]"
 seeded-by:
   - "[[Masters Module - Methods for Equitable Technology Development]]"
+title: citational justice
 ---
 
 - visibility hierarchies in citation

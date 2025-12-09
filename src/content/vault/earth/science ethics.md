@@ -5,4 +5,5 @@ parent:
 peer:
   - "[[research ethics]]"
   - "[[ethical innovation]]"
+title: science ethics
 ---

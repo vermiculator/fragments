@@ -7,4 +7,5 @@ peer:
   - "[[personomies]]"
   - "[[shared models]]"
   - "[[intersubjectivity]]"
+title: folksonomies
 ---

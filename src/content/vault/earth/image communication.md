@@ -12,4 +12,5 @@ peer:
   - "[[Snapchat]]"
 child:
   - "[[gif communication]]"
+title: image communication
 ---

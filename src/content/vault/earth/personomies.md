@@ -6,4 +6,5 @@ parent:
   - "[[earth/mental models]]"
 peer:
   - "[[folksonomies]]"
+title: personomies
 ---

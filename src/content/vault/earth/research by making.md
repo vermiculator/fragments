@@ -5,6 +5,7 @@ peer:
   - "[[iterative design]]"
   - "[[creative process]]"
   - "[[prototyping]]"
+title: research by making
 seeded-by:
   - "[[Masters Module - Creative Making - Advanced Computational Creativity and Responsive Environments]]"
 ---

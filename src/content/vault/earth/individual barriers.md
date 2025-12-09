@@ -6,6 +6,7 @@ parent:
 peer:
   - "[[dignity]]"
   - "[[intersectionality]]"
+title: individual barriers
 ---
 
 barriers faced by an individual due to a combination of their own circumstance and propensities as well as the combination of systemic issues that affect them uniquely

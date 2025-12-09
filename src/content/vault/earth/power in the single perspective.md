@@ -4,6 +4,7 @@ aliases:
 parent:
   - "[[intersubjectivity]]"
   - "[[positionality]]"
+title: tumpower in the single perspective
 ---
 
  "What also appears to be of crucial importance in the [[para-archival practise|para-archive]] is the singular perspective and specific standpoint from which it is formed."  [[library/Para-Archives - Rethinking Personal Archiving Practices in the Times of Capture Culture#^f59257|(Smolicki, 2017)]]

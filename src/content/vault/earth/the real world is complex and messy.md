@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[neutrality and objectivity]]"
   - "[[intersubjectivity]]"
+title: the real world is complex and messy
 ---
 
 - on encouragement to 'distance' from research 

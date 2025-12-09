@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[gaps as potential|lacuna]]"
   - "[[data loss]]"
+title: partial data can still be useful
 ---
 
 - quality data that well represents [[intersubjectivity|intersubjective]] knowledges/truths as truthy as is achievable/respects an individual's [[life as lived]] and is building towards functionally useful aims

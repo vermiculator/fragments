@@ -6,6 +6,7 @@ peer:
   - "[[slow tactics]]"
   - "[[counter-strategy]]"
   - "[[alternative systems]]"
+title: tactical resistance
 ---
 
 ## Mentions

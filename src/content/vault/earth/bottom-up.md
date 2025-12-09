@@ -5,4 +5,5 @@ peer:
   - "[[inductive patterns|induction]]"
 child:
   - "[[bottom up top down convergence]]"
+title: bottom-up
 ---

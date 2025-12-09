@@ -5,6 +5,7 @@ parent:
   - "[[tactical overvisibility]]"
 peer:
   - "[[data poisoning]]"
+title: data obfuscation
 ---
 
 - "**data obfuscation** might be approached as an example of such a revised tactical response. These practices aim to regain control over one’s personal data,"  [⤴️](https://read.readwise.io/read/01k3r7y4m671b3pkfq61wp78em)

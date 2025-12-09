@@ -6,4 +6,5 @@ instanceOf:
 peer:
   - "[[paradigmatic inertia]]"
   - "[[process inertia]]"
+title: tech inertia
 ---

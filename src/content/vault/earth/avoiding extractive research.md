@@ -5,6 +5,7 @@ parent:
 peer:
   - "[[ethics of care]]"
   - "[[data extractivism]]"
+title: avoiding extractive research
 ---
 
 - can't assume this knowledge is yours to access / share / represent

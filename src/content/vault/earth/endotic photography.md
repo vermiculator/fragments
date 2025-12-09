@@ -10,6 +10,7 @@ peer:
 aliases:
   - everyday photography
   - amateur photography
+title: endotic photography
 ---
 
 ## Mentions

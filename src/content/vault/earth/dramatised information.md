@@ -4,4 +4,5 @@ peer:
 parent:
   - "[[data and information processing]]"
   - "[[scientific communication]]"
+title: dramatised information
 ---

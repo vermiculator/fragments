@@ -3,6 +3,7 @@ parent:
   - "[[Masters in public]]"
 peer:
   - "[[more on physical scrapbooking]]"
+title: on digital text and digital scrapbooks
 ---
 
 - on living documents etc, [[quickref#^86a1c2]] and [[quickref#^e9778d]], reexplore and combine for insights on features

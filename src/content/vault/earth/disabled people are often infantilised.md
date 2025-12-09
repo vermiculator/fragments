@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[disability liberation]]"
+title: disabled people are often infantilised
 ---
 
 - disabled adults have their own moral codes, the same rights as non-disabled adults and the same action-consequence dilemmas

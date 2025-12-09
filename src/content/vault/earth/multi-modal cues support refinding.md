@@ -7,6 +7,7 @@ peer:
   - "[[refinding is quicker from images than text]]"
   - "[[search and discovery]]"
   - "[[reconstructing context]]"
+title: multi-modal cues support refinding
 ---
 
 "multimodal—visual and textual—data helped them recall past computer activities and reconstruct working contexts efficiently." (Hu and Lee, 2022)

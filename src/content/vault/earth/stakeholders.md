@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[power and domination]]"
   - "[[participatory methods]]"
+title: stakeholders
 ---
 
 those directly and indirectly involved

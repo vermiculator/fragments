@@ -7,6 +7,7 @@ aliases:
   - X is not neutral
 peer:
   - "[[rationality]]"
+title: neutrality and objectivity
 ---
 
 Academic research, scientific knowledge, institutional claims, constructed technologies and theories are not neutral expressions of an objective truth.

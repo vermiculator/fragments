@@ -6,6 +6,7 @@ parent:
 peer:
   - "[[discoverability]]"
   - "[[earth/memory|memory]]"
+title: original context helps in refinding
 ---
 
 - bookmarks, previously visited web content

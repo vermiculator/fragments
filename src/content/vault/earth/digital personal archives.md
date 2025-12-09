@@ -6,4 +6,5 @@ peer:
   - "[[history of personal archiving]]"
   - "[[internet|web]]"
   - "[[knowledge stores]]"
+title: digital personal archives
 ---

@@ -4,6 +4,7 @@ parent:
   - "[[de~colonialism|colonialism]]"
 peer:
   - "[[ethics of care]]"
+title: decolonising research
 ---
 
 - research has been (and is) used as a colonial act

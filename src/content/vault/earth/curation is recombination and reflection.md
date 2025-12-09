@@ -4,6 +4,7 @@ parent:
   - "[[recombination]]"
 peer:
   - "[[collection]]"
+title: curation is recombination and reflection
 ---
 
 else it is actually [[collection]], an adjacent but distinct concept

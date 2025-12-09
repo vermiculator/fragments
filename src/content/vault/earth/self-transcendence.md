@@ -6,6 +6,7 @@ peer:
   - "[[communal living]]"
   - "[[solidarity]]"
   - "[[radical empathy]]"
+title: self-transcendence
 ---
 
 ## Mentions

@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[unipolarity]]"
   - "[[pluriversality]]"
+title: multi-polarity
 ---
 
 ## Resources

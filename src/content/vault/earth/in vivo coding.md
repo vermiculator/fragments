@@ -3,6 +3,7 @@ instanceOf:
   - "[[earth/research methods]]"
 parent:
   - "[[transcript coding]]"
+title: in vivo coding
 ---
 
 - use participants' own words and phrases in open coding

@@ -8,6 +8,7 @@ critiques-or-extends:
   - "[[issue-specific politics]]"
 child:
   - "[[slow tactics]]"
+title: slow resistance
 ---
 
 - **becoming** rather than **doing** resistance

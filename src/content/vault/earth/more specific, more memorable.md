@@ -4,6 +4,7 @@ parent:
   - "[[memory]]"
 peer:
   - "[[contextual, relational and situational]]"
+title: more specific, more memorable
 ---
 
 ## Mentions

@@ -6,6 +6,7 @@ peer:
   - "[[twin logics of immediacy and hypermediacy|hypermediation]]"
 aliases:
   - slow web
+title: slow internet
 ---
 
 attention economy, internet bloat, patience, slowing down, resisting big tech control of attention and hyperproductivity, deliberate and thoughtful 

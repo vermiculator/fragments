@@ -11,6 +11,7 @@ peer:
   - "[[problems with proprietary]]"
   - "[[atomic content]]"
   - "[[why multi-modal information space matters]]"
+title: tumblr
 ---
 - governance
 	- changing hands and platform changes

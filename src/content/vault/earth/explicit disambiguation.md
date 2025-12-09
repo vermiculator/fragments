@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[polysemy]]"
   - "[[obscuring, redaction, anonymity]]"
+title: explicit disambiguation
 ---
 
 eg on wikipedia, redirect to a disambiguation to make sure you're accessing the right nuance of information. also a pattern i use here on occasion

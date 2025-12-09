@@ -8,6 +8,7 @@ peer:
   - "[[interspecies relations]]"
 seeded-by:
   - "[[Masters Module - Methods for Equitable Technology Development]]"
+title: new materialist methods
 ---
 
 - matter as agent

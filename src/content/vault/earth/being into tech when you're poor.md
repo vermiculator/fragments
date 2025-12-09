@@ -5,6 +5,7 @@ parent:
 peer:
   - "[[low-power tech]]"
   - "[[low tech]]"
+title: being into tech when you're poor
 ---
 
 * other people can afford to upgrade tech and buy new things to experiment with
@@ -12,3 +13,4 @@ peer:
 * and v annoying where you need the functionality of niche tech to actually make life simpler, less tech cruft, etc, accessibility tech etc, and then these niche products are more expensive/proprietary/hard to fix
 * more ingenuity needed to fit your life into smaller storage space and lower computational power
 * once again the mental load of being poor, the logistics
+* forced into weirder, more accessible and avaliable and resistive and low-tech forms of tech work

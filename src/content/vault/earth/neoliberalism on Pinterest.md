@@ -6,5 +6,6 @@ peer:
 parent:
   - "[[neoliberalism]]"
   - "[[Pinterest]]"
+title: neoliberalism on Pinterest
 ---
 there's discussion of feminism/activism on Pinterest in scholarship but more from identity-politics/issue-specific perspectives as opposed to collectivism and wider liberation and anti-capitalism

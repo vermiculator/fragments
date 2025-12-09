@@ -5,4 +5,5 @@ parent:
 peer:
   - "[[knowledge systems]]"
   - "[[pluriversality]]"
+title: university elitism
 ---

@@ -6,6 +6,7 @@ peer:
   - "[[healthcare]]"
 aliases:
   - care as a method
+title: ethics of care
 ---
 
 - rooted in feminist and relational ethics

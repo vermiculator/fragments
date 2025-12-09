@@ -5,6 +5,7 @@ parent:
   - "[[Masters in public]]"
 peer:
   - "[[hashtag ethnography]]"
+title: multiplicitous counter-publics
 ---
 
 - eg - one term used in multiple ways, which may or may not be compatible, forming communities surrounding different understandings of the term

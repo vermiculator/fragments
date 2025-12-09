@@ -6,4 +6,5 @@ parent:
   - "[[techno-politics]]"
 peer:
   - "[[web infrastructure]]"
+title: platform infrastructures
 ---

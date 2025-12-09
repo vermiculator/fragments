@@ -4,4 +4,5 @@ parent:
 peer:
   - "[[collaborative knowledge]]"
   - "[[the concept of a book]]"
+title: assemblage
 ---

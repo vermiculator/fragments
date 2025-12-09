@@ -6,6 +6,7 @@ parent:
 peer:
   - "[[platforms and silos|platform power]]"
   - "[[memex]]"
+title: its a good thing you can't Google your memories
 ---
 
 and, increasingly, you kinda CAN Google your memories. This is not desirable for numerous [[data privacy]] reasons already without engaging in any more specific niches of [[philosophy]] or [[techno-politics]]

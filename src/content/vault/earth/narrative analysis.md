@@ -5,6 +5,7 @@ parent:
   - "[[qualitative methods]]"
 peer:
   - "[[research interviews]]"
+title: narrative analysis
 ---
 
 - not fragmented selves

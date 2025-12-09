@@ -4,6 +4,7 @@ parent:
 peer:
   - "[[earth/research methods|research methods]]"
   - "[[research ethics]]"
+title: research planning
 ---
 
 - methodology is the overall approach, why and how

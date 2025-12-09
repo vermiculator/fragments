@@ -6,4 +6,5 @@ parent:
   - "[[the human condition]]"
 peer:
   - "[[hyperindividuality]]"
+title: selfhood
 ---

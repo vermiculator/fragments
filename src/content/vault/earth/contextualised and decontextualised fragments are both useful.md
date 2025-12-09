@@ -7,6 +7,7 @@ child:
   - "[[benefits of decontextualised fragments]]"
   - "[[problems of decontextualised fragments]]"
   - "[[digital metadata often inadequate]]"
+title: contextualised and decontextualised fragments are both useful
 ---
 
 - saving context with content is often neglected

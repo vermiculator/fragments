@@ -10,6 +10,7 @@ peer:
   - "[[play]]"
   - "[[spatial design is political]]"
   - "[[spatial design]]"
+title: movement is exercise
 ---
 
 - destigmatising exercise

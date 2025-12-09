@@ -7,6 +7,7 @@ peer:
   - "[[RDF]]"
 aliases:
   - Solid
+title: Solid (RDF)
 ---
 
 ## disambiguation

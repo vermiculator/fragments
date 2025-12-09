@@ -7,6 +7,7 @@ peer:
   - "[[explicitly political art|art activism]]"
 coined-by:
   - (Mann, 2003)
+title: sousveillance
 ---
 
 - a state/practise/artefact of subverted surveillance, bottom-up surveillance of structures by individuals

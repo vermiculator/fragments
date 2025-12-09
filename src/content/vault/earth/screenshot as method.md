@@ -4,6 +4,7 @@ parent:
   - "[[screenshots]]"
 peer:
   - "[[experimental publishing as collective struggle]]"
+title: screenshots as method
 ---
 
    - fuzzy privacy in private messaging (Ingber, 2025)

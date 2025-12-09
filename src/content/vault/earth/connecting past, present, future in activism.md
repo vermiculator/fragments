@@ -3,6 +3,7 @@ parent:
   - "[[the future]]"
   - "[[the present]]"
   - "[[history and heritage|the past]]"
+title: connecting past, present, future in activism
 ---
 
 - present through past

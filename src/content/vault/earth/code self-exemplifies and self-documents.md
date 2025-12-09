@@ -8,6 +8,7 @@ parent:
   - "[[creative-critical-code]]"
   - "[[techno-politics]]"
   - "[[hypermedia]]"
+title: code self-exemplifies and self-documents
 ---
 
 - also self-archives, eg version control

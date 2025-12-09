@@ -9,4 +9,5 @@ peer:
   - "[[communicating across boundaries]]"
   - "[[interdisciplinarity]]"
   - "[[interdisciplinary inspirations]]"
+title: cross-contextuality
 ---

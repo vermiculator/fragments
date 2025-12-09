@@ -3,6 +3,7 @@ parent:
   - "[[earth/research methods|research methods]]"
 peer:
   - "[[quantitative methods]]"
+title: qualitative methods
 ---
 
 - qualitative methods all take a semantic focus

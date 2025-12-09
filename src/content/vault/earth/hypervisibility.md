@@ -5,4 +5,5 @@ peer:
   - "[[anti~fascism]]"
 child:
   - "[[tactical overvisibility]]"
+title: hypervisibility
 ---

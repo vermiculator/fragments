@@ -8,6 +8,7 @@ peer:
   - "[[contradictory truths]]"
   - "[[intersubjectivity]]"
   - "[[narrative privilege]]"
+title: biomythography
 ---
 
 this to me can be conceptualised as a retelling of our own individual and collective pasts in a way that focuses more on the themes and the narrative as is instrumental now rather than trying to capture objective fact or even necessarily every subjective experience. Myths and legends built from real events, 'based on a true story' but 'with elements of fiction' or 'fictionalising'

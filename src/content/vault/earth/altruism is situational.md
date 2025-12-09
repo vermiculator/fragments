@@ -6,4 +6,5 @@ peer:
   - "[[trust is relational]]"
   - "[[trust is situational]]"
   - "[[mutual aid]]"
+title: altruism is situational
 ---

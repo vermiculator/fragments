@@ -9,4 +9,5 @@ aliases:
   - coming-of-age
   - growing up
   - becoming an adult
+title: ascension to adulthood
 ---

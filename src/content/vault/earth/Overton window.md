@@ -9,6 +9,7 @@ peer:
   - "[[radical politics]]"
 seeded-by:
   - "[[Life Is, at Bottom, Diversity]]"
+title: Overton window
 ---
 
 ## Mentions

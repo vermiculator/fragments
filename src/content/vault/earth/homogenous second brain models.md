@@ -6,6 +6,7 @@ parent:
   - "[[homogenity]]"
 peer:
   - "[[second brains are just as faulty as first brains (just differently so)]]"
+title: homogenous second brain models
 ---
 
 models of a second brain are based on a few common ideas rather than diverse brains with  diverse purpose/structure/usage
